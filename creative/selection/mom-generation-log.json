@@ -1,0 +1,118 @@
+{
+  "project": "Converse — Conserve What Matters",
+  "created": "2026-09-26T16:16:17.824Z",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "batch": "Mother casting — fictional supporting character",
+  "status": "completed",
+  "identityBasis": {
+    "primary": "K05 — teenage daughter, corrected retained image",
+    "secondary": "L01 — Luna, family relation context only, not replacement identity",
+    "name": "Mother / Maman — no first name assigned",
+    "fictionalAgePlan": {
+      "year1995": 16,
+      "year2026": 47
+    },
+    "familyRole": "Rafa and Elena's daughter; Luna's mother. Proposed supporting character."
+  },
+  "jobs": [
+    {
+      "code": "M01",
+      "attempt": 1,
+      "selected": true,
+      "approvalStatus": "candidate_not_team_approved",
+      "assetId": "b8637b82-556b-4067-9709-2044c958c6ab",
+      "arcadsPath": "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "resolution": "2K",
+      "prompt": "Create a photorealistic professional film casting reference sheet, a 16:9 three-panel studio triptych on warm grey seamless background, realistic contemporary photographic lighting, natural pores, no glamour retouch. PRIMARY IDENTITY REFERENCE image 1: the fictional teenage daughter seated on the LEFT in denim in the family-room photograph. She is the mother character as a teenager in 1995. Age THAT exact daughter into a believable 47-year-old woman in 2026, preserving her face shape, gently arched brows, dark brown eyes, distinct nose, rounded cheeks and curly dark hair. Naturally matured features, subtle crow's feet, small smile lines, discreet grey strands at temples; shoulder-length loose dark curls. She must look 47, not 20, not elderly. SECOND reference image is Luna, her daughter, and is ONLY secondary context for family relation; DO NOT reproduce Luna's face, ponytail, teenage proportions, or costume. This new mother is a DISTINCT adult woman, derived from the denim girl in reference1. Wardrobe: plain muted navy blouse, open lightweight navy cardigan, simple charcoal straight-leg trousers, plain black leather loafers, small plain silver stud earrings, no visible logos, no handbag. No Converse shoes here: the inherited pair remains with Luna. LAYOUT: left panel full-body FRONT view hands gently relaxed, center panel full-body BACK view, right panel close head-and-shoulders THREE-QUARTER portrait showing her exact same face. Show both loafers completely in full body views with comfortable space below. Three views of the SAME woman, identical wardrobe, grey background and hair across panels. Calm warmth with a little fatigue around the eyes, emotionally reserved yet loving. Editorial neutral pose, anatomically correct hands, no other people, no children, no extra limbs, no text, no labels, no borders or graphic decorations.",
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png"
+      ],
+      "persistedReferenceImages": [
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab_reference_image_0.png",
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab_reference_image_1.png"
+      ],
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedDailyLimit": true,
+      "createdAt": "2026-09-26T16:13:32.345Z",
+      "updatedAt": "2026-09-26T16:13:51.607Z",
+      "file": "creative/selection/assets/M01.png",
+      "filename": "assets/M01.png",
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "titleFr": "Maman · le lien vivant",
+      "titleEn": "Mother · the living connection",
+      "subtitleFr": "2026 · environ 47 ans · face, dos, portrait",
+      "subtitleEn": "2026 · about 47 · front, back, portrait",
+      "noteFr": "Candidate dérivée de la fille adolescente de K05. Cardigan marine, pantalon charbon et mocassins noirs ; la paire héritée reste à Luna. Petites créoles argentées à conserver si ce casting est retenu.",
+      "noteEn": "Candidate derived from the teenage daughter in K05. Navy cardigan, charcoal trousers and black loafers; the inherited pair stays with Luna. Keep the small silver hoops consistent if this casting is chosen.",
+      "qa": {
+        "reviewed": true,
+        "method": "Local image viewed at tool display resolution; visual comparison with K05 and L01",
+        "fr": "Triptyque cohérent, vraie maturation du visage, mains lisibles, pieds entièrement visibles, chaussures distinctes des Converse, aucun texte. Les clous demandés sont devenus de petites créoles argentées ; accepter ce détail et le verrouiller pour la suite. Ressemblance de fiction à valider avec l'équipe.",
+        "en": "Consistent triptych, believable facial maturation, readable hands, complete feet, footwear distinct from Converse, no lettering. Requested studs became small silver hoops; accept and lock this detail for later shots. Fictional family resemblance still needs team approval."
+      }
+    },
+    {
+      "code": "M02",
+      "attempt": 1,
+      "selected": true,
+      "approvalStatus": "candidate_not_team_approved",
+      "assetId": "62e5cb22-14fd-4266-8ddd-dd3632bc7546",
+      "arcadsPath": "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "resolution": "2K",
+      "prompt": "Create a highly photorealistic film character age-progression reference sheet, 16:9 landscape with two equal shoulder-up portrait panels, warm grey seamless studio background and identical soft photographic light, subtle natural film texture, no text. This is ONE fictional woman at two ages, precisely preserving facial identity through natural ageing. In LEFT panel show the exact fictional teenage daughter from image1 (the young woman seated on the left in a denim jacket in the family-room photo) aged16 in1995: medium brown complexion, dark brown eyes, softly rounded cheeks, gently arched brows, same nose and lips, shoulder-length loose dark curls, blue denim jacket over a plain off-white T-shirt. In RIGHT panel show that SAME woman aged47 in2026, using the adult character in image2 as exact present-day identity reference: same underlying face, naturally matured facial volumes, soft smile lines, fine crow's feet, discreet grey strands at temples, shoulder-length loose dark curls, plain muted navy blouse and navy cardigan. Preserve face shape and brow/nose relationships, do not turn her into Luna or a new actress. Both portraits face almost front, same camera height, similar size and calm restrained slight smiles so the age comparison is legible. Frame from upper chest to above head with comfortable headroom. Natural real skin, no glamour makeup, no age caricature, no shoes or additional objects, no split-age merged face: two distinct side-by-side portraits with a clean slim neutral space between. No names, labels, years, logos, watermarks, borders or lettering.",
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png"
+      ],
+      "persistedReferenceImages": [
+        "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546_reference_image_0.png",
+        "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546_reference_image_1.png"
+      ],
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedDailyLimit": true,
+      "createdAt": "2026-09-26T16:15:02.710Z",
+      "updatedAt": "2026-09-26T16:15:24.312Z",
+      "file": "creative/selection/assets/M02.png",
+      "filename": "assets/M02.png",
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "titleFr": "Maman · deux âges, un visage",
+      "titleEn": "Mother · two ages, one face",
+      "subtitleFr": "1995 → 2026 · environ 16 et 47 ans",
+      "subtitleEn": "1995 → 2026 · about 16 and 47",
+      "noteFr": "À gauche, la fille de Rafa dans K05 ; à droite, sa version adulte M01. Comparaison destinée à verrouiller le passage entre souvenir et présent. Identité proposée, à valider en équipe.",
+      "noteEn": "Left: Rafa's daughter from K05. Right: her adult M01 identity. A comparison to lock the bridge between memory and present. Proposed identity for team review.",
+      "qa": {
+        "reviewed": true,
+        "method": "Local image viewed and compared visually with K05 and M01.",
+        "fr": "Deux portraits photographiques comparables, denim et boucles cohérents avec la jeune fille de K05, version adulte cohérente avec M01, maturation naturelle et aucune chaussure ni texte. Parenté et ressemblance entre époques plausibles mais à approuver comme casting ; aucune scène animée produite.",
+        "en": "Two comparable photographic portraits, denim and curls consistent with K05's teenage daughter, adult face consistent with M01, natural ageing, no footwear or text. Family and age continuity are plausible but still require casting approval; no animated scene produced."
+      }
+    }
+  ],
+  "completedAt": "2026-09-26T16:17:12.636Z",
+  "summary": {
+    "imageGenerations": 2,
+    "retainedImages": 2,
+    "retries": 0,
+    "creditsCharged": 0,
+    "selectedMeans": "Retained generation candidate, not user/team casting approval.",
+    "qaScope": "Both generated local images viewed; references K05 and L01 viewed before generation. No video or motion generated."
+  }
+}

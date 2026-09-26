@@ -1,6 +1,6 @@
 # Planche de sélection — Converse
 
-76 références sur la planche au 26 septembre 2026 : **73 images et 3 vidéos**. Les images sont générées avec Nano Banana 2 dans Arcads ; les transitions vidéo avec Kling 3 Pro. Les 67 images des ateliers 01–05 comprennent : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
+80 références sur la planche au 26 septembre 2026 : **77 images et 3 vidéos**. Les images sont générées avec Nano Banana 2 dans Arcads ; les transitions vidéo avec Kling 3 Pro. Les 67 images des ateliers 01–05 comprennent : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
 
 ## Utilisation
 
@@ -88,9 +88,11 @@ La fiche de Luna comprend des repères d’identité, les deux tenues et une pal
 
 ## Dossier consolidé / Consolidated script
 
-Le [dossier de production bilingue](../converse-production-bible-v1.md) rassemble désormais les choix, les alternatives, un script proposé de 75 secondes et les briefs des six images clés. La [liste CSV](../converse-shot-list-v1.csv) détaille les unités d’action et leurs dépendances. Il distingue les éléments choisis des propositions et présente désormais les six images clés générées et les trois essais de transition. Le film complet reste à produire. La nouvelle référence de chaussure ancienne est enregistrée dans `references/index.json` pour sa matière et sa patine, sans remplacer automatiquement la paire noire.
+Le [découpage cinéma v2](../converse-cinematic-script-v2.md) est la proposition actuelle : 26 plans en 76 secondes, avec vocabulaire expliqué, gestes, cadrages, son et raccords détaillés. La [liste v2](../converse-shot-list-v2.csv) est la base de montage correspondante.
 
-The [bilingual production bible](../converse-production-bible-v1.md) is the current working synthesis: a proposed 75-second script, selected and open choices, six generated keyframe candidates, three transition tests, and a production sequence. The [CSV shot list](../converse-shot-list-v1.csv) makes timing and dependencies editable. The old-shoe reference is for wear and materials, not an approved product replacement.
+Le [dossier de production bilingue v1](../converse-production-bible-v1.md) conserve les choix, les alternatives, un script proposé de 75 secondes et les briefs des six images clés. La [liste CSV](../converse-shot-list-v1.csv) détaille les unités d’action et leurs dépendances. Il distingue les éléments choisis des propositions et présente désormais les six images clés générées et les trois essais de transition. Le film complet reste à produire. La nouvelle référence de chaussure ancienne est enregistrée dans `references/index.json` pour sa matière et sa patine, sans remplacer automatiquement la paire noire.
+
+The [bilingual production bible](../converse-production-bible-v1.md) preserves the earlier working synthesis: a proposed 75-second script, selected and open choices, six generated keyframe candidates, three transition tests, and a production sequence. The [CSV shot list](../converse-shot-list-v1.csv) makes timing and dependencies editable. The old-shoe reference is for wear and materials, not an approved product replacement.
 
 ## Scènes & transitions / Scenes & transitions
 
@@ -99,6 +101,14 @@ L’atelier 06 (`?category=scenes`, ou `?category=scenes&lang=en`) contient **K0
 Le montage libre est désormais confirmé pour Converse : l’équipe est exemptée de la contrainte de plan-séquence. Les six images sont des candidats réalistes, pas des références finales approuvées. Les écarts de produit, de props et de côté du geste sont indiqués sous chaque rendu. Les journaux `keyframes-luna-log.json`, `keyframes-memories-log.json` et `transition-generation-log.json` conservent les références exactes, tentatives, coûts et observations.
 
 Workshop 06 contains six first scene candidates and three playable transition tests. Free editing is confirmed for Converse. Videos can be selected and exported like images; the existing favorites storage is preserved. Image zoom navigation excludes video entries, which have native inline players. Read the [transition comparison](../converse-transition-tests-v1.md) before choosing a technique.
+
+## Grand-mère & maman / Grandma & Mom
+
+L’atelier 07 ajoute **EL01–EL02 et M01–M02**, dans « Personnages & décors », section « Grand-mère & maman ». Les portraits de 2026 et les comparaisons entre âges développent les visages déjà présents dans K04 et K05. Ces quatre références sont des propositions de casting ; elles ne remplacent aucun choix validé de Luna ou du grand-père.
+
+Le [dossier famille](../converse-family-casting-v1.md) explique la généalogie, les âges, les costumes et les intentions de jeu. Les journaux `grandma-generation-log.json` et `mom-generation-log.json` conservent les prompts, références, coûts et observations. Le [script v2](../converse-cinematic-script-v2.md) donne aux deux femmes une présence dans le présent, en complément de leurs souvenirs.
+
+Workshop 07 adds four proposed family references under **Characters & locations → Grandma & Mom**. EL01/EL02 develop Elena at 71 and 22 from K04; M01/M02 develop the mother at 47 and 16 from K05. The [family notes](../converse-family-casting-v1.md) and [cinematic script v2](../converse-cinematic-script-v2.md) explain the relationships and proposed performance.
 
 ## Après le choix
 
@@ -112,4 +122,4 @@ Ces images sont des études de casting, de patine et d’ambiance. Avant le film
 
 ## English quick start
 
-Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Scenes & transitions** for the six scene keyframes and three playable transition tests, **Characters & locations** for the 17 realistic character and location tests, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The earlier X01–X03 style switch remains a still-image study. The new TR01–TR03 clips compare realistic present-to-memory transitions; the full ad has not been assembled. The supplied screenshot and Instagram reference are saved in Pixel & hybrids. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.
+Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Scenes & transitions** for the six scene keyframes and three playable transition tests, **Characters & locations** for the character and location tests, including the four new Grandma & Mom references, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The earlier X01–X03 style switch remains a still-image study. The new TR01–TR03 clips compare realistic present-to-memory transitions; the full ad has not been assembled. The supplied screenshot and Instagram reference are saved in Pixel & hybrids. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.

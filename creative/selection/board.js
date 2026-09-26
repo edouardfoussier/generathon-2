@@ -186,7 +186,8 @@
     const groups = [
       {id:'luna', index:'A', title:'productionLuna', detail:'productionLunaDetail'},
       {id:'grandpa', index:'B', title:'productionGrandpa', detail:'productionGrandpaDetail'},
-      {id:'sets', index:'C', title:'productionSets', detail:'productionSetsDetail'}
+      {id:'family', index:'C', title:'productionFamily', detail:'productionFamilyDetail'},
+      {id:'sets', index:'D', title:'productionSets', detail:'productionSetsDetail'}
     ].filter(group => items.some(a => a.group === group.id));
     const profile = '<div class="luna-profile">' +
       ['Identity','Wardrobe','Orange'].map(part => '<div><h4>' + t('luna' + part + 'Label') +
@@ -207,6 +208,7 @@
         group.id + '">' + t(group.title) + '</h3><p>' + t(group.detail) + '</p></div></header>' +
         (group.id === 'luna' ? profile : '') + '<div class="grid production-grid">' +
         items.filter(a => a.group === group.id).map(card).join('') + '</div>' +
+        (group.id === 'family' ? '<p class="production-footnote"><a href="https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-family-casting-v1.md" target="_blank" rel="noopener noreferrer">' + t('familyGuide') + ' ↗</a></p>' : '') +
         (group.id === 'grandpa' ? '<p class="production-footnote">' + t('productionAgeNote') + '</p>' : '') + '</section>').join('') +
       '<p class="production-footnote">' + t('productionCaveat') + '</p>';
   }
@@ -215,7 +217,7 @@
     const videos = items.filter(a => a.mediaType === 'video');
     return '<div class="production-pitch"><p class="eyebrow">' + t('scenesKicker') + '</p><h3>' +
       t('scenesTitle') + '</h3><p>' + t('scenesIntro') + '</p><nav class="production-jumps"><a href="' +
-      'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-production-bible-v1.md" target="_blank" rel="noopener noreferrer">' +
+      'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-cinematic-script-v2.md" target="_blank" rel="noopener noreferrer">' +
       t('openScript') + ' ↗</a></nav></div>' +
       (frames.length ? '<section class="team-group"><header class="team-group-heading"><span class="section-index">A</span><div><h3>' +
         t('scenesFrames') + '</h3><p>' + t('scenesFramesDetail') + '</p></div></header><div class="grid">' + frames.map(card).join('') + '</div></section>' : '') +
@@ -386,14 +388,14 @@
   });
   $('download').addEventListener('click', () => {
     const data = {
-      project:t('projectName'), exploration:6, language, exportedAt:new Date().toISOString(),
+      project:t('projectName'), exploration:7, language, exportedAt:new Date().toISOString(),
       selection:assets.filter(a => selected.has(a.code)).map(a => ({
         ...a, title:field(a, 'title'), subtitle:field(a, 'subtitle'), ...(a.note ? {note:field(a, 'note')} : {})
       }))
     };
     const blob = new Blob([JSON.stringify(data, null, 2) + '\n'], {type:'application/json;charset=utf-8'});
     const url = URL.createObjectURL(blob), link = document.createElement('a');
-    link.href = url; link.download = 'converse-selection-06.json'; document.body.appendChild(link);
+    link.href = url; link.download = 'converse-selection-07.json'; document.body.appendChild(link);
     link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 1000);
     notify(t('readyToDownload'));
   });

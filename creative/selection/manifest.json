@@ -2,7 +2,7 @@
   "project": "Converse – À toi d’écrire la suite",
   "created": "2026-09-26",
   "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
-  "phase": "Exploration 06 — scene keyframes and present-to-memory video tests",
+  "phase": "Exploration 07 — Grandma and Mother casting; cinematic script v2",
   "creditsBefore": 49814,
   "jobs": [
     {
@@ -2573,6 +2573,198 @@
       "filename": "assets/TR03.mp4",
       "generationLog": "transition-generation-log.json",
       "approvalStatus": "comparison test; not final footage"
+    },
+    {
+      "code": "EL01",
+      "assetId": "2e5f99f0-b110-4641-b4d0-363d411c4f19",
+      "retryOf": "3e77bb48-07b1-447d-9f48-60a3d2bfd56e",
+      "prompt": "Edit the supplied character triptych only to make this SAME fictional woman convincingly 71 years old in 2026, rather than the younger-looking current render. Preserve her exact facial identity, nose, mouth, eyes, bone structure, body proportions, gentle expression, all three panel compositions, and plum cardigan / ivory blouse / charcoal trousers / burgundy low shoes / small gold ring. Preserve the warm grey photographic studio setup. Apply natural aging consistently in all three views: visibly deeper but ordinary forehead lines, crow's feet, under-eye texture, nasolabial folds, softened jawline, realistic fine neck lines, small age spots and age-appropriate hand skin. Change her curly shoulder-length hair to predominantly silver grey, with some dark lowlights remaining, preserving the same curl pattern and length. She is healthy and warm, a dignified ordinary 71-year-old, not frail or exaggeratedly elderly, not glamorous, no makeup retouching. Keep full body front at left, full body back at center, close-up at right; show complete shoes in both full-length views. No other changes, no added text, no jewellery additions, no props.",
+      "referenceImages": [
+        "production/videoassets/3e77bb48-07b1-447d-9f48-60a3d2bfd56e.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "nbGenerations": 1,
+      "status": "generated",
+      "filename": "assets/EL01.png",
+      "candidateApproval": false,
+      "createdAt": "2026-09-26T16:14:28.507Z",
+      "updatedAt": "2026-09-26T16:14:46.855Z",
+      "submittedAt": "2026-09-26T16:14:28.507Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+      "selected": true,
+      "titleFr": "Elena — la mémoire vivante",
+      "titleEn": "Elena — the living memory",
+      "subtitleFr": "2026 · 71 ans proposés · face, dos et portrait",
+      "subtitleEn": "2026 · proposed age 71 · front, back and portrait",
+      "noteFr": "Grand-mère dérivée du visage de K04, avec une reprise du vieillissement. Cardigan prune, cheveux poivre et sel, alliance discrète. Le vieillissement reste élégant et modéré ; casting proposé à valider en équipe.",
+      "noteEn": "Grandmother derived from K04's face, with one aging correction. Plum cardigan, salt-and-pepper hair, discreet wedding band. Aging remains graceful and moderate; proposed casting for team review.",
+      "qa": {
+        "fr": "La reprise approfondit les rides du front, le contour des yeux et les plis du cou tout en préservant le visage et le costume. Trois vues cohérentes ; chaussures complètes et deux mains lisibles. Pas de texte. Cheveux toujours largement foncés malgré la demande plus argentée, acceptable comme proposition.",
+        "en": "The correction deepens forehead lines, eye-area creases and neck folds while preserving the face and costume. Three coherent views; complete shoes and both hands visible. No text. Hair remains substantially dark despite the silver request, acceptable as a proposal."
+      },
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "inspectedVisually": true,
+      "category": "production",
+      "group": "family",
+      "mediaType": "image",
+      "title": "Elena — la mémoire vivante",
+      "subtitle": "2026 · 71 ans proposés · face, dos et portrait",
+      "note": "Grand-mère dérivée du visage de K04, avec une reprise du vieillissement. Cardigan prune, cheveux poivre et sel, alliance discrète. Le vieillissement reste élégant et modéré ; casting proposé à valider en équipe.",
+      "generationLog": "grandma-generation-log.json",
+      "approvalStatus": "proposed supporting cast; not team-approved"
+    },
+    {
+      "code": "EL02",
+      "assetId": "49bc47ca-23a9-4cf3-aaf9-a4a72deb1616",
+      "prompt": "Create a photorealistic 16:9 age-continuity casting DIPTYCH of one fictional woman, ELENA MORALES, at two ages. Source image 1 is her young identity: the woman on the RIGHT of the dance-hall scene wearing a violet dress. Source image 2 is her approved-for-this-test older identity reference sheet: the grey-haired woman wearing a plum cardigan. Use these as exact identity anchors. TWO PANELS ONLY of equal width with a narrow blank separator. LEFT: Elena at approximately 22 in 1977, dark naturally curly shoulder-length hair, same young face as the right-hand woman in source 1, violet short-sleeve dress neckline matching source 1, no jewellery apart from very small plain studs if already visible. RIGHT: the exact older face from source 2, Elena at approximately 71 in 2026, naturally salt-and-pepper/silver curly shoulder-length hair, visible realistic wrinkles and neck lines, plum cardigan over ivory blouse as source 2. Both HEAD-AND-SHOULDERS portraits at equal head size and matching front-three-quarter pose, complete top of head and both shoulders visible. Gentle closed-mouth warmth in both expressions. Keep her dark eyes, nose, lips, cheek structure and natural medium-brown skin consistent through plausible aging. Same neutral warm-grey studio backdrop, same soft photographic lighting, realistic skin and hair without airbrushing, 85 mm portrait photographic feeling. This is a professional casting continuity study, not a before/after beauty ad and not a cartoon. Do not include the man, dance hall, full bodies or additional panels. NO TEXT, no dates, no labels, no logos. The clothing and natural aging must make the two eras readable without captions.",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+        "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "nbGenerations": 1,
+      "status": "generated",
+      "filename": "assets/EL02.png",
+      "candidateApproval": false,
+      "createdAt": "2026-09-26T16:15:57.919Z",
+      "updatedAt": "2026-09-26T16:16:17.243Z",
+      "submittedAt": "2026-09-26T16:15:57.919Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png",
+      "selected": true,
+      "titleFr": "Elena — le même regard",
+      "titleEn": "Elena — the same eyes",
+      "subtitleFr": "1977 → 2026 · 22 et 71 ans proposés",
+      "subtitleEn": "1977 → 2026 · proposed ages 22 and 71",
+      "noteFr": "Pont d'âge entre la jeune femme de K04 et EL01. Même direction du regard, robe violette puis cardigan prune. Référence pour relier la scène de danse à la grand-mère d'aujourd'hui ; casting encore proposé.",
+      "noteEn": "Age bridge between K04's young woman and EL01. Matching eyeline, violet dress followed by a plum cardigan. Reference for linking the dance scene to today's grandmother; casting remains proposed.",
+      "qa": {
+        "fr": "Deux portraits cohérents, même pose et lumière, chevelure et structures du visage plausiblement raccordées. EL01 est reconnaissable à droite et la jeune Elena reprend K04. La robe violette et le cardigan prune sont conservés. Le cadrage des épaules et l'échelle des têtes sont proches, pas pixel-identiques. Aucun texte parasite.",
+        "en": "Two coherent portraits with matching pose and lighting; hair and facial structures plausibly bridge the ages. EL01 is recognizable at right and young Elena follows K04. Violet dress and plum cardigan are preserved. Shoulder crop and head scale are close, not pixel-identical. No unwanted text."
+      },
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "inspectedVisually": true,
+      "category": "production",
+      "group": "family",
+      "mediaType": "image",
+      "title": "Elena — le même regard",
+      "subtitle": "1977 → 2026 · 22 et 71 ans proposés",
+      "note": "Pont d'âge entre la jeune femme de K04 et EL01. Même direction du regard, robe violette puis cardigan prune. Référence pour relier la scène de danse à la grand-mère d'aujourd'hui ; casting encore proposé.",
+      "generationLog": "grandma-generation-log.json",
+      "approvalStatus": "proposed supporting cast; not team-approved"
+    },
+    {
+      "code": "M01",
+      "attempt": 1,
+      "selected": true,
+      "approvalStatus": "proposed supporting cast; not team-approved",
+      "assetId": "b8637b82-556b-4067-9709-2044c958c6ab",
+      "arcadsPath": "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "resolution": "2K",
+      "prompt": "Create a photorealistic professional film casting reference sheet, a 16:9 three-panel studio triptych on warm grey seamless background, realistic contemporary photographic lighting, natural pores, no glamour retouch. PRIMARY IDENTITY REFERENCE image 1: the fictional teenage daughter seated on the LEFT in denim in the family-room photograph. She is the mother character as a teenager in 1995. Age THAT exact daughter into a believable 47-year-old woman in 2026, preserving her face shape, gently arched brows, dark brown eyes, distinct nose, rounded cheeks and curly dark hair. Naturally matured features, subtle crow's feet, small smile lines, discreet grey strands at temples; shoulder-length loose dark curls. She must look 47, not 20, not elderly. SECOND reference image is Luna, her daughter, and is ONLY secondary context for family relation; DO NOT reproduce Luna's face, ponytail, teenage proportions, or costume. This new mother is a DISTINCT adult woman, derived from the denim girl in reference1. Wardrobe: plain muted navy blouse, open lightweight navy cardigan, simple charcoal straight-leg trousers, plain black leather loafers, small plain silver stud earrings, no visible logos, no handbag. No Converse shoes here: the inherited pair remains with Luna. LAYOUT: left panel full-body FRONT view hands gently relaxed, center panel full-body BACK view, right panel close head-and-shoulders THREE-QUARTER portrait showing her exact same face. Show both loafers completely in full body views with comfortable space below. Three views of the SAME woman, identical wardrobe, grey background and hair across panels. Calm warmth with a little fatigue around the eyes, emotionally reserved yet loving. Editorial neutral pose, anatomically correct hands, no other people, no children, no extra limbs, no text, no labels, no borders or graphic decorations.",
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png"
+      ],
+      "persistedReferenceImages": [
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab_reference_image_0.png",
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab_reference_image_1.png"
+      ],
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedDailyLimit": true,
+      "createdAt": "2026-09-26T16:13:32.345Z",
+      "updatedAt": "2026-09-26T16:13:51.607Z",
+      "file": "creative/selection/assets/M01.png",
+      "filename": "assets/M01.png",
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "titleFr": "Maman · le lien vivant",
+      "titleEn": "Mother · the living connection",
+      "subtitleFr": "2026 · environ 47 ans · face, dos, portrait",
+      "subtitleEn": "2026 · about 47 · front, back, portrait",
+      "noteFr": "Candidate dérivée de la fille adolescente de K05. Cardigan marine, pantalon charbon et mocassins noirs ; la paire héritée reste à Luna. Petites créoles argentées à conserver si ce casting est retenu.",
+      "noteEn": "Candidate derived from the teenage daughter in K05. Navy cardigan, charcoal trousers and black loafers; the inherited pair stays with Luna. Keep the small silver hoops consistent if this casting is chosen.",
+      "qa": {
+        "reviewed": true,
+        "method": "Local image viewed at tool display resolution; visual comparison with K05 and L01",
+        "fr": "Triptyque cohérent, vraie maturation du visage, mains lisibles, pieds entièrement visibles, chaussures distinctes des Converse, aucun texte. Les clous demandés sont devenus de petites créoles argentées ; accepter ce détail et le verrouiller pour la suite. Ressemblance de fiction à valider avec l'équipe.",
+        "en": "Consistent triptych, believable facial maturation, readable hands, complete feet, footwear distinct from Converse, no lettering. Requested studs became small silver hoops; accept and lock this detail for later shots. Fictional family resemblance still needs team approval."
+      },
+      "category": "production",
+      "group": "family",
+      "mediaType": "image",
+      "title": "Maman · le lien vivant",
+      "subtitle": "2026 · environ 47 ans · face, dos, portrait",
+      "note": "Candidate dérivée de la fille adolescente de K05. Cardigan marine, pantalon charbon et mocassins noirs ; la paire héritée reste à Luna. Petites créoles argentées à conserver si ce casting est retenu.",
+      "generationLog": "mom-generation-log.json"
+    },
+    {
+      "code": "M02",
+      "attempt": 1,
+      "selected": true,
+      "approvalStatus": "proposed supporting cast; not team-approved",
+      "assetId": "62e5cb22-14fd-4266-8ddd-dd3632bc7546",
+      "arcadsPath": "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "resolution": "2K",
+      "prompt": "Create a highly photorealistic film character age-progression reference sheet, 16:9 landscape with two equal shoulder-up portrait panels, warm grey seamless studio background and identical soft photographic light, subtle natural film texture, no text. This is ONE fictional woman at two ages, precisely preserving facial identity through natural ageing. In LEFT panel show the exact fictional teenage daughter from image1 (the young woman seated on the left in a denim jacket in the family-room photo) aged16 in1995: medium brown complexion, dark brown eyes, softly rounded cheeks, gently arched brows, same nose and lips, shoulder-length loose dark curls, blue denim jacket over a plain off-white T-shirt. In RIGHT panel show that SAME woman aged47 in2026, using the adult character in image2 as exact present-day identity reference: same underlying face, naturally matured facial volumes, soft smile lines, fine crow's feet, discreet grey strands at temples, shoulder-length loose dark curls, plain muted navy blouse and navy cardigan. Preserve face shape and brow/nose relationships, do not turn her into Luna or a new actress. Both portraits face almost front, same camera height, similar size and calm restrained slight smiles so the age comparison is legible. Frame from upper chest to above head with comfortable headroom. Natural real skin, no glamour makeup, no age caricature, no shoes or additional objects, no split-age merged face: two distinct side-by-side portraits with a clean slim neutral space between. No names, labels, years, logos, watermarks, borders or lettering.",
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png"
+      ],
+      "persistedReferenceImages": [
+        "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546_reference_image_0.png",
+        "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546_reference_image_1.png"
+      ],
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedDailyLimit": true,
+      "createdAt": "2026-09-26T16:15:02.710Z",
+      "updatedAt": "2026-09-26T16:15:24.312Z",
+      "file": "creative/selection/assets/M02.png",
+      "filename": "assets/M02.png",
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "titleFr": "Maman · deux âges, un visage",
+      "titleEn": "Mother · two ages, one face",
+      "subtitleFr": "1995 → 2026 · environ 16 et 47 ans",
+      "subtitleEn": "1995 → 2026 · about 16 and 47",
+      "noteFr": "À gauche, la fille de Rafa dans K05 ; à droite, sa version adulte M01. Comparaison destinée à verrouiller le passage entre souvenir et présent. Identité proposée, à valider en équipe.",
+      "noteEn": "Left: Rafa's daughter from K05. Right: her adult M01 identity. A comparison to lock the bridge between memory and present. Proposed identity for team review.",
+      "qa": {
+        "reviewed": true,
+        "method": "Local image viewed and compared visually with K05 and M01.",
+        "fr": "Deux portraits photographiques comparables, denim et boucles cohérents avec la jeune fille de K05, version adulte cohérente avec M01, maturation naturelle et aucune chaussure ni texte. Parenté et ressemblance entre époques plausibles mais à approuver comme casting ; aucune scène animée produite.",
+        "en": "Two comparable photographic portraits, denim and curls consistent with K05's teenage daughter, adult face consistent with M01, natural ageing, no footwear or text. Family and age continuity are plausible but still require casting approval; no animated scene produced."
+      },
+      "category": "production",
+      "group": "family",
+      "mediaType": "image",
+      "title": "Maman · deux âges, un visage",
+      "subtitle": "1995 → 2026 · environ 16 et 47 ans",
+      "note": "À gauche, la fille de Rafa dans K05 ; à droite, sa version adulte M01. Comparaison destinée à verrouiller le passage entre souvenir et présent. Identité proposée, à valider en équipe.",
+      "generationLog": "mom-generation-log.json"
     }
   ],
   "styleExploration": {
@@ -2704,6 +2896,14 @@
     }
   ],
   "latestBatchCredits": {
+    "imageGenerations": 5,
+    "videoGenerations": 0,
+    "reportedCharge": 0,
+    "creditsBefore": 48454,
+    "creditsAfter": 48454,
+    "scope": "Grandma Elena and Mother casting; four retained images and one targeted aging retry"
+  },
+  "sceneTransitionBatchCredits": {
     "imageGenerations": 11,
     "videoGenerations": 5,
     "analysisJobs": 1,
@@ -2711,5 +2911,23 @@
     "creditsBefore": 49814,
     "creditsAfter": 48454,
     "scope": "scene keyframes, two transition source plates, five video tests including two retries, and supplementary analysis"
+  },
+  "supportingFamilyExploration": {
+    "selectedCount": 4,
+    "generationCount": 5,
+    "visualRetryCount": 1,
+    "creditsChargedTotal": 0,
+    "model": "nano-banana-2",
+    "motionTested": false,
+    "allSelectedImagesVisuallyInspected": true,
+    "logs": [
+      "grandma-generation-log.json",
+      "mom-generation-log.json"
+    ],
+    "identitySources": {
+      "grandmother": "K04",
+      "mother": "K05"
+    },
+    "teamApproved": false
   }
 }

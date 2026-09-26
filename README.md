@@ -6,11 +6,11 @@ Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-
 
 **Rafa did not say much. His shoes have stories to tell.** Fifteen-year-old Luna discovers her grandfather through his worn black Converse: basketball, meeting Elena at a salsa dance, and quietly caring for his daughter. Luna carries that story forward on her skateboard.
 
-Working tagline: **“Converse. Conserve what matters.”** The consolidated script now proposes a **75-second photographic version**, opening in the attic and moving through three memories. Pixel art, clay, illustration and a photographic-to-animated transition remain archived alternatives. **Current choices:** Luna’s existing face, G01 for the grandfather, D06 for the attic, and photographic realism for the current tests. The younger grandfather, orange costume alternative, final story and six final key images remain open.
+Working tagline: **“Converse. Conserve what matters.”** The latest [cinematic script v2](creative/converse-cinematic-script-v2.md) proposes a **76-second photographic version with 26 editorial shots**, opening in the attic, moving through three memories, and reconnecting Luna with her mother and grandmother in the present. Pixel art, clay, illustration and a photographic-to-animated transition remain archived alternatives. **Current choices:** Luna’s existing face, G01 for the grandfather, D06 for the attic, and photographic realism for the current tests. The younger grandfather, orange costume alternative, final story and six final key images remain open.
 
 Deliverables from the supplied brief:
 
-- Main ad: **80 seconds maximum**; the consolidated story proposal targets 75 seconds including the final text.
+- Main ad: **80 seconds maximum**; the consolidated story proposal targets 76 seconds including four seconds of final text.
 - Face-camera explanation: **60 seconds maximum**, covering inspiration, concept, process, challenges, accomplishments, learning, next steps and tools.
 - **Cuts are allowed for Converse.** The user clarified that the one-shot rule applies only to teams choosing a brand outside the suggested list; this project is exempt.
 
@@ -30,7 +30,7 @@ Then open [the English board](http://127.0.0.1:8765/?lang=en). Use the **FR / EN
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 76-reference board
+## The 80-reference board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -43,13 +43,17 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | H01–H05, X01–X03 | 8 | Pixels, clay, mixed materials and three stills for a proposed style transition |
 | L01–L05, G11–G15, R01–R07 | 17 | Realistic Luna character sheets, grandfather development from G01, and scene locations from D06 |
 | K01–K06, TR01–TR03 | 9 | Six scene keyframes and three short transition videos |
+| EL01–EL02, M01–M02 | 4 | Grandma Elena and Luna’s mother, with present-day character sheets and comparisons across ages |
 
-The latest tab is **Scenes & transitions** (`?category=scenes&lang=en`): six scene candidates followed by three playable transition comparisons. The board now contains 73 stills and three clips. **Characters & locations** (`?category=production&lang=en`) retains the character bibles and location studies. The first scenes use Luna’s original wardrobe; orange remains an alternative.
+The latest tab is **Scenes & transitions** (`?category=scenes&lang=en`): six scene candidates followed by three playable transition comparisons. The board now contains 77 stills and three clips. **Characters & locations** (`?category=production&lang=en`) includes the new Grandma & Mom group alongside character bibles and location studies. The first scenes use Luna’s original wardrobe; orange remains an alternative.
 
 ## Where to continue
 
-**Start with the [bilingual production bible and detailed 75-second script](creative/converse-production-bible-v1.md).** It consolidates selected references, open decisions, the old-shoe material study, six planned keyframe briefs and the production order. The [editable shot list](creative/converse-shot-list-v1.csv) contains 13 timed action units; these are planned beats, not submitted generation jobs.
+**Start with the [bilingual cinematic script v2](creative/converse-cinematic-script-v2.md)** and its [editable 26-shot list](creative/converse-shot-list-v2.csv). It specifies framing, movement, actor direction, sound, animated transitions and plain-language cinema vocabulary. A shorter production route reduces the shot count while preserving the 76-second story. Editorial shots are not a one-to-one count of generation jobs.
 
+The [production bible v1](creative/converse-production-bible-v1.md) and its [13-beat list](creative/converse-shot-list-v1.csv) remain the previous 75-second version and source of reference history. The new script is proposed, not automatically approved by the team. K01–K06 remain starter images and will need derived framing and updated supporting cast.
+
+- [`creative/converse-family-casting-v1.md`](creative/converse-family-casting-v1.md): Grandma Elena and Luna’s mother, chronology, acting direction and reference lineage.
 - [`creative/luna-character-bible-v1.md`](creative/luna-character-bible-v1.md): latest character references, costume options, chosen attic and continuity notes.
 - [`creative/converse-transition-tests-v1.md`](creative/converse-transition-tests-v1.md): transition comparison, observed limits, cost and concurrency notes.
 - `creative/selection/creative-choices.json`: explicit team choices, distinct from each browser’s favorites.

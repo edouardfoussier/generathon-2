@@ -63,5 +63,36 @@
     "recommendedForFurtherDevelopment": "TR02",
     "teamChoice": null,
     "fullSceneMotionValidated": false
+  },
+  "supportingFamily": {
+    "requestedByUser": true,
+    "grandmother": {
+      "name": "Elena",
+      "sourceScene": "K04",
+      "candidateCodes": [
+        "EL01",
+        "EL02"
+      ],
+      "proposedAges": {
+        "1977": 22,
+        "2026": 71
+      },
+      "identityApproved": false
+    },
+    "mother": {
+      "name": null,
+      "sourceScene": "K05",
+      "candidateCodes": [
+        "M01",
+        "M02"
+      ],
+      "proposedAges": {
+        "1995": 16,
+        "2026": 47
+      },
+      "identityApproved": false
+    },
+    "proposedScript": "../converse-cinematic-script-v2.md",
+    "scriptApproved": false
   }
 }

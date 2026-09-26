@@ -1,0 +1,128 @@
+{
+  "createdAt": "2026-09-26T16:13:06.086Z",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "purpose": "Grandma Elena: photorealistic supporting cast proposal derived from the fictional young woman in K04. Not approved final casting.",
+  "source": {
+    "localPath": "assets/K04.png",
+    "assetId": "384f373c-f6e6-49cf-93b0-d8c9fea2b530",
+    "arcadsPath": "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+    "inspection": "Source viewed before generation; young woman at right in violet dress, curly dark shoulder-length hair, medium-brown skin, burgundy low heels."
+  },
+  "jobs": [
+    {
+      "code": "EL01",
+      "assetId": "3e77bb48-07b1-447d-9f48-60a3d2bfd56e",
+      "prompt": "Create a photorealistic casting reference sheet for the fictional character ELENA MORALES, the same woman shown on the RIGHT in the supplied dance-hall reference image, naturally aged from approximately 22 in 1977 to 71 in 2026. Preserve her facial identity: same dark eyes, nose structure, full lips, rounded cheek structure, warm medium-brown skin and naturally curly hair, allowing believable facial aging and normal age-related changes. She is a specific fictional woman, not a celebrity and not a generic grandmother. Her hair is now shoulder-length salt-and-pepper naturally curly with grey concentrated at the temples, worn loose and tidy. Real skin texture, gentle crow's feet, smile lines, mild age spots, no beauty retouching. Dignified warmth, quiet and observant, slight closed-mouth smile. Create a clean 16:9 triptych character continuity board on a seamless warm-grey studio background: LEFT full body FRONT view including all shoes, CENTER full body BACK view including all shoes, RIGHT large head-and-shoulders FRONT three-quarter portrait with complete head visible. Consistent identity, age, body proportions and clothing in all three panels. Practical comfortable plum knitted cardigan open over an ivory plain cotton blouse, charcoal straight trousers, dark burgundy flat low shoes, small simple gold wedding band, no other visible jewellery, no glasses. Natural standing posture, relaxed hands. Neutral soft photographic lighting, eye-level camera, realistic casting photography rather than fashion editorial, no dramatic color gels. Full-length panels have equal human scale. Thin blank separation between panels, NO TEXT, NO LABELS, no logos, no text overlays. The supplied reference sets only the woman’s young identity; do not include the man, dance hall or inherited sneakers in this sheet. Render the present-day 71-year-old Elena exclusively.",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "nbGenerations": 1,
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:12:49.959Z",
+      "filename": "assets/archive/EL01-v1.png",
+      "candidateApproval": false,
+      "createdAt": "2026-09-26T16:12:49.959Z",
+      "updatedAt": "2026-09-26T16:13:07.985Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/3e77bb48-07b1-447d-9f48-60a3d2bfd56e.png",
+      "selected": false,
+      "qa": {
+        "fr": "Triptyque propre, tenue cohérente et ressemblance plausible avec K04, mais visage trop jeune pour les 71 ans proposés. Reprise ciblée du vieillissement.",
+        "en": "Clean triptych, consistent costume and plausible resemblance to K04, but face reads younger than proposed age 71. Targeted aging correction requested."
+      },
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "inspectedVisually": true
+    },
+    {
+      "code": "EL01",
+      "assetId": "2e5f99f0-b110-4641-b4d0-363d411c4f19",
+      "retryOf": "3e77bb48-07b1-447d-9f48-60a3d2bfd56e",
+      "prompt": "Edit the supplied character triptych only to make this SAME fictional woman convincingly 71 years old in 2026, rather than the younger-looking current render. Preserve her exact facial identity, nose, mouth, eyes, bone structure, body proportions, gentle expression, all three panel compositions, and plum cardigan / ivory blouse / charcoal trousers / burgundy low shoes / small gold ring. Preserve the warm grey photographic studio setup. Apply natural aging consistently in all three views: visibly deeper but ordinary forehead lines, crow's feet, under-eye texture, nasolabial folds, softened jawline, realistic fine neck lines, small age spots and age-appropriate hand skin. Change her curly shoulder-length hair to predominantly silver grey, with some dark lowlights remaining, preserving the same curl pattern and length. She is healthy and warm, a dignified ordinary 71-year-old, not frail or exaggeratedly elderly, not glamorous, no makeup retouching. Keep full body front at left, full body back at center, close-up at right; show complete shoes in both full-length views. No other changes, no added text, no jewellery additions, no props.",
+      "referenceImages": [
+        "production/videoassets/3e77bb48-07b1-447d-9f48-60a3d2bfd56e.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "nbGenerations": 1,
+      "status": "generated",
+      "filename": "assets/EL01.png",
+      "candidateApproval": false,
+      "createdAt": "2026-09-26T16:14:28.507Z",
+      "updatedAt": "2026-09-26T16:14:46.855Z",
+      "submittedAt": "2026-09-26T16:14:28.507Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+      "selected": true,
+      "titleFr": "Elena — la mémoire vivante",
+      "titleEn": "Elena — the living memory",
+      "subtitleFr": "2026 · 71 ans proposés · face, dos et portrait",
+      "subtitleEn": "2026 · proposed age 71 · front, back and portrait",
+      "noteFr": "Grand-mère dérivée du visage de K04, avec une reprise du vieillissement. Cardigan prune, cheveux poivre et sel, alliance discrète. Le vieillissement reste élégant et modéré ; casting proposé à valider en équipe.",
+      "noteEn": "Grandmother derived from K04's face, with one aging correction. Plum cardigan, salt-and-pepper hair, discreet wedding band. Aging remains graceful and moderate; proposed casting for team review.",
+      "qa": {
+        "fr": "La reprise approfondit les rides du front, le contour des yeux et les plis du cou tout en préservant le visage et le costume. Trois vues cohérentes ; chaussures complètes et deux mains lisibles. Pas de texte. Cheveux toujours largement foncés malgré la demande plus argentée, acceptable comme proposition.",
+        "en": "The correction deepens forehead lines, eye-area creases and neck folds while preserving the face and costume. Three coherent views; complete shoes and both hands visible. No text. Hair remains substantially dark despite the silver request, acceptable as a proposal."
+      },
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "inspectedVisually": true
+    },
+    {
+      "code": "EL02",
+      "assetId": "49bc47ca-23a9-4cf3-aaf9-a4a72deb1616",
+      "prompt": "Create a photorealistic 16:9 age-continuity casting DIPTYCH of one fictional woman, ELENA MORALES, at two ages. Source image 1 is her young identity: the woman on the RIGHT of the dance-hall scene wearing a violet dress. Source image 2 is her approved-for-this-test older identity reference sheet: the grey-haired woman wearing a plum cardigan. Use these as exact identity anchors. TWO PANELS ONLY of equal width with a narrow blank separator. LEFT: Elena at approximately 22 in 1977, dark naturally curly shoulder-length hair, same young face as the right-hand woman in source 1, violet short-sleeve dress neckline matching source 1, no jewellery apart from very small plain studs if already visible. RIGHT: the exact older face from source 2, Elena at approximately 71 in 2026, naturally salt-and-pepper/silver curly shoulder-length hair, visible realistic wrinkles and neck lines, plum cardigan over ivory blouse as source 2. Both HEAD-AND-SHOULDERS portraits at equal head size and matching front-three-quarter pose, complete top of head and both shoulders visible. Gentle closed-mouth warmth in both expressions. Keep her dark eyes, nose, lips, cheek structure and natural medium-brown skin consistent through plausible aging. Same neutral warm-grey studio backdrop, same soft photographic lighting, realistic skin and hair without airbrushing, 85 mm portrait photographic feeling. This is a professional casting continuity study, not a before/after beauty ad and not a cartoon. Do not include the man, dance hall, full bodies or additional panels. NO TEXT, no dates, no labels, no logos. The clothing and natural aging must make the two eras readable without captions.",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+        "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "nbGenerations": 1,
+      "status": "generated",
+      "filename": "assets/EL02.png",
+      "candidateApproval": false,
+      "createdAt": "2026-09-26T16:15:57.919Z",
+      "updatedAt": "2026-09-26T16:16:17.243Z",
+      "submittedAt": "2026-09-26T16:15:57.919Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png",
+      "selected": true,
+      "titleFr": "Elena — le même regard",
+      "titleEn": "Elena — the same eyes",
+      "subtitleFr": "1977 → 2026 · 22 et 71 ans proposés",
+      "subtitleEn": "1977 → 2026 · proposed ages 22 and 71",
+      "noteFr": "Pont d'âge entre la jeune femme de K04 et EL01. Même direction du regard, robe violette puis cardigan prune. Référence pour relier la scène de danse à la grand-mère d'aujourd'hui ; casting encore proposé.",
+      "noteEn": "Age bridge between K04's young woman and EL01. Matching eyeline, violet dress followed by a plum cardigan. Reference for linking the dance scene to today's grandmother; casting remains proposed.",
+      "qa": {
+        "fr": "Deux portraits cohérents, même pose et lumière, chevelure et structures du visage plausiblement raccordées. EL01 est reconnaissable à droite et la jeune Elena reprend K04. La robe violette et le cardigan prune sont conservés. Le cadrage des épaules et l'échelle des têtes sont proches, pas pixel-identiques. Aucun texte parasite.",
+        "en": "Two coherent portraits with matching pose and lighting; hair and facial structures plausibly bridge the ages. EL01 is recognizable at right and young Elena follows K04. Violet dress and plum cardigan are preserved. Shoulder crop and head scale are close, not pixel-identical. No unwanted text."
+      },
+      "dimensions": {
+        "width": 2752,
+        "height": 1536
+      },
+      "inspectedVisually": true
+    }
+  ],
+  "completedAt": "2026-09-26T16:17:24.110Z",
+  "summary": {
+    "generatedImages": 3,
+    "retainedImages": 2,
+    "archivedImages": 1,
+    "totalCreditsCharged": 0,
+    "selectedCodes": [
+      "EL01",
+      "EL02"
+    ],
+    "teamApprovedAsFinal": false,
+    "selectionMeaning": "selected means retained as a review candidate, not user-approved final casting",
+    "method": "K04 young identity → EL01 aged triptych → one age correction → EL02 age-bridge diptych using K04 + corrected EL01."
+  }
+}

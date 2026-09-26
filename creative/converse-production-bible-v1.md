@@ -1,5 +1,8 @@
 # CONVERSE — Conserve what matters
 
+> **Version précédente / Previous version.** Le [découpage cinéma v2](converse-cinematic-script-v2.md) propose désormais 26 plans en 76 secondes et développe la mère et la grand-mère. Le présent document conserve la version de 75 secondes et l’historique des références. / [Cinematic script v2](converse-cinematic-script-v2.md) is the latest proposal: 26 shots over 76 seconds, with the mother and grandmother. This document retains the earlier 75-second version and reference history.
+
+
 **Dossier de production / Production bible · v1 · 26 September 2026**
 
 [Français](#français) · [English](#english) · [Generation briefs](#six-keyframe-generation-briefs) · [Shot list CSV](converse-shot-list-v1.csv) · [Visual board](selection/index.html)
