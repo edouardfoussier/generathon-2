@@ -1,0 +1,55 @@
+{
+  "project": "Converse — inspiration references",
+  "updated": "2026-09-26",
+  "references": [
+    {
+      "id": "REF-HYBRID-01",
+      "type": "image",
+      "source": "User-provided screenshot",
+      "file": "references/hybrid-style-reference.png",
+      "originalPath": "/var/folders/1m/rdksbvb54sbdk57v0ynq0wfh0000gn/T/TemporaryItems/NSIRD_screencaptureui_l8unxL/Screenshot 2026-09-26 at 15.02.58.png",
+      "titleFr": "Cartoon, argile et matières réalistes",
+      "titleEn": "Cartoon, clay and realistic materials",
+      "observedFr": [
+        "Visage et cheveux sculptés, proportions expressives",
+        "Vêtements aux textures textiles détaillées",
+        "Pose dynamique, fond bleu sombre et lumière chaude"
+      ],
+      "observedEn": [
+        "Sculpted face and hair, expressive proportions",
+        "Clothing with detailed textile textures",
+        "Dynamic pose, dark blue background and warm light"
+      ],
+      "usage": "Style reference only; preserve Luna identity and Converse product instead of copying the depicted person, white footwear or cropped lettering."
+    },
+    {
+      "id": "REF-MOTION-01",
+      "type": "external-video",
+      "source": "User-provided Instagram Reel",
+      "url": "https://www.instagram.com/reel/DdrD7WQpYK7/",
+      "originalUrl": "https://www.instagram.com/reel/DdrD7WQpYK7/",
+      "creator": "nomadatoast",
+      "titleFr": "Passages de style · Flash-cut / Lovart",
+      "titleEn": "Style switches · Flash-cut / Lovart",
+      "inspection": "Sampled playback inspected in browser; permalink confirmed with Instagram Go to post. No video downloaded or Instagram account saved action.",
+      "observedFr": [
+        "Versions réelles et stylisées conservent la pose et la composition du sujet",
+        "Personnage en niveaux de gris, collages de papiers/reçus et formes filaires",
+        "Chaussure au premier plan en très forte perspective, ambiance sombre et pluvieuse"
+      ],
+      "observedEn": [
+        "Live-action and stylized versions retain subject pose and composition",
+        "Grayscale figure with receipt/paper collage and wire-like forms",
+        "Extreme-perspective foreground sneaker in a dark rainy treatment"
+      ],
+      "notVerified": [
+        "Exact edit timing",
+        "Frame rate",
+        "A continuous material morph",
+        "Clay animation"
+      ],
+      "adaptationFr": "Conserver le pied et la silhouette de la chaussure pendant une brève bascule ; transformer le décor et les matières autour du contact. Adaptation proposée, pas une scène observée dans le Reel.",
+      "adaptationEn": "Preserve the foot and shoe silhouette across a brief style switch; transform the world and materials around the contact. Proposed adaptation, not a scene observed in the Reel."
+    }
+  ]
+}

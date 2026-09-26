@@ -1,0 +1,19 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Operating system and editor files
+.DS_Store
+._*
+*.swp
+*.swo
+
+# Dependency and runtime caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Keep the project's source media, reference renders and generation records.

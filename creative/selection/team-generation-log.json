@@ -1,0 +1,458 @@
+{
+  "project": "Converse — pistes de l’équipe",
+  "selectedAssetCount": 13,
+  "generationCount": 16,
+  "totalActualCost": 0,
+  "story": {
+    "assets": [
+      {
+        "code": "T01",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "La boîte du grenier",
+        "titleEn": "The attic box",
+        "subtitleFr": "2026 · Luna, 15 ans",
+        "subtitleEn": "2026 · Luna, 15",
+        "noteFr": "Hypothèse : une découverte silencieuse fait passer la réserve de Luna vers la tendresse. Animation possible : lent travelling avant, poussière dans le soleil, main sur le col de la chaussure ; non testée. Observation image : les petites initiales du col ne sont pas exactes et une marque parasite apparaît sur l'avant-bras ; à nettoyer si retenu.",
+        "noteEn": "Hypothesis: a quiet discovery shifts Luna's guarded expression toward tenderness. Possible animation: slow push-in, dust in sunlight, a hand on the shoe collar; not tested. Still review: tiny collar initials are imperfect and a stray forearm mark appears; clean up if selected.",
+        "filename": "assets/T01.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T01.png",
+        "assetId": "6b9a2a40-42b7-484f-aad4-dc6d86b61a0a",
+        "arcadsPath": "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create one cinematic photographic still, landscape 16:9. Not a collage. Opening of a fictional intimate Converse generational film, Bronx 2026. Luna Morales is a fictional 15-year-old Puerto Rican girl with warm brown skin, dark curly hair in a low messy ponytail, strong brows, natural youthful face, reserved protective expression softening into tenderness. She wears an oversized faded charcoal T-shirt and loose baggy olive cargo pants, ordinary worn skate sneakers on her feet. Alone in an old Bronx family attic, she kneels beside an open aged cardboard box, three-quarter side profile with her whole figure visible, studying a pair of inherited black canvas Converse high-top Chuck Taylor shoes in the box in the foreground. Use attached shoe reference faithfully for the pair's shape, black canvas, cream rubber toe caps, eyelets, off-white laces, circular ankle patch, repaired wear; integrate naturally at believable size, not an advertising cutout. Her hand rests delicately on one collar. Tiny handwritten R.M. inside a collar, very subtle. Her scuffed skateboard leans against wall near her. Warm golden beam from attic window, drifting dust, deep brown wood, tiny hints of burgundy fabric, tactile 35mm film grain, authentic skin and hands, shallow but readable focus, quiet grief and curiosity without crying. Left foreground shoes, Luna middle-right, attics layered in depth, a composition that could begin a slow camera push. No other people. No ad titles, no text overlays, no poster lettering, no invented logos.",
+        "referenceImages": [
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : les petites initiales du col ne sont pas exactes et une marque parasite apparaît sur l'avant-bras ; à nettoyer si retenu.",
+          "en": "Still review: tiny collar initials are imperfect and a stray forearm mark appears; clean up if selected."
+        }
+      },
+      {
+        "code": "T02",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "Le premier pas",
+        "titleEn": "The first step",
+        "subtitleFr": "1970 · Rafa, 15 ans · Bronx",
+        "subtitleEn": "1970 · Rafa, 15 · Bronx",
+        "noteFr": "Hypothèse : le pivot de basket donne le motif gestuel du récit. Animation possible : un pivot simple et un rebond, caméra au sol ; continuité du mouvement non testée. Observation image : chaussures neuves et géométrie du terrain lisibles ; cohérence vidéo encore non vérifiée.",
+        "noteEn": "Hypothesis: a basketball pivot establishes the story's movement motif. Possible animation: one simple pivot and bounce, ground-level camera; motion continuity not tested. Still review: new shoes and court geometry read clearly; video consistency remains unverified.",
+        "filename": "assets/T02.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T02.png",
+        "assetId": "ae202e6c-c610-4f50-afa3-858131f0de04",
+        "arcadsPath": "production/videoassets/ae202e6c-c610-4f50-afa3-858131f0de04.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create a single landscape 16:9 cinematic photographic still from a fictional generational Converse story. Bronx, summer 1970. Rafa Morales, a fictional Puerto Rican boy aged 15, born 1955, warm brown skin, short dark wavy hair, distinctive strong brows, slim youthful athletic build, concentrated natural youthful face. Low camera near shoe height looking slightly upward; Rafa is fully visible while a newly purchased clean pair of BLACK canvas Converse Chuck Taylor high-tops are prominent in foreground as he performs a graceful basketball pivot, feet physically grounded, one basketball by one hand, authentic anatomy. He wears a plain cream slim tank top, period-correct navy short gym shorts and white tube socks. Shoe reference supplies accurate silhouette/material/ankle patch but make shoes new, no repairs or dirt at this early point. A modest Bronx outdoor basketball court has a rusty rectangular backboard centered-left at the far end, tall chain-link fence, five-storey red brick tenement along left and rear, black fire escapes, one far-right brick arched passage. Define strong location geometry to revisit decades later. Faint late-summer ochre court paint, a few ordinary young background players in 1970 clothing. Saturated cinematic burnt orange brick, deep cobalt shadows, rich red basketball, golden late afternoon, kinetic street musical energy expressed as poetic footwork, 35mm grain. No specific film characters, no choreography ensemble, no smartphones, LED signage, contemporary sneakers or modern clothes. Real plausible documentary texture with premium cinema composition. Single photograph, no grids, no montage, no titles or text overlays. Shoes sharp and unmistakably black high tops.",
+        "referenceImages": [
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : chaussures neuves et géométrie du terrain lisibles ; cohérence vidéo encore non vérifiée.",
+          "en": "Still review: new shoes and court geometry read clearly; video consistency remains unverified."
+        }
+      },
+      {
+        "code": "T03",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "Le même rythme",
+        "titleEn": "The same rhythm",
+        "subtitleFr": "1977 · Rafa et Elena, 22 ans",
+        "subtitleEn": "1977 · Rafa and Elena, 22",
+        "noteFr": "Hypothèse : le jeu de jambes du basket devient salsa et première rencontre. Animation possible : un pas latéral et un échange de regards ; chorégraphie et mains non testées. Observation image : les deux danseurs portent des Chucks ; préciser quelle paire raconte la transmission et vérifier le pas de salsa.",
+        "noteEn": "Hypothesis: basketball footwork becomes salsa and a first encounter. Possible animation: a side step and exchanged looks; choreography and hands not tested. Still review: both dancers wear Chucks; clarify which pair carries the inheritance story and verify salsa footwork.",
+        "filename": "assets/T03.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T03.png",
+        "assetId": "c3140e37-4b87-47a0-a16e-ba1605c5e862",
+        "arcadsPath": "production/videoassets/c3140e37-4b87-47a0-a16e-ba1605c5e862.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create one landscape 16:9 cinematic photograph, Bronx 1977, a warm intimate salsa first meeting. Reference image 1 defines Rafa Morales at 15; show exactly this fictional Puerto Rican young man's recognizable features naturally aged to ADULT 22, same strong eyebrows, nose, warm brown skin, slim build, now swept-back dark wavy hair. He wears a 1977 open-collar patterned rust-gold shirt, navy flared trousers, and his BLACK Converse high-top Chuck Taylors, shoes clearly visible below trousers. Reference image 2 defines accurate shoes, but moderately worn after seven years, not as distressed as modern inherited pair. Rafa gently dances salsa with Elena, an ADULT Puerto Rican woman aged 22 with warm brown skin, shoulder-length dark curls, joyful natural expression, wearing a modest violet 1970s dress with movement. Full figures visible, natural relaxed hand connection at chest height, two anatomically correct hands, no intertwined fingers, credible salsa side-step captured mid-weight-transfer. They exchange a tender surprised glance. A small Bronx social club doorway opens onto brick and fire escapes; background has a few softly focused adult dancers, warm tungsten bulbs, red curtains, violet shadows and amber light, saturated street-musical color yet cinematic natural people. Wider lens near hip-height retains foreground shoes. 35mm film grain, believable 1977 wardrobe and decor, no modern electronics. Romantic gentle connection with fully clothed adults; no sexualized styling. No film characters, no titles, no poster text, no collage or grid. Make the shoes and faces compelling and readable in one coherent frame.",
+        "referenceImages": [
+          "production/videoassets/ae202e6c-c610-4f50-afa3-858131f0de04.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : les deux danseurs portent des Chucks ; préciser quelle paire raconte la transmission et vérifier le pas de salsa.",
+          "en": "Still review: both dancers wear Chucks; clarify which pair carries the inheritance story and verify salsa footwork."
+        }
+      },
+      {
+        "code": "T04",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "L'air de ne pas y toucher",
+        "titleEn": "Pretending not to notice",
+        "subtitleFr": "1995 · Rafa, 40 ans · sa fille, 17 ans",
+        "subtitleEn": "1995 · Rafa, 40 · his daughter, 17",
+        "noteFr": "Hypothèse : un sourire retenu transmet l'affection d'un père peu bavard. Animation possible : regard vers les chaussures puis discret sourire ; vieillissement et jeu non testés. Observation image : tendresse père-fille lisible ; vieillissement facial et degré d'usure à verrouiller.",
+        "noteEn": "Hypothesis: a restrained smile conveys affection from a quiet father. Possible animation: a glance at the shoes followed by a small smile; aging and acting not tested. Still review: father-daughter tenderness reads clearly; lock facial aging and degree of wear.",
+        "filename": "assets/T04.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T04.png",
+        "assetId": "35d83702-c85c-4695-b0e1-1283d36d26b6",
+        "arcadsPath": "production/videoassets/35d83702-c85c-4695-b0e1-1283d36d26b6.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create one landscape 16:9 cinematic photographic still, a humble lived-in Bronx apartment doorway in 1995. Use reference 1 as the exact underlying identity of fictional Puerto Rican Rafa Morales, now NATURALLY AGED from 15 to 40: same face shape, brows, nose and warm brown skin, short dark hair showing a few grey strands, neat short mustache, ordinary soft cotton dark red work shirt and dark trousers. He stands leaning at the apartment doorway, quiet noncommunicative father, arms loosely folded, pretending mildly annoyed but revealing a subtle soft smile at his teenage daughter borrowing his shoes. His fictional daughter is 17, plausibly related facial features, curly dark hair, warm brown skin, baggy 1995 jeans and loose plain white T-shirt under worn denim jacket; she is seated at a simple chair tying the SAME BLACK Converse high-top shoes on her feet, with a fond sideways glance at her father. Show both people full figure, and the pair of black shoes clearly in foreground. Use reference 2 shoe silhouette/materials, cream rubber and off-white laces, worn after 25 years with modest repairs; preserve both shoes convincingly. This is the mother of Luna in the larger story, not Luna herself. Muted green painted hallway, warm wood, open door, soft late afternoon sun, family photographs indistinct in background, tactile cinematic 35mm grain, warmth without sentimentality. Simple authentic hands and anatomy. No smartphones, modern brands or LEDs. One image, not a montage. No ad titles, captions, large logos or extraneous readable text.",
+        "referenceImages": [
+          "production/videoassets/ae202e6c-c610-4f50-afa3-858131f0de04.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : tendresse père-fille lisible ; vieillissement facial et degré d'usure à verrouiller.",
+          "en": "Still review: father-daughter tenderness reads clearly; lock facial aging and degree of wear."
+        }
+      },
+      {
+        "code": "T05",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "Le terrain se souvient",
+        "titleEn": "The court remembers",
+        "subtitleFr": "2026 · Luna retrouve le terrain",
+        "subtitleEn": "2026 · Luna returns to the court",
+        "noteFr": "Hypothèse : le skate reprend le pivot de Rafa dans le même décor, vieilli. Animation possible : une poussée au sol puis glisse courte ; raccord spatial et transfert de mouvement non testés. Observation image : décor proche du terrain de 1970 et Luna reconnaissable ; les chaussures paraissent trop neuves pour la paire héritée.",
+        "noteEn": "Hypothesis: skate footwork echoes Rafa's pivot in the same aged location. Possible animation: one push then a short glide; spatial and motion match not tested. Still review: location closely matches the 1970 court and Luna is recognizable; shoes appear too new for the inherited pair.",
+        "filename": "assets/T05.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T05.png",
+        "assetId": "d5825514-af3a-42d8-b36e-1d694c3e7274",
+        "arcadsPath": "production/videoassets/d5825514-af3a-42d8-b36e-1d694c3e7274.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create one landscape 16:9 cinematic photograph revisiting the EXACT BRONX COURT of reference 2, in year 2026. Reference 1 defines Luna Morales: keep exactly this fictional 15-year-old Puerto Rican girl's face, strong brows, warm brown skin, dark curly low ponytail, oversized faded charcoal tee and very baggy olive cargo trousers. She now wears the inherited worn BLACK Converse Chuck Taylor high tops defined by product reference 3, cream rubber toe caps, off-white laces, subtle repairs, correct physical pair and ankle height. Luna performs ONE realistic skateboard kickoff: left foot stable along a scuffed skateboard deck, right shoe pushes against ground, both legs physically plausible, head focused downcourt, full body visible. Camera low at shoe level, shoes and skateboard foreground, poetic motion echo of the basketball pivot. Preserve the recognizable court geometry from reference 2: old rectangular basketball backboard on far left, same red brick tenements with black fire escapes along left and rear, chainlink fence, far-right brick arch passage. Age this location fifty-six years with patched pavement, faded boundary lines, modest background grind box, repaired fence and some planted pots; no gigantic new skatepark or new buildings. Rich orange afternoon brick, cobalt shadows, tiny burgundy accents, a current lived-in Bronx scene, tender confidence rather than extreme stunt. Single frame composed for a possible gentle lateral tracking shot. Keep foreground shoe details sharp; slight background movement blur only. No text overlays, no grids, no stylized cartoon, no invented tattoos or poster text.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png",
+          "production/videoassets/ae202e6c-c610-4f50-afa3-858131f0de04.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : décor proche du terrain de 1970 et Luna reconnaissable ; les chaussures paraissent trop neuves pour la paire héritée.",
+          "en": "Still review: location closely matches the 1970 court and Luna is recognizable; shoes appear too new for the inherited pair."
+        }
+      },
+      {
+        "code": "T06",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "Ce que l'IA ne sait pas",
+        "titleEn": "What AI cannot know",
+        "subtitleFr": "Ouverture alternative · le cimetière",
+        "subtitleEn": "Alternative opening · the cemetery",
+        "noteFr": "Hypothèse alternative : une réponse vide sur le téléphone ouvre la quête familiale. Animation possible : mise au point du téléphone vers Luna et la tombe ; lisibilité à verrouiller en compositing. Observation image corrigée : Luna tient son propre téléphone, cadrage par-dessus son épaule, chaussures basses ordinaires avant la découverte. Les phrases sont lisibles mais petites ; prévoir un insert ou texte final en compositing.",
+        "noteEn": "Alternative hypothesis: an empty phone answer starts the family search. Possible animation: rack focus from the phone to Luna and the grave; lock text readability in compositing. Corrected still review: Luna holds her own phone, viewed over her shoulder, wearing ordinary low tops before the discovery. Phrases are readable but small; plan a phone insert or final composited text.",
+        "filename": "assets/T06.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T06.png",
+        "assetId": "c63b5370-dbfe-4d12-a81a-35ea57a66de3",
+        "arcadsPath": "production/videoassets/c63b5370-dbfe-4d12-a81a-35ea57a66de3.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create one cinematic photographic landscape 16:9 still that corrects the cemetery camera viewpoint. Reference 1 defines Luna Morales, the fictional Puerto Rican teenage girl aged 15, exact warm brown skin, strong brows, dark curly low ponytail, youthful face, baggy olive cargo trousers and charcoal clothing. Reference 2 gives the desired cemetery atmosphere, simple Rafael Morales gravestone and readable two-message screen, but COMPLETELY CHANGE its camera viewpoint as described. Camera is directly OVER LUNA'S OWN RIGHT SHOULDER, looking diagonally down at HER OWN PHONE held in HER OWN TWO HANDS. Her shoulder occupies the right foreground, the back/side of her head and recognizable partial right cheek/profile appear at top-right. Her TWO arms originate visibly from HER body and extend toward the phone resting over HER LAP. Show ONE person only. It must be visually unmistakable that LUNA is consulting her own phone. No second-person hand anywhere, no camera operator hand, no detached arm, no frontal view of Luna's full face across from someone else's phone. The generic unbranded phone screen is readable in near/middle foreground at a natural angle, showing exactly 'Tell me about Rafael Morales' followed by 'Not enough information.' Simple minimal clean chat UI. In soft but readable background beyond her hands, the modest gravestone shows 'Rafael Morales' and '1955 – 2026'. She sits on a simple cemetery bench, her scuffed skateboard leans beside her. If her feet are visible she wears plain unbranded LOW-TOP charcoal skate sneakers with no ankle patch; she has NOT discovered the inherited Converse yet. Do not show any Converse high tops in this image. Quiet reflective grief, reserved posture, peaceful autumn cemetery, overcast warm grey light, natural skin, 35mm film grain, authentic wood and stone. Prioritize plausible coherent over-shoulder anatomy and direct ownership of the phone. No ad titles, no screen overlays floating outside phone, no grids or collage.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png",
+          "production/videoassets/560317c8-d2cd-4b35-a263-2a9d6a71f9a8.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image corrigée : Luna tient son propre téléphone, cadrage par-dessus son épaule, chaussures basses ordinaires avant la découverte. Les phrases sont lisibles mais petites ; prévoir un insert ou texte final en compositing.",
+          "en": "Corrected still review: Luna holds her own phone, viewed over her shoulder, wearing ordinary low tops before the discovery. Phrases are readable but small; plan a phone insert or final composited text."
+        }
+      },
+      {
+        "code": "T07",
+        "category": "equipe",
+        "group": "future",
+        "titleFr": "2050 · encore les mêmes",
+        "titleEn": "2050 · still the same pair",
+        "subtitleFr": "Concept alternatif · Luna, 39 ans",
+        "subtitleEn": "Alternative concept · Luna, 39",
+        "noteFr": "Piste distincte du film familial : les chaussures réparées passent à une nouvelle génération, avec un robot humble en soutien. Animation possible : transmission humaine de la paire, robot discret ; non testée. Observation image : Luna paraît plus âgée que 39 ans, une seule chaussure est visible dans la transmission et le robot a un visage simplifié ; piste à préciser.",
+        "noteEn": "A separate concept from the family film: repaired shoes pass to a new generation, with a humble robot helping. Possible animation: a human handover of the pair, quiet robot support; not tested. Still review: Luna reads older than 39, only one shoe is visible in the handover, and the robot has a simplified face; refine this direction.",
+        "filename": "assets/T07.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T07.png",
+        "assetId": "014b15ca-f6c5-45a6-94dc-41659ff6caa4",
+        "arcadsPath": "production/videoassets/014b15ca-f6c5-45a6-94dc-41659ff6caa4.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create one landscape 16:9 cinematic photograph of an optimistic, lived-in Bronx courtyard in 2050, a separate alternate Converse concept. Reference 1 shows fictional Luna Morales at 15; naturally AGE her recognizable face to ADULT 39, preserving warm brown skin, distinctive eyebrows, nose, dark curly hair now in a loose ponytail with a few grey strands. Luna wears a relaxed faded charcoal overshirt and comfortable olive trousers. She sits close to her fictional child aged 15, a new teenage character with shared family features and short dark curls, oversized deep blue T-shirt, loose trousers; both fully clothed ordinary people. Emotional focus is the HUMAN-TO-HUMAN handover of the very same repaired old BLACK high-top Converse Chuck Taylors from shoe reference 2, foreground in Luna's hands and reaching teen's hands, natural plausible hand positions, shoes clearly readable at believable size. The shoes are lovingly repaired and patched at the canvas yet recognizably classic black Chuck high tops, cream rubber toe caps and off-white laces. A small humble friendly utility robot in the BACKGROUND assists quietly at a repair bench holding a spool of cream thread. Robot is waist-high, rounded worn sage metal, simple mechanical arms, no humanoid face imitation, no weapon, not a superhero, not the emotional protagonist. Courtyard of familiar aged red brick and black fire escapes, abundant urban plants, repaired furniture, discreet future building technology like slim solar awning and small quiet service device. Soft golden afternoon, saturated green plants and warm brick, tactile realistic cinema photography, hopeful everyday future, dignified family warmth. No flying cars, rayguns, giant skyscraper dystopia, holographic ad text, spectacle, titles or collages. One coherent frame showing shoes foreground and faces middle ground.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : Luna paraît plus âgée que 39 ans, une seule chaussure est visible dans la transmission et le robot a un visage simplifié ; piste à préciser.",
+          "en": "Still review: Luna reads older than 39, only one shoe is visible in the handover, and the robot has a simplified face; refine this direction."
+        }
+      },
+      {
+        "code": "T08",
+        "category": "equipe",
+        "group": "story",
+        "titleFr": "J'ajoute mon nom",
+        "titleEn": "I add my name",
+        "subtitleFr": "Fin possible · R.M. + L.M.",
+        "subtitleEn": "Possible ending · R.M. + L.M.",
+        "noteFr": "Hypothèse de fin : Luna ajoute ses initiales à celles de Rafa dans le col de la même paire. Animation possible : un dernier trait de stylo et un léger resserrement ; geste non testé, lettrage à verrouiller en compositing. Observation image : R.M. et L.M. sont lisibles dans le col, mais une marque parasite est répétée sur l'avant-bras ; nettoyer la peau et affiner la position finale du stylo.",
+        "noteEn": "Ending hypothesis: Luna adds her initials beside Rafa's inside the same pair's collar. Possible animation: a final pen stroke and slight push-in; action not tested, lock lettering in compositing. Still review: R.M. and L.M. are readable inside the collar, but a stray mark is repeated on the forearm; clean up skin and refine the final pen position.",
+        "filename": "assets/T08.png",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T08.png",
+        "assetId": "48b560d0-a568-41d6-a125-3222e21bb276",
+        "arcadsPath": "production/videoassets/48b560d0-a568-41d6-a125-3222e21bb276.png",
+        "model": "nano-banana-2",
+        "status": "generated",
+        "prompt": "Create ONE landscape 16:9 cinematic close-up photograph: a final intimate detail in an inherited Converse story, 2026. Reference 1 defines fictional Luna Morales aged 15, and the attic context. Reference 2 defines the exact worn black Converse Chuck Taylor high-top product with cream rubber toe cap, off-white laces, black canvas, eyelets and subtle repairs. We look over Luna's shoulder down to her naturally positioned hands and one inherited shoe resting on her baggy olive cargo-clad lap while she sits on the wooden attic floor. A corner of her oversized charcoal top, youthful warm brown skin, dark curly low ponytail and scuffed skateboard at her side subtly identify her; face can be only a partial profile. Frame prioritizes ONE real believable old black Chuck and her two hands. Her left hand gently opens and stabilizes its upper collar. Her right hand holds an ordinary black felt-tip pen in a physically credible writing grip, pen tip touching the light inner canvas collar. Inside the collar, small handwritten old faded initials 'R.M.' are visible. Beside them, Luna adds the new small handwritten initials 'L.M.' with the last pen stroke just finishing. EXACT SHORT LETTERING: R.M. and L.M., no other writing; initials are a personal mark inside the shoe, not printed on her skin, not on a text overlay. Shoe proper scale and visible recognizable black high-top silhouette, enough of rubber toe and canvas in frame; no disembodied hands, no extra fingers, no extra shoe held. Warm side daylight and tiny floating dust, tactile cloth, paper-thin creases and used laces, delicate quiet tenderness, photographic natural detail, 35mm cinema look, coherent perspective. Single frame, not collage, no advertisement title or subtitles. This is a human act of adding a name to the family object.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "cost": 0,
+        "aspectRatio": "16:9",
+        "visualReview": {
+          "inspected": true,
+          "fr": "Observation image : R.M. et L.M. sont lisibles dans le col, mais une marque parasite est répétée sur l'avant-bras ; nettoyer la peau et affiner la position finale du stylo.",
+          "en": "Still review: R.M. and L.M. are readable inside the collar, but a stray mark is repeated on the forearm; clean up skin and refine the final pen position."
+        }
+      }
+    ],
+    "generationCount": 9,
+    "totalActualCost": 0,
+    "creditsBefore": 49814,
+    "creditsAfter": 49814,
+    "audit": {
+      "replacedAssets": [
+        {
+          "code": "T06",
+          "category": "equipe",
+          "group": "story",
+          "titleFr": "Ce que l'IA ne sait pas",
+          "titleEn": "What AI cannot know",
+          "subtitleFr": "Ouverture alternative · le cimetière",
+          "subtitleEn": "Alternative opening · the cemetery",
+          "noteFr": "Hypothèse alternative : une réponse vide sur le téléphone ouvre la quête familiale. Animation possible : mise au point du téléphone vers Luna et la tombe ; lisibilité à verrouiller en compositing. Observation image : les deux phrases demandées sont lisibles ; la main au premier plan paraît appartenir à quelqu'un d'autre que Luna, point de vue à corriger.",
+          "noteEn": "Alternative hypothesis: an empty phone answer starts the family search. Possible animation: rack focus from the phone to Luna and the grave; lock text readability in compositing. Still review: both requested phrases are readable; foreground hand appears to belong to someone other than Luna, so clarify the viewpoint.",
+          "filename": "audit/T06-v1.png",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/archive/T06-v1.png",
+          "assetId": "560317c8-d2cd-4b35-a263-2a9d6a71f9a8",
+          "arcadsPath": "production/videoassets/560317c8-d2cd-4b35-a263-2a9d6a71f9a8.png",
+          "model": "nano-banana-2",
+          "status": "generated",
+          "prompt": "Create a single 16:9 cinematic photographic still, an alternative quiet opening to an intimate fictional family story, New York 2026. Reference 1 defines Luna Morales, a fictional Puerto Rican girl aged 15: preserve her exact face, strong brows, warm brown skin, dark curly low ponytail and age. She wears olive baggy cargo trousers and a plain oversized dark jacket over charcoal T-shirt, fully clothed casual teenager. Luna sits quietly beside her grandfather's simple grave in a modest tree-lined cemetery. No funeral crowd, no dramatic crying; her guarded expression softened by grief and unanswered questions. Her scuffed skateboard leans against a nearby simple bench. In the large near foreground we clearly see a generic UNBRANDED phone held naturally in her hand at an angle readable by camera, with a minimal clean screen showing exactly two short chat messages: 'Tell me about Rafael Morales' and 'Not enough information.' No other screen text or brand symbol. Camera close to phone with Luna's three-quarter profile still clear in middle ground and a respectful simple gravestone beside her reading 'Rafael Morales' and '1955 – 2026' only. Inherited worn BLACK Converse high tops, product reference 2, visible at her feet at lower edge. Crisp phone screen, gentle layered depth, pale overcast autumn light, stone grey with warm natural skin tones, tactile 35mm grain, human not dystopian. Convincing hand and fingers around phone. No ad slogans, captions or overlay titles, one single photograph, no grid.",
+          "referenceImages": [
+            "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png",
+            "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+          ],
+          "cost": 0,
+          "aspectRatio": "16:9",
+          "visualReview": {
+            "inspected": true,
+            "fr": "Observation image : les deux phrases demandées sont lisibles ; la main au premier plan paraît appartenir à quelqu'un d'autre que Luna, point de vue à corriger.",
+            "en": "Still review: both requested phrases are readable; foreground hand appears to belong to someone other than Luna, so clarify the viewpoint."
+          },
+          "selected": false,
+          "replacedBy": "c63b5370-dbfe-4d12-a81a-35ea57a66de3"
+        }
+      ],
+      "reasonFr": "Une reprise ciblée de T06 corrige le téléphone tenu par une autre personne et remplace les Chucks prématurées par des chaussures basses ordinaires.",
+      "reasonEn": "One targeted T06 retry corrects another person's phone hand and replaces premature inherited Chucks with ordinary low tops."
+    }
+  },
+  "styles": {
+    "assets": [
+      {
+        "code": "U01",
+        "category": "equipe",
+        "group": "team-styles",
+        "titleFr": "Mémoire à l’encre",
+        "titleEn": "Ink memory",
+        "subtitleFr": "Animation 2D · Noir et blanc graphique",
+        "subtitleEn": "2D animation · Graphic monochrome",
+        "noteFr": "Une vibration légère du trait, quelques poussières dessinées et un regard qui s’abaisse pourraient porter l’émotion. Image de recherche : le mouvement et la tenue des détails Converse restent à tester.",
+        "noteEn": "A slight ink-line tremble, a few drawn dust particles and a lowering gaze could carry the emotion. Still-image exploration: motion and the stability of Converse details remain untested.",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/U01.png",
+        "filename": "assets/U01.png",
+        "prompt": "STYLE TRANSLATION OF THE ATTACHED T01 IMAGE. Use this one image as the exact composition and character anchor. Preserve all major screen positions and scale: Luna age 15 kneels right-of-centre on the attic floor, looking down to her left; charcoal oversized tee, olive baggy cargo trousers, dark curly low ponytail. Her left hand gently holds the ankle of one black Converse Chuck Taylor high-top standing in an open cardboard shoe box in the lower-left foreground; its matching shoe lies inside the box. A worn skateboard leans diagonally against the wooden wall at left behind the box. Keep roof beams, left high window, rear window, stacked belongings, floor planks, fabrics and bed at right in their reference positions. Keep the tender, private emotion, kneeling pose, hand contact with the shoe, shoe number, full shoe box and skateboard. Preserve the worn black Chuck Taylor construction: white rubber toe caps and sidewalls, white laces, metal eyelets, round ankle patch. Landscape 16:9 cinema still, no typography, no border, no split panel. Re-render the ENTIRE image in the art direction below; it must be a transformed visual world while remaining recognizably the same shot. Transform the entire reference into genuinely drawn two-dimensional black-and-white graphic animation, inspired by the visual grammar of Persepolis: dramatic solid black silhouettes, flat white negative space, expressive economical hand-ink contours, simply drawn yet individual faces, a very subtle off-white paper grain. Tender inward grief, quiet dignity. Bold graphic simplification of attic beams and dust-lit window. The shoe is also DRAWN, with recognizably shaped white rubber toe cap, black canvas, white laces, white sole and ankle badge rendered legibly in clean ink. NO photographic grayscale filter, NO photorealistic skin or photographic textures, NO 3D shading, NO franchise characters. Give this image the clarity of a cinematic hand-animated feature still.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png"
+        ],
+        "assetId": "c5770d2a-510d-4955-8b49-9561b64f7434",
+        "arcadsPath": "production/videoassets/c5770d2a-510d-4955-8b49-9561b64f7434.png",
+        "status": "generated",
+        "model": "nano-banana-2",
+        "aspectRatio": "16:9",
+        "cost": 0,
+        "costUnit": "Arcads credits",
+        "usedDailyLimit": true,
+        "retryCount": 0,
+        "qa": {
+          "visuallyInspected": true,
+          "compositionPreserved": true,
+          "motionTested": false
+        }
+      },
+      {
+        "code": "U02",
+        "category": "equipe",
+        "group": "team-styles",
+        "titleFr": "3D sensible",
+        "titleEn": "Expressive 3D",
+        "subtitleFr": "Long métrage animé · Flou cinématographique",
+        "subtitleEn": "Animated feature · Cinematic soft focus",
+        "noteFr": "Un lent mouvement d’approche, la respiration des épaules et une transition douce du visage vers la chaussure pourraient créer l’intimité. Proposition de rendu fixe : flou et animation à valider sur un plan.",
+        "noteEn": "A slow camera move, breathing in the shoulders and a gentle focus transition from face to shoe could create intimacy. Proposed still rendering: blur and animation need validation in a moving shot.",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/U02.png",
+        "filename": "assets/U02.png",
+        "prompt": "STYLE TRANSLATION OF THE ATTACHED T01 IMAGE. Use this one image as the exact composition and character anchor. Preserve all major screen positions and scale: Luna age 15 kneels right-of-centre on the attic floor, looking down to her left; charcoal oversized tee, olive baggy cargo trousers, dark curly low ponytail. Her left hand gently holds the ankle of one black Converse Chuck Taylor high-top standing in an open cardboard shoe box in the lower-left foreground; its matching shoe lies inside the box. A worn skateboard leans diagonally against the wooden wall at left behind the box. Keep roof beams, left high window, rear window, stacked belongings, floor planks, fabrics and bed at right in their reference positions. Keep the tender, private emotion, kneeling pose, hand contact with the shoe, shoe number, full shoe box and skateboard. Preserve the worn black Chuck Taylor construction: white rubber toe caps and sidewalls, white laces, metal eyelets, round ankle patch. Landscape 16:9 cinema still, no typography, no border, no split panel. Re-render the ENTIRE image in the art direction below; it must be a transformed visual world while remaining recognizably the same shot. Reimagine this exact reference as a premium contemporary 3D animated feature still. Fully stylized modeled 3D teenage girl and attic world, thoughtfully sculpted slightly asymmetrical face, expressive controlled brows, credible age 15, carefully shaped hair clumps preserving her dark curly low ponytail. Believable proportions with modest stylization, expressive elegant silhouette, soft fabric sculpting, rich matte materials. Warm cinematic global illumination, very soft shallow depth of field and creamy background bokeh. Keep BOTH Luna's face AND the Converse shoes clearly readable, with background falling softly out of focus. High-quality character design with emotion in the eyes, quiet restrained grief. Not live-action, not photorealistic face, not glossy plastic, not an oversized-eyed generic doll. Shoe silhouette, white toe cap, canvas and laces remain unmistakably Converse within this cohesive animated world.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png"
+        ],
+        "assetId": "478721cb-8c6f-4c9f-8221-2fd099070521",
+        "arcadsPath": "production/videoassets/478721cb-8c6f-4c9f-8221-2fd099070521.png",
+        "status": "generated",
+        "model": "nano-banana-2",
+        "aspectRatio": "16:9",
+        "cost": 0,
+        "costUnit": "Arcads credits",
+        "usedDailyLimit": true,
+        "retryCount": 0,
+        "qa": {
+          "visuallyInspected": true,
+          "compositionPreserved": true,
+          "motionTested": false
+        }
+      },
+      {
+        "code": "U03",
+        "category": "equipe",
+        "group": "team-styles",
+        "titleFr": "Cinématique temps réel",
+        "titleEn": "Real-time cinematic",
+        "subtitleFr": "Jeu narratif contemporain · Matières tangibles",
+        "subtitleEn": "Contemporary narrative game · Tangible materials",
+        "noteFr": "Une caméra très lente à hauteur d’épaule et un bref changement d’expression pourraient rapprocher le spectateur de Luna. Piste de direction artistique fixe : éclairage temps réel et continuité du personnage à éprouver en mouvement.",
+        "noteEn": "A very slow shoulder-height camera and a fleeting expression change could bring the viewer closer to Luna. Still art-direction study: real-time lighting and character continuity need to be tested in motion.",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/U03.png",
+        "filename": "assets/U03.png",
+        "prompt": "Create a NEW FULLY RERENDERED STYLIZED VIDEO GAME CINEMATIC based on the attached photograph's layout. The photo is a COMPOSITION guide, not pixels to retain. Absolutely NO photorealistic surfaces or photographic skin. Render the ENTIRE girl AND room as sophisticated hand-painted real-time 3D game art: deliberately visible polygonal planes and sharp bevels in the wooden attic, slightly angular sculpted face anatomy, painterly diffuse albedo brushwork across fabric and wood, stylized sculpted dark curls, controlled amber and desaturated teal colour design, bold cinematic volumetric shafts, strong ambient occlusion and soft contact shadows. A sophisticated modern narrative adventure-game cutscene with restrained emotion, not a glossy animated movie and not a photograph. Preserve the SAME SHOT layout: fifteen-year-old Luna kneels right of centre, curly low ponytail, charcoal tee and olive baggy cargo; her left hand holds the ankle of a black Converse high-top in an open cardboard box lower left; matching shoe inside; worn skateboard leans on wall at left; sloped roof beams, windows, bed and fabrics at right. Preserve pose and positions, but visibly transform character design, textures, materials and shapes into expressive GAME ART. Shoes must be black canvas Chuck Taylor high tops with white laces, white rubber toe caps and soles, round ankle patch, rendered in matching game-art material language. 16:9 cinematic frame. NO HUD, text, logos as overlays, guns, combat, armor, photograph filters or photorealism.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png"
+        ],
+        "assetId": "12159554-a3e6-4bfe-b3ca-ae8645f6bbd1",
+        "arcadsPath": "production/videoassets/12159554-a3e6-4bfe-b3ca-ae8645f6bbd1.png",
+        "status": "generated",
+        "model": "nano-banana-2",
+        "aspectRatio": "16:9",
+        "cost": 0,
+        "costUnit": "Arcads credits",
+        "usedDailyLimit": true,
+        "retryCount": 1,
+        "discardedAttempt": {
+          "assetId": "de2a535e-9f96-4a67-858f-c3a164d87450",
+          "prompt": "STYLE TRANSLATION OF THE ATTACHED T01 IMAGE. Use this one image as the exact composition and character anchor. Preserve all major screen positions and scale: Luna age 15 kneels right-of-centre on the attic floor, looking down to her left; charcoal oversized tee, olive baggy cargo trousers, dark curly low ponytail. Her left hand gently holds the ankle of one black Converse Chuck Taylor high-top standing in an open cardboard shoe box in the lower-left foreground; its matching shoe lies inside the box. A worn skateboard leans diagonally against the wooden wall at left behind the box. Keep roof beams, left high window, rear window, stacked belongings, floor planks, fabrics and bed at right in their reference positions. Keep the tender, private emotion, kneeling pose, hand contact with the shoe, shoe number, full shoe box and skateboard. Preserve the worn black Chuck Taylor construction: white rubber toe caps and sidewalls, white laces, metal eyelets, round ankle patch. Landscape 16:9 cinema still, no typography, no border, no split panel. Re-render the ENTIRE image in the art direction below; it must be a transformed visual world while remaining recognizably the same shot. Reimagine the exact reference as a high-end modern narrative video-game cinematic cutscene, rendered in sophisticated real-time 3D. This is grounded stylized realism, distinctly different from a cartoon animated movie. Luna is a believable 15-year-old teen with natural face anatomy, understated eyes, lived-in cargo trousers and charcoal shirt, realistic skin variation interpreted through subtly painterly textures. Sculpted but authentic curly hair. Tactile microdetail in timber, dusty cloth, brick and worn canvas; atmospheric volumetric sunlight from the existing window; nuanced cinematic exposure and warm-cool separation. High-end adventure-game cinematography, emotionally grounded and intimate rather than action or fantasy. Preserve the camera/framing of the reference, a filmic observation at human height. Realistic shoe materials, correct black Chuck Taylor high-top design with white rubber toe caps, laces and soles. NO HUD, NO text, NO guns, NO combat, NO armor, NO fantastical redesign, NO generic glossy cartoon proportions.",
+          "cost": 0
+        },
+        "qa": {
+          "visuallyInspected": true,
+          "compositionPreserved": true,
+          "motionTested": false
+        }
+      },
+      {
+        "code": "U04",
+        "category": "equipe",
+        "group": "team-styles",
+        "titleFr": "Conte de bois peint",
+        "titleEn": "Painted-wood fable",
+        "subtitleFr": "Animation artisanale · Matières de conte marin",
+        "subtitleEn": "Handcrafted animation · Seafaring storybook textures",
+        "noteFr": "Les fibres, le grain peint et une lumière doucement oscillante pourraient animer le grenier comme une maquette sensible. Interprétation libre d’un conte marin, sans film identifié ; image fixe, mouvement à tester.",
+        "noteEn": "Fibres, painted grain and gently wavering light could animate the attic as a tactile miniature. A free interpretation of a seafaring fable, with no specific film identified; still image, motion untested.",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/U04.png",
+        "filename": "assets/U04.png",
+        "prompt": "STYLE TRANSLATION OF THE ATTACHED T01 IMAGE. Use this one image as the exact composition and character anchor. Preserve all major screen positions and scale: Luna age 15 kneels right-of-centre on the attic floor, looking down to her left; charcoal oversized tee, olive baggy cargo trousers, dark curly low ponytail. Her left hand gently holds the ankle of one black Converse Chuck Taylor high-top standing in an open cardboard shoe box in the lower-left foreground; its matching shoe lies inside the box. A worn skateboard leans diagonally against the wooden wall at left behind the box. Keep roof beams, left high window, rear window, stacked belongings, floor planks, fabrics and bed at right in their reference positions. Keep the tender, private emotion, kneeling pose, hand contact with the shoe, shoe number, full shoe box and skateboard. Preserve the worn black Chuck Taylor construction: white rubber toe caps and sidewalls, white laces, metal eyelets, round ankle patch. Landscape 16:9 cinema still, no typography, no border, no split panel. Re-render the ENTIRE image in the art direction below; it must be a transformed visual world while remaining recognizably the same shot. Translate the same attic scene into a handcrafted nautical-storybook 3D animated fable aesthetic. The LOCATION REMAINS THE SAME ATTIC, with the same girl, clothes, shoes, skateboard and prop layout: do not move it onto a ship, beach, dock or sea and do not make Luna a fisherman. Materials have warm hand-carved wood qualities, softly imperfect sculpting, matte painted brush grain, miniature craftsmanship, gentle visible fabric fibres and restrained rope-like texture only where natural on existing attic objects. Luna remains an expressive 15-year-old girl with her existing dark curly low ponytail, nuanced sculpted face and warm human emotion, not a wooden puppet with joints. Warm amber and muted oceanic blue-grey palette, diffuse cinematographic light, softly blurred background. Visually rich small-scale craft, charming but melancholy, understated fable design. Preserve recognisable black Converse high tops with white rubber toes, laces and soles in this coherent painted material language. No new nautical plot, no fisherman costume, no specific known film characters, no title text.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png"
+        ],
+        "assetId": "99f3603d-4c6c-458e-8c97-e8e5d95208f6",
+        "arcadsPath": "production/videoassets/99f3603d-4c6c-458e-8c97-e8e5d95208f6.png",
+        "status": "generated",
+        "model": "nano-banana-2",
+        "aspectRatio": "16:9",
+        "cost": 0,
+        "costUnit": "Arcads credits",
+        "usedDailyLimit": true,
+        "retryCount": 0,
+        "qa": {
+          "visuallyInspected": true,
+          "compositionPreserved": true,
+          "motionTested": false
+        }
+      },
+      {
+        "code": "U05",
+        "category": "equipe",
+        "group": "team-styles",
+        "titleFr": "Mémoire augmentée 2050",
+        "titleEn": "Augmented memory 2050",
+        "subtitleFr": "Style futur expérimental · Archive hybride",
+        "subtitleEn": "Experimental future style · Hybrid archive",
+        "noteFr": "Des fragments lumineux pourraient reconstruire le grenier autour d’une Converse qui reste physique et tactile. Test de style expérimental distinct du récit futuriste : ni animation ni système d’hologrammes encore validés.",
+        "noteEn": "Luminous fragments could reconstruct the attic around a Converse that remains physical and tactile. An experimental style test distinct from the future narrative: neither animation nor the hologram system has been validated.",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/U05.png",
+        "filename": "assets/U05.png",
+        "prompt": "Create an inventive DESIGN-LED HYBRID FUTURE STYLE using the exact composition of the attached attic photograph. Retain Luna's pose, black Converse shoe pair in its lower-left cardboard box, skateboard against the left wall, roof beams and right bed layout. Luna, a 15-year-old with dark curly low ponytail, charcoal tee, olive cargo trousers, remains human, physically tangible, quietly moved; left hand touches the black high-top ankle. Her black Converse shoes are detailed physical canvas and rubber, with white laces and round ankle badge. Rebuild MUCH OF THE SURROUNDING ATTIC into sculptural light memory: wood planks and old fabrics gradually disintegrate into floating translucent folded-paper shapes, tiny matte voxel cubes and luminous parchment fragments; large areas become graphic simplified shapes with delicate edge light. A genuinely artful 2050 digital archive of memories; hybrid live human / hand-built abstract paper architecture, half remembered tactile room, rich negative space, warm amber sunlight and pale pearl-cyan glow. Keep major room contours and prop positions recognizable. NO GLASS COMPUTER SCREENS, NO PANELS WITH WRITING, NO HUD, NO TEXT, NO CODE, NO NUMBERS, NO LETTERING, NO DATA VISUALIZATION OR MONITORS, NO CYBERPUNK. The futuristic quality comes from impossible MATERIAL and SPATIAL TRANSFORMATION, not an interface overlaid on a photo. Make paper-light geometry and voxel fragments visibly occupy 35 percent of the background so the style transformation reads immediately. No added characters or robot, no change to pose, framing, skateboard or physical shoes. Landscape 16:9.",
+        "referenceImages": [
+          "production/videoassets/6b9a2a40-42b7-484f-aad4-dc6d86b61a0a.png"
+        ],
+        "assetId": "1244d8d6-79fb-4356-b7ff-4826d7af85ab",
+        "arcadsPath": "production/videoassets/1244d8d6-79fb-4356-b7ff-4826d7af85ab.png",
+        "status": "generated",
+        "model": "nano-banana-2",
+        "aspectRatio": "16:9",
+        "cost": 0,
+        "costUnit": "Arcads credits",
+        "usedDailyLimit": true,
+        "retryCount": 1,
+        "discardedAttempt": {
+          "assetId": "ba93eb8d-0a54-429d-a8d0-3ccdcb087ad3",
+          "prompt": "STYLE TRANSLATION OF THE ATTACHED T01 IMAGE. Use this one image as the exact composition and character anchor. Preserve all major screen positions and scale: Luna age 15 kneels right-of-centre on the attic floor, looking down to her left; charcoal oversized tee, olive baggy cargo trousers, dark curly low ponytail. Her left hand gently holds the ankle of one black Converse Chuck Taylor high-top standing in an open cardboard shoe box in the lower-left foreground; its matching shoe lies inside the box. A worn skateboard leans diagonally against the wooden wall at left behind the box. Keep roof beams, left high window, rear window, stacked belongings, floor planks, fabrics and bed at right in their reference positions. Keep the tender, private emotion, kneeling pose, hand contact with the shoe, shoe number, full shoe box and skateboard. Preserve the worn black Chuck Taylor construction: white rubber toe caps and sidewalls, white laces, metal eyelets, round ankle patch. Landscape 16:9 cinema still, no typography, no border, no split panel. Re-render the ENTIRE image in the art direction below; it must be a transformed visual world while remaining recognizably the same shot. Reimagine the same composition as an innovative 2050 digital-memory-archive cinematic still, a restrained graphic hybrid of tangible physical characters and translucent voxel / folded-paper-light memory architecture. Preserve the human Luna, her age, identity, curly low ponytail, charcoal tee, olive cargo, pose and inward tender emotion. Her physical worn BLACK CONVERSE CHUCK TAYLOR high-top shoes stay extremely tangible and detailed: black woven canvas, white laces, rubber toe cap and white sidewall, correctly shaped and readable. Integrate quiet transparent archival surfaces into the EXISTING wooden attic geometry without changing the arrangement, with a few illuminated translucent planes and delicate voxel dust replacing portions of background volume. The skateboard remains physical in precisely its reference position. Warm sunlight meets a minimal pale cyan and pearl memory glow. Keep human grief and touch at the heart of the image, original visual invention, beautiful restrained graphic spatial layers. No extra person or robot; no generic neon cyberpunk, no city, no overloaded HUD, no readable words or text, no armor. This is a FUTURE STYLE TREATMENT of the same attic composition, not a new narrative scene.",
+          "cost": 0
+        },
+        "qa": {
+          "visuallyInspected": true,
+          "compositionPreserved": true,
+          "motionTested": false
+        }
+      }
+    ],
+    "totalCost": 0,
+    "costUnit": "Arcads credits",
+    "generationCount": 7,
+    "anchorAssetId": "6b9a2a40-42b7-484f-aad4-dc6d86b61a0a",
+    "anchorFile": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/T01.png",
+    "model": "nano-banana-2",
+    "aspectRatio": "16:9"
+  }
+}

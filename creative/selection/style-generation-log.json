@@ -1,0 +1,358 @@
+{
+  "project": "Converse — style exploration",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "createdAt": "2026-09-26T12:37:01.355Z",
+  "creditsBefore": 49814,
+  "totalActualCost": 0,
+  "assets": [
+    {
+      "code": "S00",
+      "category": "styles",
+      "titleFr": "La scène commune",
+      "titleEn": "The common scene",
+      "subtitleFr": "Référence photographique · comparaison contrôlée",
+      "subtitleEn": "Photographic reference · controlled comparison",
+      "noteFr": "Même enfant E04, même paire P01, même grenier D02. Casting provisoire, utilisé pour comparer les traitements visuels. La caméra s’approche de la paire ; le regard de l’enfant suit une couture avant le passage au souvenir.",
+      "noteEn": "Same E04 child, P01 shoes and D02 attic. Provisional casting used to compare visual treatments. The camera approaches the shoes; the child’s gaze follows a stitch before the transition into memory.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+      "filename": "assets/S00.png",
+      "model": "nano-banana-2",
+      "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018",
+      "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+      "prompt": "Create one photorealistic cinematic advertising still, wide 16:9. This is the neutral control scene for a style exploration about inherited Converse shoes connecting generations. Use reference image 1 as the precise fictional girl's identity: a 13-year-old French-Caribbean girl, warm brown skin, chin-length black curls, natural youthful face, oatmeal sweatshirt, blue jeans. Use reference image 2 for the exact pair of weathered black high-top canvas Converse sneakers with off-white rubber toe caps, cream laces, circular ankle patch, visible small repair stitches, realistic modest age patina. Use reference image 3 for the warm French country attic with timber rafters and wooden floor. COMPOSITION: girl seated on a low wooden stool on the RIGHT side, full figure in profile-three-quarter view facing left, leaning forward slightly with tenderness and quiet curiosity, hands loosely together at her knees, eyes directed toward the inherited pair of shoes. Shoes rest clearly on the wooden floor CENTER FOREGROUND, both fully visible, their iconic high-top silhouette and repairs clearly readable. Old open wooden trunk LEFT with folded fabric, and ONE small faded family photograph of an older man leaning on its inside edge. Warm late-afternoon window light enters from the LEFT, bright but delicate, illuminated floating dust, gentle warm shadows, quiet emotional naturalism. Camera low at shoe height with tasteful 35mm composition. The shoes are the visual and emotional anchor. Keep the room uncluttered, readable separation among girl, shoes and trunk. Girl wears plain socks, no additional shoe pairs. Elegant feature-film still, skin and materials convincingly real, restrained film grain. No added titles, captions, typography, watermark, graphic overlays, collage, split-screen, panel layout, or extra logo overlays. No supernatural humanoid ghost.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "E04",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/E04.png",
+          "arcadsPath": "production/videoassets/2a3d92c3-5cf5-477c-b4e2-1c7fe883c50e.png"
+        },
+        {
+          "code": "P01",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/P01.png",
+          "arcadsPath": "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        },
+        {
+          "code": "D02",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/D02.png",
+          "arcadsPath": "production/videoassets/b0e5fe93-ee6a-456e-8225-03eecd8e2925.png"
+        }
+      ],
+      "animationIdeaFr": "La caméra s’approche de la paire ; le regard de l’enfant suit une couture avant le passage au souvenir.",
+      "animationIdeaEn": "The camera approaches the shoes; the child’s gaze follows a stitch before the transition into memory.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S01",
+      "category": "styles",
+      "titleFr": "La mémoire à l’huile",
+      "titleEn": "Memories in oil",
+      "subtitleFr": "Peinture expressive · empâtements vivants",
+      "subtitleEn": "Expressive painting · living impasto",
+      "noteFr": "La lumière et les traces d’usure deviennent des touches de peinture. Une piste chaleureuse pour faire surgir les souvenirs dans la matière. Les traces d’usure s’étirent en coups de pinceau et repeignent peu à peu le grenier dans les couleurs d’un souvenir.",
+      "noteEn": "Light and wear become brushstrokes. A warm direction for memories to emerge through the material. Wear marks extend into brushstrokes and gradually repaint the attic in the colors of a memory.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S01.png",
+      "filename": "assets/S01.png",
+      "model": "nano-banana-2",
+      "assetId": "2d135312-5c18-43e9-aa1d-085671a38f27",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Transform the ENTIRE image into an expressive hand-painted oil painting, like a beautifully animated fine-art feature. Clearly visible broad directional impasto brushstrokes, sculptural buttery paint, palette-knife edges, pigment dragged through canvas grain, lost-and-found edges. Rich amber and earthy umber atmosphere balanced with dusty blue-violet shadows, delicate light painted into the girl's face and the shoes. The shoes' repaired canvas and inherited patina feel built out of accumulated layers of paint. Impressionistic background, intentional expressive shapes, quietly realistic human proportions. This must unmistakably be a painting, not a photograph with a texture filter. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/2d135312-5c18-43e9-aa1d-085671a38f27.png",
+      "animationIdeaFr": "Les traces d’usure s’étirent en coups de pinceau et repeignent peu à peu le grenier dans les couleurs d’un souvenir.",
+      "animationIdeaEn": "Wear marks extend into brushstrokes and gradually repaint the attic in the colors of a memory.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S02",
+      "category": "styles",
+      "titleFr": "Les souvenirs en trames",
+      "titleEn": "Memories in halftone",
+      "subtitleFr": "Animation 2,5D · énergie de bande dessinée",
+      "subtitleEn": "2.5D animation · comic-book energy",
+      "noteFr": "Une grammaire d’animation inspirée de Spider-Verse : trames, aplats et décalages d’encre, appliquée à un moment intime. Le battement d’une trame devient un raccord entre les époques ; quelques décalages d’encre accompagnent le mouvement des lacets.",
+      "noteEn": "Animation grammar inspired by Spider-Verse: halftones, graphic shapes and offset inks applied to an intimate moment. A pulse of halftone becomes a cut between eras; small ink offsets accompany the moving laces.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S02.png",
+      "filename": "assets/S02.png",
+      "model": "nano-banana-2",
+      "assetId": "5ab82663-0a70-434b-b760-9ea739f9b6b5",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Reimagine the ENTIRE scene as a bold high-end 2.5D animated graphic-novel film still inspired by the visual grammar of Spider-Verse, without any actual franchise characters or superhero references. Sculptural stylized character with the SAME face and age, strong elegant ink contours, cel-shaded volumes, expressive angular planes, visible halftone dot patterns in shadows, carefully controlled misregistered cyan and magenta ink edges, comic screenprint texture, warm ochre light versus electric indigo/cyan shadows. Dimensional cinematic composition with hand-drawn graphic strokes. Tender quiet acting, energetic graphic treatment. The repaired black shoes remain iconic and highly legible. No speed lines that obscure the shoes; no action pose. Clearly an animated world, not photoreal and not generic 3D. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/5ab82663-0a70-434b-b760-9ea739f9b6b5.png",
+      "animationIdeaFr": "Le battement d’une trame devient un raccord entre les époques ; quelques décalages d’encre accompagnent le mouvement des lacets.",
+      "animationIdeaEn": "A pulse of halftone becomes a cut between eras; small ink offsets accompany the moving laces.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S03",
+      "category": "styles",
+      "titleFr": "Les fils de la transmission",
+      "titleEn": "Threads of inheritance",
+      "subtitleFr": "Toile tissée · broderie · mémoire textile",
+      "subtitleEn": "Woven canvas · embroidery · textile memory",
+      "noteFr": "Le monde entier naît de la toile des Converse. Des fils colorés relient la paire à la malle : la transmission devient une matière visible. Un fil sort de la reprise, rejoint la photographie puis tisse le décor du passé autour de l’enfant.",
+      "noteEn": "The whole world grows from the shoes’ canvas. Colored threads connect the pair to the trunk: inheritance becomes a visible material. A thread emerges from the repair, reaches the photograph, then weaves the setting of the past around the child.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S03.png",
+      "filename": "assets/S03.png",
+      "model": "nano-banana-2",
+      "assetId": "a52f2452-3163-4454-90b1-6ec5ef611dc8",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Rebuild the ENTIRE world as an extraordinary handmade woven and embroidered textile artwork with sculptural textile depth. The girl is an intricately embroidered fabric figure with the SAME face, curls made of dark looped yarn, sweatshirt and jeans woven visibly; floorboards and rafters are layered coarse linen and ochre stitches; window light consists of densely embroidered amber silk threads. The black Converse themselves are tactile miniature canvas with cream stitching and rubber-like sewn felt toe caps, precise recognizable high-top silhouette. Several fine saffron, coral and cobalt memory threads extend gently from the shoe repair stitches across the existing floor toward the trunk and photograph, like tangible family continuity, no floating figures. Exceptional artisanal material detail, interesting vibrant but harmonious colors, visible raised embroidery, felt applique, woven grain, exquisite craft. Strong graphic readability. Entire image materially transformed, not just textile overlays on a photo; not a generic knitted cute character. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/a52f2452-3163-4454-90b1-6ec5ef611dc8.png",
+      "animationIdeaFr": "Un fil sort de la reprise, rejoint la photographie puis tisse le décor du passé autour de l’enfant.",
+      "animationIdeaEn": "A thread emerges from the repair, reaches the photograph, then weaves the setting of the past around the child.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S04",
+      "category": "styles",
+      "titleFr": "L’album prend vie",
+      "titleEn": "The album comes alive",
+      "subtitleFr": "Papiers déchirés · photographies découpées",
+      "subtitleEn": "Torn paper · cut-out photographs",
+      "noteFr": "Un album familial en volume. Les strates de papier matérialisent le temps et permettent de passer naturellement d’une époque à l’autre. La photographie se déplie en couches de papier ; les découpes du grenier glissent pour révéler la scène ancienne.",
+      "noteEn": "A dimensional family album. Layers of paper make time tangible and offer natural transitions between eras. The photograph unfolds into layers of paper; the attic cutouts slide apart to reveal the earlier scene.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S04.png",
+      "filename": "assets/S04.png",
+      "model": "nano-banana-2",
+      "assetId": "fbd87913-b285-4ea8-80e0-64269e87110e",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Transform the ENTIRE scene into a sophisticated handcrafted layered family-album paper collage, a cinematic cut-paper animation frame. Preserve the exact composition but build girl, shoes, trunk, beams, floor and light from meticulously cut photographic fragments, translucent tracing paper, warm yellowed archival paper, torn edges, sepia photo borders and fine printed paper textures. The girl's face remains a recognizable coherent photographic cutout of the same girl, not fragmented grotesquely, with layered shadow depth around its contours. Shoes made from black paper and shoe-photo fragments with cream lace and rubber details kept precise. Multiple levels of shallow dimensional shadows reveal paper thickness. Amber window light becomes translucent vellum strips. Tiny illegible pencil scribbles and archival textures only, absolutely no legible text. Tender visual poetry, editorial restraint, tactile museum-quality craftsmanship. The same scene rebuilt from collage layers, not a moodboard grid or a photograph of a scrapbook. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/fbd87913-b285-4ea8-80e0-64269e87110e.png",
+      "animationIdeaFr": "La photographie se déplie en couches de papier ; les découpes du grenier glissent pour révéler la scène ancienne.",
+      "animationIdeaEn": "The photograph unfolds into layers of paper; the attic cutouts slide apart to reveal the earlier scene.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S05",
+      "category": "styles",
+      "titleFr": "Trois encres, trois générations",
+      "titleEn": "Three inks, three generations",
+      "subtitleFr": "Risographie · outremer, corail, ocre",
+      "subtitleEn": "Risograph · ultramarine, coral, ochre",
+      "noteFr": "Une piste très graphique : trois encres, du grain et des contours simples. L’identité de la chaussure reste immédiate. Les trois encres s’impriment successivement ; chaque passage fait apparaître une nouvelle génération dans le même mouvement.",
+      "noteEn": "A graphic direction: three inks, grain and simple contours. The shoe’s identity remains immediate. The three inks print in succession; each pass introduces a new generation within the same movement.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S05.png",
+      "filename": "assets/S05.png",
+      "model": "nano-banana-2",
+      "assetId": "e011e6d5-0fb8-443a-9c62-afbd480c31a3",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Reinterpret the ENTIRE scene as a striking three-ink risograph and screenprint illustration on warm off-white paper. Strict limited palette: deep ultramarine blue, vivid coral red and golden ochre only, with overprints creating the shadow colors. Large decisive flat shapes, fine coarse grain and ink speckle, restrained imperfect ink registration, elegant simplified silhouettes, strong negative space and dramatic bands of window light. Girl and sneakers remain same scale pose and position, same emotional gaze; preserve recognizable curly-haired youthful girl and high-top sneaker shape with cream/off-white lace details via paper knockout. Entire scene fully graphic, beautiful artist-poster finish but WITHOUT titles typography or any words. Avoid gradients, 3D rendering, photoreal surfaces, excessive pattern and visual clutter. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/e011e6d5-0fb8-443a-9c62-afbd480c31a3.png",
+      "animationIdeaFr": "Les trois encres s’impriment successivement ; chaque passage fait apparaître une nouvelle génération dans le même mouvement.",
+      "animationIdeaEn": "The three inks print in succession; each pass introduces a new generation within the same movement.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S06",
+      "category": "styles",
+      "titleFr": "La couleur revient",
+      "titleEn": "Color returns",
+      "subtitleFr": "Fusain du présent · aquarelle du souvenir",
+      "subtitleEn": "Charcoal present · watercolor memory",
+      "noteFr": "Le grenier est dessiné au fusain. Une couleur ambrée naît de la paire et gagne la pièce : une transition narrative immédiatement lisible. À son contact, une tache d’aquarelle naît de la paire et se propage : le souvenir rend ses couleurs au dessin.",
+      "noteEn": "The attic is drawn in charcoal. Amber color begins at the shoes and spreads into the room: an immediately readable story transition. At her touch, watercolor blooms from the shoes and spreads: memory returns color to the drawing.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S06.png",
+      "filename": "assets/S06.png",
+      "model": "nano-banana-2",
+      "assetId": "c5a3569d-e2c4-4764-b46f-55ca6fa865e4",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Transform this exact scene into a masterful mixed-media drawing: the present rendered mainly in hand-worked graphite and velvety charcoal on textured ivory paper, with sensitive realistic hand-drawn girl's face, curls, posture and shoes. Broad erased highlights, fine contour lines, loose gestural charcoal rafters, visible paper tooth, monochrome grey and black across most of the frame. A luminous translucent amber and muted coral watercolor bloom begins specifically around the repaired black shoes in the center foreground and spreads organically a short distance along the floor grain and toward the old photograph, carrying warm memories through the drawing. Pigment blooms, wet-on-wet tide lines and subtle gold wash: the colored area is limited, intentional, emotionally meaningful. Keep shoes sharply readable inside the glow and preserve composition. A physical drawing with watercolor, not desaturated photography with a digital orange effect. No humanoid apparitions. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/c5a3569d-e2c4-4764-b46f-55ca6fa865e4.png",
+      "animationIdeaFr": "À son contact, une tache d’aquarelle naît de la paire et se propage : le souvenir rend ses couleurs au dessin.",
+      "animationIdeaEn": "At her touch, watercolor blooms from the shoes and spreads: memory returns color to the drawing.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S07",
+      "category": "styles",
+      "titleFr": "Les empreintes du temps",
+      "titleEn": "Imprints of time",
+      "subtitleFr": "Cyanotype · bleu de Prusse · lumière dorée",
+      "subtitleEn": "Cyanotype · Prussian blue · golden light",
+      "noteFr": "Le grenier devient un tirage photographique artisanal. Le bleu profond évoque l’archive ; l’or fait circuler la mémoire. Le tirage se révèle à la lumière ; les traces dorées relient les lacets à l’image du grand-père.",
+      "noteEn": "The attic becomes a handmade photographic print. Deep blue evokes the archive; gold carries the memory. The print develops in the light; golden traces connect the laces to the grandfather’s image.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S07.png",
+      "filename": "assets/S07.png",
+      "model": "nano-banana-2",
+      "assetId": "a473d3c0-91a9-4476-b8c6-16778e3b4fb3",
+      "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Transform the ENTIRE exact composition into a hauntingly beautiful handmade cyanotype photographic archive print. Deep saturated Prussian-blue shadows and sun-bleached warm-white highlights, with exquisite photographic detail retained in the girl, repaired high-top sneakers, trunk, photograph and attic beams. Tangible watercolor-paper fiber, subtly uneven sensitizer brush edges at the outer boundary, faint chemical mottling, imperfect analogue exposure gradients. Rare delicate hand-applied golden pigment highlights trace the left window light and kiss the cream laces and repair stitches. Approximately 90 percent blue-and-white, only restrained warm gold accents. Strong readable silhouettes, calm emotion and archival authenticity, luxurious contact-print materiality. This is a crafted cyanotype physical print of the scene, not merely a blue photograph filter. No text, date stamps, graphic frame labels, or extra objects. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/a473d3c0-91a9-4476-b8c6-16778e3b4fb3.png",
+      "animationIdeaFr": "Le tirage se révèle à la lumière ; les traces dorées relient les lacets à l’image du grand-père.",
+      "animationIdeaEn": "The print develops in the light; golden traces connect the laces to the grandfather’s image.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true
+    },
+    {
+      "code": "S08",
+      "category": "styles",
+      "titleFr": "Les objets gardent tout",
+      "titleEn": "Objects remember everything",
+      "subtitleFr": "Stop motion · marionnette d’argile et de feutrine",
+      "subtitleEn": "Stop motion · clay and felt puppet",
+      "noteFr": "Une miniature fabriquée à la main, avec une héroïne sculptée en argile et habillée de feutrine. Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+      "noteEn": "A handmade miniature with a clay-sculpted heroine dressed in felt. A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+      "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S08.png",
+      "filename": "assets/S08.png",
+      "model": "nano-banana-2",
+      "assetId": "e6d3beaa-08db-4270-b29c-4eea70430307",
+      "prompt": "Completely transform the provided photographic reference into an unmistakable HANDMADE STOP-MOTION PUPPET FILM frame. The ONLY things to preserve exactly from the reference are the camera framing and staging: full girl seated leaning forward on stool at RIGHT looking toward two black high-top Converse shoes CENTER FOREGROUND, old open trunk with folded blankets and small grandfather photograph LEFT, warm left window and attic beams. Do NOT preserve photographic human anatomy or facial surface realism: boldly redesign the girl as a clearly simplified artisan stop-motion puppet readable even at thumbnail size. She is a fictional 13-year-old girl with warm brown skin, chin-length black curls, oatmeal sweatshirt and blue jeans, translated into sculpted MATTE CLAY. Her head is slightly enlarged and sculpturally simplified, face with softly angular carved planes, rounded wedge nose and small inset painted eyes with tiny natural highlights (not huge cute eyes), visibly pressed clay, shallow fingerprints, joining seams behind jaw and on wrists, individual clay forms on cheeks and fingers. Hands are clearly handmade simplified clay hands. Hair is chunky black sculpted coiled strands with thread fibers. Oatmeal sweatshirt and jeans constructed from cut felt panels with distinctly thick cut edges, oversized real hand stitching, little asymmetries and tactile cloth fuzz, socks sewn from felt. Every element must look hand-built at miniature scale: rough balsa wood floor with grain at miniature scale, puppet-sized stool with slightly imperfect joints, paper-and-wood attic rafters, tiny hinged trunk, folded textile swatches, miniature print photograph. The shoes are carefully sewn small black canvas props with cream cotton laces, white sculpted rubber toe caps, clear iconic high-top Converse silhouettes and circular ankle patch. Maintain shoe details and relative placement. Warm practical set lighting through the left window, realistic physical shadows cast by crafted objects, frame sharp enough to read puppet and shoes. Restrained tenderness and thoughtful body language, a lovingly imperfect puppet theatre world for a sophisticated family film. This MUST look like a visibly sculpted and sewn puppet in a handmade miniature set, never like a live-action girl, never a photoreal human, never a photo filter. Avoid glossy plastic, generic smooth CGI, cute baby proportions, giant eyes, cartoon glamor, titles, captions, watermarks, new logos or extra people. One 16:9 image.",
+      "cost": 0,
+      "status": "generated",
+      "aspectRatio": "16:9",
+      "sources": [
+        {
+          "code": "S00",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+          "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+          "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+        }
+      ],
+      "arcadsPath": "production/videoassets/e6d3beaa-08db-4270-b29c-4eea70430307.png",
+      "animationIdeaFr": "Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+      "animationIdeaEn": "A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+      "width": 2752,
+      "height": 1536,
+      "visuallyReviewed": true,
+      "version": 2,
+      "previousVersions": [
+        {
+          "code": "S08",
+          "category": "styles",
+          "titleFr": "Les objets gardent tout",
+          "titleEn": "Objects remember everything",
+          "subtitleFr": "Stop motion · argile · tissus patinés",
+          "subtitleEn": "Stop motion · clay · weathered fabric",
+          "noteFr": "Une miniature fabriquée à la main, avec une héroïne expressive et des objets patinés. Le geste et la texture portent l’émotion. Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+          "noteEn": "A handmade miniature with an expressive heroine and weathered objects. Gesture and texture carry the emotion. A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+          "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/archive/S08-v1.png",
+          "filename": "assets/archive/S08-v1.png",
+          "model": "nano-banana-2",
+          "assetId": "7e87c6d3-b8da-42be-8982-92c19324646d",
+          "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Rebuild the ENTIRE scene as a remarkably tactile handmade stop-motion cinema set, photographed as a wide 16:9 production still. Same 13-year-old girl identity, human proportions and pose translated into an expressive artisan puppet: subtle sculpted clay face with tiny handmade imperfections, dark soft thread curls, real woven oatmeal cotton sweatshirt and miniature denim. Weathered balsa wood attic floorboards, crafted timber beams, tiny hinged wooden trunk, real folded fabrics and a miniature faded photograph. The pair of black Converse are carefully sewn small canvas props with cream cotton laces, off-white toe caps and visible repair stitches, iconic shoe geometry faithfully retained. Warm practical miniature window lighting, gentle believable depth of field that keeps both girl and shoes legible, tangible dust and lovingly worn surfaces, rich amber warmth. Distinct mature handcrafted arthouse stop-motion aesthetic; avoid oversized toy eyes, baby proportions, glossy plastic, generic cute CGI, or mass-produced doll look. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+          "cost": 0,
+          "status": "generated",
+          "aspectRatio": "16:9",
+          "sources": [
+            {
+              "code": "S00",
+              "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+              "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+              "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+            }
+          ],
+          "arcadsPath": "production/videoassets/7e87c6d3-b8da-42be-8982-92c19324646d.png",
+          "animationIdeaFr": "Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+          "animationIdeaEn": "A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+          "width": 2752,
+          "height": 1536,
+          "visuallyReviewed": true,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "completedAt": "2026-09-26T12:41:33.011Z",
+  "creditsAfter": 49814,
+  "costUnit": "Arcads credits",
+  "costEvidence": "Every asset reports data.creditsCharged=0 and usedDailyLimit=true; workspace credits remained 49,814.",
+  "recommendations": {
+    "primary": "S03",
+    "secondary": "S06",
+    "requestedBaselines": [
+      "S01",
+      "S02"
+    ],
+    "commentFr": "S03 relie directement la toile des Converse à la transmission familiale. S06 donne une règle d’animation immédiatement lisible. S08 a été retravaillé pour une marionnette d’argile et de feutrine nettement identifiable.",
+    "commentEn": "S03 directly connects the shoes’ canvas with family inheritance. S06 provides an immediately readable animation rule. S08 was revised into a clearly identifiable clay and felt puppet."
+  },
+  "generationCount": 10,
+  "selectedAssetCount": 9
+}

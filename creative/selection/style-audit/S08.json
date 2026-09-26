@@ -1,0 +1,107 @@
+{
+  "assetCode": "S08",
+  "reasonFr": "Premier traitement trop proche de la photographie ; personnage en pâte à modeler et costume en feutrine davantage stylisés.",
+  "reasonEn": "The first treatment stayed too close to photography; revision makes the clay puppet and felt costume more visibly stylized.",
+  "previousVersion": {
+    "code": "S08",
+    "category": "styles",
+    "titleFr": "Les objets gardent tout",
+    "titleEn": "Objects remember everything",
+    "subtitleFr": "Stop motion · argile · tissus patinés",
+    "subtitleEn": "Stop motion · clay · weathered fabric",
+    "noteFr": "Une miniature fabriquée à la main, avec une héroïne expressive et des objets patinés. Le geste et la texture portent l’émotion. Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+    "noteEn": "A handmade miniature with an expressive heroine and weathered objects. Gesture and texture carry the emotion. A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+    "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/archive/S08-v1.png",
+    "filename": "assets/archive/S08-v1.png",
+    "model": "nano-banana-2",
+    "assetId": "7e87c6d3-b8da-42be-8982-92c19324646d",
+    "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Rebuild the ENTIRE scene as a remarkably tactile handmade stop-motion cinema set, photographed as a wide 16:9 production still. Same 13-year-old girl identity, human proportions and pose translated into an expressive artisan puppet: subtle sculpted clay face with tiny handmade imperfections, dark soft thread curls, real woven oatmeal cotton sweatshirt and miniature denim. Weathered balsa wood attic floorboards, crafted timber beams, tiny hinged wooden trunk, real folded fabrics and a miniature faded photograph. The pair of black Converse are carefully sewn small canvas props with cream cotton laces, off-white toe caps and visible repair stitches, iconic shoe geometry faithfully retained. Warm practical miniature window lighting, gentle believable depth of field that keeps both girl and shoes legible, tangible dust and lovingly worn surfaces, rich amber warmth. Distinct mature handcrafted arthouse stop-motion aesthetic; avoid oversized toy eyes, baby proportions, glossy plastic, generic cute CGI, or mass-produced doll look. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+    "cost": 0,
+    "status": "generated",
+    "aspectRatio": "16:9",
+    "sources": [
+      {
+        "code": "S00",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+        "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+        "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+      }
+    ],
+    "arcadsPath": "production/videoassets/7e87c6d3-b8da-42be-8982-92c19324646d.png",
+    "animationIdeaFr": "Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+    "animationIdeaEn": "A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+    "width": 2752,
+    "height": 1536,
+    "visuallyReviewed": true,
+    "selected": false
+  },
+  "replacement": {
+    "code": "S08",
+    "category": "styles",
+    "titleFr": "Les objets gardent tout",
+    "titleEn": "Objects remember everything",
+    "subtitleFr": "Stop motion · marionnette d’argile et de feutrine",
+    "subtitleEn": "Stop motion · clay and felt puppet",
+    "noteFr": "Une miniature fabriquée à la main, avec une héroïne sculptée en argile et habillée de feutrine. Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+    "noteEn": "A handmade miniature with a clay-sculpted heroine dressed in felt. A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+    "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S08.png",
+    "filename": "assets/S08.png",
+    "model": "nano-banana-2",
+    "assetId": "e6d3beaa-08db-4270-b29c-4eea70430307",
+    "prompt": "Completely transform the provided photographic reference into an unmistakable HANDMADE STOP-MOTION PUPPET FILM frame. The ONLY things to preserve exactly from the reference are the camera framing and staging: full girl seated leaning forward on stool at RIGHT looking toward two black high-top Converse shoes CENTER FOREGROUND, old open trunk with folded blankets and small grandfather photograph LEFT, warm left window and attic beams. Do NOT preserve photographic human anatomy or facial surface realism: boldly redesign the girl as a clearly simplified artisan stop-motion puppet readable even at thumbnail size. She is a fictional 13-year-old girl with warm brown skin, chin-length black curls, oatmeal sweatshirt and blue jeans, translated into sculpted MATTE CLAY. Her head is slightly enlarged and sculpturally simplified, face with softly angular carved planes, rounded wedge nose and small inset painted eyes with tiny natural highlights (not huge cute eyes), visibly pressed clay, shallow fingerprints, joining seams behind jaw and on wrists, individual clay forms on cheeks and fingers. Hands are clearly handmade simplified clay hands. Hair is chunky black sculpted coiled strands with thread fibers. Oatmeal sweatshirt and jeans constructed from cut felt panels with distinctly thick cut edges, oversized real hand stitching, little asymmetries and tactile cloth fuzz, socks sewn from felt. Every element must look hand-built at miniature scale: rough balsa wood floor with grain at miniature scale, puppet-sized stool with slightly imperfect joints, paper-and-wood attic rafters, tiny hinged trunk, folded textile swatches, miniature print photograph. The shoes are carefully sewn small black canvas props with cream cotton laces, white sculpted rubber toe caps, clear iconic high-top Converse silhouettes and circular ankle patch. Maintain shoe details and relative placement. Warm practical set lighting through the left window, realistic physical shadows cast by crafted objects, frame sharp enough to read puppet and shoes. Restrained tenderness and thoughtful body language, a lovingly imperfect puppet theatre world for a sophisticated family film. This MUST look like a visibly sculpted and sewn puppet in a handmade miniature set, never like a live-action girl, never a photoreal human, never a photo filter. Avoid glossy plastic, generic smooth CGI, cute baby proportions, giant eyes, cartoon glamor, titles, captions, watermarks, new logos or extra people. One 16:9 image.",
+    "cost": 0,
+    "status": "generated",
+    "aspectRatio": "16:9",
+    "sources": [
+      {
+        "code": "S00",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+        "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+        "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+      }
+    ],
+    "arcadsPath": "production/videoassets/e6d3beaa-08db-4270-b29c-4eea70430307.png",
+    "animationIdeaFr": "Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+    "animationIdeaEn": "A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+    "width": 2752,
+    "height": 1536,
+    "visuallyReviewed": true,
+    "version": 2,
+    "previousVersions": [
+      {
+        "code": "S08",
+        "category": "styles",
+        "titleFr": "Les objets gardent tout",
+        "titleEn": "Objects remember everything",
+        "subtitleFr": "Stop motion · argile · tissus patinés",
+        "subtitleEn": "Stop motion · clay · weathered fabric",
+        "noteFr": "Une miniature fabriquée à la main, avec une héroïne expressive et des objets patinés. Le geste et la texture portent l’émotion. Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+        "noteEn": "A handmade miniature with an expressive heroine and weathered objects. Gesture and texture carry the emotion. A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+        "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/archive/S08-v1.png",
+        "filename": "assets/archive/S08-v1.png",
+        "model": "nano-banana-2",
+        "assetId": "7e87c6d3-b8da-42be-8982-92c19324646d",
+        "prompt": "STYLE TRANSFORMATION OF THE PROVIDED REFERENCE IMAGE. Preserve the SAME shot and spatial composition exactly: same fictional 13-year-old girl's recognizable face, chin-length black curls, oatmeal sweatshirt, blue jeans and socks, sitting on stool on the RIGHT leaning toward the shoes; SAME TWO black Converse high-top shoes CENTER FOREGROUND with cream laces, white toe caps and repair stitches; SAME open trunk and small old family photograph LEFT; same attic beams and window, same camera angle and framing, same light direction. Do not change pose, gaze, crop, prop placement, number of shoes or storytelling. Transform the entire scene's visual medium consistently, including character and environment. Rebuild the ENTIRE scene as a remarkably tactile handmade stop-motion cinema set, photographed as a wide 16:9 production still. Same 13-year-old girl identity, human proportions and pose translated into an expressive artisan puppet: subtle sculpted clay face with tiny handmade imperfections, dark soft thread curls, real woven oatmeal cotton sweatshirt and miniature denim. Weathered balsa wood attic floorboards, crafted timber beams, tiny hinged wooden trunk, real folded fabrics and a miniature faded photograph. The pair of black Converse are carefully sewn small canvas props with cream cotton laces, off-white toe caps and visible repair stitches, iconic shoe geometry faithfully retained. Warm practical miniature window lighting, gentle believable depth of field that keeps both girl and shoes legible, tangible dust and lovingly worn surfaces, rich amber warmth. Distinct mature handcrafted arthouse stop-motion aesthetic; avoid oversized toy eyes, baby proportions, glossy plastic, generic cute CGI, or mass-produced doll look. One single cinematic landscape 16:9 image. Emotion: tender curiosity and the beauty of an object passed between generations. Shoes must remain clearly legible. No added captions, titles, legible text, watermark, logo overlays, panels, split screen, extra people, superhero characters or supernatural humanoid ghosts. Retain only existing product identification as naturally part of the shoes, no added advertising graphics.",
+        "cost": 0,
+        "status": "generated",
+        "aspectRatio": "16:9",
+        "sources": [
+          {
+            "code": "S00",
+            "file": "/Users/edouardfoussier/code/generathon-2/creative/selection/assets/S00.png",
+            "arcadsPath": "production/videoassets/c9ab3c7a-c6ec-431a-8317-3f8d4c15a018.png",
+            "assetId": "c9ab3c7a-c6ec-431a-8317-3f8d4c15a018"
+          }
+        ],
+        "arcadsPath": "production/videoassets/7e87c6d3-b8da-42be-8982-92c19324646d.png",
+        "animationIdeaFr": "Un lacet se dénoue image par image ; le geste de l’enfant retrouve celui du grand-père dans un raccord de mouvement.",
+        "animationIdeaEn": "A lace loosens frame by frame; a match cut connects the child’s gesture with the grandfather’s.",
+        "width": 2752,
+        "height": 1536,
+        "visuallyReviewed": true,
+        "selected": false
+      }
+    ]
+  },
+  "totalActualCost": 0
+}
