@@ -4,6 +4,8 @@
 
 [Français](#français) · [English](#english) · [Generation briefs](#six-keyframe-generation-briefs) · [Shot list CSV](converse-shot-list-v1.csv) · [Visual board](selection/index.html)
 
+**Mise à jour / Update:** l’équipe confirme que Converse est exempté de la contrainte de plan-séquence : les coupes sont autorisées. Les six images clés et les essais de transition sont maintenant autorisés en production. / The team confirms that Converse is exempt from the one-shot requirement: cuts are allowed. The six keyframes and transition tests are now authorized for generation.
+
 **Statut / Status:** scénario proposé pour discussion, pas encore validé par l’équipe. Proposed script for team review, not an approved shooting script. Ce dossier consolide les notes précédentes pour la prochaine étape ; les explorations restent conservées. / This is the current working synthesis; earlier explorations remain archived.
 
 ## Français
@@ -29,7 +31,7 @@ L’émotion recherchée est **le manque qui devient une connexion chaleureuse, 
 | Histoire | Trois souvenirs et ouverture directe dans le grenier : **recommandation de ce dossier**. |
 | Biographie | Rafael « Rafa » Morales, famille portoricaine du Bronx : **fiction proposée par l’équipe**, distincte du seul choix du visage G01. |
 | Nouvelle photo ancienne | **Référence de matière et d’usure**, pas un changement automatique de modèle ou de coloris. |
-| État réel de la production | 67 images exploratoires sur la planche. **Aucune vidéo finale, aucun mouvement validé et aucune des six images finales verrouillée.** |
+| État réel de la production | 73 images sur la planche, dont les six premières images de scène K01–K06. **Ce sont des candidats générés, pas des images finales verrouillées.** Trois essais vidéo de transition sont disponibles, dont TR02 recommandé pour poursuivre ; aucun film final n’est assemblé. |
 
 Sources des décisions explicites : [creative-choices.json](selection/creative-choices.json). Les préférences enregistrées dans les navigateurs ne sont pas une sélection commune synchronisée.
 
@@ -92,19 +94,17 @@ La seule réplique proposée identifie la transmission mère → fille sans ajou
 
 **Vérification narrative :** une personne extérieure doit comprendre que le jeune homme est le grand-père, que la fille de 1995 est la mère de Luna et que la même paire relie les trois générations. Si l’une de ces relations reste obscure, on corrige la photo ou le son avant de multiplier les plans.
 
-### 7. Plan-séquence : une question du brief à résoudre
+### 7. Montage libre — clarification confirmée
 
-Le PDF fourni demande une **« complete one-shot sequence »** à la page 14 ; la formulation de la page 16 ne la répète pas. Les passages proposés ci-dessus visent **l’apparence d’une caméra continue** à travers des souvenirs. Ils nécessitent des essais et ne constituent pas une conformité déjà établie.
+**L’équipe a confirmé que Converse fait partie des marques suggérées et est exempté de la contrainte de plan-séquence.** Cette contrainte ne concernait que les équipes choisissant une autre marque. On peut donc utiliser des coupes franches, des gros plans, des changements d’axe et des ellipses. La mention du PDF reste dans l’archive du brief, mais ne bloque plus cette production.
 
-Question précise à poser aux organisateurs : **« Un plan-séquence apparent, construit avec plusieurs générations et des raccords masqués, répond-il à votre contrainte, ou exigez-vous une prise / génération réellement ininterrompue ? »** Cela ne bloque pas l’écriture ni la préparation des références ; la réponse doit guider la méthode avant la production vidéo complète.
+Les passages par une poutre, un poteau ou une épaule décrits dans le premier script sont désormais des **options stylistiques**, jamais des obligations. Pour cette première série, comparer trois méthodes sur la même paire d’images : raccord sur l’impact du pied, panoramique filé et surimpression photographique du souvenir. Le produit et la direction du geste doivent rester lisibles ; la caméra peut changer de plan.
 
-Les occultations servent de raccords techniques, sans faire disparaître les contraintes de vitesse, direction, lumière et position. Les six chapitres ne sont pas six coupes libres. Les images d’entrée/sortie visibles autour de chaque occultation devront être comparées. Si une prise réellement ininterrompue est exigée, il faudra tester une transformation dans un seul espace et réduire l’histoire ; la limite de 80 secondes n’impose pas d’atteindre 75 secondes.
+Luna vit une évocation subjective dans le grenier. La sixième image de cette série la montre partir avec son skate. Un plan extérieur sur le terrain de 2026 peut ensuite remplacer une partie de la fin grâce à une ellipse assumée, sans ajouter de durée au film.
 
-Luna reste physiquement dans le grenier pendant les souvenirs. La fin principale s’arrête lorsqu’elle part avec le skate. **La fin sur le terrain de 2026 (R04/T05) est une alternative**, à intégrer en remplaçant une portion du minutage et en résolvant le trajet ou une ellipse autorisée.
+### 8. Les six premières images clés générées
 
-### 8. Les six images clés à fabriquer
-
-Ces codes **K01–K06 sont réservés à des images futures**, pas à des fichiers déjà produits. Les six images racontent l’histoire ; des images de raccord supplémentaires pourront être dérivées ensuite.
+**K01–K06 existent maintenant** dans la planche, onglet « Scènes & transitions ». Les demandes ci-dessous conservent notre intention initiale ; les résultats et leurs écarts sont documentés sous les images et dans les journaux. Ce sont des candidats pour démarrer les scènes, pas encore des références finales approuvées.
 
 | Image cible | Références existantes | Image à obtenir / vérification |
 |---|---|---|
@@ -119,18 +119,18 @@ La [liste CSV des 13 unités d’action](converse-shot-list-v1.csv) répartit ex
 
 ### 9. Ordre de fabrication recommandé
 
-1. **Décider pendant 20 minutes.** Confirmer cette ouverture sans téléphone, les trois souvenirs, la tenue de Luna et la paire. Choisir les rajeunissements et vérifier l’interprétation du plan-séquence avec les organisateurs.
+1. **Décider pendant 20 minutes.** Confirmer cette ouverture sans téléphone, les trois souvenirs, la tenue de Luna et la paire. Choisir les rajeunissements. Le montage libre est confirmé pour Converse.
 2. **Préparer le minimum manquant.** Fiche produit avec vues droite/gauche et états d’usure ; photo du jeune Rafa ; Elena ; mère adolescente. Corriger G14 trop âgé, le tabouret renversé de R01 si utilisé, le fil de R06 et l’échelle de la chaussure de L05. Les décors et costumes doivent être prêts avant de composer les scènes.
 3. **Comparer deux modèles sur une seule image.** K01, mêmes références et même cadrage ; vérifier visage, paire et D06. Lire le catalogue Arcads et les coûts au moment de lancer. Les résultats antérieurs à 0 crédit ne garantissent pas ceux des prochains appels.
 4. **Créer K01–K06 avec la recette retenue.** Une image de récit par étape. Approuver l’identité et la compréhension avant l’animation.
-5. **Faire une animatique de 75 secondes.** Placer les six images sur une timeline avec la réplique et une musique provisoire. Cette animatique peut utiliser des coupes pour tester le récit ; elle ne prouve pas la faisabilité du plan-séquence.
+5. **Faire une animatique de 75 secondes.** Placer les six images sur une timeline avec la réplique et une musique provisoire. Cette animatique teste les coupes et le rythme du récit avant les rendus vidéo.
 6. **Tester seulement le raccord le plus important.** Court essai du contact chaussure/sol et de l’entrée dans le souvenir, sur quelques secondes. Comparer au plus deux modèles vidéo avec les mêmes images, si disponibles. Conserver celui qui maintient la paire, le pied, le visage et le mouvement.
 7. **Générer les séquences utiles, monter tout de suite.** Une action simple par demande. Garder les prompts, références, essais et coûts ; réutiliser les sorties approuvées comme références de continuité quand l’outil le permet. Tester aussi le geste de lacet et la main tendue avant les versions longues.
 8. **Finaliser le son, le texte et les exports.** Le nom de marque, les initiales et la signature doivent être lisibles. Regarder le film entier, image et son, puis enregistrer la face caméra de moins de 60 secondes.
 
 **Répartition possible à trois :** une personne tient le récit, le montage et le minutage ; une personne suit casting, produit et générations ; une personne prépare son, références, contrôle et face caméra. Un même responsable de montage rassemble les exports pour éviter trois versions divergentes.
 
-Au moment de cette consolidation, samedi vers **17 h 10 à Paris**, il reste environ **20 h 50** jusqu’à la limite de dimanche 14 h indiquée dans le brief. Objectifs proposés : scénario et méthode ce soir avant les rendus longs ; première version complète samedi soir ; image verrouillée dimanche matin ; son, face caméra et exports avant midi ; dépôt visé **13 h 30**. Ajuster à la réalité des rendus. Si le film devient trop lourd, retirer la salsa en premier : basket → père/fille → Luna préserve la transmission et réduit le casting et les lieux.
+Au moment de cette consolidation, samedi vers **17 h 10 à Paris**, il reste environ **20 h 50** jusqu’à la limite de dimanche 14 h indiquée dans le brief. Objectifs proposés : scénario et montage ce soir avant les rendus longs ; première version complète samedi soir ; image verrouillée dimanche matin ; son, face caméra et exports avant midi ; dépôt visé **13 h 30**. Ajuster à la réalité des rendus. Si le film devient trop lourd, retirer la salsa en premier : basket → père/fille → Luna préserve la transmission et réduit le casting et les lieux.
 
 ### 10. Livrables et décisions encore nécessaires
 
@@ -152,7 +152,7 @@ La variante IA remplacerait les premières secondes, sans s’ajouter au film : 
 
 Target emotion: **absence → connection → forward momentum**. Working team tagline: **“CONVERSE. CONSERVE WHAT MATTERS.”** This is an original proposal, not an official brand tagline. Target runtime: **75 seconds including four seconds of end text**, five seconds below the 80-second limit.
 
-**Selected by the team:** Luna’s T01/X01 identity, grandfather G01, attic D06, photographic realism for the current development stage. **Proposed, not selected:** this script, the younger grandfather interpretations, orange costume, final shoe construction and markings, supporting cast, exact biography and final visual treatment. There are 67 exploratory stills on the board; there is no final video, tested motion or locked set of final keyframes.
+**Selected by the team:** Luna’s T01/X01 identity, grandfather G01, attic D06, photographic realism for the current development stage. **Proposed, not selected:** this script, the younger grandfather interpretations, orange costume, final shoe construction and markings, supporting cast, exact biography and final visual treatment. There are now 73 stills on the board, including the first six generated scene candidates K01–K06. Three short transition tests are available, with TR02 recommended for further development; see the separate transition comparison. There is no assembled final film or team-locked set of final keyframes.
 
 This document is the current synthesis for the next production step. The earlier boy, cemetery/AI opening, 2050 concept and illustrated/clay/pixel treatments remain archived options. They are not simultaneous requirements. The current photographic baseline can later support one coherent style-change rule if the team chooses it.
 
@@ -181,27 +181,27 @@ Start immediately after the chest was opened: Luna sits with one shoe already on
 
 Use one spoken language; English is proposed for the first test. The French equivalent is “C’étaient les siennes. Je les lui empruntais.” Subtitles can translate it. A silent version is possible if the mother’s identity remains clear. Test the story with an outsider: do they understand young Rafa, Luna’s mother and the one inherited pair?
 
-### Continuous-shot requirement and alternatives
+### Free editing — confirmed clarification
 
-The supplied PDF says **“complete one-shot sequence” on page 14**; page 16 does not repeat it. The proposed foreground occlusions aim for an apparently continuous camera journey. They are **not verified compliance**. Ask the organizers whether multiple generations joined invisibly are acceptable or whether a genuinely uninterrupted take/generation is required. Keep preparing story and references while this is clarified, and resolve the production method before generating the whole film.
+**The team confirms that Converse is a suggested brand and therefore exempt from the one-shot requirement.** That rule applied only to teams choosing a different brand. Visible cuts, inserts, camera-angle changes and time ellipses are allowed. The original slide remains part of the brief archive, but this issue no longer blocks production.
 
-Six chapters do not automatically permit six visible cuts. Check direction, speed, height, light and the visible frames on both sides of each occlusion. If a truly uninterrupted take is required, test one transforming space and shorten the story rather than assuming extensions will solve it.
+The beam, post and shoulder occlusions in the original draft are now optional visual devices. Compare three techniques on the same reference pair: a foot-impact match cut, a whip pan and a photographic memory dissolve. Keep the product and gesture readable; the camera does not have to remain continuous.
 
-Luna remains physically in the attic during the memories. The baseline ends with her leaving with the board. Outdoor skating on R04/T05 is an alternate ending that needs its own transition and replacement timing. The AI opening would replace the first seconds, not extend the runtime; it also requires replanning the shoe action. The 2050 world and realistic-to-animation switch remain separate creative options.
+Luna experiences a subjective memory while in the attic. The sixth image in this batch shows her leaving with her board. A later exterior skating shot on the 2026 court may replace part of the ending through a normal time ellipse, without extending the total runtime. The AI opening, 2050 concept and animation switch remain separate options.
 
 ### Keyframes, missing assets and production order
 
-**K01–K06 are planned IDs, not generated files:** K01 discovery; K02 foot contact; K03 teenage Rafa; K04 Elena’s offered hand; K05 father/daughter lace gesture; K06 Luna moving forward. The French reference table above lists the source assets, and the English generation briefs below are ready for refinement after choices are locked. The [CSV](converse-shot-list-v1.csv) splits the 75 seconds into 13 simple action units; it is an editorial plan, not 13 submitted jobs or guaranteed model durations.
+**K01–K06 are now generated candidates in the Scenes & transitions tab:** K01 discovery; K02 foot contact; K03 teenage Rafa; K04 Elena’s offered hand; K05 father/daughter lace gesture; K06 Luna moving forward. The French reference table above lists the source assets, and the English generation briefs below are ready for refinement after choices are locked. The [CSV](converse-shot-list-v1.csv) splits the 75 seconds into 13 simple action units; it is an editorial plan, not 13 submitted jobs or guaranteed model durations.
 
 Before final keyframes: fix the shoe reference and four wear states; choose G12/G13/G14 interpretations; establish Elena and the teenage mother; produce the teenage photo and funeral programme prop. Correct G14’s overly mature appearance, R01’s overturned stool if used, R06’s stray foreground cord and L05’s shoe scale. T02–T04 predate the G01-derived casting and are composition studies. T05’s pair looks too new; T08 contains unwanted arm lettering. Do not propagate these artifacts.
 
 Recommended sequence:
 
-1. Spend 20 minutes settling the opening, three memories, Luna costume, pair and younger faces; clarify the one-shot rule with organizers.
+1. Spend 20 minutes settling the opening, three memories, Luna costume, pair and younger faces; use the now-confirmed freedom to cut between shots.
 2. Prepare the missing character/product references and clean chosen locations.
 3. Compare at most two available image models on **the same K01 brief and references**. Check the live Arcads catalogue and costs before generation; previous zero-credit results do not guarantee future pricing.
 4. Produce the six keyframes with the chosen setup and check identity and storytelling.
-5. Build a 75-second **animatic**: still images on a timeline with temporary sound. Cuts are fine for this narrative test; they do not validate the final continuous-shot method.
+5. Build a 75-second **animatic**: still images on a timeline with temporary sound. Use cuts and temporary sound to test the narrative rhythm before generating motion.
 6. Make a short foot/contact-to-memory motion test. If available, compare at most two video models using the same inputs. Evaluate shoe, foot, face and camera continuity. Test the lace and offered-hand gestures before long renders.
 7. Generate useful segments and edit as they arrive. Keep one action per request and record prompts, references, attempts, outputs and costs. Derive additional transition frames as needed.
 8. Finish sound, tracked markings, clean brand text and exports; record the explanation video.
@@ -216,15 +216,28 @@ Main ad **≤80 seconds**. Face-camera explanation **≤60 seconds** covering in
 
 The exact delivery ratio, resolution, codec and file-size limit remain to be checked. **16:9 is a working assumption.** The script, tagline, biography, wardrobe, final pair and supporting cast still need the team’s choices; only Luna’s face, G01, D06 and the current realistic test direction have been explicitly selected.
 
+### Lecture de la première série / First-batch review
+
+- **K01 :** deux chaussures et Luna conservées ; le programme reste au sol et la petite photo jeune a disparu. Replacer les accessoires avant le film. / Two shoes and Luna preserved; the programme stays on the floor and the young photograph disappeared. Re-establish prop continuity before the film.
+- **K02 :** semelle correctement posée ; standardiser la petite réparation crème. / Grounded sole; standardize the small cream repair.
+- **K03 :** animer à partir du ballon réellement tenu à la hanche droite. / Animate from the actual ball position at his right hip.
+- **K04 :** Elena porte des talons distincts ; le pantalon de Rafa masque la tige. / Elena wears distinct heels; Rafa’s trousers hide most of the high-top collars.
+- **K05 :** le fil est retiré et la patine renforcée ; Rafa tient le lacet gauche de sa fille. / Cord removed and wear increased; Rafa holds his daughter’s left shoelace.
+- **K06 :** expression apaisée et skate lisibles ; corriger l’écusson extérieur et harmoniser ourlets, photos et planche de skate. Les initiales et la signature restent à composer. / Clear softer expression and board; correct the outer ankle badge and harmonize hems, photographs and board. Initials and tagline remain to be composited.
+
+Les corrections ciblées sont conservées dans les archives. Les six scènes ont nécessité neuf générations d’images, à 0 crédit facturé déclaré par Arcads. / Targeted corrections are archived. The six scenes required nine image generations, charged at 0 credits as reported by Arcads.
+
+[Comparatif présent → souvenir / Present-to-memory comparison](converse-transition-tests-v1.md) · [TR01](selection/assets/TR01.mp4) · [TR02](selection/assets/TR02.mp4) · [TR03](selection/assets/TR03.mp4)
+
 ## Six keyframe generation briefs
 
-**Planning prompts only. No generation has been submitted from this document.** Supply actual reference images through the chosen tool; asset codes in text alone do not provide visual conditioning. First define the product master and supporting cast. Keep the selected Luna outfit consistent in K01/K02/K06; the default below is L01 until the team chooses otherwise. Reference order: identity → product → location → composition. Treat 16:9 as provisional.
+**Original planning briefs. The first six candidates have now been generated; exact executed prompts, reference paths and revisions are in the two keyframe generation logs.** Supply actual reference images through the chosen tool; asset codes in text alone do not provide visual conditioning. First define the product master and supporting cast. Keep the selected Luna outfit consistent in K01/K02/K06; the default below is L01 until the team chooses otherwise. Reference order: identity → product → location → composition. Treat 16:9 as provisional.
 
 ### K01 — Discovery
 
 References: T01/X01 identity, L01 wardrobe, D06 room, approved 2026 shoe master, G01 funeral portrait, G12 teenage photograph after casting selection. L05 is a composition aid only.
 
-> Photorealistic cinematic still, horizontal 16:9. Preserve the exact fictional teenage Luna from the identity references, her youthful facial proportions, dark curly hair and restrained expression. She sits on the upright wooden stool beside the open chest in the supplied D06 attic, wearing the selected charcoal tee and olive cargo trousers. The inherited left black high-top is already on her left foot. She holds its matching right shoe, loosened and ready to put on; her right foot is in a plain sock. Exactly two shoes from this pair exist in the frame. Preserve their approved size and construction. A modest funeral programme with the older grandfather portrait rests beside the chest, with a small photograph of his younger self inside. Her skateboard leans within reach and an uncapped marker rests on the chest edge. Quiet diffuse window light, believable skin and fabric, intimate and restrained. No glowing box, no extra people, no invented tattoos. Leave prop lettering blank for compositing. Establish readable spatial relationships for a continuous camera move.
+> Photorealistic cinematic still, horizontal 16:9. Preserve the exact fictional teenage Luna from the identity references, her youthful facial proportions, dark curly hair and restrained expression. She sits on the upright wooden stool beside the open chest in the supplied D06 attic, wearing the selected charcoal tee and olive cargo trousers. The inherited left black high-top is already on her left foot. She holds its matching right shoe, loosened and ready to put on; her right foot is in a plain sock. Exactly two shoes from this pair exist in the frame. Preserve their approved size and construction. A modest funeral programme with the older grandfather portrait rests beside the chest, with a small photograph of his younger self inside. Her skateboard leans within reach and an uncapped marker rests on the chest edge. Quiet diffuse window light, believable skin and fabric, intimate and restrained. No glowing box, no extra people, no invented tattoos. Leave prop lettering blank for compositing. Establish readable spatial relationships for a subsequent shots.
 
 ### K02 — Contact
 
@@ -267,7 +280,7 @@ References: approved K01/K02 Luna and room, approved 2026 product, board positio
 | [Team directions](converse-team-directions-v3.md) | Rafa/Luna development, earlier 70-second draft, alternate AI/2050 ideas and research sources. |
 | [Style-switch exploration](converse-style-switch-v4.md) | Material-change proposal and observations from the supplied Reel. Stills, not validated motion. |
 | [Reference registry](selection/references/index.json) | Supplied examples and observed vs proposed uses, including the old shoe. |
-| [Asset manifest](selection/manifest.json) | Existing generated images and reference lineage. Final K01–K06 are not yet present. |
+| [Asset manifest](selection/manifest.json) | Existing generated images and reference lineage. Includes the first K01–K06 candidates; these are not team-approved final frames. |
 | [Character/location generation log](selection/character-location-generation-log.json) | Actual completed generation records, prompts, costs and corrections. |
 
 **Version policy:** change this working dossier and shot list together when timing or story changes. Record newly approved decisions explicitly in `creative-choices.json`; do not rewrite earlier explorations as though they had always been final. Keep generated media and prompt histories attributable to their actual references and models.

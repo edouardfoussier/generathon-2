@@ -9,6 +9,16 @@ window.CONVERSE_I18N = {
     exploreTeam: 'Découvrir les pistes de l’équipe ↗',
     exploreHybrids: 'Pixel, argile & changements de style ↗',
     exploreProduction: "Luna, grand-père & décors réalistes ↗",
+    exploreScenes: 'Six scènes & transitions vidéo ↗',
+    scenesKicker: 'Atelier 06 · Du scénario à l’image',
+    scenesTitle: 'Six moments. Une histoire.',
+    scenesIntro: 'Premières images des scènes et essais vidéo de passage au souvenir. Luna, G01 et D06 servent de références. Le montage libre est confirmé pour Converse ; ces rendus restent à choisir et affiner.',
+    scenesFrames: 'Les six images clés',
+    scenesFramesDetail: 'Découverte → contact → jeunesse → rencontre → transmission → la suite. Tenue d’origine et paire noire pour ce premier lot.',
+    scenesTransitions: 'Présent → souvenir · essais en mouvement',
+    scenesTransitionsDetail: 'Les mêmes images de départ et d’arrivée, trois techniques de passage. Lance un lecteur pour comparer ; les observations sous chaque clip distinguent la demande du résultat.',
+    openScript: 'Lire le script FR / EN',
+    downloadVideo: 'Télécharger le clip',
     productionKicker: "Atelier 05 · Les choix prennent forme",
     productionTitle: "Même visage. Plusieurs vies.",
     productionIntro: "Luna est retenue. Le grand-père part de G01 et le grenier de D06. Cette série construit des références photographiques pour préparer les scènes.",
@@ -71,7 +81,7 @@ window.CONVERSE_I18N = {
     teamNotesTitle: 'Les points à garder pour l’écriture',
     teamChronology: 'Chronologie de travail : Luna a 15 ans en 2026. G01, désormais retenu, est présenté à 72 ans : sa naissance serait autour de 1954. Le miroir 1970 / 2026 sépare les deux adolescences de 56 ans. Une scène de 2011 montrerait Luna bébé.',
     teamRelationship: 'Relation : si Luna n’a jamais rencontré Rafa, retirer le souvenir de 2011. Pour conserver ce souvenir, écrire « elle ne l’a jamais vraiment connu ».',
-    teamFocus: 'Format : viser 70–75 s, limiter l’IA à 5–6 s et faire porter le récit par trois souvenirs. Les transitions et la continuité du mouvement restent à tester ; le brief évoque un plan-séquence complet.',
+    teamFocus: 'Format : viser 70–75 s et faire porter le récit par trois souvenirs. Le montage libre est confirmé pour Converse. L’ouverture avec l’IA reste une alternative ; comparer les premiers raccords dans « Scènes & transitions ».',
     teamStyleCaveat: 'Les rendus sont des images fixes, avec des idées de mouvement. « Fable maritime » est une interprétation libre de la piste « fisherman ». Les textes et initiales dans les images restent des maquettes.',
     hybridKicker: 'Exploration 04 · La matière du souvenir',
     hybridPremise: 'Elle pose le pied. Le monde change de matière.',
@@ -99,7 +109,8 @@ window.CONVERSE_I18N = {
       styles: {label:'Styles graphiques', title:'Les styles graphiques', detail:'Une scène, plusieurs écritures.'},
       equipe: {label:'Pistes de l’équipe', title:'Les pistes de l’équipe', detail:'Rafa, Luna et les vies d’une paire.'},
       hybrides: {label:'Pixel & hybrides', title:'Pixel, argile & hybridations', detail:'Quand les chaussures changent le monde.'},
-      production: {label:'Personnages & décors', title:'Luna, grand-père & lieux', detail:'Références réalistes · Atelier 05'}
+      production: {label:'Personnages & décors', title:'Luna, grand-père & lieux', detail:'Références réalistes · Atelier 05'},
+      scenes: {label:'Scènes & transitions', title:'Les scènes prennent vie', detail:'Images clés et essais vidéo · Atelier 06'}
     }
   },
   en: {
@@ -112,6 +123,16 @@ window.CONVERSE_I18N = {
     exploreTeam: 'Explore the team’s new directions ↗',
     exploreHybrids: 'Pixels, clay & style switches ↗',
     exploreProduction: "Luna, grandpa & realistic locations ↗",
+    exploreScenes: 'Six scenes & video transitions ↗',
+    scenesKicker: 'Workshop 06 · From script to frame',
+    scenesTitle: 'Six moments. One story.',
+    scenesIntro: 'First scene keyframes and moving tests for entering the memory. Luna, G01 and D06 anchor the images. Free editing is confirmed for Converse; these renders are still candidates to choose and refine.',
+    scenesFrames: 'The six keyframes',
+    scenesFramesDetail: 'Discovery → contact → youth → meeting → inheritance → the next chapter. Original wardrobe and black pair for this first batch.',
+    scenesTransitions: 'Present → memory · motion tests',
+    scenesTransitionsDetail: 'The same start and end images, three transition techniques. Play a clip to compare; notes below each distinguish the requested effect from the result.',
+    openScript: 'Read the FR / EN script',
+    downloadVideo: 'Download clip',
     productionKicker: "Workshop 05 · Building on your choices",
     productionTitle: "The same face. Different chapters.",
     productionIntro: "Luna is selected. Grandpa develops from G01 and the attic from D06. This series builds photographic references to prepare the scenes.",
@@ -174,7 +195,7 @@ window.CONVERSE_I18N = {
     teamNotesTitle: 'Keep these points in mind for the script',
     teamChronology: 'Working timeline: Luna is 15 in 2026. The selected G01 is described as 72, suggesting a birth around 1954. The 1970 / 2026 mirror places their teenage years 56 years apart. A 2011 scene would show baby Luna.',
     teamRelationship: 'Relationship: if Luna has never met Rafa, remove the 2011 memory. To keep that memory, say “she never really knew him.”',
-    teamFocus: 'Format: aim for 70–75 seconds, keep AI to 5–6 seconds and build the story around three memories. Transitions and continuous movement still need testing; the brief mentions a complete one-shot sequence.',
+    teamFocus: 'Format: aim for 70–75 seconds and build the story around three memories. Free editing is confirmed for Converse. The AI opening remains an alternative; compare the first transition tests in Scenes & transitions.',
     teamStyleCaveat: 'These are still images with ideas for motion. “Seafaring fable” freely interprets the “fisherman” reference. On-image text and initials are working mockups.',
     hybridKicker: 'Exploration 04 · The texture of memory',
     hybridPremise: 'She plants her foot. The world changes material.',
@@ -202,7 +223,8 @@ window.CONVERSE_I18N = {
       styles: {label:'Visual styles', title:'Visual styles', detail:'One scene, different visual languages.'},
       equipe: {label:'Team directions', title:'The team’s directions', detail:'Rafa, Luna and the lives of one pair.'},
       hybrides: {label:'Pixel & hybrids', title:'Pixels, clay & hybrid styles', detail:'When the shoes change the world.'},
-      production: {label:'Characters & locations', title:'Luna, grandpa & locations', detail:'Photographic references · Workshop 05'}
+      production: {label:'Characters & locations', title:'Luna, grandpa & locations', detail:'Photographic references · Workshop 05'},
+      scenes: {label:'Scenes & transitions', title:'The scenes come to life', detail:'Keyframes and motion tests · Workshop 06'}
     }
   }
 };

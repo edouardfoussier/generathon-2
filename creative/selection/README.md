@@ -1,6 +1,6 @@
 # Planche de sélection — Converse
 
-67 références sur la planche, générées le 26 septembre 2026 avec Nano Banana 2 dans Arcads : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
+76 références sur la planche au 26 septembre 2026 : **73 images et 3 vidéos**. Les images sont générées avec Nano Banana 2 dans Arcads ; les transitions vidéo avec Kling 3 Pro. Les 67 images des ateliers 01–05 comprennent : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
 
 ## Utilisation
 
@@ -84,13 +84,21 @@ L’atelier 05 reprend les choix de l’équipe : **Luna conservée, visage G01 
 
 La fiche de Luna comprend des repères d’identité, les deux tenues et une palette. La tenue aux accessoires orange et la personnalisation orange des chaussures restent des variantes à choisir. Les exemples de fiches fournis servent à organiser les vues, sans remplacer le visage de Luna.
 
-`../luna-character-bible-v1.md` rassemble les références et points de continuité. `creative-choices.json` consigne les choix explicites. `character-location-generation-log.json` documente **21 générations, 17 images retenues, quatre premiers essais archivés et 0 crédit facturé déclaré**. Aucun mouvement ni film final n’est généré.
+`../luna-character-bible-v1.md` rassemble les références et points de continuité. `creative-choices.json` consigne les choix explicites. `character-location-generation-log.json` documente **21 générations, 17 images retenues, quatre premiers essais archivés et 0 crédit facturé déclaré**. Cet atelier contient uniquement des images fixes ; les premiers essais vidéo figurent dans l’atelier 06 ci-dessous.
 
 ## Dossier consolidé / Consolidated script
 
-Le [dossier de production bilingue](../converse-production-bible-v1.md) rassemble désormais les choix, les alternatives, un script proposé de 75 secondes et les briefs des six images clés. La [liste CSV](../converse-shot-list-v1.csv) détaille les unités d’action et leurs dépendances. Il distingue les éléments choisis des propositions ; aucun nouveau plan vidéo n’a encore été généré. La nouvelle référence de chaussure ancienne est enregistrée dans `references/index.json` pour sa matière et sa patine, sans remplacer automatiquement la paire noire.
+Le [dossier de production bilingue](../converse-production-bible-v1.md) rassemble désormais les choix, les alternatives, un script proposé de 75 secondes et les briefs des six images clés. La [liste CSV](../converse-shot-list-v1.csv) détaille les unités d’action et leurs dépendances. Il distingue les éléments choisis des propositions et présente désormais les six images clés générées et les trois essais de transition. Le film complet reste à produire. La nouvelle référence de chaussure ancienne est enregistrée dans `references/index.json` pour sa matière et sa patine, sans remplacer automatiquement la paire noire.
 
-The [bilingual production bible](../converse-production-bible-v1.md) is the current working synthesis: a proposed 75-second script, selected and open choices, six planned keyframe briefs, and a production sequence. The [CSV shot list](../converse-shot-list-v1.csv) makes timing and dependencies editable. The old-shoe reference is for wear and materials, not an approved product replacement.
+The [bilingual production bible](../converse-production-bible-v1.md) is the current working synthesis: a proposed 75-second script, selected and open choices, six generated keyframe candidates, three transition tests, and a production sequence. The [CSV shot list](../converse-shot-list-v1.csv) makes timing and dependencies editable. The old-shoe reference is for wear and materials, not an approved product replacement.
+
+## Scènes & transitions / Scenes & transitions
+
+L’atelier 06 (`?category=scenes`, ou `?category=scenes&lang=en`) contient **K01–K06**, les six premières images de scène, et **TR01–TR03**, les essais vidéo de passage du grenier au souvenir. Les lecteurs vidéo et leurs liens de téléchargement sont intégrés à la planche ; un seul clip joue à la fois. Les images et vidéos peuvent être choisies et exportées ensemble. Les favoris existants sont conservés.
+
+Le montage libre est désormais confirmé pour Converse : l’équipe est exemptée de la contrainte de plan-séquence. Les six images sont des candidats réalistes, pas des références finales approuvées. Les écarts de produit, de props et de côté du geste sont indiqués sous chaque rendu. Les journaux `keyframes-luna-log.json`, `keyframes-memories-log.json` et `transition-generation-log.json` conservent les références exactes, tentatives, coûts et observations.
+
+Workshop 06 contains six first scene candidates and three playable transition tests. Free editing is confirmed for Converse. Videos can be selected and exported like images; the existing favorites storage is preserved. Image zoom navigation excludes video entries, which have native inline players. Read the [transition comparison](../converse-transition-tests-v1.md) before choosing a technique.
 
 ## Après le choix
 
@@ -98,10 +106,10 @@ The [bilingual production bible](../converse-production-bible-v1.md) is the curr
 2. Fixer les identités, le vêtement du protagoniste et la version jeune du grand-père choisi.
 3. Comparer les modèles sur une même scène, avec les mêmes références, cadrage et consigne. Commencer par un plan de découverte réunissant personnage, chaussures et grenier.
 4. Juger le naturel des visages, la fidélité à la paire, la conservation du décor et la qualité de la lumière.
-5. Produire les six images clés avec la combinaison retenue.
+5. Harmoniser les six images clés K01–K06, choisir le raccord parmi TR01–TR03, puis animer les scènes retenues.
 
 Ces images sont des études de casting, de patine et d’ambiance. Avant le film, corriger les détails de construction de la paire sélectionnée à partir d’une référence produit précise : notamment la réparation stylisée de P01 et les détails du patch/semelle. Les cadrages des portraits varient légèrement malgré une base commune ; la prochaine étape harmonisera les références retenues.
 
 ## English quick start
 
-Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Characters & locations** for the 17 latest realistic character and location tests, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The new style switch is illustrated with three still keyframes; no video or temporal continuity has been validated. The supplied screenshot and Instagram reference are saved in the new tab. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.
+Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Scenes & transitions** for the six scene keyframes and three playable transition tests, **Characters & locations** for the 17 realistic character and location tests, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The earlier X01–X03 style switch remains a still-image study. The new TR01–TR03 clips compare realistic present-to-memory transitions; the full ad has not been assembled. The supplied screenshot and Instagram reference are saved in Pixel & hybrids. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.

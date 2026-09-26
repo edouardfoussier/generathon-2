@@ -35,5 +35,33 @@
     ],
     "lunaIntegration": "L05"
   },
-  "finalVideoGenerated": false
+  "finalVideoGenerated": false,
+  "editing": {
+    "oneShotRequired": false,
+    "cutsAllowed": true,
+    "source": "User clarification: the one-shot rule only applies when no suggested brand was selected; Converse is exempt.",
+    "confirmedOn": "2026-09-26"
+  },
+  "keyframeGenerationAuthorized": true,
+  "sceneCandidates": {
+    "codes": [
+      "K01",
+      "K02",
+      "K03",
+      "K04",
+      "K05",
+      "K06"
+    ],
+    "teamApprovedAsFinal": false
+  },
+  "motionTests": {
+    "codes": [
+      "TR01",
+      "TR02",
+      "TR03"
+    ],
+    "recommendedForFurtherDevelopment": "TR02",
+    "teamChoice": null,
+    "fullSceneMotionValidated": false
+  }
 }

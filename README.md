@@ -1,6 +1,6 @@
 # Converse — Generathon 2026
 
-Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-AI product ad exploring **“One Sneaker, Every Generation.”** The repository contains a bilingual selection board, original exploratory images, generation records and working story notes.
+Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-AI product ad exploring **“One Sneaker, Every Generation.”** The repository contains a bilingual selection board, original exploratory images, short transition tests, generation records and working story notes.
 
 ## Current direction
 
@@ -12,9 +12,9 @@ Deliverables from the supplied brief:
 
 - Main ad: **80 seconds maximum**; the consolidated story proposal targets 75 seconds including the final text.
 - Face-camera explanation: **60 seconds maximum**, covering inspiration, concept, process, challenges, accomplishments, learning, next steps and tools.
-- The track slide also calls for a **complete one-shot sequence**. Resolve this in the final staging and transitions; the exploratory stills do not establish compliance.
+- **Cuts are allowed for Converse.** The user clarified that the one-shot rule applies only to teams choosing a brand outside the suggested list; this project is exempt.
 
-**There is no generated final film in this repository.** All generated media currently included are exploratory still images; motion and temporal consistency remain untested.
+**There is no assembled final film in this repository.** K01–K06 are the first scene candidates. TR01–TR03 compare short present-to-memory transitions; their individual notes describe observed results and continuity faults. They do not validate the complete ad.
 
 ## Open the board
 
@@ -30,7 +30,7 @@ Then open [the English board](http://127.0.0.1:8765/?lang=en). Use the **FR / EN
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 67-image board
+## The 76-reference board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -42,14 +42,16 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | T01–T08, U01–U05 | 13 | Team story scenes, alternate future and style treatments |
 | H01–H05, X01–X03 | 8 | Pixels, clay, mixed materials and three stills for a proposed style transition |
 | L01–L05, G11–G15, R01–R07 | 17 | Realistic Luna character sheets, grandfather development from G01, and scene locations from D06 |
+| K01–K06, TR01–TR03 | 9 | Six scene keyframes and three short transition videos |
 
-The latest tab is **Characters & locations** (`?category=production&lang=en`). It groups Luna’s character bible, five grandfather sheets and seven empty scene locations. The orange wardrobe remains an alternative to compare.
+The latest tab is **Scenes & transitions** (`?category=scenes&lang=en`): six scene candidates followed by three playable transition comparisons. The board now contains 73 stills and three clips. **Characters & locations** (`?category=production&lang=en`) retains the character bibles and location studies. The first scenes use Luna’s original wardrobe; orange remains an alternative.
 
 ## Where to continue
 
 **Start with the [bilingual production bible and detailed 75-second script](creative/converse-production-bible-v1.md).** It consolidates selected references, open decisions, the old-shoe material study, six planned keyframe briefs and the production order. The [editable shot list](creative/converse-shot-list-v1.csv) contains 13 timed action units; these are planned beats, not submitted generation jobs.
 
 - [`creative/luna-character-bible-v1.md`](creative/luna-character-bible-v1.md): latest character references, costume options, chosen attic and continuity notes.
+- [`creative/converse-transition-tests-v1.md`](creative/converse-transition-tests-v1.md): transition comparison, observed limits, cost and concurrency notes.
 - `creative/selection/creative-choices.json`: explicit team choices, distinct from each browser’s favorites.
 - [`creative/converse-team-directions-v3.md`](creative/converse-team-directions-v3.md): earlier 70-second story proposal, family chronology and research sources; retained as development history.
 - [`creative/converse-style-switch-v4.md`](creative/converse-style-switch-v4.md): archived material-switch direction and proposed five-second transition test; includes English notes.
@@ -57,7 +59,7 @@ The latest tab is **Characters & locations** (`?category=production&lang=en`). I
 - [`creative/selection/README.md`](creative/selection/README.md): detailed board guide and generation notes.
 - `creative/selection/index.html`, `board.js`, `i18n.js` and `assets.js`: layout, interactions, interface translations and bilingual card metadata.
 - `creative/selection/assets/`: original images; `assets/archive/` contains retained superseded tests.
-- `creative/selection/manifest.json` and the `*generation-log.json` files: Arcads asset IDs, prompts, reference lineage, attempts and reported costs. Current images were generated with **Nano Banana 2 through Arcads**.
+- `creative/selection/manifest.json` and the `*generation-log.json` files: Arcads asset IDs, prompts, reference lineage, attempts and reported costs. Images were generated with **Nano Banana 2 through Arcads**; the current motion tests use **Kling 3 Pro through Arcads**.
 - `creative/selection/references/`: supplied style reference, saved inspiration links and observations.
 
 Preserve existing asset codes and original images when adding tests. Give alternatives new codes or archive replaced versions, update both language captions, and record prompts, references and actual generation costs. Before producing final shots, agree on the cast, shoe details and visual treatment, then test a short movement sequence for identity, product fidelity and transition stability.

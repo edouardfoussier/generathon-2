@@ -1,0 +1,198 @@
+{
+  "created": "2026-09-26",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "batch": "K03–K05 realistic memory starter keyframes",
+  "productionStatus": "Generated scene candidates, not approved final frames or validated motion",
+  "submissionMode": "Three independent initial calls submitted concurrently via Promise.all; all accepted. Their pending intervals overlap. This does not establish an official concurrency cap or backend-worker count.",
+  "completedGenerationCount": 4,
+  "selectedImageCount": 3,
+  "creditsCharged": 0,
+  "jobs": [
+    {
+      "code": "K03",
+      "referenceCodes": [
+        "G12",
+        "P01",
+        "R03"
+      ],
+      "prompt": "Create ONE coherent photorealistic cinematic film still, landscape 16:9, premium live-action natural photography, tactile real skin and clothing, restrained 35mm grain. NOT a character sheet, NOT a collage, no panels. No captions, no lettering overlays, no watermark. Preserve actual supplied references according to their roles below. This is an original fictional family story. REFERENCE 1 defines ONLY the precise identity and clothing of Rafa at sixteen: preserve his rounded broad nose, almond hazel-brown eyes, youthful olive-brown skin, short dense dark curls, white basketball tank top, navy gym shorts, tall white tube socks with two narrow burgundy rings. REFERENCE 2 defines the silhouette and construction of his one matched pair of BLACK Converse Chuck Taylor high-tops: off-white round rubber toes, flat rubber soles, cream cotton laces, circular patch on INNER ankles only. For 1970 make them recently bought with light normal wear, NO later stitching repair, no blue mark and no initials. REFERENCE 3 defines the precise court architecture and golden late-day light: hoop at left, chain-link fence, brick tenements and black fire escapes, brick arch at right. Place ONE teenage Rafa near center-left on this court, fully visible from head to both shoes with margin. He holds a single ordinary basketball against his left hip with his left forearm, right hand relaxed; he stands in a modest basketball pivot-ready stance with gently bent knees, both feet naturally grounded and separated, not jumping or lunging. He turns a little towards camera-right with a small relaxed private smile at an unseen friend off frame. Camera about 75cm high, natural 35mm perspective, enough shoe detail yet readable face, keep the existing court geometry and warm light. No other people, no extra balls, no skate ramps, no contemporary phones, no fantastical glow, no extra limbs, no wrong-side ankle badges.",
+      "referenceImages": [
+        "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/876b2abe-43f8-4c21-ae37-1c428173c6d9.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "attempt": 1,
+      "assetId": "eb03cc2f-641c-4fd4-9c4a-8cbd4750baee",
+      "status": "generated",
+      "file": "creative/selection/assets/K03.png",
+      "selected": true,
+      "productionStatus": "starter keyframe proposal; not team-approved",
+      "qa": {
+        "inspected": true,
+        "photographic": true,
+        "fr": "Jeune Rafa reconnaissable, terrain R03 préservé, visage et paire lisibles, pose stable. Le ballon est à sa hanche droite (et non gauche comme dans le prompt) : partir de ce côté pour l’animation. La datation, le jeune visage et la paire restent des propositions à valider.",
+        "en": "Recognizable young Rafa, preserved R03 court, readable face and pair, stable pose. Ball is at his right hip, not the requested left; animate from the actual pose. Period details, younger likeness and exact product remain proposals to approve.",
+        "limitations": [
+          "Basketball is held at the right hip rather than the requested left.",
+          "The inner ankle badge is visible on his left foot; exact product details need final continuity review.",
+          "Still only; no pivot or motion has been validated."
+        ]
+      },
+      "arcadsPath": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+      "createdAt": "2026-09-26T15:36:46.178Z",
+      "updatedAt": "2026-09-26T15:37:06.222Z",
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedCredits": false,
+      "usedDailyLimit": true,
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 6940838,
+      "sha256": "66e7805671bea7c4a25a348dcd9da3286ad509999ab6a3a5465a123afdff8ea3"
+    },
+    {
+      "code": "K04",
+      "referenceCodes": [
+        "G13",
+        "P01",
+        "R05",
+        "T03"
+      ],
+      "prompt": "Create ONE coherent photorealistic cinematic film still, landscape 16:9, premium live-action natural photography, tactile real skin and clothing, restrained 35mm grain. NOT a character sheet, NOT a collage, no panels. No captions, no lettering overlays, no watermark. Preserve actual supplied references according to their roles below. This is an original fictional family story. REFERENCE 1 is the ONLY identity of Rafa, twenty-three, same G01-derived face: preserve broad rounded nose, hazel-brown eyes, olive-brown skin, short thick dark curly hair, clean-shaven youthful face. Keep his simple muted rust open-collar long-sleeve shirt tucked into warm dark brown gently flared trousers and modest belt. REFERENCE 2 defines his one matched BLACK Converse high-top pair, off-white rounded rubber toes, flat soles, cream laces, inner ankle badges only; in 1977 they have light-to-moderate natural wear, no future repair or ink initials. His trouser hems must stop high enough that toes and lower ankles can be read. REFERENCE 3 is the exact modest salsa hall: long worn oak floor, left windows and wine-red curtains, brick rear wall, piano and congas rear-right stage, amber pendants, restrained red and plum light. REFERENCE 4 is for the WOMAN ONLY: use Elena's shoulder-length dark curly hair, warm brown skin and natural adult face from the central woman in the violet dress. Do not use reference 4's man's face, his shirt, trousers, shoes or his room layout. Elena is an adult woman about23, modest violet short-sleeve knee-length dress, and DIFFERENT shoes: plain dark burgundy low-heeled closed-toe Mary Jane shoes, absolutely no sneakers on Elena. Show only Rafa and Elena, full figures with heads, hands and all shoes visible. Rafa at left and Elena at right, facing one another at a slight camera-facing angle. Elena extends ONE open relaxed hand towards Rafa at waist level; his hand stays a few centimeters away, not touching yet, both look shyly into each other's eyes and exchange restrained half-smiles. The other hands hang relaxed. Bodies prepared for one simple shared step, not dancing yet. Camera at approximately hip height, 40mm natural perspective, romantic but real. No background dancers, no duplicated fingers, no intertwined hands, no text. Faces, offered hand and Rafa's sneakers must all read clearly.",
+      "referenceImages": [
+        "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/3cf0e71d-dc2d-44c3-9913-f4b7263da94f.png",
+        "production/videoassets/c3140e37-4b87-47a0-a16e-ba1605c5e862.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "attempt": 1,
+      "assetId": "384f373c-f6e6-49cf-93b0-d8c9fea2b530",
+      "status": "generated",
+      "file": "creative/selection/assets/K04.png",
+      "selected": true,
+      "productionStatus": "starter keyframe proposal; not team-approved",
+      "qa": {
+        "inspected": true,
+        "photographic": true,
+        "fr": "Rafa issu de G13, Elena proposée depuis T03, salle R05 et main offerte lisibles. Elena porte bien des chaussures bordeaux à petits talons ; Rafa seul porte la paire. Les bas de pantalon masquent les tiges ; mains séparées et geste simple à animer.",
+        "en": "G13-based Rafa, proposed Elena from T03, R05 hall and offered hand read clearly. Elena wears burgundy low heels, Rafa alone wears the inherited sneakers. Trousers partly hide the high-top collars; hands remain apart for a simple next action.",
+        "limitations": [
+          "Elena is a proposed supporting-cast identity, not team-selected.",
+          "Rafa's trouser hems hide most high-top collars; a separate product detail may be needed.",
+          "Offered hand and feet appear plausible, but hand connection and dancing remain untested."
+        ]
+      },
+      "arcadsPath": "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+      "createdAt": "2026-09-26T15:36:54.169Z",
+      "updatedAt": "2026-09-26T15:37:15.316Z",
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedCredits": false,
+      "usedDailyLimit": true,
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 6335272,
+      "sha256": "06a693fbe0148509bf6c307b24f60654279a6e1406251f7302616225b3a0c3c8"
+    },
+    {
+      "code": "K05",
+      "referenceCodes": [
+        "G14",
+        "P01",
+        "R06",
+        "T04",
+        "G13"
+      ],
+      "prompt": "Create ONE coherent photorealistic cinematic film still, landscape 16:9, premium live-action natural photography, tactile real skin and clothing, restrained 35mm grain. NOT a character sheet, NOT a collage, no panels. No captions, no lettering overlays, no watermark. Preserve actual supplied references according to their roles below. This is an original fictional family story. REFERENCE 1 defines Rafa at approximately41: preserve the same broad rounded nose, hazel-brown eyes, olive-brown skin, short dark curls and neat dark moustache. SUBTLY reduce the deep eye and forehead wrinkles of this study so he looks41 rather than55; no elderly sagging or extensive grey, keep facial identity. REFERENCE 5 gives the same man's younger face for natural continuity, NOT the young age or clothing. He wears the light blue rolled-sleeve cotton shirt and dark charcoal trousers of reference1, but his feet wear DIFFERENT plain dark brown slip-on house shoes with no white toe caps and no white laces. REFERENCE 2 defines the single inherited pair of black Converse high-top sneakers; they are ON HIS DAUGHTER'S FEET ONLY. Their 1995 state has softened faded black canvas, moderately yellowed rubber toes and cream laces, a small cream hand-sewn repair above the OUTER edge of the right shoe's rubber, no initials or blue ink text. REFERENCE 3 defines the same living room layout, window left, olive sofa rear, brick-plaster walls, bookcase, CRT TV, right doorway with staircase. Remove the stray thin cord from foreground floor. REFERENCE 4 defines ONLY Rafa's teenage daughter's dark shoulder-length curls, brown skin and facial shape, her loose plain white tee, blue denim jacket and baggy blue jeans. Do NOT use reference4's father's face or hallway. She is seventeen, Luna's mother as a teenager, a different person from Luna. Seat her near center-left on a simple wooden chair in front of the sofa, feet grounded and knees relaxed, right foot a little forward, wearing BOTH inherited sneakers with jean cuffs rolled just above collars. Rafa crouches at her RIGHT foot on frame-right, one knee bent down, the other stable, two hands gently holding the two loops of an ALREADY-FORMED shoelace bow, ready for one small tightening tug, no complex tying action. Her own hands rest in lap. She looks at his face with a small knowing warm smile; he looks down at her right shoelace with restrained affection. Show both whole bodies, faces and shoes clearly, medium-wide 40mm lens around knee height, natural anatomically plausible hands and limbs, restrained warm left window light and subtle emotion. No additional person or shoes anywhere, no modern phone, no extra fingers, no illegible poster lettering, no generated captions.",
+      "referenceImages": [
+        "production/videoassets/c3de592d-b3ef-4f9d-99c7-eddd57b81a9e.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/626c4a2c-28f8-43e3-927a-414d10687bb7.png",
+        "production/videoassets/35d83702-c85c-4695-b0e1-1283d36d26b6.png",
+        "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "attempt": 1,
+      "assetId": "66c68217-9b46-4392-b272-ae21ef562c14",
+      "status": "generated",
+      "file": "creative/selection/assets/archive/K05-v1.png",
+      "selected": false,
+      "productionStatus": "starter keyframe proposal; not team-approved",
+      "qa": {
+        "inspected": true,
+        "photographic": true,
+        "fr": "Geste d’affection et lien père-fille lisibles ; Rafa porte des chaussons bruns distincts. Première version archivée car un fil restait au sol et les chaussures paraissaient trop neuves. Rafa tient le lacet du pied gauche de sa fille, à conserver dans le prochain brief.",
+        "en": "Clear affectionate father-daughter gesture; Rafa wears distinct brown house shoes. First version archived because floor cord remained and shoes looked too clean. Rafa holds his daughter's left shoelace; carry that actual side into the next brief.",
+        "limitations": [
+          "Teenage daughter remains proposed casting from T04.",
+          "Rafa is holding the daughter's LEFT shoe, not the requested right shoe.",
+          "Hands hide part of the bow; actual tightening motion has not been validated."
+        ]
+      },
+      "arcadsPath": "production/videoassets/66c68217-9b46-4392-b272-ae21ef562c14.png",
+      "createdAt": "2026-09-26T15:36:50.992Z",
+      "updatedAt": "2026-09-26T15:37:16.616Z",
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedCredits": false,
+      "usedDailyLimit": true,
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 7060360,
+      "sha256": "fe58eab8131058450eb6c165d2cbf7ab557afd57ee33fe8aae58b751815f093e"
+    },
+    {
+      "code": "K05",
+      "referenceCodes": [
+        "K05-v1",
+        "P01"
+      ],
+      "referenceImages": [
+        "production/videoassets/66c68217-9b46-4392-b272-ae21ef562c14.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+      ],
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "attempt": 2,
+      "corrects": "66c68217-9b46-4392-b272-ae21ef562c14",
+      "prompt": "Edit REFERENCE 1 conservatively: keep the exact same photorealistic cinematic image, camera, composition, room, two faces, age, light, clothing, poses, all hands and feet exactly as they are. Make ONLY these small corrections. 1. REMOVE the thin loose cord/string lying across the floor near the chair legs and across the lower left foreground. Reconstruct uninterrupted ordinary wooden floorboards naturally; no loose cord anywhere. Do not remove shoelaces attached to the shoes. 2. The TWO black high-top sneakers on the daughter's feet are a beloved pair worn for twenty-five years: gently fade the black canvas at natural creases, add restrained fine grey scuffs and warm yellowing to off-white rubber toes and sole edges, soften the cream cotton laces. Use REFERENCE 2 only to guide the subtly aged tactile shoe materials and a tiny cream hand-sewn repair on the outer canvas of the daughter's RIGHT shoe (the shoe nearest the camera at lower left), just above its rubber edge. Keep this repair small and physically plausible; do not copy the reference's blue ink mark or extreme abrasion. Preserve the exact number of two sneakers and their shape and scale. Do not add any patch to an outer ankle, do not move the existing inner ankle badge. Dad keeps his plain brown house shoes. No new props, no initials, no lettering, no new fingers, no changed faces, no shifted limbs, no collage. One single photorealistic 16:9 frame.",
+      "assetId": "f240a438-62b3-4556-b931-4b5bf168a5c2",
+      "status": "generated",
+      "arcadsPath": "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+      "createdAt": "2026-09-26T15:39:14.904Z",
+      "updatedAt": "2026-09-26T15:39:37.819Z",
+      "creditsCharged": 0,
+      "cost": 0,
+      "costUnit": "Arcads credits",
+      "usedCredits": false,
+      "usedDailyLimit": true,
+      "file": "creative/selection/assets/K05.png",
+      "selected": true,
+      "productionStatus": "starter keyframe proposal; not team-approved",
+      "qa": {
+        "inspected": true,
+        "photographic": true,
+        "fr": "Fil au sol retiré, petite réparation crème ajoutée sur la chaussure droite et patine légèrement renforcée. Visages et décor cohérents ; père en chaussons bruns, fille seule dans la paire héritée. Il tient le lacet du pied gauche de sa fille : utiliser ce côté dans l’animation. Casting secondaire et détails produit restent à valider.",
+        "en": "Floor cord removed; a small cream repair added to the right shoe and restrained wear increased. Consistent faces and room; father in brown house shoes, daughter alone wears the inherited pair. He holds her left shoelace: retain that side for animation. Supporting cast and exact product details still require approval.",
+        "limitations": [
+          "Dad holds daughter's LEFT shoelace, not the initially requested right.",
+          "Repair is a proposed continuity detail; its exact shape/placement is not a locked product master.",
+          "Rafa's apparent age is approximate, although less elderly than G14.",
+          "Hands and lace motion untested; still frame only."
+        ]
+      },
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 7310126,
+      "sha256": "eaf14d8a83f93a5e5170ad1b51489cfbc3f14b7139fbdf077b9da0be73b9cfba"
+    }
+  ]
+}

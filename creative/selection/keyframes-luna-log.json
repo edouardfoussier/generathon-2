@@ -1,0 +1,268 @@
+{
+  "project": "Converse — Conserve what matters",
+  "date": "2026-09-26",
+  "phase": "First scene keyframes — Luna",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "model": "nano-banana-2",
+  "aspectRatio": "16:9",
+  "userAuthorization": "Generate the six starter keyframes; Converse is exempt from the one-shot constraint.",
+  "batch": {
+    "requestedConcurrentCalls": 3,
+    "submittedAt": "2026-09-26T15:35:17.919Z",
+    "accepted": 3,
+    "rateLimitErrors": 0,
+    "documentedMaximumConcurrency": null,
+    "notes": "Three independent tool calls dispatched with Promise.allSettled; all accepted. This is observed overlap, not proof of the service limit.",
+    "correctionConcurrentCalls": 2,
+    "totalGenerated": 5,
+    "selectedImages": 3,
+    "archivedImages": 2,
+    "totalCreditsCharged": 0,
+    "completed": true
+  },
+  "jobs": [
+    {
+      "code": "K01",
+      "prompt": "Create ONE photorealistic cinematic movie still in horizontal 16:9, no collage or contact sheet. Reference 1 establishes the exact fictional 15-year-old girl Luna: preserve her youthful face, brown skin, strong brows, brown eyes, dark curly hair tied in a low loose ponytail, oversized charcoal cotton tee, olive cargo trousers. No tattoos or orange accessories. Reference 2 establishes the inherited black canvas Converse high-top pair: same flat ivory rubber soles, ivory toe caps, cream laces, silver eyelets, dark canvas, believable moderate wear and small cream repair on OUTER RIGHT shoe just above rubber edge. Realistic adult size that fits her, not giant shoes. Circular ankle patches belong ONLY to inner ankles. Reference 3 establishes the exact D06 attic: rear red brick gable, left casement window, timber roof rafters, open wooden trunk at left, upright round wooden stool beside trunk, rear workbench with lamp and cases, large right timber post, wide pale pine floorboards. Preserve that architecture and arrangement. Diffuse cool-neutral overcast daylight from existing left window, gently warm natural wood, tactile skin and fabric, understated 35mm cinematic photography. No sci-fi effects, no magical glow, no invented text or captions, no extra people or footwear. Medium-wide 35mm view, Luna sits on the upright stool next to the open trunk, quiet grief and curiosity on her downturned face. Her LEFT foot already wears the left inherited black high-top and rests on floor; her RIGHT foot is in a plain pale grey sock. She holds the matching RIGHT shoe gently in both hands at lap level, fully visible and loosened ready to put on. Exactly TWO shoes total: one worn, one held; no shoes in the trunk or elsewhere. A small folded cream funeral programme showing ONLY the older grandfather portrait from reference 4, with no words, rests on the trunk's front rim. A small monochrome teenage portrait from reference 5 lies inside the trunk and is secondary. Plain black uncapped marker on the right edge of trunk. Her scuffed wooden skateboard with black grip and natural pale wheels leans against the wall between trunk and rear workbench. Frame her whole head and both feet clearly, with chest and pair visibly related. Quiet sincere performance, mouth closed, not dramatic crying. These portraits are flat paper props, no other live people.",
+      "referenceImages": [
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+        "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+        "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png"
+      ],
+      "attempt": 1,
+      "selected": false,
+      "assetId": "4f6e47fe-f5ed-4826-8a8a-9d61b895e610",
+      "status": "generated",
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "file": "creative/selection/assets/archive/K01-v1.png",
+      "filename": "assets/archive/K01-v1.png",
+      "createdAt": "2026-09-26T15:35:22.614Z",
+      "updatedAt": "2026-09-26T15:35:47.433Z",
+      "arcadsPath": "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610.png",
+      "creditsCharged": 0,
+      "usedDailyLimit": true,
+      "resolution": "2K",
+      "persistedReferenceImages": [
+        "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610_reference_image_0.png",
+        "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610_reference_image_1.png",
+        "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610_reference_image_2.png",
+        "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610_reference_image_3.png",
+        "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610_reference_image_4.png"
+      ],
+      "qa": {
+        "inspected": true,
+        "reasonForCorrection": "Wrong shoe/sock laterality and invented tiny funeral-program lettering; programme placed on floor."
+      },
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 7431676
+    },
+    {
+      "code": "K02",
+      "prompt": "Create ONE photorealistic cinematic movie still in horizontal 16:9, no collage or contact sheet. Reference 1 establishes the exact fictional 15-year-old girl Luna: preserve her youthful face, brown skin, strong brows, brown eyes, dark curly hair tied in a low loose ponytail, oversized charcoal cotton tee, olive cargo trousers. No tattoos or orange accessories. Reference 2 establishes the inherited black canvas Converse high-top pair: same flat ivory rubber soles, ivory toe caps, cream laces, silver eyelets, dark canvas, believable moderate wear and small cream repair on OUTER RIGHT shoe just above rubber edge. Realistic adult size that fits her, not giant shoes. Circular ankle patches belong ONLY to inner ankles. Reference 3 establishes the exact D06 attic: rear red brick gable, left casement window, timber roof rafters, open wooden trunk at left, upright round wooden stool beside trunk, rear workbench with lamp and cases, large right timber post, wide pale pine floorboards. Preserve that architecture and arrangement. Diffuse cool-neutral overcast daylight from existing left window, gently warm natural wood, tactile skin and fabric, understated 35mm cinematic photography. No sci-fi effects, no magical glow, no invented text or captions, no extra people or footwear. Low shoe-level close cinematic shot, camera 15cm above the pine floor looking across Luna's feet as she sits on the upright stool beside the open trunk. Crop her upper body naturally above the knees; this is a product action detail, no need to show her face. Both matching inherited high-tops are now worn correctly and tied with simple bows. Foreground RIGHT foot is planted completely FLAT: heel, midsole and forefoot all grounded, full continuous contact shadow, no air under toe, no raised tip or balancing on heel. LEFT foot stands separately behind it, anatomically natural and clearly distinguishable. View the outer right side with small cream repair, NOT an ankle badge on this outer face. Trousers hang naturally but reveal black high-top collars. Subject toe points gently leftward across frame; preserve visible space to both sides for a later camera move. Recognizable left open trunk, upright stool legs and rear brick wall softly blurred in background. No third shoe, no hand, no text, no initials, no floating foot, no double soles. The single action is the settled instant just after putting her weight through the shoe.",
+      "referenceImages": [
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png"
+      ],
+      "attempt": 1,
+      "selected": true,
+      "assetId": "adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b",
+      "status": "generated",
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "file": "creative/selection/assets/K02.png",
+      "filename": "assets/K02.png",
+      "createdAt": "2026-09-26T15:35:30.774Z",
+      "updatedAt": "2026-09-26T15:35:51.583Z",
+      "arcadsPath": "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+      "creditsCharged": 0,
+      "usedDailyLimit": true,
+      "resolution": "2K",
+      "persistedReferenceImages": [
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b_reference_image_0.png",
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b_reference_image_1.png",
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b_reference_image_2.png"
+      ],
+      "qa": {
+        "inspected": true,
+        "acceptedAs": "Starter keyframe, not locked final footage",
+        "strengths": [
+          "Both soles rest naturally on floor; no lifted toe.",
+          "Recognizable D06 low-angle geometry.",
+          "Two shoes, readable outer-right repair, no outer ankle badge."
+        ],
+        "limitations": [
+          "Repair rendered as a small cream patch rather than the exact P01 stitches; standardize product macro details before final close-ups.",
+          "No movement generated or validated."
+        ]
+      },
+      "titleFr": "Le contact",
+      "titleEn": "The contact",
+      "subtitleFr": "Image clé 02 · la semelle au sol",
+      "subtitleEn": "Keyframe 02 · sole meets floor",
+      "noteFr": "Le pied est bien posé au sol. Point de départ pour les tests présent → souvenir ; la petite reprise doit encore être standardisée.",
+      "noteEn": "The foot is firmly grounded. Starting point for present-to-memory tests; the small repair still needs standardization.",
+      "category": "keyframes",
+      "group": "story",
+      "motionTested": false,
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 6989151
+    },
+    {
+      "code": "K06",
+      "prompt": "Create ONE photorealistic cinematic movie still in horizontal 16:9, no collage or contact sheet. Reference 1 establishes the exact fictional 15-year-old girl Luna: preserve her youthful face, brown skin, strong brows, brown eyes, dark curly hair tied in a low loose ponytail, oversized charcoal cotton tee, olive cargo trousers. No tattoos or orange accessories. Reference 2 establishes the inherited black canvas Converse high-top pair: same flat ivory rubber soles, ivory toe caps, cream laces, silver eyelets, dark canvas, believable moderate wear and small cream repair on OUTER RIGHT shoe just above rubber edge. Realistic adult size that fits her, not giant shoes. Circular ankle patches belong ONLY to inner ankles. Reference 3 establishes the exact D06 attic: rear red brick gable, left casement window, timber roof rafters, open wooden trunk at left, upright round wooden stool beside trunk, rear workbench with lamp and cases, large right timber post, wide pale pine floorboards. Preserve that architecture and arrangement. Diffuse cool-neutral overcast daylight from existing left window, gently warm natural wood, tactile skin and fabric, understated 35mm cinematic photography. No sci-fi effects, no magical glow, no invented text or captions, no extra people or footwear. Medium-wide intimate ending. Same room with unchanged furniture, same daylight direction, no new sunlight beam. Luna stands near the large RIGHT timber post, facing towards the implied attic exit just beyond the right edge. Her entire body is visible head to shoes, in a natural relaxed stance with both feet planted and ready for the first ordinary step. She holds her scuffed wooden skateboard naturally upright by its front truck at her side with one hand; black grip, natural pale wheels, board entirely visible. Her face turns three-quarter back toward the open trunk and has a small private warm smile, the previous heaviness has softened. She wears exactly the SAME matching black high-top pair, both naturally fitted and grounded; no extra shoes in the room. Trouser hems sit above the upper tongues enough to permit later initials in post; no lettering now. Open trunk remains LEFT; small cream folded programme with grandfather portrait from reference 4 sits on its rim; monochrome teenage portrait from reference 5 inside trunk; marker lies on right trunk edge. These are flat small paper props, no additional live characters. Quiet unoccupied brick area to the left of her head and body for later brand line; no titles generated. Emotionally warmer through expression and subtle color response while preserving existing neutral window light.",
+      "referenceImages": [
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+        "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+        "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png"
+      ],
+      "attempt": 1,
+      "selected": false,
+      "assetId": "23922f90-0e2f-4cdf-8d4d-1d546c7488c7",
+      "status": "generated",
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "file": "creative/selection/assets/archive/K06-v1.png",
+      "filename": "assets/archive/K06-v1.png",
+      "createdAt": "2026-09-26T15:35:25.877Z",
+      "updatedAt": "2026-09-26T15:35:49.863Z",
+      "arcadsPath": "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7.png",
+      "creditsCharged": 0,
+      "usedDailyLimit": true,
+      "resolution": "2K",
+      "persistedReferenceImages": [
+        "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7_reference_image_0.png",
+        "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7_reference_image_1.png",
+        "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7_reference_image_2.png",
+        "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7_reference_image_3.png",
+        "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7_reference_image_4.png"
+      ],
+      "qa": {
+        "inspected": true,
+        "reasonForCorrection": "Trouser hems hide high-top collars; invented tiny programme lettering; paper props moved."
+      },
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 7297326
+    },
+    {
+      "code": "K01",
+      "prompt": "Precise limited correction of reference 1, this exact photographic movie still. Preserve Luna's face, dark low ponytail, charcoal tee, olive cargo pants, seated posture, hands and the same shoe held in her hands, the same camera composition, D06 attic and lighting, chest and skateboard. Correct the footwear on her feet: her anatomical LEFT foot, appearing on the RIGHT side of the frame nearest the stool's right leg, must wear the inherited black high-top; her anatomical RIGHT foot on the LEFT side of the frame must be in the plain pale-grey sock. Thus exactly two shoes total: one on her left foot and its matching right shoe in her hands. Do NOT alter the held shoe or add another. Move the folded grandfather funeral programme from the FLOOR onto the front rim of the trunk, leaning against the open lid; keep the small monochrome young portrait in its place. Replace the small funeral-program portrait with the exact silver-curly-haired older man with grey moustache from reference 2. Remove ALL WORDS and all lettering from this programme so it has only that small portrait on blank cream card. This is a physical paper prop, not an extra person. Do not change any other object, pose, camera or furniture. Natural photographic realism, no overlay labels.",
+      "referenceImages": [
+        "production/videoassets/4f6e47fe-f5ed-4826-8a8a-9d61b895e610.png",
+        "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png"
+      ],
+      "attempt": 2,
+      "selected": true,
+      "assetId": "c0a4f046-e4c1-44a1-811c-c96fc62d9413",
+      "status": "generated",
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "file": "creative/selection/assets/K01.png",
+      "filename": "assets/K01.png",
+      "createdAt": "2026-09-26T15:37:43.648Z",
+      "updatedAt": "2026-09-26T15:38:03.973Z",
+      "arcadsPath": "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+      "creditsCharged": 0,
+      "usedDailyLimit": true,
+      "resolution": "2K",
+      "persistedReferenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413_reference_image_0.png",
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413_reference_image_1.png"
+      ],
+      "qa": {
+        "inspected": true,
+        "acceptedAs": "Starter discovery frame; continuity details remain before final footage",
+        "strengths": [
+          "Luna face and original wardrobe retained.",
+          "D06 geometry and quiet diffuse light retained.",
+          "Exactly two shoes: one worn and one held; restrained expression.",
+          "Tiny invented programme lettering removed."
+        ],
+        "limitations": [
+          "Requested anatomical left/right footwear swap did not apply: camera-left foot still wears the shoe and camera-right foot is socked. Adapt insertion action or correct before final sequence.",
+          "Funeral programme remains on the floor by trunk instead of rim.",
+          "Small teenage photo disappeared in correction; its reintroduction needs consistent placement if required by script.",
+          "Skateboard grip rendering differs slightly from K06; lock board master before movement."
+        ]
+      },
+      "titleFr": "La découverte",
+      "titleEn": "The discovery",
+      "subtitleFr": "Image clé 01 · Luna et l’héritage",
+      "subtitleEn": "Keyframe 01 · Luna and the inheritance",
+      "noteFr": "Image de départ réaliste. Deux chaussures et identité conservée ; photo du jeune Rafa et placement du programme à harmoniser avant le film.",
+      "noteEn": "Realistic starter frame. Two shoes and preserved identity; young Rafa photo and programme placement need continuity work before the film.",
+      "category": "keyframes",
+      "group": "story",
+      "motionTested": false,
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 7208604
+    },
+    {
+      "code": "K06",
+      "prompt": "Precise limited correction of reference 1, this exact photographic ending still. Preserve Luna's exact face, hair, private smile, body pose, hands, skateboard, composition, all attic architecture, furniture and lighting. Raise ONLY the trouser hems by about eight centimeters so the ankle-high black canvas sneaker collars are unmistakably visible on both feet, with cream eyelets/laces and a small area of upper tongue exposed. She wears the same inherited black HIGH-TOP Converse as product reference 2, not low sneakers; preserve natural foot size and complete grounded soles. Move the folded grandfather funeral programme from the stool onto the FRONT RIM OF THE TRUNK, leaning against the open lid beside the young monochrome portrait. The programme must show ONLY the exact older silver-curly-haired grandfather portrait from reference 3 and BLANK cream paper, remove ALL WORDS and lettering. Replace the monochrome young portrait propped against the inside trunk lid with a small black-and-white portrait of the teenage boy in reference 4, same young face and white vest. These are small paper photos, not additional people. Leave the now-empty wooden stool upright and unchanged in position. Keep everything else exactly as in reference 1. No titles, no invented initials, no text overlays.",
+      "referenceImages": [
+        "production/videoassets/23922f90-0e2f-4cdf-8d4d-1d546c7488c7.png",
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+        "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png"
+      ],
+      "attempt": 2,
+      "selected": true,
+      "assetId": "4ba08891-e1cd-4928-9d90-b2b88f932fa1",
+      "status": "generated",
+      "model": "nano-banana-2",
+      "aspectRatio": "16:9",
+      "file": "creative/selection/assets/K06.png",
+      "filename": "assets/K06.png",
+      "createdAt": "2026-09-26T15:37:48.982Z",
+      "updatedAt": "2026-09-26T15:38:11.536Z",
+      "arcadsPath": "production/videoassets/4ba08891-e1cd-4928-9d90-b2b88f932fa1.png",
+      "creditsCharged": 0,
+      "usedDailyLimit": true,
+      "resolution": "2K",
+      "persistedReferenceImages": [
+        "production/videoassets/4ba08891-e1cd-4928-9d90-b2b88f932fa1_reference_image_0.png",
+        "production/videoassets/4ba08891-e1cd-4928-9d90-b2b88f932fa1_reference_image_1.png",
+        "production/videoassets/4ba08891-e1cd-4928-9d90-b2b88f932fa1_reference_image_2.png",
+        "production/videoassets/4ba08891-e1cd-4928-9d90-b2b88f932fa1_reference_image_3.png"
+      ],
+      "qa": {
+        "inspected": true,
+        "acceptedAs": "Starter ending frame; product and prop continuity need final pass",
+        "strengths": [
+          "Luna face and softened smile retained.",
+          "High-top collars now visible above slightly rolled trouser hems.",
+          "D06 composition, room anchors and skateboard retained.",
+          "Invented programme lettering removed; good quiet room area for later signature."
+        ],
+        "limitations": [
+          "Funeral programme remains on the stool instead of trunk rim; younger portrait remains an approximate generated face.",
+          "Visible circular ankle badge appears on the camera-facing outer ankle and should be corrected for product accuracy before final close-up.",
+          "Raised trouser cuffs differ from K01/K02; final wardrobe continuity needs one chosen hem length.",
+          "No initials added; intended for compositing later."
+        ]
+      },
+      "titleFr": "L’histoire continue",
+      "titleEn": "The story continues",
+      "subtitleFr": "Image clé 06 · Luna repart",
+      "subtitleEn": "Keyframe 06 · Luna moves on",
+      "noteFr": "Luna retrouve un sourire et prend son skate. Colliers des montantes visibles ; écusson et accessoires à harmoniser avant le film.",
+      "noteEn": "Luna finds a small smile and takes her board. High-top collars visible; ankle badge and props need continuity work before the film.",
+      "category": "keyframes",
+      "group": "story",
+      "motionTested": false,
+      "width": 2752,
+      "height": 1536,
+      "fileBytes": 7161572
+    }
+  ]
+}

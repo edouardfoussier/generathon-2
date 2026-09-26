@@ -14,7 +14,7 @@
   } catch (_) {}
   const t = key => strings[language][key] || strings.fr[key] || key;
   const field = (asset, key) => (language === 'en' ? asset[key + 'En'] : asset[key]) || asset[key] || '';
-  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production'].map((id, index) => ({
+  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes'].map((id, index) => ({
     id, number: String(index + 1).padStart(2, '0'),
     get label() { return strings[language].categories[id].label; },
     get title() { return strings[language].categories[id].title; },
@@ -103,6 +103,19 @@
   function card(asset) {
     const chosen = selected.has(asset.code), source = safeImageSource(asset);
     const code = escapeHtml(asset.code), title = field(asset, 'title'), subtitle = field(asset, 'subtitle');
+    if (asset.mediaType === 'video') {
+      const poster = safeImageSource({filename:asset.poster});
+      return '<article class="card video-card' + (chosen ? ' is-selected' : '') + '" data-code="' + code + '">' +
+        '<div class="image-wrap"><video controls playsinline preload="none"' +
+        (poster ? ' poster="' + escapeHtml(poster) + '"' : '') + ' src="' + escapeHtml(source) +
+        '" aria-label="' + escapeHtml(title) + '"></video><span class="card-code">' + code + '</span></div>' +
+        '<div class="card-content"><h3 class="card-title">' + escapeHtml(title) + '</h3><p class="card-subtitle">' +
+        escapeHtml(subtitle) + '</p><div class="card-bottom"><span class="model">' + escapeHtml(asset.model) +
+        '</span><button type="button" class="choose" data-choose="' + code + '" aria-pressed="' + chosen +
+        '" aria-label="' + t(chosen ? 'unchoose' : 'choose') + ' ' + code + '">' + choiceContent(chosen) +
+        '</button></div><p class="note">' + escapeHtml(field(asset, 'note')) + '</p><a class="media-download" href="' +
+        escapeHtml(source) + '" download>' + t('downloadVideo') + ' ↗</a></div></article>';
+    }
     return '<article class="card' + (chosen ? ' is-selected' : '') + '" data-code="' + code + '">' +
       '<div class="image-wrap"><button class="image-button" type="button" data-preview="' + code +
       '" aria-label="' + t('enlarge') + ' ' + code + ' : ' + escapeHtml(title) + '"><div class="image-frame">' +
@@ -197,7 +210,20 @@
         (group.id === 'grandpa' ? '<p class="production-footnote">' + t('productionAgeNote') + '</p>' : '') + '</section>').join('') +
       '<p class="production-footnote">' + t('productionCaveat') + '</p>';
   }
+  function scenesContent(items) {
+    const frames = items.filter(a => a.mediaType !== 'video');
+    const videos = items.filter(a => a.mediaType === 'video');
+    return '<div class="production-pitch"><p class="eyebrow">' + t('scenesKicker') + '</p><h3>' +
+      t('scenesTitle') + '</h3><p>' + t('scenesIntro') + '</p><nav class="production-jumps"><a href="' +
+      'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-production-bible-v1.md" target="_blank" rel="noopener noreferrer">' +
+      t('openScript') + ' ↗</a></nav></div>' +
+      (frames.length ? '<section class="team-group"><header class="team-group-heading"><span class="section-index">A</span><div><h3>' +
+        t('scenesFrames') + '</h3><p>' + t('scenesFramesDetail') + '</p></div></header><div class="grid">' + frames.map(card).join('') + '</div></section>' : '') +
+      (videos.length ? '<section class="team-group"><header class="team-group-heading"><span class="section-index">B</span><div><h3>' +
+        t('scenesTransitions') + '</h3><p>' + t('scenesTransitionsDetail') + '</p></div></header><div class="grid">' + videos.map(card).join('') + '</div></section>' : '');
+  }
   function renderGallery() {
+    $('gallery').querySelectorAll('video').forEach(video => video.pause());
     const visible = visibleAssets();
     if (!visible.length) {
       $('gallery').innerHTML = '<div class="empty"><h2>' + t(assets.length ? 'noReferences' : 'boardPreparing') +
@@ -216,7 +242,7 @@
         '" aria-labelledby="title-' + category.id + '"><header class="section-heading"><div class="section-title">' +
         '<span class="section-index">' + category.number + '</span><h2 id="title-' + category.id + '">' +
         category.title + '</h2></div><p class="section-detail">' + category.detail + '</p></header>' +
-        (category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
+        (category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
           (category.id === 'styles' ? styleIntroduction() : '') + '<div class="grid">' + items.map(card).join('') + '</div>') +
         '</section>' : '';
     }).join('');
@@ -224,6 +250,9 @@
       const asset = assetMap.get(img.closest('.card').dataset.code);
       img.parentElement.innerHTML = imageFallback(asset);
     }, {once:true}));
+    $('gallery').querySelectorAll('video').forEach(video => video.addEventListener('play', () => {
+      $('gallery').querySelectorAll('video').forEach(other => { if (other !== video) other.pause(); });
+    }));
   }
   function renderSelection() {
     const picked = assets.filter(a => selected.has(a.code));
@@ -294,7 +323,7 @@
   }
   function openLightbox(code, trigger) {
     returnFocus = trigger;
-    lightboxItems = visibleAssets().map(a => a.code);
+    lightboxItems = visibleAssets().filter(a => a.mediaType !== 'video').map(a => a.code);
     renderLightbox(code);
     lastBodyOverflow = document.body.style.overflow;
     document.body.style.overflow = 'hidden';
@@ -326,6 +355,7 @@
   $('explore-team').addEventListener('click', () => exploreCategory('equipe'));
   $('explore-hybrids').addEventListener('click', () => exploreCategory('hybrides'));
   $('explore-production').addEventListener('click', () => exploreCategory('production'));
+  $('explore-scenes').addEventListener('click', () => exploreCategory('scenes'));
   $('filters').addEventListener('click', e => {
     const button = e.target.closest('[data-filter]'); if (!button) return;
     activeCategory = button.dataset.filter; renderFilters(); renderGallery();
@@ -356,14 +386,14 @@
   });
   $('download').addEventListener('click', () => {
     const data = {
-      project:t('projectName'), exploration:5, language, exportedAt:new Date().toISOString(),
+      project:t('projectName'), exploration:6, language, exportedAt:new Date().toISOString(),
       selection:assets.filter(a => selected.has(a.code)).map(a => ({
         ...a, title:field(a, 'title'), subtitle:field(a, 'subtitle'), ...(a.note ? {note:field(a, 'note')} : {})
       }))
     };
     const blob = new Blob([JSON.stringify(data, null, 2) + '\n'], {type:'application/json;charset=utf-8'});
     const url = URL.createObjectURL(blob), link = document.createElement('a');
-    link.href = url; link.download = 'converse-selection-05.json'; document.body.appendChild(link);
+    link.href = url; link.download = 'converse-selection-06.json'; document.body.appendChild(link);
     link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 1000);
     notify(t('readyToDownload'));
   });
