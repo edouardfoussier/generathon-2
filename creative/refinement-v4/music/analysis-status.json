@@ -1,0 +1,28 @@
+{
+  "method": "External model-based listening analysis requested; no direct perceptual audition by agent.",
+  "jobs": [
+    {
+      "assetId": "e853d980-f23b-4b06-a490-9309b694abbf",
+      "track": "MU01",
+      "status": "failed",
+      "creditsCharged": 0,
+      "error": "Reference audio expands to 17.2 MB, over Gemini 15 MB limit."
+    },
+    {
+      "assetId": "ddd4e2c8-83bb-494b-b257-a4704037ff3e",
+      "track": "MU01",
+      "status": "failed",
+      "creditsCharged": 0,
+      "error": "Reference audio is too large for Gemini (17.2 MB, max 15 MB). Please use a smaller file.",
+      "retry": "Compressed MP3 retried once; provider still expands it above limit."
+    },
+    {
+      "assetId": "46ae8ba2-cc2f-4a0a-b21f-03dfccb0691d",
+      "track": "MU02",
+      "status": "pending",
+      "creditsCharged": 0,
+      "analysis": null
+    }
+  ],
+  "note": "No additional analysis submissions or retries will be made. Pending MU02 generation is not needed for the edit; technical checks are completed."
+}

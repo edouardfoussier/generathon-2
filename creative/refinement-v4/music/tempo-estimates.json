@@ -1,0 +1,10 @@
+{
+  "organic-latin-breakbeat-76s.wav": {
+    "automatedTempoCandidateBpm": 120.0,
+    "note": "Spectral-flux autocorrelation only; tempo/octave can be ambiguous; not a perceptual tempo certification."
+  },
+  "tactile-percussion-piano-76s.wav": {
+    "automatedTempoCandidateBpm": 120.0,
+    "note": "Spectral-flux autocorrelation only; tempo/octave can be ambiguous; not a perceptual tempo certification."
+  }
+}

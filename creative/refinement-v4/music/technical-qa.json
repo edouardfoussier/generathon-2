@@ -1,0 +1,189 @@
+{
+  "tracks": [
+    {
+      "code": "MU01",
+      "sourceFile": "organic-latin-breakbeat-original.wav",
+      "outputFile": "organic-latin-breakbeat-76s.wav",
+      "sourceSeconds": 94.040816,
+      "outputSeconds": 76.0,
+      "outputSha256": "28c97427650d867dc19ddc17d00e2b4751dbbe806a2e84724237593bff2e06f7",
+      "metadata": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "pcm_s16le",
+            "codec_long_name": "PCM signed 16-bit little-endian",
+            "codec_type": "audio",
+            "codec_tag_string": "[1][0][0][0]",
+            "codec_tag": "0x0001",
+            "sample_fmt": "s16",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bits_per_sample": 16,
+            "initial_padding": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "duration_ts": 3648000,
+            "duration": "76.000000",
+            "bit_rate": "1536000",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/music/organic-latin-breakbeat-76s.wav",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "wav",
+          "format_long_name": "WAV / WAVE (Waveform Audio)",
+          "duration": "76.000000",
+          "size": "14592078",
+          "bit_rate": "1536008",
+          "probe_score": 99,
+          "tags": {
+            "encoder": "Lavf62.12.101"
+          }
+        }
+      },
+      "editing": {
+        "sourceRangesSeconds": [
+          [
+            0,
+            46
+          ],
+          [
+            64,
+            94.040816
+          ]
+        ],
+        "crossfadeSeconds": 0.040816,
+        "note": "Original pitch/tempo retained; an 18-second middle portion is removed; original final cadence retained. Edit is provisional pending musical audition."
+      },
+      "loudnessMeasured": {
+        "input_i": "-14.56",
+        "input_tp": "-0.73",
+        "input_lra": "7.30",
+        "input_thresh": "-24.84",
+        "output_i": "-18.34",
+        "output_tp": "-3.55",
+        "output_lra": "6.80",
+        "output_thresh": "-28.63",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.66"
+      },
+      "fullDecodePassed": true
+    },
+    {
+      "code": "MU02",
+      "sourceFile": "tactile-percussion-piano-original.wav",
+      "outputFile": "tactile-percussion-piano-76s.wav",
+      "sourceSeconds": 76.042449,
+      "outputSeconds": 76.0,
+      "outputSha256": "7c4b30b4512732fc8bd953c8bad3fc8a0c843637beecce2210411e22ab18d794",
+      "metadata": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "pcm_s16le",
+            "codec_long_name": "PCM signed 16-bit little-endian",
+            "codec_type": "audio",
+            "codec_tag_string": "[1][0][0][0]",
+            "codec_tag": "0x0001",
+            "sample_fmt": "s16",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bits_per_sample": 16,
+            "initial_padding": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "duration_ts": 3648000,
+            "duration": "76.000000",
+            "bit_rate": "1536000",
+            "disposition": {
+              "default": 0,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/music/tactile-percussion-piano-76s.wav",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "wav",
+          "format_long_name": "WAV / WAVE (Waveform Audio)",
+          "duration": "76.000000",
+          "size": "14592078",
+          "bit_rate": "1536008",
+          "probe_score": 99,
+          "tags": {
+            "encoder": "Lavf62.12.101"
+          }
+        }
+      },
+      "editing": {
+        "sourceRangesSeconds": [
+          [
+            0,
+            76
+          ]
+        ],
+        "crossfadeSeconds": 0,
+        "note": "Only 42 ms of trailing provider excess removed. Original pitch/tempo and entire arrangement retained."
+      },
+      "loudnessMeasured": {
+        "input_i": "-14.42",
+        "input_tp": "-0.68",
+        "input_lra": "8.20",
+        "input_thresh": "-25.02",
+        "output_i": "-18.03",
+        "output_tp": "-1.50",
+        "output_lra": "5.30",
+        "output_thresh": "-28.44",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.97"
+      },
+      "fullDecodePassed": true
+    }
+  ],
+  "method": "ffprobe metadata, complete ffmpeg decoding and EBU R128 loudness measurement; no claim of human audition."
+}

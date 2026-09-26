@@ -1,0 +1,502 @@
+{
+  "status": "experimental-review",
+  "baselineUntouched": "../gpt-full-film-v1/renders/converse-gpt-seedance25-full-76s.mp4",
+  "durationSeconds": 76,
+  "notes": [
+    "Three extra inserts are editorial reframings, not newly generated angles.",
+    "Face treatments remain in the separate comparison; these soundtrack edits preserve FG01 faces except the new phone take.",
+    "Mom call begins 60.2s: sound bridge 0.8s before attic return.",
+    "Two score editions share identical encoded picture."
+  ],
+  "shots": [
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "start": 0,
+      "duration": 10,
+      "label": "Original opening and two dialogue lines",
+      "crop": null,
+      "timelineStart": 0,
+      "timelineEnd": 10
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "start": 10,
+      "duration": 2.5,
+      "label": "Shoebox discovery",
+      "crop": null,
+      "timelineStart": 10,
+      "timelineEnd": 12.5
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "start": 12.5,
+      "duration": 1.5,
+      "label": "Closer photograph insert",
+      "crop": "crop=iw*0.82:ih*0.82:iw*0.09:ih*0.09",
+      "timelineStart": 12.5,
+      "timelineEnd": 14.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/videos/phone-attic-v2.mp4",
+      "start": 0,
+      "duration": 8,
+      "label": "Luna photographs the physical print and asks AI",
+      "crop": null,
+      "timelineStart": 14.0,
+      "timelineEnd": 22.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "start": 22,
+      "duration": 2.5,
+      "label": "Luna puts on the inherited pair",
+      "crop": null,
+      "timelineStart": 22.0,
+      "timelineEnd": 24.5
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "start": 24.5,
+      "duration": 1.5,
+      "label": "Lace and canvas detail",
+      "crop": "crop=iw*0.82:ih*0.82:iw*0.09:ih*0.09",
+      "timelineStart": 24.5,
+      "timelineEnd": 26.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "start": 26,
+      "duration": 4,
+      "label": "Shoe-to-court match cut",
+      "crop": null,
+      "timelineStart": 26.0,
+      "timelineEnd": 30.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/basketball.mp4",
+      "start": 0,
+      "duration": 7,
+      "label": "Rafa shoots; net; smile; landing",
+      "crop": null,
+      "timelineStart": 30.0,
+      "timelineEnd": 37.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/salsa.mp4",
+      "start": 0,
+      "duration": 1.5,
+      "label": "Black and red shoes meet",
+      "crop": null,
+      "timelineStart": 37.0,
+      "timelineEnd": 38.5
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/videos/salsa-original.mp4",
+      "start": 0,
+      "duration": 5,
+      "label": "Salsa encounter \u2014 selected source",
+      "crop": null,
+      "timelineStart": 38.5,
+      "timelineEnd": 43.5
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/salsa.mp4",
+      "start": 6.5,
+      "duration": 1.5,
+      "label": "Footstep out of dance",
+      "crop": null,
+      "timelineStart": 43.5,
+      "timelineEnd": 45.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/wedding.mp4",
+      "start": 0,
+      "duration": 4,
+      "label": "Wedding doorway",
+      "crop": null,
+      "timelineStart": 45.0,
+      "timelineEnd": 49.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/newborn.mp4",
+      "start": 0,
+      "duration": 4,
+      "label": "Baby and hand insert",
+      "crop": null,
+      "timelineStart": 49.0,
+      "timelineEnd": 53.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/handover.mp4",
+      "start": 0,
+      "duration": 5.5,
+      "label": "Gift and lace gesture",
+      "crop": null,
+      "timelineStart": 53.0,
+      "timelineEnd": 58.5
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/handover.mp4",
+      "start": 5.5,
+      "duration": 1.25,
+      "label": "Father and daughter smile",
+      "crop": null,
+      "timelineStart": 58.5,
+      "timelineEnd": 59.75
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/handover.mp4",
+      "start": 6.75,
+      "duration": 1.25,
+      "label": "Closer daughter reaction",
+      "crop": "crop=iw*0.84:ih*0.84:iw*0.15:ih*0.06",
+      "timelineStart": 59.75,
+      "timelineEnd": 61.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/videos/luna-original.mp4",
+      "start": 0,
+      "duration": 4,
+      "label": "Luna returns; Mom call bridges the cut",
+      "crop": null,
+      "timelineStart": 61.0,
+      "timelineEnd": 65.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/return.mp4",
+      "start": 4,
+      "duration": 2,
+      "label": "Luna returns photo to box",
+      "crop": null,
+      "timelineStart": 65.0,
+      "timelineEnd": 67.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/videos/return.mp4",
+      "start": 6,
+      "duration": 5,
+      "label": "Luna asks Mom; Mom smiles",
+      "crop": null,
+      "timelineStart": 67.0,
+      "timelineEnd": 72.0
+    },
+    {
+      "source": "/Users/edouardfoussier/code/generathon-2/creative/gpt-full-film-v1/renders/converse-gpt-seedance25-full-76s.mp4",
+      "start": 72,
+      "duration": 4,
+      "label": "Conserve what matters endline",
+      "crop": null,
+      "timelineStart": 72.0,
+      "timelineEnd": 76.0
+    }
+  ],
+  "exports": [
+    {
+      "file": "renders/converse-refinement-v4-music-a-76s.mp4",
+      "sha256": "4cc25e88eb431815e7f8bc4a56e4f3b40865cf8a234e37c0dac3eacdf3958a29",
+      "metadata": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 1280,
+            "height": 720,
+            "coded_width": 1280,
+            "coded_height": 720,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 933888,
+            "duration": "76.000000",
+            "bit_rate": "2104713",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "1824",
+            "extradata_size": 47,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "encoder": "Lavc62.28.101 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3648000,
+            "duration": "76.000000",
+            "bit_rate": "195809",
+            "nb_frames": "3564",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "76.000000",
+          "size": "21909563",
+          "bit_rate": "2306269",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf62.12.101"
+          }
+        }
+      },
+      "decodePassed": true,
+      "volume": [
+        "[Parsed_volumedetect_0 @ 0xbf3050a80] mean_volume: -17.4 dB",
+        "[Parsed_volumedetect_0 @ 0xbf3050a80] max_volume: -1.3 dB"
+      ]
+    },
+    {
+      "file": "renders/converse-refinement-v4-music-b-76s.mp4",
+      "sha256": "c15b97ee4a6eddb6ae7b5cba3b53e29929f7342dcc42daddedf4d270e402f626",
+      "metadata": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.64001f",
+            "width": 1280,
+            "height": 720,
+            "coded_width": 1280,
+            "coded_height": 720,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 933888,
+            "duration": "76.000000",
+            "bit_rate": "2104713",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "1824",
+            "extradata_size": 47,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "encoder": "Lavc62.28.101 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3648000,
+            "duration": "76.000000",
+            "bit_rate": "197733",
+            "nb_frames": "3564",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/edouardfoussier/code/generathon-2/creative/refinement-v4/renders/converse-refinement-v4-music-b-76s.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "76.000000",
+          "size": "21927848",
+          "bit_rate": "2308194",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf62.12.101"
+          }
+        }
+      },
+      "decodePassed": true,
+      "volume": [
+        "[Parsed_volumedetect_0 @ 0x930838a80] mean_volume: -17.4 dB",
+        "[Parsed_volumedetect_0 @ 0x930838a80] max_volume: -1.0 dB"
+      ]
+    }
+  ],
+  "soundtrackComparisonPictureVerifiedIdentical": true,
+  "framesCompared": 1824,
+  "dialogueTimingSeconds": {
+    "lunaPhoneQuestion": [
+      14.7,
+      16.7075
+    ],
+    "phoneFrontalCut": 16.75,
+    "deviceReply": [
+      18.7,
+      20.659646
+    ],
+    "momCallStart": 60.2,
+    "lunaFinalStart": 67.1
+  },
+  "phoneSelected": "RF06 / phone-attic-v2.mp4",
+  "visualReview": "24-frame final contact sheet inspected; six sampled frames per new clip and targeted full-resolution details. Not a claim that every motion frame was visually reviewed."
+}

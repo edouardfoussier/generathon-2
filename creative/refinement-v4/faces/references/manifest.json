@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "createdAt": "2026-09-26T23:06:22.881Z",
+  "purpose": "Controlled painted-face references for Seedance 2.5 A/B video trials",
+  "provider": "Higgsfield",
+  "modelLabel": "Repainted reference (Nano Banana Pro requested; provider metadata Nano Banana 2)",
+  "estimatedCredits": 6,
+  "project": {
+    "project_id": "1c7b2ed2-a56f-4cac-96e7-d4879e0cba36",
+    "default_folder_id": "1c7b2ed2-a56f-4cac-96e7-d4879e0cba36",
+    "workspace_id": "0837df42-a27b-4d69-85cf-2df4097e22ff",
+    "name": "Converse — Conserve What Matters"
+  },
+  "sourcePolicy": "G continuity identities and costumes reinterpreted as visible gouache and charcoal; images are test candidates, not approved recasting.",
+  "assets": [
+    {
+      "id": "luna",
+      "jobId": "e03015b2-f329-42dc-abba-bfdaa536619d",
+      "status": "ready",
+      "referenceCodes": [
+        "CC01G",
+        "CL01G"
+      ],
+      "referenceAssets": [
+        {
+          "code": "CC01G",
+          "assetId": "83b130bd-2b42-44a2-accf-da227367982d",
+          "durablePath": "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png"
+        },
+        {
+          "code": "CL01G",
+          "assetId": "6f1b2db3-f3a7-446e-ab0e-059fd252b737",
+          "durablePath": "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png"
+        }
+      ],
+      "prompt": "Create one finished 16:9 film frame, a physical opaque GOUACHE AND CHARCOAL PAINTING ON COARSE IVORY PAPER. This is an intentional MEDIUM TRANSFORMATION, especially every face. Translate the recognizable facial proportions into 6–10 large angular paint shapes per cheek and forehead, ochre/rust/violet shadow planes, visibly dry brush bristles across the nose and jaw, broken charcoal eyebrow and eyelid marks. Paint irises and lips with 2–3 simple matte brush marks. Exposed paper grain appears THROUGH the skin shadows, not merely overlaid after rendering. Coarse consistent brush scale across face, neck, hands, clothes and environment. Faces must be as visibly handmade and simplified as the room. Do NOT reproduce photo-real skin from reference: no photographic detail, pores, skin smoothing, polished 3D, airbrush gradients, glossy doll eyes, beauty retouch, plastic shading, cinematic-photo depth of field, photomontage. Referenced sheets specify identities and locations only, not finish or layout. Single continuous composition, no panels, no frame border, no captions, letters or watermarks. Preserve age, ethnicity, overall face proportions and wardrobe while decisively simplifying facial rendering. Character identity is reference1 Luna, the SAME fictional 15-year-old girl, warm brown skin, brown eyes, dark curly LOW ponytail and flyaway curls, charcoal oversized plain T-shirt and PLAIN SOLID olive cargo trousers. No jewellery, no orange accessories, no adult makeup. Reference2 is the D06 attic architecture: exposed sloping wood rafters, warm brick gable, open window at LEFT, antique open wooden trunk, right timber post. Medium close shot waist-up of Luna seated on an ordinary wooden chair beside the trunk, body gently three-quarter toward camera; head turned to SCREEN RIGHT toward her mother's offscreen voice with a small thoughtful smile, lips closed, eyes alive but simply painted. Natural adolescent proportions. Her face occupies about a fifth of the width, near center-left. Camera at seated eye level. One relaxed hand rests on her knee, no other props held. Warm painted light from left on face and shoulder; cool violet-brown shaded face side, a few clear large paint strokes. The room stays a softly simplified gouache composition, NOT blurred photography. One person only. Leave right-side breathing room for her eyeline.",
+      "estimatedCredits": 2,
+      "localFile": "luna-nano-banana-pro.png",
+      "uploadedAt": "2026-09-26T23:08:23.633Z",
+      "qa": {
+        "inspected": true,
+        "positive": "Visible ochre and violet-brown painted face planes; charcoal edges consistent with attic, limbs and clothing.",
+        "limitations": "Face reads slightly older/more mature than CC01G. Initial gaze is screen-left despite requested screen-right. Attic trunk position is changed with new camera view. Image is a style trial, not cast approval."
+      },
+      "sourceLocalFile": "luna-nano-banana-pro.png",
+      "animationUploadFile": "luna-nano-banana-pro.jpg",
+      "assetId": "cdca53d3-0ffc-4a71-8efb-7d20b0a8252a",
+      "arcadsPath": "production/videoassets/cdca53d3-0ffc-4a71-8efb-7d20b0a8252a.png",
+      "modelRequested": "nano_banana_pro",
+      "modelReportedByStatus": "nano_banana_2",
+      "uploadNote": "Original PNG 10,546,667 bytes exceeded Arcads 10MB media limit. Both temp-key registration attempts returned INVALID_REFERENCE_IMAGES. Converted to high-quality JPEG with ffmpeg -q:v 2 (1,133,090 bytes); registration succeeded, Arcads persistent download is PNG. Geometry/composition unchanged; upload is lossy encoded."
+    },
+    {
+      "id": "salsa",
+      "jobId": "8d9e9d51-18af-4dee-9b8e-6da92a9a52ea",
+      "status": "ready",
+      "referenceCodes": [
+        "CC03G",
+        "CC06G",
+        "CL03G"
+      ],
+      "referenceAssets": [
+        {
+          "code": "CC03G",
+          "assetId": "6509991d-eda9-461a-8a23-cd7f747b8e86",
+          "durablePath": "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png"
+        },
+        {
+          "code": "CC06G",
+          "assetId": "829f59f6-07ce-4936-b7ad-f667e8116382",
+          "durablePath": "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png"
+        },
+        {
+          "code": "CL03G",
+          "assetId": "d20d9e88-e60b-477b-9cdb-08d214bf6f60",
+          "durablePath": "production/videoassets/d20d9e88-e60b-477b-9cdb-08d214bf6f60.png"
+        }
+      ],
+      "prompt": "Create one finished 16:9 film frame, a physical opaque GOUACHE AND CHARCOAL PAINTING ON COARSE IVORY PAPER. This is an intentional MEDIUM TRANSFORMATION, especially every face. Translate the recognizable facial proportions into 6–10 large angular paint shapes per cheek and forehead, ochre/rust/violet shadow planes, visibly dry brush bristles across the nose and jaw, broken charcoal eyebrow and eyelid marks. Paint irises and lips with 2–3 simple matte brush marks. Exposed paper grain appears THROUGH the skin shadows, not merely overlaid after rendering. Coarse consistent brush scale across face, neck, hands, clothes and environment. Faces must be as visibly handmade and simplified as the room. Do NOT reproduce photo-real skin from reference: no photographic detail, pores, skin smoothing, polished 3D, airbrush gradients, glossy doll eyes, beauty retouch, plastic shading, cinematic-photo depth of field, photomontage. Referenced sheets specify identities and locations only, not finish or layout. Single continuous composition, no panels, no frame border, no captions, letters or watermarks. Preserve age, ethnicity, overall face proportions and wardrobe while decisively simplifying facial rendering. Reference1 is Rafa, use ONLY LEFT dance outfit/identity: SAME 23-year-old Puerto Rican man, warm brown skin, short dense black curls, gentle broad-nosed face, clean shaven, muted terracotta/rust open-collar long-sleeve shirt with subtle sleeves pushed, dark warm-brown flared trousers, narrow brown belt. Reference2 is Elena, use ONLY LEFT dance outfit: SAME 22-year-old woman, medium-brown skin, shoulder-length dark curls, simple V-neck short-sleeve violet calf-length dress. Medium waist-up TWO-SHOT in 1977 salsa hall from reference3: honey wooden dancefloor, burgundy curtains, brick back wall and a little piano/conga stage, warm hanging amber bulbs. Rafa screen LEFT and Elena screen RIGHT facing each other at three-quarter angle; both faces clearly seen, different recognizable facial structures, looking into each other's eyes with shy smiles. They have just met and hold one hand each loosely between them at waist height, almost touching; fingers simple and anatomically plausible. Other hands relaxed. An intimate quiet beat before a first salsa step, slight anticipation in shoulders, camera eye height. No other people. Color planes of burnt sienna, apricot, violet and warm paper; charcoal loose contours and dry brush marks integrate their expressive faces with the room. Same roughness on cheeks as on curtains and clothes. No wedding clothes, no baby, no text.",
+      "estimatedCredits": 2,
+      "localFile": "salsa-nano-banana-pro-corrected.png",
+      "qa": {
+        "inspected": true,
+        "positive": "Corrected image restores Rafa's short black curls and brown trousers; Elena's shoulder-length curls and violet short sleeves. Coherent graphic gouache/charcoal faces and hands. Both faces visible; no photographic facial skin.",
+        "limitations": "This candidate has stronger cartoon-like facial simplification than the original G continuity sheets and the Luna reference. Identity is recognizably guided by cast but not an exact likeness lock. Two hands already joined, so generated hand-offer action may be abbreviated. Geographical hall details simplified into a stage view."
+      },
+      "correction": {
+        "jobId": "8d9e9d51-18af-4dee-9b8e-6da92a9a52ea",
+        "estimatedCredits": 2,
+        "prompt": "Edit ONLY the following precise character-continuity errors in the FIRST painted salsa frame. Keep the current scene layout, camera angle, dark charcoal sketch contours, rough matte gouache faces, palette, visible coarse skin paint planes, pose, lighting, and expressions exactly. REFERENCE2 identifies Rafa: his hair must be SHORT, DENSE, tightly clustered BLACK CURLS with no smooth quiff, no side part, no straight combed waves; retain same broad rounded nose and friendly rounded youthful face. He wears rust/terracotta long-sleeve open collar shirt and WARM BROWN trousers (not navy). REFERENCE3 identifies Elena: shoulder-length dense natural black CURLS ending at shoulders, never long smooth straight waves. Her VIOLET dress has SHORT SLEEVES covering the upper quarter of her arms, a modest V neckline, exactly LEFT outfit of reference3, not sleeveless. Preserve medium-brown skin and her youthful 22-year-old face. Correct these features with the same simplified 2D gouache and charcoal medium as the first image, not photographic faces; no new people, no other changes.",
+        "status": "completed"
+      },
+      "originalLocalFile": "salsa-nano-banana-pro.png",
+      "sourceJobId": "ac9be996-e4f0-48fa-9f33-a793f82e6767",
+      "assetId": "8ebe9f55-1b63-4748-8d81-a6e2a18c4e2a",
+      "arcadsPath": "production/videoassets/8ebe9f55-1b63-4748-8d81-a6e2a18c4e2a.png",
+      "modelRequested": "nano_banana_pro",
+      "modelReportedByStatus": "nano_banana_2"
+    }
+  ],
+  "modelRequested": "nano_banana_pro",
+  "modelReportedByStatus": "nano_banana_2",
+  "provenanceNote": "Generation submission accepted nano_banana_pro without a model fallback adjustment. Both completed-job status responses report nano_banana_2. Exact execution model therefore unverified; do not relabel this as confirmed Pro.",
+  "status": "ready",
+  "completedAt": "2026-09-26T23:13:03.497Z",
+  "credits": {
+    "provider": "Higgsfield",
+    "before": 152.37,
+    "after": 146.37,
+    "actualDelta": 6,
+    "generations": 3,
+    "estimatedPerImage": 2,
+    "arcadsRegistrationCredits": 0
+  }
+}

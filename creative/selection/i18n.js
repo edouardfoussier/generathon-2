@@ -1,5 +1,6 @@
 window.CONVERSE_I18N = {
   fr: {
+    refinementsTab: 'Raffinements',
     exploreMotionLab: "Animations · comparatif & motion design ↗",
     motionKicker: "Atelier 12 · De la référence au mouvement",
     motionTitle: "Des ouvertures aux films complets.",
@@ -194,6 +195,7 @@ window.CONVERSE_I18N = {
     }
   },
   en: {
+    refinementsTab: 'Refinements',
     exploreMotionLab: "Animations · comparison & motion design ↗",
     motionKicker: "Workshop 12 · From reference to motion",
     motionTitle: "From openings to complete films.",

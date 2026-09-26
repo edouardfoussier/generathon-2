@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "createdAt": "2026-09-26T23:04:06.380Z",
+  "targetSeconds": 76,
+  "provider": "ElevenLabs via Arcads, confirmed by completed asset metadata",
+  "originality": "Original instrumental prompts. No existing artist, song, franchise or brand sound requested.",
+  "tracks": [
+    {
+      "code": "MU01",
+      "title": "Organic Latin breakbeat",
+      "file": "organic-latin-breakbeat-76s.wav",
+      "assetId": "27f3be44-519c-4e10-a2ce-c473497ddc67",
+      "prompt": "Compose a fully original 76-second instrumental cue. Organic, kinetic breakbeat with Latin hand percussion, dry snare, warm electric bass, short muted-brass stabs, little piano motif, tactile brushed and shuffled textures. 120 BPM in 4/4; confident youthful energy and genuine human warmth, never epic or sentimental wallpaper. Absolutely no voice, vocals, humming, chanting or spoken words. Clear rhythmic edits and breathing spaces; music must sit beneath dialogue. Musical structure with approximate second marks: 0–10 sparse muted piano and soft rim clicks, playful curiosity, open midrange; 10–22 introduce muted bass and tick-tock percussion with restrained anticipation; at 22 a brief inhale/stop then a crisp pickup; 24–30 build into the groove with claps and a brush-swish; 30–38 bright full breakbeat, syncopated bass and two-note brass answers; 38–46 a joyful dance lift with congas and guiro, without changing tempo; 46–54 drop the drums to a tender piano/bass variation but keep forward motion; 54–61 bring handclaps and groove back with a loving, buoyant melody; 61–66 strip back suddenly to bass and soft rim clicks, leaving space for speech; 66–72 the warm motif returns with a modest emotional lift; 72–76 a decisive two-hit rhythmic signature, resolved major-color chord and short natural reverb tail ending exactly at 76 seconds. Memorable but minimal melody, punchy and detailed drums, polished stereo mix with strong mono compatibility; instrumental only.",
+      "sourceFile": "organic-latin-breakbeat-original.wav",
+      "status": "ready",
+      "creditsCharged": 24,
+      "actualSourceSeconds": 94.040816,
+      "model": "elevenlabs",
+      "provider": "elevenlabs",
+      "durationSeconds": 76,
+      "listenFile": "organic-latin-breakbeat-76s.mp3",
+      "qa": "technical-qa.json"
+    },
+    {
+      "code": "MU02",
+      "title": "Tactile percussion and piano",
+      "file": "tactile-percussion-piano-76s.wav",
+      "assetId": "34726ddf-ee51-4948-ac15-ff17c941c631",
+      "prompt": "Create a fully original 76-second instrumental track: a contemporary handcrafted cinematic groove, percussive and artful, full of forward momentum. 120 BPM, 4/4. A small intimate upright-piano two-note motif, dry hand drums, brushed snare, punchy warm kick, syncopated rounded bass, little woodblock and brushed-paper swishes, muted mallet accents. Imperfect human touch, tactile textures; energetic but never aggressive. No voice, no vocals, no hummed tones, no chanting or speech. Arrange with enough open midrange and quiet pockets for short spoken dialogue. Approximate musical arc: 0–8 close, sparse piano and brushed pulse, slightly mysterious; 8–20 add offbeat woodblock and bass anticipation without crowding speech; 20–24 one short pause and reverse-brush pickup; 24–30 build the kick and syncopation; 30–44 confident kinetic groove, distinct little rhythmic accents every two bars for montage edits, alive and joyful; 44–50 a small musical pivot from rhythmic excitement to warm major harmony; 50–60 intimate piano motif over flowing bass and soft hand percussion, tender yet moving; 60–65 drop to a hushed ticking pulse and warm piano sustain, plenty of space for dialogue; 65–72 grow into a hopeful understated return of the groove; 72–76 deliver a concise memorable percussive accent and warm final chord, natural reverb tail ends at 76 seconds. Avoid slow swelling pads, generic trailer drums, orchestral bombast and excessive melodic decoration. Dynamic but clean stereo mix, tight low end and strong mono compatibility.",
+      "sourceFile": "tactile-percussion-piano-original.wav",
+      "status": "ready",
+      "creditsCharged": 24,
+      "model": "elevenlabs",
+      "provider": "elevenlabs",
+      "actualSourceSeconds": 76.042449,
+      "durationSeconds": 76,
+      "listenFile": "tactile-percussion-piano-76s.mp3",
+      "qa": "technical-qa.json"
+    }
+  ],
+  "totalMusicCredits": 48,
+  "notes": [
+    "Timing directions are prompts, not guarantees. Both source cues preserved.",
+    "MU01 returned 94.040816 s despite the 76 s request. Editorial middle-phrase removal fits it to 76 s while retaining its final cadence.",
+    "MU02 returned 76.042449 s; excess trailing 42 ms trimmed.",
+    "No direct perceptual audition by the agent; technical QA complete. External audio-analysis results tracked separately."
+  ]
+}

@@ -18,6 +18,8 @@ Deliverables from the supplied brief:
 
 **[Animatic v1 remains available as AV01](creative/animatic-v1/README.md).** Its 76-second, 26-shot script-v2 edit combines 21 video-based shots, five still inserts, a score and an English maternal voice line. K01–K06 and TR01–TR03 remain the source explorations.
 
+**[Refinements workshop](creative/refinement-v4/index.html?lang=en)** adds side-by-side painted-face trials, a phone scene staged inside the attic, and two 76-second rhythm/soundtrack edits with original ElevenLabs music via Arcads. FG01 remains the approved baseline; experimental faces are separate choices. The [v2 audit](creative/refinement-v4/script-audit.md) explains what was reused, and the [v4 shot proposal](creative/refinement-v4/v4-shot-plan.md) restores detailed framing, inserts and sound bridges within the current story.
+
 ## Build your own edit
 
 [Converse Cut Room](creative/editor/README.md) compares the three complete films with synchronized previews, three source tracks, a final cut track, split/trim/reorder controls and MP4 export. **Veo starts selected throughout.**
@@ -76,7 +78,7 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | MD01 | 1 | Complete 76-second paper-collage ad using all 18 Nano Banana subjects |
 | FG01 | 1 | Complete 76-second GPT-reference Seedance film, preserving CV01G’s first 30 seconds |
 
-The latest tab is **Animations** (`?category=motionlab&lang=en`), with three opening comparisons, the complete paper film, playable exports and links to their continuity sources. **Continuity** (`?category=continuity&lang=en`) retains the 54 reference sheets with bilingual notes and downloads. The suffixes N, S and G identify Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst. **Illustrated** (`?category=illustrated&lang=en`) retains the earlier style tests. **Animatics** (`?category=animatic&lang=en`) retains the photographic model comparisons and links to Cut Room. The board contains 143 stills, five short clips, three 30-second openings and six full-film entries. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
+The new **Raffinements / Refinements** link opens a separate bilingual comparison workshop while preserving all 157 existing board cards. The **Animations** tab (`?category=motionlab&lang=en`) contains three opening comparisons, the complete paper film, playable exports and links to their continuity sources. **Continuity** (`?category=continuity&lang=en`) retains the 54 reference sheets with bilingual notes and downloads. The suffixes N, S and G identify Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst. **Illustrated** (`?category=illustrated&lang=en`) retains the earlier style tests. **Animatics** (`?category=animatic&lang=en`) retains the photographic model comparisons and links to Cut Room. The board contains 143 stills, five short clips, three 30-second openings and six full-film entries. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
 
 ## Where to continue
 

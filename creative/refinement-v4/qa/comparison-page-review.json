@@ -1,0 +1,112 @@
+{
+  "checkedAt": "2026-09-26T23:25:41.331824+00:00",
+  "scope": "Final bilingual comparison page with all completed trials and full music alternatives",
+  "syntaxChecksPassed": [
+    "comparison.js",
+    "comparison-data.js",
+    "../selection/board.js",
+    "../selection/i18n.js"
+  ],
+  "browserChecks": [
+    "French page loaded and visually reviewed",
+    "English page and every trial/film description reviewed; one English title corrected and rechecked",
+    "All 14 media loaded successfully, with 12 video players and 2 audio players",
+    "All three full films report 76.0 seconds",
+    "Zero pending placeholders after final build",
+    "Three salsa takes started muted together within 0.009 seconds and stopped at approximately five seconds",
+    "Luna group playback stopped at the shortest four-second baseline",
+    "Selecting RF03 updated choice export and persisted across page reload",
+    "Test preference cleared; blank choices restored; export disabled with zero choices",
+    "French restored and all media paused after QA",
+    "Original board Raffinements tab and return link navigated correctly"
+  ],
+  "readyMedia": [
+    {
+      "id": "luna-original",
+      "kind": "video",
+      "duration": 4.0
+    },
+    {
+      "id": "luna-prompt",
+      "kind": "video",
+      "duration": 5.042
+    },
+    {
+      "id": "luna-pro",
+      "kind": "video",
+      "duration": 5.042
+    },
+    {
+      "id": "salsa-original",
+      "kind": "video",
+      "duration": 5.0
+    },
+    {
+      "id": "salsa-prompt",
+      "kind": "video",
+      "duration": 5.042
+    },
+    {
+      "id": "salsa-pro",
+      "kind": "video",
+      "duration": 5.042
+    },
+    {
+      "id": "phone-original",
+      "kind": "video",
+      "duration": 7.0
+    },
+    {
+      "id": "phone-attic",
+      "kind": "video",
+      "duration": 8.042
+    },
+    {
+      "id": "phone-attic-v2",
+      "kind": "video",
+      "duration": 8.042
+    },
+    {
+      "id": "film-original",
+      "kind": "video",
+      "duration": 76.0
+    },
+    {
+      "id": "film-a",
+      "kind": "video",
+      "duration": 76.0
+    },
+    {
+      "id": "film-b",
+      "kind": "video",
+      "duration": 76.0
+    },
+    {
+      "id": "music-a",
+      "kind": "audio",
+      "duration": 76.0
+    },
+    {
+      "id": "music-b",
+      "kind": "audio",
+      "duration": 76.0
+    }
+  ],
+  "mediaErrors": [],
+  "pendingPlaceholders": 0,
+  "existing157CardsUnchanged": true,
+  "unchangedFiles": {
+    "creative/selection/assets.js": true,
+    "creative/selection/manifest.json": true
+  },
+  "proposedTimeline": {
+    "beats": 38,
+    "duration": 76,
+    "contiguous": true
+  },
+  "limits": [
+    "Browser checks used the current desktop viewport; mobile layout was not visually checked",
+    "Media loading and sampled layout review do not claim complete audio listening or frame-by-frame film review",
+    "Grouped playback is approximate browser synchronization, not a frame-locked editorial comparison"
+  ]
+}

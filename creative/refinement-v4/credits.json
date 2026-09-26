@@ -1,0 +1,9 @@
+{
+  "creditsBeforeArcads": 4624,
+  "creditsAfterArcads": 3048,
+  "videoCredits": 1512,
+  "musicAndPhoneVoicesCredits": 64,
+  "totalArcadsCredits": 1576,
+  "higgsfieldReferenceImageCredits": 6,
+  "note": "Separate balances. Arcads per-asset generation charges and observed balance reconcile. No charges for imports/registration; failed invalid-reference submission produced no asset."
+}

@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "creditsBefore": 4624,
+  "videoModel": "Seedance 2.5",
+  "status": "generated",
+  "stylePrompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.",
+  "scenes": [
+    {
+      "id": "luna-prompt",
+      "code": "RF01",
+      "duration": 5,
+      "referenceCodes": [
+        "CC01G",
+        "CL01G"
+      ],
+      "referenceImages": [
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+        "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png"
+      ],
+      "action": "ONE Luna, 15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers. Same D06 attic rafters, left window, warm brick gable and wooden floor. Medium-close three-quarter portrait, seated on an ordinary wooden chair, face unobstructed, soft window light from LEFT. She blinks after returning from a memory, hears an offscreen call, turns her eyes and head slightly toward screen RIGHT and slowly forms a tiny affectionate smile. Hold the smile for the final second. One continuous understated shot, camera makes a very gentle 10cm push, no angle changes. Natural age-appropriate face proportions. No other person, no phone.",
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nONE Luna, 15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers. Same D06 attic rafters, left window, warm brick gable and wooden floor. Medium-close three-quarter portrait, seated on an ordinary wooden chair, face unobstructed, soft window light from LEFT. She blinks after returning from a memory, hears an offscreen call, turns her eyes and head slightly toward screen RIGHT and slowly forms a tiny affectionate smile. Hold the smile for the final second. One continuous understated shot, camera makes a very gentle 10cm push, no angle changes. Natural age-appropriate face proportions. No other person, no phone.",
+      "assetId": "32e3b00f-44d4-4394-ba79-fa1098df04f3",
+      "status": "generated",
+      "submittedAt": "2026-09-26T23:05:38.657Z",
+      "localFile": "videos/luna-prompt.mp4",
+      "creditsCharged": 210
+    },
+    {
+      "id": "salsa-prompt",
+      "code": "RF02",
+      "duration": 5,
+      "referenceCodes": [
+        "CC03G",
+        "CC06G",
+        "CL03G"
+      ],
+      "referenceImages": [
+        "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png",
+        "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png",
+        "production/videoassets/d20d9e88-e60b-477b-9cdb-08d214bf6f60.png"
+      ],
+      "action": "Medium two-shot of ONE Rafa age23, short black curls, clean shaven, terracotta open-collar shirt and brown flared trousers, and ONE Elena age22, shoulder-length dark curls, VIOLET short-sleeve calf-length dress, as they meet in a warm 1977 salsa hall. Use LEFT outfit from each character sheet only; never wedding or home outfits. Wood floor, red curtains, gold lamps, muted purple bounce. They make eye contact; he smiles shyly, she offers her hand and he gently takes it; they make ONE simple side-step together. Faces stay clearly visible, believable hands and small movements. Single continuous medium two-shot with a gentle lateral camera drift, no cut, no dance spin, no extra people.",
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nMedium two-shot of ONE Rafa age23, short black curls, clean shaven, terracotta open-collar shirt and brown flared trousers, and ONE Elena age22, shoulder-length dark curls, VIOLET short-sleeve calf-length dress, as they meet in a warm 1977 salsa hall. Use LEFT outfit from each character sheet only; never wedding or home outfits. Wood floor, red curtains, gold lamps, muted purple bounce. They make eye contact; he smiles shyly, she offers her hand and he gently takes it; they make ONE simple side-step together. Faces stay clearly visible, believable hands and small movements. Single continuous medium two-shot with a gentle lateral camera drift, no cut, no dance spin, no extra people.",
+      "assetId": "1f6d3541-3149-430b-ac2b-3a2e5fbd2028",
+      "status": "generated",
+      "submittedAt": "2026-09-26T23:05:38.657Z",
+      "localFile": "videos/salsa-prompt.mp4",
+      "creditsCharged": 210
+    },
+    {
+      "id": "phone-attic",
+      "code": "RF05",
+      "duration": 8,
+      "referenceCodes": [
+        "CC01G",
+        "CL01G",
+        "CC02G"
+      ],
+      "referenceImages": [
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+        "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+        "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png"
+      ],
+      "action": "Luna age15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, sits in the D06 attic beside the open battered shoe case. LEFT window, brick, rafters, painted warm light. She uses a modern black phone to photograph a faded paper photograph of her young grandfather Rafa age16 in basketball clothes. The print shows Rafa with ONE basketball on the 1970 court; he is ONLY inside the print, never a live person in the attic. 0–3s: over Luna's RIGHT shoulder, her LEFT hand holds the old sepia print upright, RIGHT hand holds the phone vertically aimed at it. The phone camera screen shows a tiny painted view of that same paper photograph. She presses its shutter once with right thumb. Both hands stable, normal fingers, no extra devices. 3–5s: cut to medium-close three-quarter view of her painted face; she brings the phone closer to her chest, curious eyes on it as though awaiting a reply. Her mouth remains at rest; offscreen dialogue will be added later. 5–8s: same framing, phone gives an unhelpful response implied by her eyes dropping and a small disappointed exhale. She lowers the phone and looks back at the physical photo with tenderness. The phone remains a small diegetic prop, never full-screen UI. Screen is understated painted pale paper with two abstract grey line shapes, absolutely no legible text or generated lettering. Leave lower 15 percent of frame mostly dark plain torso/wood for concise editorial subtitles if needed. No AI holograms, neon, sci-fi portals or floating panels.",
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nLuna age15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, sits in the D06 attic beside the open battered shoe case. LEFT window, brick, rafters, painted warm light. She uses a modern black phone to photograph a faded paper photograph of her young grandfather Rafa age16 in basketball clothes. The print shows Rafa with ONE basketball on the 1970 court; he is ONLY inside the print, never a live person in the attic. 0–3s: over Luna's RIGHT shoulder, her LEFT hand holds the old sepia print upright, RIGHT hand holds the phone vertically aimed at it. The phone camera screen shows a tiny painted view of that same paper photograph. She presses its shutter once with right thumb. Both hands stable, normal fingers, no extra devices. 3–5s: cut to medium-close three-quarter view of her painted face; she brings the phone closer to her chest, curious eyes on it as though awaiting a reply. Her mouth remains at rest; offscreen dialogue will be added later. 5–8s: same framing, phone gives an unhelpful response implied by her eyes dropping and a small disappointed exhale. She lowers the phone and looks back at the physical photo with tenderness. The phone remains a small diegetic prop, never full-screen UI. Screen is understated painted pale paper with two abstract grey line shapes, absolutely no legible text or generated lettering. Leave lower 15 percent of frame mostly dark plain torso/wood for concise editorial subtitles if needed. No AI holograms, neon, sci-fi portals or floating panels.",
+      "assetId": "2a47b00d-030a-41df-ae00-1dcbdb2a6fa6",
+      "status": "generated",
+      "submittedAt": "2026-09-26T23:05:38.657Z",
+      "localFile": "videos/phone-attic.mp4",
+      "creditsCharged": 336
+    },
+    {
+      "id": "salsa-pro",
+      "code": "RF04",
+      "duration": 5,
+      "referenceCodes": [
+        "SALSA-REPAINT-CORRECTED"
+      ],
+      "referenceImages": [
+        "production/videoassets/8ebe9f55-1b63-4748-8d81-a6e2a18c4e2a.png"
+      ],
+      "action": "Medium two-shot of ONE Rafa age23, short black curls, clean shaven, terracotta open-collar shirt and brown flared trousers, and ONE Elena age22, shoulder-length dark curls, VIOLET short-sleeve calf-length dress, as they meet in a warm 1977 salsa hall. Use LEFT outfit from each character sheet only; never wedding or home outfits. Wood floor, red curtains, gold lamps, muted purple bounce. They make eye contact; he smiles shyly, she offers her hand and he gently takes it; they make ONE simple side-step together. Faces stay clearly visible, believable hands and small movements. Single continuous medium two-shot with a gentle lateral camera drift, no cut, no dance spin, no extra people.",
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nMedium two-shot of ONE Rafa age23, short black curls, clean shaven, terracotta open-collar shirt and brown flared trousers, and ONE Elena age22, shoulder-length dark curls, VIOLET short-sleeve calf-length dress, as they meet in a warm 1977 salsa hall. Use LEFT outfit from each character sheet only; never wedding or home outfits. Wood floor, red curtains, gold lamps, muted purple bounce. They make eye contact; he smiles shyly, she offers her hand and he gently takes it; they make ONE simple side-step together. Faces stay clearly visible, believable hands and small movements. Single continuous medium two-shot with a gentle lateral camera drift, no cut, no dance spin, no extra people.",
+      "assetId": "a098361d-c152-41f3-98b1-b276e95cfec9",
+      "status": "generated",
+      "submittedAt": "2026-09-26T23:12:06.411Z",
+      "localFile": "videos/salsa-pro.mp4",
+      "imageModelRequested": "Nano Banana Pro",
+      "imageModelReported": "Nano Banana 2",
+      "creditsCharged": 210
+    },
+    {
+      "id": "luna-pro",
+      "code": "RF03",
+      "duration": 5,
+      "referenceCodes": [
+        "LUNA-REPAINT"
+      ],
+      "referenceImages": [
+        "production/videoassets/cdca53d3-0ffc-4a71-8efb-7d20b0a8252a.png"
+      ],
+      "action": "ONE Luna, 15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers. Same D06 attic rafters, left window, warm brick gable and wooden floor. Medium-close three-quarter portrait, seated on an ordinary wooden chair, face unobstructed, soft window light from LEFT. She blinks after returning from a memory, hears an offscreen call, turns her eyes and head slightly toward screen RIGHT and slowly forms a tiny affectionate smile. Hold the smile for the final second. One continuous understated shot, camera makes a very gentle 10cm push, no angle changes. Natural age-appropriate face proportions. No other person, no phone.",
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nONE Luna, 15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers. Same D06 attic rafters, left window, warm brick gable and wooden floor. Medium-close three-quarter portrait, seated on an ordinary wooden chair, face unobstructed, soft window light from LEFT. She blinks after returning from a memory, hears an offscreen call, turns her eyes and head slightly toward screen RIGHT and slowly forms a tiny affectionate smile. Hold the smile for the final second. One continuous understated shot, camera makes a very gentle 10cm push, no angle changes. Natural age-appropriate face proportions. No other person, no phone.",
+      "assetId": "5f31b0fa-015c-40bb-a88c-e4b1e62a89fc",
+      "status": "generated",
+      "submittedAt": "2026-09-26T23:12:47.707Z",
+      "localFile": "videos/luna-pro.mp4",
+      "imageModelRequested": "Nano Banana Pro",
+      "imageModelReported": "Nano Banana 2",
+      "creditsCharged": 210
+    },
+    {
+      "id": "phone-attic-v2",
+      "code": "RF06",
+      "duration": 8,
+      "referenceCodes": [
+        "CC01G",
+        "CL01G",
+        "CC02G",
+        "FG01-PHYSICAL-PRINT-FRAME"
+      ],
+      "referenceImages": [
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+        "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+        "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png",
+        "production/videoassets/7af18636-21f4-4cad-97fa-48ab0624f957.png"
+      ],
+      "action": "Luna age15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, sits in the D06 attic beside the open battered shoe case. LEFT window, brick, rafters, painted warm light. She uses a modern black phone to photograph a small LANDSCAPE-ORIENTATION paper photograph of her young grandfather Rafa age16 in basketball clothes. Image 4 locks the EXACT physical photograph already seen in the preceding shot: a LANDSCAPE rectangular faded color print, width longer than height, worn cream paper border, FULL-LENGTH teenage Rafa in white tank, navy shorts, striped tube socks, black Converse on a Bronx playground with brick tenement walls and fence behind him, orange basketball at his side. It is a wide full-body historical snapshot, NOT a cropped portrait or a newly posed picture. Preserve the SAME image content, orientation, worn border and apparent paper proportions when Luna holds it and when it appears tiny on the phone screen. Luna holds this wide print in her left hand, never turns it into a portrait-oriented sheet. The print shows Rafa with ONE basketball on the 1970 court; he is ONLY inside the print, never a live person in the attic. 0–3s: over Luna's RIGHT shoulder, her LEFT hand holds the old sepia print upright, RIGHT hand holds the phone vertically aimed at it. The phone camera screen shows a tiny painted view of that same paper photograph. She presses its shutter once with right thumb. Both hands stable, normal fingers, no extra devices. 3–5s: cut to medium-close three-quarter view of her painted face; she brings the phone closer to her chest, curious eyes on it as though awaiting a reply. Her mouth remains at rest; offscreen dialogue will be added later. 5–8s: same framing, phone gives an unhelpful response implied by her eyes dropping and a restrained disappointed exhale, eyes never wide with surprise, no open-mouth gasp. She lowers the phone and looks back at the physical photo with tenderness. The phone remains a small diegetic prop, never full-screen UI. Screen is understated painted pale paper with two abstract grey line shapes, absolutely no legible text or generated lettering. Leave lower 15 percent of frame mostly dark plain torso/wood for concise editorial subtitles if needed. No AI holograms, neon, sci-fi portals or floating panels.",
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nLuna age15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, sits in the D06 attic beside the open battered shoe case. LEFT window, brick, rafters, painted warm light. She uses a modern black phone to photograph a small LANDSCAPE-ORIENTATION paper photograph of her young grandfather Rafa age16 in basketball clothes. Image 4 locks the EXACT physical photograph already seen in the preceding shot: a LANDSCAPE rectangular faded color print, width longer than height, worn cream paper border, FULL-LENGTH teenage Rafa in white tank, navy shorts, striped tube socks, black Converse on a Bronx playground with brick tenement walls and fence behind him, orange basketball at his side. It is a wide full-body historical snapshot, NOT a cropped portrait or a newly posed picture. Preserve the SAME image content, orientation, worn border and apparent paper proportions when Luna holds it and when it appears tiny on the phone screen. Luna holds this wide print in her left hand, never turns it into a portrait-oriented sheet. The print shows Rafa with ONE basketball on the 1970 court; he is ONLY inside the print, never a live person in the attic. 0–3s: over Luna's RIGHT shoulder, her LEFT hand holds the old sepia print upright, RIGHT hand holds the phone vertically aimed at it. The phone camera screen shows a tiny painted view of that same paper photograph. She presses its shutter once with right thumb. Both hands stable, normal fingers, no extra devices. 3–5s: cut to medium-close three-quarter view of her painted face; she brings the phone closer to her chest, curious eyes on it as though awaiting a reply. Her mouth remains at rest; offscreen dialogue will be added later. 5–8s: same framing, phone gives an unhelpful response implied by her eyes dropping and a restrained disappointed exhale, eyes never wide with surprise, no open-mouth gasp. She lowers the phone and looks back at the physical photo with tenderness. The phone remains a small diegetic prop, never full-screen UI. Screen is understated painted pale paper with two abstract grey line shapes, absolutely no legible text or generated lettering. Leave lower 15 percent of frame mostly dark plain torso/wood for concise editorial subtitles if needed. No AI holograms, neon, sci-fi portals or floating panels.",
+      "assetId": "cfad0f3c-5766-4b76-947e-de6829347eb2",
+      "status": "generated",
+      "submittedAt": "2026-09-26T23:15:17.674Z",
+      "localFile": "videos/phone-attic-v2.mp4",
+      "creditsCharged": 336
+    }
+  ],
+  "comparisonNote": "Original FG01 shots remain the editorial baseline. RF01/RF02 share one action and prompt each with their upcoming Pro-reference variant; stochastic generations are not pixel-controlled experiments.",
+  "creditsAfterObserved": 3048,
+  "videoCreditsCharged": 1512,
+  "phoneSelectedForDraft": "phone-attic-v2",
+  "facesInMusicEdits": "FG01 baseline faces; experimental face takes remain separate comparisons."
+}

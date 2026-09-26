@@ -92,7 +92,7 @@
     $('filters').innerHTML = [{id:'all', label:t('all')}, ...categories].map(c =>
       '<button type="button" class="filter" data-filter="' + c.id + '" aria-pressed="' +
       (activeCategory === c.id) + '">' + escapeHtml(c.label) + '</button>'
-    ).join('');
+    ).join('') + '<a class="filter" style="text-decoration:none;border-color:#b89070;color:#f2c8a5" href="../refinement-v4/index.html?lang=' + language + '">' + escapeHtml(t('refinementsTab')) + ' ↗</a>';
     $('favorites').setAttribute('aria-pressed', String(favoritesOnly));
     updateToolbarHeight();
   }

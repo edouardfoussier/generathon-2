@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Converse — Raffinements</title>
+  <link rel="stylesheet" href="comparison.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <a class="brand" id="back-link" href="../selection/index.html?category=motionlab">★ CONVERSE <span data-t="back">← La planche</span></a>
+      <div class="language" role="group" aria-label="Language / Langue"><button type="button" data-lang="fr">FR</button><button type="button" data-lang="en">EN</button></div>
+    </header>
+    <section class="hero">
+      <div><p class="eyebrow" data-t="eyebrow">Atelier 13 · Raffinements</p><h1 data-t="headline">La même histoire.<br>Plus de caractère.</h1></div>
+      <p class="hero-note" data-t="intro">Comparons la matière des visages, le téléphone dans le grenier et deux nouvelles musiques. Le film FG01 reste notre référence.</p>
+    </section>
+    <nav class="jump-nav" aria-label="Sections"><a href="#faces" data-t="facesNav">01 · Visages</a><a href="#phone" data-t="phoneNav">02 · Téléphone</a><a href="#music" data-t="musicNav">03 · Films & musique</a><a href="#script" data-t="scriptNav">04 · Scénario</a><a href="#choices" data-t="choicesNav">Mes choix ↓</a></nav>
+    <main>
+      <section id="faces" class="section">
+        <div class="section-head"><div><p class="eyebrow" data-t="facesEyebrow">01 · Une seule matière</p><h2 data-t="facesTitle">Les visages, côte à côte.</h2></div><p data-t="facesNote">A : le film actuel. B : les mêmes références GPT, avec un prompt peinture renforcé. C : une référence repeinte, puis le même langage vidéo.</p></div>
+        <div class="method"><span data-t="method1">Regarder la peau et les contours, pas seulement la netteté.</span><span data-t="method2">Vérifier que le personnage reste reconnaissable.</span><span data-t="method3">Comparer le visage, les mains et le décor dans la même matière.</span></div>
+        <div id="face-rows"></div>
+        <p class="small-note" data-t="comparisonLimit">Ces essais comparent des prises différentes d’une même scène. Les gestes et le cadrage peuvent varier ; ce n’est pas une comparaison image par image. Les lectures groupées sont muettes et s’arrêtent à la fin de la prise la plus courte.</p>
+        <details class="references"><summary data-t="referenceTitle">Voir les nouvelles références repeintes</summary><div id="reference-images" class="two-grid"></div></details>
+      </section>
+      <section id="phone" class="section"><div class="section-head"><div><p class="eyebrow" data-t="phoneEyebrow">02 · Le téléphone appartient au monde</p><h2 data-t="phoneTitle">Rester avec Luna.</h2></div><p data-t="phoneNote">La photo, ses mains, le coffre et le grenier racontent le geste. L’écran cesse d’interrompre le film.</p></div><div id="phone-cards" class="three-grid"></div></section>
+      <section id="music" class="section"><div class="section-head"><div><p class="eyebrow" data-t="musicEyebrow">03 · Le rythme, puis l’émotion</p><h2 data-t="musicTitle">Deux nouvelles pulsations.</h2></div><p data-t="musicNote">Deux bandes originales instrumentales, créées avec ElevenLabs via Arcads. Les versions A et B utilisent le même montage de travail pour comparer leur énergie.</p></div><div id="film-cards" class="three-grid films"></div><div id="audio-cards" class="two-grid audio-grid"></div><p class="small-note" data-t="filmLimit">Les montages de travail sont des propositions. Choisir un visage ci-dessus ne remonte pas automatiquement la vidéo et ne modifie pas FG01.</p></section>
+      <section id="script" class="section"><div class="section-head"><div><p class="eyebrow" data-t="scriptEyebrow">04 · Retrouver le découpage</p><h2 data-t="scriptTitle">Le v2 n’a pas été perdu.</h2></div><p data-t="scriptNote">Il a donné l’animatique de 26 plans. Le v3 a ensuite suivi votre nouveau récit. On reprend maintenant la précision du v2 dans l’histoire actuelle.</p></div><div class="script-grid"><article><span>01</span><h3 data-t="audit1Title">La voix traverse la coupe</h3><p data-t="audit1">Faire commencer l’appel de Maman pendant le souvenir : le son ramène Luna avant même que l’image ne change.</p></article><article><span>02</span><h3 data-t="audit2Title">Un geste, plusieurs échelles</h3><p data-t="audit2">Semelle, main, regard : quelques inserts courts relancent le rythme, puis les sourires ont le temps d’exister.</p></article><article><span>03</span><h3 data-t="audit3Title">Un effet a une raison</h3><p data-t="audit3">Une trace de pigment suit un appui ou un pivot. Trois accents précis suffisent ; l’émotion reste lisible.</p></article></div><div class="doc-links"><a href="script-audit.md" data-t="auditLink">Lire l’audit v2 → v3 → FG01 ↗</a><a href="v4-shot-plan.md" data-t="planLink">Lire le découpage v4 proposé · 76 s ↗</a><a href="https://www.youtube.com/watch?v=TYwrNRF9u-M" target="_blank" rel="noopener" data-t="inspirationLink">Référence Converse · MAKE. MOVE. REPEAT. ↗</a></div></section>
+      <section id="choices" class="choices"><div><p class="eyebrow" data-t="choicesEyebrow">À décider ensemble</p><h2 data-t="choicesTitle">Vos préférences.</h2><p data-t="choicesNote">Un choix par scène, sauvegardé dans ce navigateur. Exportez-le pour le partager à l’équipe.</p></div><div id="choice-list"></div><button type="button" id="export-choices" data-t="exportChoices">Télécharger mes choix ↗</button></section>
+    </main>
+    <footer><p data-t="footer">Essais de direction artistique et montages de travail · Conserve what matters.</p><a id="footer-back" href="../selection/index.html?category=motionlab" data-t="footerBack">Retour à toutes les explorations ↗</a></footer>
+  </div>
+  <div id="status" role="status" aria-live="polite" class="sr-only"></div>
+  <script src="comparison-data.js"></script>
+  <script src="comparison.js"></script>
+</body>
+</html>
