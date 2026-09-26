@@ -1,0 +1,34 @@
+{
+  "code": "A01",
+  "shots": [
+    "S01"
+  ],
+  "media": "image",
+  "args": {
+    "prompt": "Create a single photorealistic cinematic macro insert matching the supplied attic scene and shoe. Frame only a held black canvas high-top's OUTER right quarter and ivory rubber sidewall, toe points left, small rectangular cream textile repair just above the rubber, matching reference 2. Two fingertips from a teenage girl's hand gently touch the canvas from above. Accurate five-finger hand mostly outside frame. Worn fabric, warm cream laces, tactile modest wear. Preserve repair shape from ref2, no circular badge on this visible outside. Diffuse left window light, 100mm macro, shallow depth, blurred warm attic wood, no lettering, landscape16:9.",
+    "referenceImages": [
+      "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+      "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png"
+    ]
+  },
+  "submittedAt": "2026-09-26T16:38:09.451Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 175b0b51-c89f-4854-b98c-397c39d00e1e\n- **Type**: nano-banana-2\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:38:09 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "175b0b51-c89f-4854-b98c-397c39d00e1e",
+          "type": "nano-banana-2",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

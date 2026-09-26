@@ -1,0 +1,32 @@
+{
+  "code": "V25R1",
+  "shots": [
+    "S25"
+  ],
+  "media": "video",
+  "args": {
+    "prompt": "Maintain this exact tight macro framing of the hand and TOP HALF of the skateboard. As her hand lifts the board a few centimeters, the camera tracks UP by exactly the same distance, keeping the board nose and upper truck fixed at their current screen positions. The bottom half of the deck always stays outside the bottom of the frame. Keep exactly the original scratched natural wood and cream wheels, unchanged. A single gentle rigid board lift; anatomically stable fingers. Constant lens and magnification throughout. Silent scene, no dialogue or music.",
+    "startFrame": "production/videoassets/5caf3748-a191-44e6-884d-28f1470b8ed4.png",
+    "duration": 5
+  },
+  "submittedAt": "2026-09-26T16:46:13.034Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 12155caf-5cd0-40cc-91f2-5e31ea7f54f4\n- **Type**: kling_30\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:46:12 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "12155caf-5cd0-40cc-91f2-5e31ea7f54f4",
+          "type": "kling_30",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "status": "ready_for_exploratory_animatic",
+  "basePath": "repository_root",
+  "shots": [
+    {
+      "shot_id": "S01",
+      "media_type": "image",
+      "relativefile": "creative/animatic-v1/opening/stills/A01.png",
+      "source_in_seconds": 0,
+      "available_duration": null,
+      "disposition": "still",
+      "ready": true,
+      "qa": "Macro held shoe and fingers are clear; rectangle cream repair approximates K02 rather than original P01 stitches. Digital push 1.00→1.03 recommended; no generated stroking motion."
+    },
+    {
+      "shot_id": "S02",
+      "media_type": "video",
+      "relativefile": "creative/animatic-v1/opening/videos/V01.mp4",
+      "source_in_seconds": 0.25,
+      "available_duration": 6.041667,
+      "disposition": "generative_video",
+      "ready": true,
+      "qa": "Gentle push and thumb stroke, stable two-shoe count, sock and portrait visible. Original K01 lacks young photo present in following insert; intentional insert continuity approximation for rough cut."
+    },
+    {
+      "shot_id": "S04",
+      "media_type": "image",
+      "relativefile": "creative/animatic-v1/opening/stills/A02.png",
+      "source_in_seconds": 0,
+      "available_duration": null,
+      "disposition": "still",
+      "ready": true,
+      "qa": "Two real paper photos in one scene, young Rafa recognizable. Programme lies on trunk instead of floor seen in wide; explicit continuity mismatch for rough cut. Slight digital push."
+    },
+    {
+      "shot_id": "S05",
+      "media_type": "video",
+      "relativefile": "creative/animatic-v1/opening/videos/V03.mp4",
+      "source_in_seconds": 0,
+      "available_duration": 8.041667,
+      "disposition": "generative_video",
+      "ready": true,
+      "qa": "0–3s natural exhale and lowered eyes; slight lips parting but no visible conversation. Strong identity and stable lighting."
+    },
+    {
+      "shot_id": "S06",
+      "media_type": "video",
+      "relativefile": "creative/animatic-v1/opening/videos/V04.mp4",
+      "source_in_seconds": 0.5,
+      "available_duration": 5.041667,
+      "disposition": "generative_video",
+      "ready": true,
+      "qa": "Tiny weight shift; heel lifts slightly around2s despite wholly-grounded request. Ends grounded; second foot stable. Prefer use1.5–4.0s if rhythmic heel return helpful. Shoe remains black with small cream repair."
+    },
+    {
+      "shot_id": "S07",
+      "media_type": "video",
+      "relativefile": "creative/selection/assets/TR02.mp4",
+      "source_in_seconds": 1.65,
+      "available_duration": 6.041667,
+      "disposition": "reused_generative_video",
+      "ready": true,
+      "qa": "Existing whip-pan test, cut1.65–3.15s. Anchor shoes face left whereas S06 faces right; patch and hem differ. Experimental transition source, not corrected final product continuity. No new generation cost."
+    },
+    {
+      "shot_id": "S21",
+      "media_type": "video",
+      "relativefile": "creative/animatic-v1/opening/videos/V03.mp4",
+      "source_in_seconds": 5,
+      "available_duration": 8.041667,
+      "disposition": "generative_video",
+      "ready": true,
+      "qa": "5–8s warm half-smile, eyes rise toward upper-left. Same close-up footage as S05, used from later emotional moment."
+    },
+    {
+      "shot_id": "S24",
+      "media_type": "image",
+      "relativefile": "creative/animatic-v1/opening/stills/A24.png",
+      "source_in_seconds": 0,
+      "available_duration": null,
+      "disposition": "still",
+      "ready": true,
+      "qa": "Clear blank black tongue. COMPOSITE cream R.M. and L.M. in post. Suggested text area normalized x.39–.62,y.28–.50. No generated marker action."
+    },
+    {
+      "shot_id": "S25",
+      "media_type": "image",
+      "relativefile": "creative/animatic-v1/opening/stills/A25.png",
+      "source_in_seconds": 0,
+      "available_duration": null,
+      "disposition": "still",
+      "ready": true,
+      "qa": "Clean still selected after both motion attempts invented lower-deck graphics. Original script explicitly permits insert fallback; apply restrained1–3% digital push. No physical pickup motion is claimed."
+    },
+    {
+      "shot_id": "S26",
+      "media_type": "video",
+      "relativefile": "creative/animatic-v1/opening/videos/V22.mp4",
+      "source_in_seconds": 0.25,
+      "available_duration": 6.041667,
+      "disposition": "generative_video",
+      "ready": true,
+      "qa": "0.25–4.25s calm short advance then settles near right edge, usable empty left half. Small extra trailing foot adjustment rather than exactly one footstep. Board lowers/tilts during advance. Product cuff and outside badge corrected in anchor."
+    }
+  ]
+}

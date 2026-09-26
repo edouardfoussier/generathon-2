@@ -1,0 +1,32 @@
+{
+  "engine": "Native Higgsedit via Higgsfield MCP sandbox",
+  "audio": "FFmpeg mix, source clip audio replaced",
+  "fonts": [
+    "Caveat 700",
+    "Inter 900",
+    "Inter 600"
+  ],
+  "exports": [
+    {
+      "mediaId": "b4be8437-12c6-465f-ab1e-49331ac28db4",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/b4be8437-12c6-465f-ab1e-49331ac28db4.mp4",
+      "role": "final_video"
+    },
+    {
+      "mediaId": "12aac723-9509-4678-9984-2659ba834783",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/12aac723-9509-4678-9984-2659ba834783.jpg",
+      "role": "cover"
+    },
+    {
+      "mediaId": "26e81123-06e0-4819-adde-3ff747a23b05",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/26e81123-06e0-4819-adde-3ff747a23b05.zip",
+      "role": "edit_recipe"
+    }
+  ],
+  "arcadsCredits": 5456,
+  "notes": [
+    "First build exposed a native composition/spine lane collision; closing footage moved to a composition lane.",
+    "Initial font fallback was corrected by explicit native font registration before final render.",
+    "These three exports are confirmed uploads; signed transfer URLs are not retained."
+  ]
+}

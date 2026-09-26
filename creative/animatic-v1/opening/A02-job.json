@@ -1,0 +1,35 @@
+{
+  "code": "A02",
+  "shots": [
+    "S04"
+  ],
+  "media": "image",
+  "args": {
+    "prompt": "Create a single photorealistic 65mm photographic insert in the established attic: two small physical printed photographs resting on the open wooden trunk rim in diffuse left-window daylight. Foreground sharp: an aged cream-bordered monochrome portrait photograph of the EXACT fictional teenage boy in reference2, preserve face, dark curls and white basketball vest, recognizable same person. Behind it slightly out of focus: a folded plain cream funeral card containing ONLY a small monochrome portrait of the EXACT silver-haired moustached man in reference3. Blank card elsewhere. Same trunk and wood texture as reference1. No hands, no printed words, no letters, no collage or separate panels; these are two objects in one real scene.",
+    "referenceImages": [
+      "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+      "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+      "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png"
+    ]
+  },
+  "submittedAt": "2026-09-26T16:38:02.055Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 7ce3a117-f457-4e27-b12f-20cb4961808a\n- **Type**: nano-banana-2\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:38:01 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "7ce3a117-f457-4e27-b12f-20cb4961808a",
+          "type": "nano-banana-2",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

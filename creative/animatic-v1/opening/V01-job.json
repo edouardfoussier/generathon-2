@@ -1,0 +1,32 @@
+{
+  "code": "V01",
+  "shots": [
+    "S02"
+  ],
+  "media": "video",
+  "args": {
+    "prompt": "Slow straight camera push toward the seated girl. She softly strokes the held shoe once with her thumb, then becomes still with her gaze lowered. Understated breathing. Preserve her face, clothing, exactly two shoes, trunk, framed portrait and board placement. Continuous quiet live-action shot; lips closed, silent scene, no music.",
+    "startFrame": "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+    "duration": 6
+  },
+  "submittedAt": "2026-09-26T16:36:59.050Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 553a971e-b5b5-40ec-992c-e3ed463bd9f2\n- **Type**: kling_30\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:36:58 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "553a971e-b5b5-40ec-992c-e3ed463bd9f2",
+          "type": "kling_30",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

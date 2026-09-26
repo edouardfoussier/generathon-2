@@ -3,6 +3,8 @@
 **Scénario cinéma proposé / Proposed cinematic script · v2 · 26 September 2026**  
 **76 secondes · 26 plans de montage · signature de 72 à 76 s. / 76 seconds · 26 editorial shots · endline from 72 to 76 s.**
 
+**Mise à jour / Update:** une [animatique complète de 76 s](animatic-v1/README.md) a été produite à la demande de l’équipe. Les intentions ci-dessous restent le scénario de référence ; la source map de l’animatique distingue les gestes obtenus, les inserts fixes et les reprises nécessaires. / A complete 76-second animatic has been produced at the team's request. The intentions below remain the script reference; its source map records delivered actions, still inserts and necessary revisions.
+
 [Découpage CSV / Shot list](converse-shot-list-v2.csv) · [Bible v1 / Earlier bible](converse-production-bible-v1.md) · [Essais de transitions / Transition tests](converse-transition-tests-v1.md) · [Planche / Board](selection/index.html?category=scenes)
 
 ## Le changement de récit / The narrative change
@@ -11,7 +13,7 @@
 
 **EN —** The Converse do more than introduce Luna to the person who is gone. They help her understand the people who are still here. Across three memories, the same footwork becomes freedom, connection and care. Back in the attic, Luna recognizes her mother in the teenage girl from the memory. Elena offers her hand as she once offered it to Rafa. Three generations reconnect before Luna moves forward.
 
-**Statut / Status:** cette réécriture et la distribution secondaire sont **proposées**, pas validées par l’équipe. K01–K06 sont des images candidates existantes, pas 26 plans produits. Ce document ne lance aucune génération. Le minutage proposé est désormais **76 s**, contre 75 s dans v1. / This rewrite and supporting cast are **proposals**, not team-approved. K01–K06 are existing candidate images, not 26 completed shots. This document orders no generation. The proposed timing is now **76 s**, versus 75 s in v1.
+**Statut / Status:** réécriture et distribution secondaire utilisées pour l’animatique exploratoire autorisée ; validation créative finale encore ouverte. K01–K06 sont les images de départ, complétées par les nouvelles couvertures. Durée **76 s**, contre 75 s dans v1. / Rewrite and supporting cast used for the authorized exploratory animatic; final creative approval remains open. K01–K06 are starting frames supplemented by new coverage. Duration **76 s**, versus 75 s in v1.
 
 **Choix conservés / Preserved choices:** Luna T01/X01, visage G01, grenier D06, réalisme ; tenue L01 provisoire et paire noire héritée de type P01 à harmoniser. Les coupes sont autorisées. Pas de cimetière, de téléphone, de futur ou de changement de style dans cette version. / Luna T01/X01, G01 face, D06 attic, realism; provisional L01 wardrobe and inherited black P01-type pair to align. Cuts are allowed. No cemetery, phone, future setting or style changes in this version.
 

@@ -1,6 +1,8 @@
 # Planche de sélection — Converse
 
-80 références sur la planche au 26 septembre 2026 : **77 images et 3 vidéos**. Les images sont générées avec Nano Banana 2 dans Arcads ; les transitions vidéo avec Kling 3 Pro. Les 67 images des ateliers 01–05 comprennent : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
+81 entrées sur la planche au 26 septembre 2026 : **77 images, 3 transitions vidéo et 1 animatique complète**. Le nouvel onglet **Animatique / Animatic** présente AV01 : 76 secondes, 26 plans, musique originale et voix anglaise. [Notes du montage](../animatic-v1/README.md). Les images sont générées avec Nano Banana 2 dans Arcads ; les vidéos avec Kling 3 Pro. Les 67 images des ateliers 01–05 comprennent : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
+
+Pour servir la planche par HTTP, servir la **racine du dépôt**, puis ouvrir `/creative/selection/?category=animatic`, afin que le dossier voisin `creative/animatic-v1/` soit accessible. L’ouverture directe du fichier HTML reste possible.
 
 ## Utilisation
 

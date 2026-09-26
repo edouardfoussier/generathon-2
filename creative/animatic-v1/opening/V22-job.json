@@ -1,0 +1,32 @@
+{
+  "code": "V22",
+  "shots": [
+    "S26"
+  ],
+  "media": "video",
+  "args": {
+    "prompt": "Locked wide shot. The girl already holds the skateboard securely in one hand throughout. She takes just one slow calm first step diagonally forward-right, then pauses with a small hopeful smile. The board travels with her hand as one rigid object. Keep her within the right half of frame, left attic area undisturbed and calm for typography. Preserve shoes, straight trouser hems, photographs, light and architecture. Silent continuous shot, lips closed, no music or dialogue.",
+    "startFrame": "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png",
+    "duration": 6
+  },
+  "submittedAt": "2026-09-26T16:39:46.503Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 2963804f-2718-4b47-87f8-99293f331dd8\n- **Type**: kling_30\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:39:46 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "2963804f-2718-4b47-87f8-99293f331dd8",
+          "type": "kling_30",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

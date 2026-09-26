@@ -1,0 +1,72 @@
+{
+  "creditsBefore": 48454,
+  "creditsAfter": 42998,
+  "delta": 5456,
+  "units": [
+    {
+      "unit": "opening",
+      "jobs": 12,
+      "credits": 1680,
+      "assetIds": [
+        "553a971e-b5b5-40ec-992c-e3ed463bd9f2",
+        "7811e486-5d92-43e8-81ce-17b442a086cc",
+        "3ec59ee2-4061-4201-aeec-c1565b8f9324",
+        "175b0b51-c89f-4854-b98c-397c39d00e1e",
+        "7ce3a117-f457-4e27-b12f-20cb4961808a",
+        "e5166454-b6dd-4320-a857-0e80fa5ea67b",
+        "58356d04-164c-4924-b11c-e60ecdc461f2",
+        "9dabeccc-cfd1-4996-8c9f-e64dce6be23b",
+        "2963804f-2718-4b47-87f8-99293f331dd8",
+        "5caf3748-a191-44e6-884d-28f1470b8ed4",
+        "d5eba5c9-42cc-400c-8b95-be3d6dd3ba2c",
+        "12155caf-5cd0-40cc-91f2-5e31ea7f54f4"
+      ]
+    },
+    {
+      "unit": "memories",
+      "jobs": 15,
+      "credits": 1968,
+      "assetIds": [
+        "9c755662-3a6f-4c87-9303-901af4738883",
+        "f8049323-728f-40d5-aaa4-ea178bc072de",
+        "31ef9646-a121-45a8-bc3e-03c026ba3845",
+        "b1efe346-1e4d-4340-b7ed-13c5c11f602b",
+        "c2990e4c-e2e8-4d9b-887c-4e0fe4812173",
+        "19829bf4-76f6-45f5-94fc-51f41877e2f0",
+        "710e1860-b2d7-4c92-b4cc-31e4a259b465",
+        "63191226-632f-4c62-81cd-f9950fa4fb10",
+        "2a2f8598-32ee-49b2-8f52-a0c3f90c3b94",
+        "152db0b2-0a26-4266-a799-4d0c5cf46caf",
+        "4b969775-2eb4-4241-b6f0-000ac567977c",
+        "3970e06c-80e8-4aa3-b7e1-e263853d755d",
+        "0fcba06d-428c-4d23-ae14-1c969425e84e",
+        "dda2b701-492b-427f-91cb-6bd78e7fae38",
+        "ce8f12ce-52e2-436a-bc77-8d45ca0ddff0"
+      ]
+    },
+    {
+      "unit": "family",
+      "jobs": 13,
+      "credits": 1776,
+      "assetIds": [
+        "3e113801-80a5-4042-89ac-e1b7662f2a7f",
+        "83b0a694-c481-4dff-89b5-942aacf3e17d",
+        "f172e9dc-d717-43be-85a0-0f31e6391cda",
+        "157d7be0-fb80-4013-ab28-f180e5e084a7",
+        "e2c0606f-3d43-4868-932b-f20633d22dca",
+        "2ea5aa34-d314-4cbf-aee0-296280c49853",
+        "1275a00f-f8f9-4397-9232-986a8dcad5a8",
+        "814926b0-583b-430a-b972-b260434f214e",
+        "8725b2c4-0ba9-4674-8caa-1fa8d27e2ace",
+        "78e1a2f1-45ea-4365-be4c-59cdfb129a7d",
+        "f73a4c6c-6bed-4f3e-9b2e-11071da8836a",
+        "cdf17065-7d78-4da4-9c3f-37e130761705",
+        "2f3121f9-e89c-4e6a-9cf0-a9046c1e5c91"
+      ]
+    }
+  ],
+  "audioCredits": 32,
+  "reusedTransitionCreditsThisBatch": 0,
+  "total": 5456,
+  "note": "Use asset charges and balance delta. MCP billing-period counter currently reports a future period and is not used."
+}

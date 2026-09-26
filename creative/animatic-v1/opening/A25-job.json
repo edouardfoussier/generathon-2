@@ -1,0 +1,33 @@
+{
+  "code": "A25",
+  "shots": [
+    "S25"
+  ],
+  "media": "image",
+  "args": {
+    "prompt": "Reframe the supplied photorealistic scene into one intimate 65mm close-up of the girl's hand gently holding the TOP NOSE of this same vertical skateboard. Board lower tail rests on the wooden attic floor, her hand already curling securely over the rounded upper wooden edge ready to lift. Preserve exact battered natural wood underside, black trucks and cream wheels from reference, charcoal tee and olive straight-leg cargo trousers. Crop from waist to lower board, human face outside frame. One board, one anatomically natural hand. Quiet cinematic left-window light and shallow depth of field, real texture, no lettering. Landscape16:9.",
+    "referenceImages": [
+      "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png"
+    ]
+  },
+  "submittedAt": "2026-09-26T16:39:49.392Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 5caf3748-a191-44e6-884d-28f1470b8ed4\n- **Type**: nano-banana-2\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:39:49 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "5caf3748-a191-44e6-884d-28f1470b8ed4",
+          "type": "nano-banana-2",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

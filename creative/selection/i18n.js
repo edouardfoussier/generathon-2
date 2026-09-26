@@ -10,6 +10,12 @@ window.CONVERSE_I18N = {
     exploreHybrids: 'Pixel, argile & changements de style ↗',
     exploreProduction: "Luna, sa famille & décors réalistes ↗",
     exploreScenes: 'Six scènes & transitions vidéo ↗',
+    exploreAnimatic: 'Voir le premier montage · 76 s ↗',
+    animaticKicker: 'Atelier 08 · Le premier montage',
+    animaticTitle: 'Une paire. Une histoire en mouvement.',
+    animaticIntro: 'Le scénario cinéma v2 prend forme en 26 plans sur 76 secondes : scènes animées, inserts fixes, transitions et son provisoire en anglais. Cette animatique sert à juger le rythme, la compréhension et l’émotion avant les finitions.',
+    animaticGuide: 'Lire les notes de montage et de génération · FR / EN',
+    animaticReview: 'À regarder ensemble : comprend-on le lien entre les trois générations ? Les souvenirs arrivent-ils au bon moment ? Quels plans méritent plus de respiration ? Les écarts de raccord, de produit ou de mouvement restent à corriger pour la publicité finale.',
     scenesKicker: 'Atelier 06 · Du scénario à l’image',
     scenesTitle: 'Six moments. Une histoire.',
     scenesIntro: 'Premières images des scènes et essais vidéo de passage au souvenir. Luna, G01 et D06 servent de références. Le montage libre est confirmé pour Converse ; ces rendus restent à choisir et affiner.',
@@ -113,7 +119,8 @@ window.CONVERSE_I18N = {
       equipe: {label:'Pistes de l’équipe', title:'Les pistes de l’équipe', detail:'Rafa, Luna et les vies d’une paire.'},
       hybrides: {label:'Pixel & hybrides', title:'Pixel, argile & hybridations', detail:'Quand les chaussures changent le monde.'},
       production: {label:'Personnages & décors', title:'Luna, sa famille & lieux', detail:'Références réalistes · Ateliers 05 & 07'},
-      scenes: {label:'Scènes & transitions', title:'Les scènes prennent vie', detail:'Images clés et essais vidéo · Atelier 06'}
+      scenes: {label:'Scènes & transitions', title:'Les scènes prennent vie', detail:'Images clés et essais vidéo · Atelier 06'},
+      animatic: {label:'Animatique', title:'Le film, première lecture', detail:'76 secondes · 26 plans · Son anglais'}
     }
   },
   en: {
@@ -127,6 +134,12 @@ window.CONVERSE_I18N = {
     exploreHybrids: 'Pixels, clay & style switches ↗',
     exploreProduction: "Luna, her family & realistic locations ↗",
     exploreScenes: 'Six scenes & video transitions ↗',
+    exploreAnimatic: 'Watch the first cut · 76 s ↗',
+    animaticKicker: 'Workshop 08 · The first cut',
+    animaticTitle: 'One pair. A story in motion.',
+    animaticIntro: 'Cinematic script v2 takes shape in 26 shots across 76 seconds: animated scenes, still inserts, transitions and temporary English audio. This animatic helps us assess pacing, clarity and emotion before finishing the ad.',
+    animaticGuide: 'Read editing and generation notes · FR / EN',
+    animaticReview: 'Watch together: is the connection across three generations clear? Do the memories arrive at the right moment? Which shots need more breathing room? Remaining continuity, product and motion differences need correction for the final commercial.',
     scenesKicker: 'Workshop 06 · From script to frame',
     scenesTitle: 'Six moments. One story.',
     scenesIntro: 'First scene keyframes and moving tests for entering the memory. Luna, G01 and D06 anchor the images. Free editing is confirmed for Converse; these renders are still candidates to choose and refine.',
@@ -230,7 +243,8 @@ window.CONVERSE_I18N = {
       equipe: {label:'Team directions', title:'The team’s directions', detail:'Rafa, Luna and the lives of one pair.'},
       hybrides: {label:'Pixel & hybrids', title:'Pixels, clay & hybrid styles', detail:'When the shoes change the world.'},
       production: {label:'Characters & locations', title:'Luna, her family & locations', detail:'Photographic references · Workshops 05 & 07'},
-      scenes: {label:'Scenes & transitions', title:'The scenes come to life', detail:'Keyframes and motion tests · Workshop 06'}
+      scenes: {label:'Scenes & transitions', title:'The scenes come to life', detail:'Keyframes and motion tests · Workshop 06'},
+      animatic: {label:'Animatic', title:'The film, a first reading', detail:'76 seconds · 26 shots · English audio'}
     }
   }
 };

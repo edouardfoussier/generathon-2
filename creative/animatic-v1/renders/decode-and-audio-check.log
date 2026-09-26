@@ -1,0 +1,47 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'creative/animatic-v1/renders/converse-animatic-v1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf59.27.100
+  Duration: 00:01:16.00, start: 0.000000, bitrate: 5985 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 5786 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc59.37.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.101
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080, q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+    Metadata:
+      encoder         : Lavc62.28.101 wrapped_avframe
+      handler_name    : VideoHandler
+  Stream #0:1(und): Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.101 pcm_s16le
+      handler_name    : SoundHandler
+frame=  258 fps=0.0 q=-0.0 size=N/A time=00:00:07.80 bitrate=N/A speed=15.4x elapsed=0:00:00.50    frame=  554 fps=546 q=-0.0 size=N/A time=00:00:20.20 bitrate=N/A speed=19.9x elapsed=0:00:01.01    frame=  767 fps=506 q=-0.0 size=N/A time=00:00:29.20 bitrate=N/A speed=19.3x elapsed=0:00:01.51    frame= 1077 fps=529 q=-0.0 size=N/A time=00:00:42.00 bitrate=N/A speed=20.6x elapsed=0:00:02.03    frame= 1328 fps=523 q=-0.0 size=N/A time=00:00:52.40 bitrate=N/A speed=20.6x elapsed=0:00:02.54    frame= 1561 fps=513 q=-0.0 size=N/A time=00:01:02.10 bitrate=N/A speed=20.4x elapsed=0:00:03.04    frame= 1810 fps=510 q=-0.0 size=N/A time=00:01:12.60 bitrate=N/A speed=20.5x elapsed=0:00:03.54    [Parsed_loudnorm_0 @ 0x734c25680] 
+{
+	"input_i" : "-19.02",
+	"input_tp" : "-1.50",
+	"input_lra" : "9.70",
+	"input_thresh" : "-30.69",
+	"output_i" : "-18.35",
+	"output_tp" : "-1.50",
+	"output_lra" : "7.90",
+	"output_thresh" : "-29.56",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.35"
+}
+[out#0/null @ 0x734c24300] video:755KiB audio:57008KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 1824 fps=505 q=-0.0 Lsize=N/A time=00:01:16.00 bitrate=N/A speed=  21x elapsed=0:00:03.61    

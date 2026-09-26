@@ -1,0 +1,30 @@
+{
+  "status": "passed_with_documented_creative_limitations",
+  "file": "creative/animatic-v1/renders/converse-animatic-v1.mp4",
+  "sha256": "d7ab80928d3710839e5ca889351fd1e4b54f82d19df19a4203f8d1bbedd12761",
+  "duration_seconds": 76,
+  "video_frames": 1824,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "file_bytes": 56865581,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "integrated_loudness_lufs": -19.02,
+  "true_peak_dbtp": -1.5,
+  "full_decode_exit_code": 0,
+  "black_spans_detected": 0,
+  "timeline_shots": 26,
+  "video_based_shots": 21,
+  "still_inserts": [
+    "S01",
+    "S04",
+    "S16",
+    "S24",
+    "S25"
+  ],
+  "visual_review": "Midpoint of every exported shot; dedicated full-resolution initials and endline proofs; source-unit sampled frame reviews. S14 crop verified. No continuous perceptual playback claim.",
+  "audio_review": "Source voice transcription matches script; final decode and loudness measured. No independent full listening review.",
+  "known_limitations_document": "../README.md",
+  "review_priorities": "../review-priorities.md"
+}

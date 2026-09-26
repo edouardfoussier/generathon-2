@@ -1156,5 +1156,23 @@ window.CONVERSE_ASSETS = [
     "model": "nano-banana-2",
     "filename": "assets/M02.png",
     "status": "generated"
+  },
+  {
+    "code": "AV01",
+    "category": "animatic",
+    "group": "first-cut",
+    "mediaType": "video",
+    "title": "Conserve what matters · Animatique v1",
+    "titleEn": "Conserve what matters · Animatic v1",
+    "subtitle": "76 secondes · 26 plans · Son provisoire en anglais",
+    "subtitleEn": "76 seconds · 26 shots · Temporary English audio",
+    "note": "Premier montage exploratoire du scénario cinéma v2. Les scènes animées et les inserts fixes permettent de choisir le rythme avant les finitions. Les détails de la paire, des accessoires et certains raccords restent à harmoniser.",
+    "noteEn": "First exploratory cut of cinematic script v2. Animated scenes and still inserts help us choose the pacing before finishing. Shoe and prop details and some continuity cuts still need harmonizing.",
+    "aspectRatio": "16:9",
+    "model": "Arcads · Montage / Edit",
+    "filename": "../animatic-v1/renders/converse-animatic-v1.mp4",
+    "poster": "../animatic-v1/renders/cover.jpg",
+    "durationSeconds": 76,
+    "status": "animatic_candidate"
   }
 ];

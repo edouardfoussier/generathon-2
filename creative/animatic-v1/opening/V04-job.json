@@ -1,0 +1,32 @@
+{
+  "code": "V04",
+  "shots": [
+    "S06"
+  ],
+  "media": "video",
+  "args": {
+    "prompt": "Locked low camera. The foreground right foot makes one tiny realistic weight settlement, heel and forefoot remaining on the wooden floor throughout. Slight canvas flex then complete stillness. The rear left foot stays fixed. Preserve the two shoes, cream side repair, ankle sides and trouser hems exactly. Quiet continuous live-action shot, no dialogue or music.",
+    "startFrame": "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+    "duration": 5
+  },
+  "submittedAt": "2026-09-26T16:37:03.650Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 7811e486-5d92-43e8-81ce-17b442a086cc\n- **Type**: kling_30\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:37:03 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "7811e486-5d92-43e8-81ce-17b442a086cc",
+          "type": "kling_30",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "created": "2026-09-26T16:36:24.358Z",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "batch": "S08-S15 court and dance animatic passages",
+  "jobs": [
+    {
+      "code": "S08",
+      "type": "video",
+      "referenceCodes": [
+        "K03"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+        "prompt": "The teenage boy turns his head slightly toward an off-screen friend on the right and shows a small playful smile. His feet remain planted. He keeps the basketball held motionless at his right hip; his free hand rests by his thigh. A gentle twenty-centimeter lateral camera move reveals a little parallax in the fence and brick buildings. Restrained natural breathing, realistic warm late-afternoon light, subtle film grain. One uninterrupted take; maintain the exact actor, clothes, black high-top sneakers, ball and architecture. His mouth stays closed. Quiet natural ambience only.",
+        "duration": 5
+      },
+      "assetId": "9c755662-3a6f-4c87-9303-901af4738883",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:37:33.410Z",
+      "model": "kling-3-pro",
+      "createdAt": "2026-09-26T16:36:34.635Z",
+      "updatedAt": "2026-09-26T16:39:56.114Z",
+      "creditsCharged": 240,
+      "arcadsPath": "production/videoassets/9c755662-3a6f-4c87-9303-901af4738883.mp4",
+      "file": "creative/animatic-v1/memories/S08.mp4",
+      "qa": "1fps sampled review: ball stays at right hip, two feet planted, restrained head turn and smile. Camera tracks farther than the small requested distance but coherent and usable.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+        "prompt": "The teenage boy turns his head slightly toward an off-screen friend on the right and shows a small playful smile. His feet remain planted. He keeps the basketball held motionless at his right hip; his free hand rests by his thigh. A gentle twenty-centimeter lateral camera move reveals a little parallax in the fence and brick buildings. Restrained natural breathing, realistic warm late-afternoon light, subtle film grain. One uninterrupted take; maintain the exact actor, clothes, black high-top sneakers, ball and architecture. His mouth stays closed. Quiet natural ambience only.",
+        "duration": 5,
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 16176568,
+        "sha256": "18b734cdf8671586dc0c7a693f766d1b820a2d94dbd327fa99b2fd94450a0f3b",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S12",
+      "type": "video",
+      "referenceCodes": [
+        "K04"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+        "prompt": "The young woman on the right gently extends her already offered palm a few centimeters toward the young man on the left. He notices it and gives a restrained shy smile. Their hands remain clearly separated and their feet stay planted. Very slow subtle camera push-in. Preserve their exact faces, rust shirt, brown trousers, violet dress, burgundy shoes and black sneakers. Warm amber and plum dance-hall light stays stable. A single quiet invitation, realistic natural breathing, mouths closed throughout, soft room ambience only.",
+        "duration": 5
+      },
+      "assetId": "f8049323-728f-40d5-aaa4-ea178bc072de",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:37:33.411Z",
+      "model": "kling-3-pro",
+      "createdAt": "2026-09-26T16:36:55.270Z",
+      "updatedAt": "2026-09-26T16:38:58.917Z",
+      "creditsCharged": 240,
+      "arcadsPath": "production/videoassets/f8049323-728f-40d5-aaa4-ea178bc072de.mp4",
+      "file": "creative/animatic-v1/memories/S12.mp4",
+      "qa": "1fps sampled review: natural invitation with separated hands, restrained reaction and stable cast, room and pair.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+        "prompt": "The young woman on the right gently extends her already offered palm a few centimeters toward the young man on the left. He notices it and gives a restrained shy smile. Their hands remain clearly separated and their feet stay planted. Very slow subtle camera push-in. Preserve their exact faces, rust shirt, brown trousers, violet dress, burgundy shoes and black sneakers. Warm amber and plum dance-hall light stays stable. A single quiet invitation, realistic natural breathing, mouths closed throughout, soft room ambience only.",
+        "duration": 5,
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 9169876,
+        "sha256": "90a509c6b00cd1aad471b9f64340cb1161a26bd00dbdfbbc58be993564f15291",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S09-anchor",
+      "type": "image",
+      "referenceCodes": [
+        "K03",
+        "G12"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+          "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png"
+        ],
+        "prompt": "Reframe reference 1 as one photorealistic 75mm cinematic close-up of the SAME sixteen-year-old Rafa, from upper chest to head. Preserve exact identity: short dense dark curls, hazel-brown eyes, broad rounded nose, youthful olive-brown skin and plain white basketball tank. He looks slightly camera-right, mouth closed, relaxed expression just before a playful smile. Warm late-afternoon rim light and softly blurred Bronx brick fire escapes and chain-link fence from the same court. Reference 2 reinforces identity only. Natural skin, restrained 35mm grain. One frame, 16:9, no text."
+      },
+      "assetId": "31ef9646-a121-45a8-bc3e-03c026ba3845",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:37:33.411Z",
+      "model": "nano-banana-2",
+      "createdAt": "2026-09-26T16:37:05.165Z",
+      "updatedAt": "2026-09-26T16:37:25.506Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+      "file": "creative/animatic-v1/memories/S09-anchor.png",
+      "qa": "Visually inspected: youthful Rafa identity, white tank and court lighting coherent; correct rightward eyeline.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+          "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png"
+        ],
+        "prompt": "Reframe reference 1 as one photorealistic 75mm cinematic close-up of the SAME sixteen-year-old Rafa, from upper chest to head. Preserve exact identity: short dense dark curls, hazel-brown eyes, broad rounded nose, youthful olive-brown skin and plain white basketball tank. He looks slightly camera-right, mouth closed, relaxed expression just before a playful smile. Warm late-afternoon rim light and softly blurred Bronx brick fire escapes and chain-link fence from the same court. Reference 2 reinforces identity only. Natural skin, restrained 35mm grain. One frame, 16:9, no text.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 5935070,
+        "sha256": "17bc91bc6e59f59bacee74c7694be40d42eca9ea1778e328b9909ce1dd4d3117",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S10-anchor",
+      "type": "image",
+      "referenceCodes": [
+        "K03",
+        "P01"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "prompt": "Create one cinematic 65mm shoe-level close-up, camera 15cm above the same Bronx court pavement in reference 1. Show the OUTER SIDE of Rafa's RIGHT black canvas high-top sneaker, toe pointing screen-right, shoe centered slightly right occupying 40 percent frame width. It is on his foot, fully grounded, tall white tube sock with two burgundy rings. The left shoe stays partly visible far behind. Match reference 2's black high-top shape, cream cotton laces, off-white rubber toe and flat sole. 1970 recently bought state: lightly scuffed, intact plain black outer ankle, no repair, no initials. Inner ankle round badge is hidden on the opposite side. Same warm low sun, brick and fence bokeh, natural photographic grain. Single landscape frame; no text."
+      },
+      "assetId": "b1efe346-1e4d-4340-b7ed-13c5c11f602b",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:37:50.977Z",
+      "model": "nano-banana-2",
+      "createdAt": "2026-09-26T16:37:38.477Z",
+      "updatedAt": "2026-09-26T16:37:57.379Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+      "file": "creative/animatic-v1/memories/S10-anchor.png",
+      "qa": "Visually inspected: plain outer right ankle, far inner badge; no future repair. Shoe fills more than requested 40% of width; used this framing for matching dance plate.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+          "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png"
+        ],
+        "prompt": "Create one cinematic 65mm shoe-level close-up, camera 15cm above the same Bronx court pavement in reference 1. Show the OUTER SIDE of Rafa's RIGHT black canvas high-top sneaker, toe pointing screen-right, shoe centered slightly right occupying 40 percent frame width. It is on his foot, fully grounded, tall white tube sock with two burgundy rings. The left shoe stays partly visible far behind. Match reference 2's black high-top shape, cream cotton laces, off-white rubber toe and flat sole. 1970 recently bought state: lightly scuffed, intact plain black outer ankle, no repair, no initials. Inner ankle round badge is hidden on the opposite side. Same warm low sun, brick and fence bokeh, natural photographic grain. Single landscape frame; no text.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 6264232,
+        "sha256": "9b687ff82496c63cd59bb53d57f23ad95be5067a325b28bb286edaec93cb9268",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S14-anchor",
+      "type": "image",
+      "referenceCodes": [
+        "K04",
+        "EL02"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+          "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png"
+        ],
+        "prompt": "Reframe the woman in reference 1 into ONE 85mm cinematic close-up from upper chest to head in the same 1977 dance hall. Preserve the exact face, shoulder-length dark curls, warm brown skin, violet short-sleeved dress and neckline. Reference 2 LEFT portrait reinforces her YOUNG twenty-two-year-old identity only. She occupies center-right and looks camera-left toward Rafa, a small expectant smile, lips together. Her eyes at 40 percent frame height. Soft warm amber light from left, subtle plum rim, dark wine-red brick hall softly blurred behind. Realistic skin pores, restrained 35mm film grain. Single 16:9 frame, only young Elena, no lettering."
+      },
+      "assetId": "c2990e4c-e2e8-4d9b-887c-4e0fe4812173",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:37:50.977Z",
+      "model": "nano-banana-2",
+      "createdAt": "2026-09-26T16:37:45.056Z",
+      "updatedAt": "2026-09-26T16:38:05.616Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/c2990e4c-e2e8-4d9b-887c-4e0fe4812173.png",
+      "file": "creative/animatic-v1/memories/S14-anchor.png",
+      "qa": "Visually inspected: young Elena face matches EL02 young/K04, violet dress, leftward gaze and warm plum background.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+          "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png"
+        ],
+        "prompt": "Reframe the woman in reference 1 into ONE 85mm cinematic close-up from upper chest to head in the same 1977 dance hall. Preserve the exact face, shoulder-length dark curls, warm brown skin, violet short-sleeved dress and neckline. Reference 2 LEFT portrait reinforces her YOUNG twenty-two-year-old identity only. She occupies center-right and looks camera-left toward Rafa, a small expectant smile, lips together. Her eyes at 40 percent frame height. Soft warm amber light from left, subtle plum rim, dark wine-red brick hall softly blurred behind. Realistic skin pores, restrained 35mm film grain. Single 16:9 frame, only young Elena, no lettering.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 5984485,
+        "sha256": "8b6ac97717d986e229836ecbaf665e77a9b73ed75164acfa5ba21563b173ef5e",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S15-anchor",
+      "type": "image",
+      "referenceCodes": [
+        "K04",
+        "G13"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+          "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png"
+        ],
+        "prompt": "Reframe the man in reference 1 into ONE realistic 85mm cinematic close-up from upper chest to head in the same 1977 dance hall. Preserve twenty-three-year-old Rafa's exact face: short dense dark curls, hazel-brown eyes, broad rounded nose, olive-brown skin, clean-shaven, muted rust open-collar shirt. Reference 2 reinforces identity only. He occupies center-left and looks camera-right toward Elena with shy almost-smile, lips together. Warm amber face light, soft wine-red curtains and window bokeh behind, subtle plum edge light. Same natural skin and restrained 35mm grain. Single landscape 16:9 frame, no lettering."
+      },
+      "assetId": "19829bf4-76f6-45f5-94fc-51f41877e2f0",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:37:50.977Z",
+      "model": "nano-banana-2",
+      "createdAt": "2026-09-26T16:37:41.368Z",
+      "updatedAt": "2026-09-26T16:38:01.053Z",
+      "creditsCharged": 0,
+      "arcadsPath": "production/videoassets/19829bf4-76f6-45f5-94fc-51f41877e2f0.png",
+      "file": "creative/animatic-v1/memories/S15-anchor.png",
+      "qa": "Visually inspected: Rafa face and rust shirt consistent; out-of-focus Elena shoulder at right helps reverse geography.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+          "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png"
+        ],
+        "prompt": "Reframe the man in reference 1 into ONE realistic 85mm cinematic close-up from upper chest to head in the same 1977 dance hall. Preserve twenty-three-year-old Rafa's exact face: short dense dark curls, hazel-brown eyes, broad rounded nose, olive-brown skin, clean-shaven, muted rust open-collar shirt. Reference 2 reinforces identity only. He occupies center-left and looks camera-right toward Elena with shy almost-smile, lips together. Warm amber face light, soft wine-red curtains and window bokeh behind, subtle plum edge light. Same natural skin and restrained 35mm grain. Single landscape 16:9 frame, no lettering.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 6126375,
+        "sha256": "568395f19ab69214ec3576a1a99d140cb8539e337b84bed7631aceb27f2d6a32",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S13-anchor",
+      "type": "image",
+      "referenceCodes": [
+        "K04"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+        ],
+        "prompt": "Reframe reference 1 as ONE photorealistic cinematic close-up of their two hands, 85mm lens looking gently downward. Young Rafa's right hand enters from screen-left, muted rust long-sleeved shirt cuff visible; his relaxed fingers already rest gently together across young Elena's upturned LEFT palm coming from screen-right. A simple loose hand connection, both wrists fully visible, five plausible fingers per hand, no interlacing. A sliver of her violet dress on the right identifies her, his rust shirt on left. Background is the same amber oak dance floor in soft focus with plum edge light. Tactile natural skin, calm tenderness, restrained film grain. One 16:9 film still, no faces needed, no lettering."
+      },
+      "assetId": "710e1860-b2d7-4c92-b4cc-31e4a259b465",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:38:19.279Z",
+      "model": "nano-banana-2",
+      "createdAt": "2026-09-26T16:38:06.292Z",
+      "updatedAt": "2026-09-26T16:38:25.546Z",
+      "creditsCharged": 16,
+      "arcadsPath": "production/videoassets/710e1860-b2d7-4c92-b4cc-31e4a259b465.png",
+      "file": "creative/animatic-v1/memories/S13-anchor.png",
+      "qa": "Visually inspected: two plausible five-finger hands loosely resting, wrists visible, rust sleeve and violet dress consistent.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+        ],
+        "prompt": "Reframe reference 1 as ONE photorealistic cinematic close-up of their two hands, 85mm lens looking gently downward. Young Rafa's right hand enters from screen-left, muted rust long-sleeved shirt cuff visible; his relaxed fingers already rest gently together across young Elena's upturned LEFT palm coming from screen-right. A simple loose hand connection, both wrists fully visible, five plausible fingers per hand, no interlacing. A sliver of her violet dress on the right identifies her, his rust shirt on left. Background is the same amber oak dance floor in soft focus with plum edge light. Tactile natural skin, calm tenderness, restrained film grain. One 16:9 film still, no faces needed, no lettering.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 5647607,
+        "sha256": "9f3a3eecebff1828e34b0183b24efc610efbb6043ac9abb6658fd7d3e22ff109",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S09",
+      "type": "video",
+      "referenceCodes": [
+        "S09-anchor"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+        "duration": 5,
+        "prompt": "A small playful smile slowly forms on the boy's face as he looks toward his off-screen friend on the right. He holds the smile gently for the final two seconds. Tiny natural blink and breathing only. The camera remains locked. Preserve his youthful face, exact eye shape, curls, tank top and warm court light. A quiet closed-mouth smile, intimate cinematic realism; ambient outdoor air only."
+      },
+      "assetId": "63191226-632f-4c62-81cd-f9950fa4fb10",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:38:45.987Z",
+      "model": "kling-3-pro",
+      "creditsCharged": 240,
+      "createdAt": "2026-09-26T16:38:24.262Z",
+      "updatedAt": "2026-09-26T16:40:21.142Z",
+      "arcadsPath": "production/videoassets/63191226-632f-4c62-81cd-f9950fa4fb10.mp4",
+      "file": "creative/animatic-v1/memories/S09.mp4",
+      "qa": "1fps sampled review: recognizable young Rafa, gentle closed-mouth smile and small blink, stable identity; usable.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+        "duration": 5,
+        "prompt": "A small playful smile slowly forms on the boy's face as he looks toward his off-screen friend on the right. He holds the smile gently for the final two seconds. Tiny natural blink and breathing only. The camera remains locked. Preserve his youthful face, exact eye shape, curls, tank top and warm court light. A quiet closed-mouth smile, intimate cinematic realism; ambient outdoor air only.",
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 6529443,
+        "sha256": "e676f5f5390beebc204aa63b8225fb81299802d8fa2e819475e509547ecd8d33",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S10",
+      "type": "video",
+      "referenceCodes": [
+        "S10-anchor"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+        "duration": 5,
+        "prompt": "Locked shoe-level camera. The foreground right foot makes one small fifteen-degree pivot on the ball of the foot, briefly lifting the heel only a centimeter, then settles. Its toe gently turns farther screen-right. The far left foot remains still. Keep the exact plain outer black canvas panel, cream laces and rubber sole stable; the near shoe has no ankle badge. Maintain both socks, shoe proportions, warm court light and pavement. A small realistic basketball footwork gesture, one uninterrupted take, soft sole scuff and outdoor ambience only."
+      },
+      "assetId": "2a2f8598-32ee-49b2-8f52-a0c3f90c3b94",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:39:08.350Z",
+      "model": "kling-3-pro",
+      "creditsCharged": 240,
+      "createdAt": "2026-09-26T16:38:49.188Z",
+      "updatedAt": "2026-09-26T16:40:57.111Z",
+      "arcadsPath": "production/videoassets/2a2f8598-32ee-49b2-8f52-a0c3f90c3b94.mp4",
+      "file": "creative/animatic-v1/memories/S10.mp4",
+      "qa": "1fps sampled review: foreground plain outer ankle stays coherent; heel rise and pivot larger than requested and rear foot also moves. Two coherent shoes throughout sampled frames. Match cut is approximate, choose motion frame.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+        "duration": 5,
+        "prompt": "Locked shoe-level camera. The foreground right foot makes one small fifteen-degree pivot on the ball of the foot, briefly lifting the heel only a centimeter, then settles. Its toe gently turns farther screen-right. The far left foot remains still. Keep the exact plain outer black canvas panel, cream laces and rubber sole stable; the near shoe has no ankle badge. Maintain both socks, shoe proportions, warm court light and pavement. A small realistic basketball footwork gesture, one uninterrupted take, soft sole scuff and outdoor ambience only.",
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 6244774,
+        "sha256": "45c05a4f13580e245133ebcfc03d1c3c5c0d79891b655eb50e9dca6464092ba9",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S14",
+      "type": "video",
+      "referenceCodes": [
+        "S14-anchor"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/c2990e4c-e2e8-4d9b-887c-4e0fe4812173.png",
+        "duration": 5,
+        "prompt": "A warm smile slowly opens on the young woman's face while she keeps looking toward the man off-screen left. Her eyes soften and she gives a tiny natural blink. Hold the smile for the final two seconds. Locked camera, only subtle breathing. Preserve exact youthful identity, curls, violet dress, amber and plum light. Her lips remain together in a gentle smile. Realistic restrained emotion and quiet room ambience."
+      },
+      "assetId": "152db0b2-0a26-4266-a799-4d0c5cf46caf",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:39:08.350Z",
+      "model": "kling-3-pro",
+      "creditsCharged": 240,
+      "createdAt": "2026-09-26T16:38:55.240Z",
+      "updatedAt": "2026-09-26T16:40:51.023Z",
+      "arcadsPath": "production/videoassets/152db0b2-0a26-4266-a799-4d0c5cf46caf.mp4",
+      "file": "creative/animatic-v1/memories/S14.mp4",
+      "qa": "1fps sampled review: warm smile and stable identity. Original invents a blurry white-shirt shoulder at far left. Required editorial crop x480,y0,w1440,h810 removes it; cropped frame at2s inspected.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/c2990e4c-e2e8-4d9b-887c-4e0fe4812173.png",
+        "duration": 5,
+        "prompt": "A warm smile slowly opens on the young woman's face while she keeps looking toward the man off-screen left. Her eyes soften and she gives a tiny natural blink. Hold the smile for the final two seconds. Locked camera, only subtle breathing. Preserve exact youthful identity, curls, violet dress, amber and plum light. Her lips remain together in a gentle smile. Realistic restrained emotion and quiet room ambience.",
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 5005943,
+        "sha256": "5786c17edac2c67e222f23e39367b4202ef0f8eee6da5073a0191ce5988a13b6",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S15",
+      "type": "video",
+      "referenceCodes": [
+        "S15-anchor"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/19829bf4-76f6-45f5-94fc-51f41877e2f0.png",
+        "duration": 5,
+        "prompt": "The young man lowers his eyes briefly, then raises them toward the woman on screen-right and lets himself smile with quiet confidence. Hold his final small smile for two seconds. Locked close-up camera, tiny natural breathing. Preserve his exact face, curls and rust shirt, the softly out-of-focus woman at right, and stable amber-plum dance-hall light. He stays planted, lips together, one restrained reaction, quiet room ambience."
+      },
+      "assetId": "4b969775-2eb4-4241-b6f0-000ac567977c",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:39:08.350Z",
+      "model": "kling-3-pro",
+      "creditsCharged": 240,
+      "createdAt": "2026-09-26T16:38:52.461Z",
+      "updatedAt": "2026-09-26T16:40:54.998Z",
+      "arcadsPath": "production/videoassets/4b969775-2eb4-4241-b6f0-000ac567977c.mp4",
+      "file": "creative/animatic-v1/memories/S15.mp4",
+      "qa": "1fps sampled review: gaze lowers then returns right, restrained smile, rust shirt and foreground Elena curls coherent.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/19829bf4-76f6-45f5-94fc-51f41877e2f0.png",
+        "duration": 5,
+        "prompt": "The young man lowers his eyes briefly, then raises them toward the woman on screen-right and lets himself smile with quiet confidence. Hold his final small smile for two seconds. Locked close-up camera, tiny natural breathing. Preserve his exact face, curls and rust shirt, the softly out-of-focus woman at right, and stable amber-plum dance-hall light. He stays planted, lips together, one restrained reaction, quiet room ambience.",
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 6632801,
+        "sha256": "2c3840fd7b2649cbfc17fbc3791224938978c6fd80dbd2d1680266fa9932e814",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S11-anchor",
+      "type": "image",
+      "referenceCodes": [
+        "S10-anchor",
+        "K04"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+        ],
+        "prompt": "Transform reference 1 into the matching 1977 dance-floor detail, keeping EXACT foreground right shoe screen position, scale, profile and camera angle. Replace tube socks and bare calves with Rafa's warm dark-brown slightly flared trouser hems from reference 2, covering the tops but revealing black canvas sides and off-white toes. Replace court pavement/background with the amber oak floor and softly blurred wine-purple dance hall from reference 2. Keep the SAME black high-top shoes, now lightly more worn, cream laces, plain OUTER right ankle without badge, no repair or initials. The far left shoe stays behind. A single burgundy low-heeled Mary Jane belonging to Elena is small and distant on upper right, separate from his feet. Foreground foot fully grounded, toe pointing screen-right. One realistic 65mm cinematic close-up, 16:9, no lettering."
+      },
+      "assetId": "3970e06c-80e8-4aa3-b7e1-e263853d755d",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:39:30.622Z",
+      "model": "nano-banana-2",
+      "creditsCharged": 16,
+      "createdAt": "2026-09-26T16:39:10.943Z",
+      "updatedAt": "2026-09-26T16:39:33.761Z",
+      "arcadsPath": "production/videoassets/3970e06c-80e8-4aa3-b7e1-e263853d755d.png",
+      "file": "creative/animatic-v1/memories/S11-anchor.png",
+      "qa": "Rejected for animation: duplicated blurry standing Rafa in background.",
+      "selected": false,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+          "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+        ],
+        "prompt": "Transform reference 1 into the matching 1977 dance-floor detail, keeping EXACT foreground right shoe screen position, scale, profile and camera angle. Replace tube socks and bare calves with Rafa's warm dark-brown slightly flared trouser hems from reference 2, covering the tops but revealing black canvas sides and off-white toes. Replace court pavement/background with the amber oak floor and softly blurred wine-purple dance hall from reference 2. Keep the SAME black high-top shoes, now lightly more worn, cream laces, plain OUTER right ankle without badge, no repair or initials. The far left shoe stays behind. A single burgundy low-heeled Mary Jane belonging to Elena is small and distant on upper right, separate from his feet. Foreground foot fully grounded, toe pointing screen-right. One realistic 65mm cinematic close-up, 16:9, no lettering.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 6275890,
+        "sha256": "2b337ac0b3335a071bef84db214c6dda9db9cf2538747c75b680611cb874d170",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S11-anchor-v2",
+      "type": "image",
+      "referenceCodes": [
+        "S11-anchor"
+      ],
+      "args": {
+        "referenceImages": [
+          "production/videoassets/3970e06c-80e8-4aa3-b7e1-e263853d755d.png"
+        ],
+        "prompt": "Make only one correction to this photorealistic close-up. Remove the blurry standing man in the upper-left background completely, filling his area with the same empty softly defocused dance-hall brick wall and oak floor. There is only one Rafa: the owner of the two foreground black shoes and brown trouser legs. Keep both foreground shoes and trousers, the far-right burgundy Mary Jane, camera framing, all lighting, grain and every other detail exactly unchanged. The entire background behind the close-up legs is empty of people."
+      },
+      "assetId": "0fcba06d-428c-4d23-ae14-1c969425e84e",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:40:00.990Z",
+      "model": "nano-banana-2",
+      "creditsCharged": 16,
+      "createdAt": "2026-09-26T16:40:00.778Z",
+      "updatedAt": "2026-09-26T16:40:20.305Z",
+      "arcadsPath": "production/videoassets/0fcba06d-428c-4d23-ae14-1c969425e84e.png",
+      "file": "creative/animatic-v1/memories/S11-anchor-v2.png",
+      "qa": "Visually inspected: duplicate removed, matched foreground shoe size/position retained. Burgundy Mary Jane remains separate.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "referenceImages": [
+          "production/videoassets/3970e06c-80e8-4aa3-b7e1-e263853d755d.png"
+        ],
+        "prompt": "Make only one correction to this photorealistic close-up. Remove the blurry standing man in the upper-left background completely, filling his area with the same empty softly defocused dance-hall brick wall and oak floor. There is only one Rafa: the owner of the two foreground black shoes and brown trouser legs. Keep both foreground shoes and trousers, the far-right burgundy Mary Jane, camera framing, all lighting, grain and every other detail exactly unchanged. The entire background behind the close-up legs is empty of people.",
+        "model": "nano-banana-2"
+      },
+      "metadata": {
+        "bytes": 7111414,
+        "sha256": "511cc970aad0906d65f8fc82a19d7a552d341801f2871371fac5444ea933e0f0",
+        "width": 2752,
+        "height": 1536
+      }
+    },
+    {
+      "code": "S11",
+      "type": "video",
+      "referenceCodes": [
+        "S11-anchor-v2"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/0fcba06d-428c-4d23-ae14-1c969425e84e.png",
+        "duration": 5,
+        "prompt": "Locked shoe-level camera. The foreground right black sneaker completes one small graceful pivot toward screen-right, heel unweighted by one centimeter then settling fully onto the wooden dance floor. The motion is restrained and lasts about two seconds, followed by a calm hold. The far black shoe and distant burgundy shoe stay planted. Preserve the plain outer ankle, cream laces, rubber toe, brown trouser hems and realistic warm amber-plum light. A single natural dance step, stable anatomy, quiet wooden-floor scuff and room ambience."
+      },
+      "assetId": "dda2b701-492b-427f-91cb-6bd78e7fae38",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:40:46.794Z",
+      "model": "kling-3-pro",
+      "createdAt": "2026-09-26T16:40:46.614Z",
+      "updatedAt": "2026-09-26T16:42:23.305Z",
+      "creditsCharged": 240,
+      "arcadsPath": "production/videoassets/dda2b701-492b-427f-91cb-6bd78e7fae38.mp4",
+      "file": "creative/animatic-v1/memories/S11.mp4",
+      "qa": "1fps sampled review: coherent dance shoe pivot, heel rises several centimeters; purple stage-light reflection briefly visible beneath sole. No duplicate background person. Approximate, not exact match to S10.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/0fcba06d-428c-4d23-ae14-1c969425e84e.png",
+        "duration": 5,
+        "prompt": "Locked shoe-level camera. The foreground right black sneaker completes one small graceful pivot toward screen-right, heel unweighted by one centimeter then settling fully onto the wooden dance floor. The motion is restrained and lasts about two seconds, followed by a calm hold. The far black shoe and distant burgundy shoe stay planted. Preserve the plain outer ankle, cream laces, rubber toe, brown trouser hems and realistic warm amber-plum light. A single natural dance step, stable anatomy, quiet wooden-floor scuff and room ambience.",
+        "enhance": false
+      },
+      "metadata": {
+        "bytes": 7641321,
+        "sha256": "9f0a1381306f3f414862a45f6dabaabd53a5e65eaf9b218cb9aee17dab385024",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    },
+    {
+      "code": "S13",
+      "type": "video",
+      "referenceCodes": [
+        "S13-anchor"
+      ],
+      "args": {
+        "startFrame": "production/videoassets/710e1860-b2d7-4c92-b4cc-31e4a259b465.png",
+        "duration": 5,
+        "prompt": "Locked intimate close-up. The young man's fingers resting across the woman's open palm settle down by just a few millimeters in a single tender micro-contact. Her palm remains open and still. They then hold the same gentle connection for three seconds. Preserve both wrists, exactly five anatomically stable fingers per hand, the rust sleeve and violet fabric, natural warm skin and dance-hall light. Hands stay loosely resting, without interlacing, squeezing, shaking or pulling. One quiet realistic gesture, soft fabric ambience."
+      },
+      "assetId": "ce8f12ce-52e2-436a-bc77-8d45ca0ddff0",
+      "status": "generated",
+      "submittedAt": "2026-09-26T16:43:42.004Z",
+      "model": "kling-3-pro",
+      "authorization": "Root approved using otherwise unused one-video retry allowance for eighth moving shot after first seven were usable.",
+      "selected": true,
+      "parameters": {
+        "aspectRatio": "16:9",
+        "nbGenerations": 1,
+        "startFrame": "production/videoassets/710e1860-b2d7-4c92-b4cc-31e4a259b465.png",
+        "duration": 5,
+        "prompt": "Locked intimate close-up. The young man's fingers resting across the woman's open palm settle down by just a few millimeters in a single tender micro-contact. Her palm remains open and still. They then hold the same gentle connection for three seconds. Preserve both wrists, exactly five anatomically stable fingers per hand, the rust sleeve and violet fabric, natural warm skin and dance-hall light. Hands stay loosely resting, without interlacing, squeezing, shaking or pulling. One quiet realistic gesture, soft fabric ambience.",
+        "enhance": false
+      },
+      "createdAt": "2026-09-26T16:43:41.791Z",
+      "updatedAt": "2026-09-26T16:45:27.815Z",
+      "creditsCharged": 240,
+      "arcadsPath": "production/videoassets/ce8f12ce-52e2-436a-bc77-8d45ca0ddff0.mp4",
+      "file": "creative/animatic-v1/memories/S13.mp4",
+      "qa": "1fps sampled review: anatomically plausible two-hand connection, wrists and sleeves stable. Fingers curl into a gentle loose clasp rather than staying flat; usable from0.2s for3s. No interlacing or extra hand visible in sampled frames.",
+      "metadata": {
+        "bytes": 4817500,
+        "sha256": "b05bbe40894ead43f2773ab5cf4008cfffa58a3092b4944eb1d8c7f43f2c2b35",
+        "width": 1928,
+        "height": 1072,
+        "duration_seconds": 5.041667,
+        "fps": "24/1",
+        "audio_present": true
+      }
+    }
+  ],
+  "qaMethod": "Source images visually inspected; generated anchors inspected before animation; video metadata and sampled frames, not continuous audio review.",
+  "selectedStyle": "Photorealistic; one simple action per clip; original family cast references.",
+  "costSummary": {
+    "videoJobs": 8,
+    "imageJobs": 7,
+    "creditsCharged": 1968,
+    "videoCredits": 1920,
+    "imageCredits": 48,
+    "note": "Four initial image anchors charged0; three later image jobs charged16 each. Eight5s videos charged240 each."
+  },
+  "completedAt": "2026-09-26T16:46:58.080Z",
+  "status": "complete"
+}

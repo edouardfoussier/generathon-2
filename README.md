@@ -14,7 +14,7 @@ Deliverables from the supplied brief:
 - Face-camera explanation: **60 seconds maximum**, covering inspiration, concept, process, challenges, accomplishments, learning, next steps and tools.
 - **Cuts are allowed for Converse.** The user clarified that the one-shot rule applies only to teams choosing a brand outside the suggested list; this project is exempt.
 
-**There is no assembled final film in this repository.** K01–K06 are the first scene candidates. TR01–TR03 compare short present-to-memory transitions; their individual notes describe observed results and continuity faults. They do not validate the complete ad.
+**[Animatic v1 is now assembled: 76 seconds, 26 shots](creative/animatic-v1/README.md).** It combines 21 video-based shots, five still inserts, an original score and an English maternal voice line. This is a first cut for review, not the finished commercial. K01–K06 and TR01–TR03 remain the source explorations.
 
 ## Open the board
 
@@ -23,14 +23,14 @@ Open [`creative/selection/index.html`](creative/selection/index.html) directly i
 Alternatively, from the repository root:
 
 ```sh
-python3 -m http.server 8765 --bind 127.0.0.1 --directory creative/selection
+python3 -m http.server 8765 --bind 127.0.0.1
 ```
 
-Then open [the English board](http://127.0.0.1:8765/?lang=en). Use the **FR / EN** switch at any time. Direct tab links accept `?category=equipe&lang=en` for **Team directions** and `?category=hybrides&lang=en` for **Pixel & hybrids**.
+Then open [the English animatic board](http://127.0.0.1:8765/creative/selection/?category=animatic&lang=en). Serve the repository root so the sibling animatic media folder is accessible. Use the **FR / EN** switch at any time. Direct tab links also accept `?category=equipe&lang=en` for **Team directions** and `?category=hybrides&lang=en` for **Pixel & hybrids**.
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 80-reference board
+## The 81-entry board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -44,8 +44,9 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | L01–L05, G11–G15, R01–R07 | 17 | Realistic Luna character sheets, grandfather development from G01, and scene locations from D06 |
 | K01–K06, TR01–TR03 | 9 | Six scene keyframes and three short transition videos |
 | EL01–EL02, M01–M02 | 4 | Grandma Elena and Luna’s mother, with present-day character sheets and comparisons across ages |
+| AV01 | 1 | Complete 76-second first animatic with music and English voice |
 
-The latest tab is **Scenes & transitions** (`?category=scenes&lang=en`): six scene candidates followed by three playable transition comparisons. The board now contains 77 stills and three clips. **Characters & locations** (`?category=production&lang=en`) includes the new Grandma & Mom group alongside character bibles and location studies. The first scenes use Luna’s original wardrobe; orange remains an alternative.
+The latest tab is **Animatic** (`?category=animatic&lang=en`), with a player and download. The board contains 77 stills, three transition clips and the complete animatic. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
 
 ## Where to continue
 

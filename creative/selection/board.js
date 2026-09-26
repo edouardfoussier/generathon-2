@@ -14,7 +14,7 @@
   } catch (_) {}
   const t = key => strings[language][key] || strings.fr[key] || key;
   const field = (asset, key) => (language === 'en' ? asset[key + 'En'] : asset[key]) || asset[key] || '';
-  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes'].map((id, index) => ({
+  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic'].map((id, index) => ({
     id, number: String(index + 1).padStart(2, '0'),
     get label() { return strings[language].categories[id].label; },
     get title() { return strings[language].categories[id].title; },
@@ -224,6 +224,14 @@
       (videos.length ? '<section class="team-group"><header class="team-group-heading"><span class="section-index">B</span><div><h3>' +
         t('scenesTransitions') + '</h3><p>' + t('scenesTransitionsDetail') + '</p></div></header><div class="grid">' + videos.map(card).join('') + '</div></section>' : '');
   }
+  function animaticContent(items) {
+    return '<div class="production-pitch"><p class="eyebrow">' + t('animaticKicker') + '</p><h3>' +
+      t('animaticTitle') + '</h3><p>' + t('animaticIntro') + '</p><nav class="production-jumps"><a href="' +
+      'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-cinematic-script-v2.md" target="_blank" rel="noopener noreferrer">' +
+      t('openScript') + ' ↗</a><a href="https://github.com/edouardfoussier/generathon-2/blob/main/creative/animatic-v1/README.md" target="_blank" rel="noopener noreferrer">' +
+      t('animaticGuide') + ' ↗</a></nav></div><div class="grid animatic-grid">' + items.map(card).join('') +
+      '</div><p class="production-footnote">' + t('animaticReview') + '</p>';
+  }
   function renderGallery() {
     $('gallery').querySelectorAll('video').forEach(video => video.pause());
     const visible = visibleAssets();
@@ -244,7 +252,7 @@
         '" aria-labelledby="title-' + category.id + '"><header class="section-heading"><div class="section-title">' +
         '<span class="section-index">' + category.number + '</span><h2 id="title-' + category.id + '">' +
         category.title + '</h2></div><p class="section-detail">' + category.detail + '</p></header>' +
-        (category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
+        (category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
           (category.id === 'styles' ? styleIntroduction() : '') + '<div class="grid">' + items.map(card).join('') + '</div>') +
         '</section>' : '';
     }).join('');
@@ -358,6 +366,7 @@
   $('explore-hybrids').addEventListener('click', () => exploreCategory('hybrides'));
   $('explore-production').addEventListener('click', () => exploreCategory('production'));
   $('explore-scenes').addEventListener('click', () => exploreCategory('scenes'));
+  $('explore-animatic').addEventListener('click', () => exploreCategory('animatic'));
   $('filters').addEventListener('click', e => {
     const button = e.target.closest('[data-filter]'); if (!button) return;
     activeCategory = button.dataset.filter; renderFilters(); renderGallery();
@@ -388,14 +397,14 @@
   });
   $('download').addEventListener('click', () => {
     const data = {
-      project:t('projectName'), exploration:7, language, exportedAt:new Date().toISOString(),
+      project:t('projectName'), exploration:8, language, exportedAt:new Date().toISOString(),
       selection:assets.filter(a => selected.has(a.code)).map(a => ({
         ...a, title:field(a, 'title'), subtitle:field(a, 'subtitle'), ...(a.note ? {note:field(a, 'note')} : {})
       }))
     };
     const blob = new Blob([JSON.stringify(data, null, 2) + '\n'], {type:'application/json;charset=utf-8'});
     const url = URL.createObjectURL(blob), link = document.createElement('a');
-    link.href = url; link.download = 'converse-selection-07.json'; document.body.appendChild(link);
+    link.href = url; link.download = 'converse-selection-08.json'; document.body.appendChild(link);
     link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 1000);
     notify(t('readyToDownload'));
   });

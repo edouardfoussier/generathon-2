@@ -1,0 +1,64 @@
+[
+  {
+    "assetId": "16034a4f-58b8-4c25-8830-5270e4dac6bd",
+    "type": "create_music",
+    "file": "score-original.wav",
+    "data": {
+      "model": "elevenlabs",
+      "prompt": "Original intimate instrumental film score, exactly 76 seconds. Restrained human warmth and intergenerational memory, never melodramatic. Warm felt piano, soft upright bass, light nylon-string guitar and subtle hand percussion. 84 BPM, gentle harmonic theme. 0\u201314s: sparse piano and room-like air, very quiet space for a short spoken line at 5\u201310s. 14\u201326s: introduce a modest pulse and soft bass with youthful energy. 26\u201341s: warm Latin dance influence through understated conga and brushed clave, same theme and tempo, no brass spectacle. 41\u201353s: percussion recedes, piano and guitar feel intimate and caring. 53\u201366s: warm strings very softly join the returning piano motif, hopeful recognition. 66\u201376s: gentle forward lift then a resolved final chord, soft natural tail ending at 76s. No vocals, lyrics, spoken words, choir, dramatic trailer impacts or abrupt section changes. Organic acoustic recording with small-room character.",
+      "duration": 76,
+      "requests": [
+        {
+          "provider": "elevenlabs",
+          "requestId": "none"
+        }
+      ],
+      "assetSource": "platform",
+      "usedCredits": true,
+      "requestSource": "mcp",
+      "creditsCharged": 24,
+      "outputDuration": 76.042449,
+      "usedDailyLimit": false,
+      "instrumentalOnly": true
+    },
+    "status": "generated"
+  },
+  {
+    "assetId": "e7f0a1a2-5ebc-48cb-8ad2-76b2261ae79f",
+    "type": "text_to_speech",
+    "file": "mom-voice-original.wav",
+    "data": {
+      "script": "They were his. I used to borrow them.",
+      "voiceId": "0MZvYbRLO42EDBtYDHZX",
+      "duration": 1.699025,
+      "requests": [
+        {
+          "provider": "elevenlabs",
+          "requestId": "none"
+        }
+      ],
+      "assetSource": "platform",
+      "usedCredits": true,
+      "requestSource": "mcp",
+      "creditsCharged": 8,
+      "usedDailyLimit": false
+    },
+    "status": "generated"
+  },
+  {
+    "assetId": "4a598398-0e3e-4b32-a8df-f1ef3879cbb0",
+    "type": "transcribe",
+    "status": "generated",
+    "creditsCharged": 0,
+    "transcription": "They were his. I used to borrow them.",
+    "timing": "0.18\u20130.70; 0.70\u20131.699 seconds"
+  },
+  {
+    "assetId": "3a85a5e3-0fa5-4b27-93e0-6cc3944d90a7",
+    "type": "llm_audio_review",
+    "status": "failed",
+    "creditsCharged": 0,
+    "refunded": true,
+    "error": "Gemini could not fetch the Arcads audio URL (timeout). No perceptual review claimed."
+  }
+]

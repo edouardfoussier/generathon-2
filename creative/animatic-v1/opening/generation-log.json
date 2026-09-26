@@ -1,0 +1,391 @@
+{
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "phase": "Animatic v1 — opening and Luna",
+  "complete": true,
+  "completedAt": "2026-09-26T16:50:43.861Z",
+  "generationMethod": "Local Higgsfield prompting guide applied: locked image references, short motion-only I2V prompts and one action per shot. Sponsor generation via Arcads.",
+  "concurrency": {
+    "maxIndependentCallsPerBatch": 3,
+    "officialServiceMaximumUnknown": true
+  },
+  "qualityReview": "All six generated stills visually inspected. Videos reviewed through 1–2fps sampled frames and ffprobe metadata, not full continuous playback or independent audio listening. Root soundtrack replaces source audio.",
+  "summary": {
+    "generatedImages": 6,
+    "generatedVideos": 6,
+    "retainedNewVideos": 4,
+    "rejectedVideos": 2,
+    "reusedExistingVideos": 1,
+    "mappedShots": 10,
+    "creditsCharged": 1680
+  },
+  "jobs": [
+    {
+      "code": "V01",
+      "shotIds": [
+        "S02"
+      ],
+      "mediaType": "video",
+      "model": "kling_30",
+      "prompt": "Slow straight camera push toward the seated girl. She softly strokes the held shoe once with her thumb, then becomes still with her gaze lowered. Understated breathing. Preserve her face, clothing, exactly two shoes, trunk, framed portrait and board placement. Continuous quiet live-action shot; lips closed, silent scene, no music.",
+      "parameters": {
+        "prompt": "Slow straight camera push toward the seated girl. She softly strokes the held shoe once with her thumb, then becomes still with her gaze lowered. Understated breathing. Preserve her face, clothing, exactly two shoes, trunk, framed portrait and board placement. Continuous quiet live-action shot; lips closed, silent scene, no music.",
+        "startFrame": "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "duration": 6
+      },
+      "assetId": "553a971e-b5b5-40ec-992c-e3ed463bd9f2",
+      "submittedAt": "2026-09-26T16:36:59.050Z",
+      "createdAt": "2026-09-26T16:36:58.656Z",
+      "updatedAt": "2026-09-26T16:39:27.266Z",
+      "status": "generated",
+      "creditsCharged": 272,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/553a971e-b5b5-40ec-992c-e3ed463bd9f2.mp4",
+      "localFile": "videos/V01.mp4",
+      "qa": "Good straight push, restrained thumb action and stable two-shoe count. Review:1fps sampled frames.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final.",
+      "metadata": {
+        "width": 1928,
+        "height": 1072,
+        "frameRate": "24/1",
+        "durationSeconds": 6.041667,
+        "hasAudio": true
+      }
+    },
+    {
+      "code": "V04",
+      "shotIds": [
+        "S06"
+      ],
+      "mediaType": "video",
+      "model": "kling_30",
+      "prompt": "Locked low camera. The foreground right foot makes one tiny realistic weight settlement, heel and forefoot remaining on the wooden floor throughout. Slight canvas flex then complete stillness. The rear left foot stays fixed. Preserve the two shoes, cream side repair, ankle sides and trouser hems exactly. Quiet continuous live-action shot, no dialogue or music.",
+      "parameters": {
+        "prompt": "Locked low camera. The foreground right foot makes one tiny realistic weight settlement, heel and forefoot remaining on the wooden floor throughout. Slight canvas flex then complete stillness. The rear left foot stays fixed. Preserve the two shoes, cream side repair, ankle sides and trouser hems exactly. Quiet continuous live-action shot, no dialogue or music.",
+        "startFrame": "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+        "duration": 5
+      },
+      "assetId": "7811e486-5d92-43e8-81ce-17b442a086cc",
+      "submittedAt": "2026-09-26T16:37:03.650Z",
+      "createdAt": "2026-09-26T16:37:03.265Z",
+      "updatedAt": "2026-09-26T16:39:09.291Z",
+      "status": "generated",
+      "creditsCharged": 240,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/7811e486-5d92-43e8-81ce-17b442a086cc.mp4",
+      "localFile": "videos/V04.mp4",
+      "qa": "Slight heel lift/rock instead of strict always-grounded settlement; returns grounded, rear foot stable. Review:1fps sampled frames.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final.",
+      "metadata": {
+        "width": 1928,
+        "height": 1072,
+        "frameRate": "24/1",
+        "durationSeconds": 5.041667,
+        "hasAudio": true
+      }
+    },
+    {
+      "code": "A03",
+      "shotIds": [
+        "S05",
+        "S21"
+      ],
+      "mediaType": "image",
+      "model": "nano-banana-2",
+      "prompt": "Reframe reference 1 into one cinematic 85mm close-up of Luna's face and shoulders, same seated position in that attic and same soft left-window light, brick wall softly blurred. Use reference 2 only for exact facial identity and texture, not its grid layout. Head slightly lowered, closed lips, reflective quiet expression, gaze down toward the shoes outside frame. Preserve charcoal tee, low curly ponytail, brown skin and natural youthful face. Single live-action photograph, horizontal 16:9, understated 35mm texture, no text.",
+      "parameters": {
+        "prompt": "Reframe reference 1 into one cinematic 85mm close-up of Luna's face and shoulders, same seated position in that attic and same soft left-window light, brick wall softly blurred. Use reference 2 only for exact facial identity and texture, not its grid layout. Head slightly lowered, closed lips, reflective quiet expression, gaze down toward the shoes outside frame. Preserve charcoal tee, low curly ponytail, brown skin and natural youthful face. Single live-action photograph, horizontal 16:9, understated 35mm texture, no text.",
+        "referenceImages": [
+          "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+          "production/videoassets/88ebbd29-4b4d-43ee-9499-e6db307bc467.png"
+        ]
+      },
+      "assetId": "3ec59ee2-4061-4201-aeec-c1565b8f9324",
+      "submittedAt": "2026-09-26T16:37:12.493Z",
+      "createdAt": "2026-09-26T16:37:11.714Z",
+      "updatedAt": "2026-09-26T16:37:32.141Z",
+      "status": "generated",
+      "creditsCharged": 0,
+      "usedDailyLimit": true,
+      "arcadsPath": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+      "localFile": "stills/A03.png",
+      "qa": "Good identity match and lowered gaze, same attic left light. Selected as emotional video anchor.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final."
+    },
+    {
+      "code": "A01",
+      "shotIds": [
+        "S01"
+      ],
+      "mediaType": "image",
+      "model": "nano-banana-2",
+      "prompt": "Create a single photorealistic cinematic macro insert matching the supplied attic scene and shoe. Frame only a held black canvas high-top's OUTER right quarter and ivory rubber sidewall, toe points left, small rectangular cream textile repair just above the rubber, matching reference 2. Two fingertips from a teenage girl's hand gently touch the canvas from above. Accurate five-finger hand mostly outside frame. Worn fabric, warm cream laces, tactile modest wear. Preserve repair shape from ref2, no circular badge on this visible outside. Diffuse left window light, 100mm macro, shallow depth, blurred warm attic wood, no lettering, landscape16:9.",
+      "parameters": {
+        "prompt": "Create a single photorealistic cinematic macro insert matching the supplied attic scene and shoe. Frame only a held black canvas high-top's OUTER right quarter and ivory rubber sidewall, toe points left, small rectangular cream textile repair just above the rubber, matching reference 2. Two fingertips from a teenage girl's hand gently touch the canvas from above. Accurate five-finger hand mostly outside frame. Worn fabric, warm cream laces, tactile modest wear. Preserve repair shape from ref2, no circular badge on this visible outside. Diffuse left window light, 100mm macro, shallow depth, blurred warm attic wood, no lettering, landscape16:9.",
+        "referenceImages": [
+          "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+          "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png"
+        ]
+      },
+      "assetId": "175b0b51-c89f-4854-b98c-397c39d00e1e",
+      "submittedAt": "2026-09-26T16:38:09.451Z",
+      "createdAt": "2026-09-26T16:38:09.158Z",
+      "updatedAt": "2026-09-26T16:38:29.445Z",
+      "status": "generated",
+      "creditsCharged": 16,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/175b0b51-c89f-4854-b98c-397c39d00e1e.png",
+      "localFile": "stills/A01.png",
+      "qa": "Photoreal macro on canvas and cream repair; natural visible hand. Repair is rectangle rather than P01 stitching, use consistent K02 version for this animatic.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final."
+    },
+    {
+      "code": "A02",
+      "shotIds": [
+        "S04"
+      ],
+      "mediaType": "image",
+      "model": "nano-banana-2",
+      "prompt": "Create a single photorealistic 65mm photographic insert in the established attic: two small physical printed photographs resting on the open wooden trunk rim in diffuse left-window daylight. Foreground sharp: an aged cream-bordered monochrome portrait photograph of the EXACT fictional teenage boy in reference2, preserve face, dark curls and white basketball vest, recognizable same person. Behind it slightly out of focus: a folded plain cream funeral card containing ONLY a small monochrome portrait of the EXACT silver-haired moustached man in reference3. Blank card elsewhere. Same trunk and wood texture as reference1. No hands, no printed words, no letters, no collage or separate panels; these are two objects in one real scene.",
+      "parameters": {
+        "prompt": "Create a single photorealistic 65mm photographic insert in the established attic: two small physical printed photographs resting on the open wooden trunk rim in diffuse left-window daylight. Foreground sharp: an aged cream-bordered monochrome portrait photograph of the EXACT fictional teenage boy in reference2, preserve face, dark curls and white basketball vest, recognizable same person. Behind it slightly out of focus: a folded plain cream funeral card containing ONLY a small monochrome portrait of the EXACT silver-haired moustached man in reference3. Blank card elsewhere. Same trunk and wood texture as reference1. No hands, no printed words, no letters, no collage or separate panels; these are two objects in one real scene.",
+        "referenceImages": [
+          "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+          "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+          "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png"
+        ]
+      },
+      "assetId": "7ce3a117-f457-4e27-b12f-20cb4961808a",
+      "submittedAt": "2026-09-26T16:38:02.055Z",
+      "createdAt": "2026-09-26T16:38:01.161Z",
+      "updatedAt": "2026-09-26T16:38:22.378Z",
+      "status": "generated",
+      "creditsCharged": 16,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/7ce3a117-f457-4e27-b12f-20cb4961808a.png",
+      "localFile": "stills/A02.png",
+      "qa": "Two paper objects; foreground young Rafa is recognizable. Funeral card moved onto trunk for insert, differs from floor placement in wide; rough-cut continuity caveat.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final."
+    },
+    {
+      "code": "A22",
+      "shotIds": [
+        "S26"
+      ],
+      "mediaType": "image",
+      "model": "nano-banana-2",
+      "prompt": "Correct this existing cinematic attic still, preserve the exact camera, girl identity, light, clothing, composition and board. The girl wears a real matched pair of BLACK CANVAS HIGH-TOP sneakers. Remove the circular badge from the visible OUTER right ankle facing camera: that side is plain black canvas, tiny rectangular cream repair near rubber as reference2. Circular badges only on INNER ankle sides. Unroll the olive trouser cuffs to the original straight unrolled hems of reference2, ending just above laces so high-top silhouette remains readable. Move cream grandfather funeral card from stool to floor leaning against chest as reference3. Keep left half quiet for future typography but add no text. Photorealistic16:9.",
+      "parameters": {
+        "prompt": "Correct this existing cinematic attic still, preserve the exact camera, girl identity, light, clothing, composition and board. The girl wears a real matched pair of BLACK CANVAS HIGH-TOP sneakers. Remove the circular badge from the visible OUTER right ankle facing camera: that side is plain black canvas, tiny rectangular cream repair near rubber as reference2. Circular badges only on INNER ankle sides. Unroll the olive trouser cuffs to the original straight unrolled hems of reference2, ending just above laces so high-top silhouette remains readable. Move cream grandfather funeral card from stool to floor leaning against chest as reference3. Keep left half quiet for future typography but add no text. Photorealistic16:9.",
+        "referenceImages": [
+          "production/videoassets/4ba08891-e1cd-4928-9d90-b2b88f932fa1.png",
+          "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+          "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png"
+        ]
+      },
+      "assetId": "e5166454-b6dd-4320-a857-0e80fa5ea67b",
+      "submittedAt": "2026-09-26T16:38:06.751Z",
+      "createdAt": "2026-09-26T16:38:06.197Z",
+      "updatedAt": "2026-09-26T16:38:28.149Z",
+      "status": "generated",
+      "creditsCharged": 16,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png",
+      "localFile": "stills/A22.png",
+      "qa": "Removed visible outer-right badge, straightened trouser hems and restored funeral card to floor. Board graphics and young printed face remain approximate.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final."
+    },
+    {
+      "code": "A24",
+      "shotIds": [
+        "S24"
+      ],
+      "mediaType": "image",
+      "model": "nano-banana-2",
+      "prompt": "Create a cinematic photographic macro insert of ONE worn black canvas high-top shoe resting on the pale wooden attic floor in the reference light. Camera directly above upper opening, toe pointing toward bottom of frame. The BLACK fabric tongue is gently pulled upward and laid completely flat across the center of the frame, creating a clear roughly rectangular matte-black writing surface, at least one third of image width. Laces loosened and draped to either side, no fingers or marker. Upper tongue entirely blank with visible textile weave, no sewn label, no logo, no letters. Cream lining at top edge and silver eyelets remain believable. 100mm close-up, soft left daylight, single photorealistic horizontal16:9 image, sharp central tongue for typography added later.",
+      "parameters": {
+        "prompt": "Create a cinematic photographic macro insert of ONE worn black canvas high-top shoe resting on the pale wooden attic floor in the reference light. Camera directly above upper opening, toe pointing toward bottom of frame. The BLACK fabric tongue is gently pulled upward and laid completely flat across the center of the frame, creating a clear roughly rectangular matte-black writing surface, at least one third of image width. Laces loosened and draped to either side, no fingers or marker. Upper tongue entirely blank with visible textile weave, no sewn label, no logo, no letters. Cream lining at top edge and silver eyelets remain believable. 100mm close-up, soft left daylight, single photorealistic horizontal16:9 image, sharp central tongue for typography added later.",
+        "referenceImages": [
+          "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png"
+        ]
+      },
+      "assetId": "58356d04-164c-4924-b11c-e60ecdc461f2",
+      "submittedAt": "2026-09-26T16:38:27.392Z",
+      "createdAt": "2026-09-26T16:38:27.168Z",
+      "updatedAt": "2026-09-26T16:38:46.943Z",
+      "status": "generated",
+      "creditsCharged": 16,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/58356d04-164c-4924-b11c-e60ecdc461f2.png",
+      "localFile": "stills/A24.png",
+      "qa": "Sharp exposed blank black tongue, no lettering or hand; suitable for controlled initials compositing.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final."
+    },
+    {
+      "code": "V03",
+      "shotIds": [
+        "S05",
+        "S21"
+      ],
+      "mediaType": "video",
+      "model": "kling_30",
+      "prompt": "Locked close-up, continuous single take. For the first three seconds she keeps her eyes lowered, softly exhales, lips closed and expression thoughtful. Then she slowly raises only her gaze toward upper frame-left, toward her mother offscreen. Her face relaxes into a small warm closed-mouth half-smile that holds for the final three seconds. Natural subtle breathing, same face and light. Silent scene, no dialogue, no music.",
+      "parameters": {
+        "prompt": "Locked close-up, continuous single take. For the first three seconds she keeps her eyes lowered, softly exhales, lips closed and expression thoughtful. Then she slowly raises only her gaze toward upper frame-left, toward her mother offscreen. Her face relaxes into a small warm closed-mouth half-smile that holds for the final three seconds. Natural subtle breathing, same face and light. Silent scene, no dialogue, no music.",
+        "startFrame": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+        "duration": 8
+      },
+      "assetId": "9dabeccc-cfd1-4996-8c9f-e64dce6be23b",
+      "submittedAt": "2026-09-26T16:39:10.572Z",
+      "createdAt": "2026-09-26T16:39:10.347Z",
+      "updatedAt": "2026-09-26T16:42:17.688Z",
+      "status": "generated",
+      "creditsCharged": 336,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/9dabeccc-cfd1-4996-8c9f-e64dce6be23b.mp4",
+      "localFile": "videos/V03.mp4",
+      "qa": "Thoughtful lowered gaze0–3s, upward-left look around4.5s and convincing half-smile5–8s. Slight parted lips during exhale. Review:2fps sampled frames.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final.",
+      "metadata": {
+        "width": 1928,
+        "height": 1072,
+        "frameRate": "24/1",
+        "durationSeconds": 8.041667,
+        "hasAudio": true
+      }
+    },
+    {
+      "code": "V22",
+      "shotIds": [
+        "S26"
+      ],
+      "mediaType": "video",
+      "model": "kling_30",
+      "prompt": "Locked wide shot. The girl already holds the skateboard securely in one hand throughout. She takes just one slow calm first step diagonally forward-right, then pauses with a small hopeful smile. The board travels with her hand as one rigid object. Keep her within the right half of frame, left attic area undisturbed and calm for typography. Preserve shoes, straight trouser hems, photographs, light and architecture. Silent continuous shot, lips closed, no music or dialogue.",
+      "parameters": {
+        "prompt": "Locked wide shot. The girl already holds the skateboard securely in one hand throughout. She takes just one slow calm first step diagonally forward-right, then pauses with a small hopeful smile. The board travels with her hand as one rigid object. Keep her within the right half of frame, left attic area undisturbed and calm for typography. Preserve shoes, straight trouser hems, photographs, light and architecture. Silent continuous shot, lips closed, no music or dialogue.",
+        "startFrame": "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png",
+        "duration": 6
+      },
+      "assetId": "2963804f-2718-4b47-87f8-99293f331dd8",
+      "submittedAt": "2026-09-26T16:39:46.503Z",
+      "createdAt": "2026-09-26T16:39:46.280Z",
+      "updatedAt": "2026-09-26T16:43:31.892Z",
+      "status": "generated",
+      "creditsCharged": 272,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/2963804f-2718-4b47-87f8-99293f331dd8.mp4",
+      "localFile": "videos/V22.mp4",
+      "qa": "Short advance with trailing foot adjustment; settles near frame-right. Clear left space. Board tilts during step, exact deck marks differ. Review:2fps sampled frames.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final.",
+      "metadata": {
+        "width": 1928,
+        "height": 1072,
+        "frameRate": "24/1",
+        "durationSeconds": 6.041667,
+        "hasAudio": true
+      }
+    },
+    {
+      "code": "A25",
+      "shotIds": [
+        "S25"
+      ],
+      "mediaType": "image",
+      "model": "nano-banana-2",
+      "prompt": "Reframe the supplied photorealistic scene into one intimate 65mm close-up of the girl's hand gently holding the TOP NOSE of this same vertical skateboard. Board lower tail rests on the wooden attic floor, her hand already curling securely over the rounded upper wooden edge ready to lift. Preserve exact battered natural wood underside, black trucks and cream wheels from reference, charcoal tee and olive straight-leg cargo trousers. Crop from waist to lower board, human face outside frame. One board, one anatomically natural hand. Quiet cinematic left-window light and shallow depth of field, real texture, no lettering. Landscape16:9.",
+      "parameters": {
+        "prompt": "Reframe the supplied photorealistic scene into one intimate 65mm close-up of the girl's hand gently holding the TOP NOSE of this same vertical skateboard. Board lower tail rests on the wooden attic floor, her hand already curling securely over the rounded upper wooden edge ready to lift. Preserve exact battered natural wood underside, black trucks and cream wheels from reference, charcoal tee and olive straight-leg cargo trousers. Crop from waist to lower board, human face outside frame. One board, one anatomically natural hand. Quiet cinematic left-window light and shallow depth of field, real texture, no lettering. Landscape16:9.",
+        "referenceImages": [
+          "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png"
+        ]
+      },
+      "assetId": "5caf3748-a191-44e6-884d-28f1470b8ed4",
+      "submittedAt": "2026-09-26T16:39:49.392Z",
+      "createdAt": "2026-09-26T16:39:49.226Z",
+      "updatedAt": "2026-09-26T16:40:12.753Z",
+      "status": "generated",
+      "creditsCharged": 16,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/5caf3748-a191-44e6-884d-28f1470b8ed4.png",
+      "localFile": "stills/A25.png",
+      "qa": "Good tight macro of same style wooden deck, pale wheels and natural grip; lower deck out of frame. Selected motion anchor.",
+      "selected": true,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final."
+    },
+    {
+      "code": "V25",
+      "shotIds": [
+        "S25"
+      ],
+      "mediaType": "video",
+      "model": "kling_30",
+      "prompt": "Locked close-up. Her hand gently firms its grip on the skateboard nose, then lifts the entire board slowly upward by ten centimeters and holds it still. The board and both visible wheels move together as one rigid physical object. Keep the relaxed hand anatomically stable, wood graphics fixed, clothing and lighting unchanged. Only one small lift. Quiet live-action shot, no speech, no music.",
+      "parameters": {
+        "prompt": "Locked close-up. Her hand gently firms its grip on the skateboard nose, then lifts the entire board slowly upward by ten centimeters and holds it still. The board and both visible wheels move together as one rigid physical object. Keep the relaxed hand anatomically stable, wood graphics fixed, clothing and lighting unchanged. Only one small lift. Quiet live-action shot, no speech, no music.",
+        "startFrame": "production/videoassets/5caf3748-a191-44e6-884d-28f1470b8ed4.png",
+        "duration": 5
+      },
+      "assetId": "d5eba5c9-42cc-400c-8b95-be3d6dd3ba2c",
+      "submittedAt": "2026-09-26T16:41:30.021Z",
+      "createdAt": "2026-09-26T16:41:29.684Z",
+      "updatedAt": "2026-09-26T16:43:21.573Z",
+      "status": "generated",
+      "creditsCharged": 240,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/d5eba5c9-42cc-400c-8b95-be3d6dd3ba2c.mp4",
+      "localFile": "videos/V25.mp4",
+      "qa": "Camera pullback reveals large invented black graphic/lettering on lower deck. Rejected for continuity; archived.",
+      "selected": false,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final.",
+      "metadata": {
+        "width": 1928,
+        "height": 1072,
+        "frameRate": "24/1",
+        "durationSeconds": 5.041667,
+        "hasAudio": true
+      }
+    },
+    {
+      "code": "V25R1",
+      "shotIds": [
+        "S25"
+      ],
+      "mediaType": "video",
+      "model": "kling_30",
+      "prompt": "Maintain this exact tight macro framing of the hand and TOP HALF of the skateboard. As her hand lifts the board a few centimeters, the camera tracks UP by exactly the same distance, keeping the board nose and upper truck fixed at their current screen positions. The bottom half of the deck always stays outside the bottom of the frame. Keep exactly the original scratched natural wood and cream wheels, unchanged. A single gentle rigid board lift; anatomically stable fingers. Constant lens and magnification throughout. Silent scene, no dialogue or music.",
+      "parameters": {
+        "prompt": "Maintain this exact tight macro framing of the hand and TOP HALF of the skateboard. As her hand lifts the board a few centimeters, the camera tracks UP by exactly the same distance, keeping the board nose and upper truck fixed at their current screen positions. The bottom half of the deck always stays outside the bottom of the frame. Keep exactly the original scratched natural wood and cream wheels, unchanged. A single gentle rigid board lift; anatomically stable fingers. Constant lens and magnification throughout. Silent scene, no dialogue or music.",
+        "startFrame": "production/videoassets/5caf3748-a191-44e6-884d-28f1470b8ed4.png",
+        "duration": 5
+      },
+      "assetId": "12155caf-5cd0-40cc-91f2-5e31ea7f54f4",
+      "submittedAt": "2026-09-26T16:46:13.034Z",
+      "createdAt": "2026-09-26T16:46:12.809Z",
+      "updatedAt": "2026-09-26T16:48:44.790Z",
+      "status": "generated",
+      "creditsCharged": 240,
+      "usedDailyLimit": false,
+      "arcadsPath": "production/videoassets/12155caf-5cd0-40cc-91f2-5e31ea7f54f4.mp4",
+      "localFile": "videos/V25R1.mp4",
+      "qa": "Targeted retry still invents small black lower-deck sticker; slight late reframing. Rejected for continuity; use A25 still insert for S25. Review:2fps sampled frames.",
+      "selected": false,
+      "selectedMeans": "Selected for exploratory animatic; not user-approved final.",
+      "metadata": {
+        "width": 1928,
+        "height": 1072,
+        "frameRate": "24/1",
+        "durationSeconds": 5.041667,
+        "hasAudio": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "scope": "Family animatic passages",
+  "completedAt": "2026-09-26T16:47:08.013Z",
+  "summary": {
+    "imageGenerations": 7,
+    "retainedImages": 6,
+    "videoGenerations": 6,
+    "videoRetries": 0,
+    "imagesCredits": 112,
+    "videosCredits": 1664,
+    "totalCredits": 1776,
+    "notes": "NB2 now charges16 credits; 5 six-second videos272 each, one seven-second video304."
+  },
+  "jobs": [
+    {
+      "code": "S19-anchor",
+      "shots": [
+        "S19"
+      ],
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+        "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png"
+      ],
+      "prompt": "Single cinematic live-action close-up, 16:9. The sixteen-year-old daughter from first reference, exactly her face and short dark curls, denim jacket over white T-shirt. Use only the teenage LEFT portrait in second reference for identity. 1995 family living room, softly blurred brick wall, warm daylight from frame left. She is seated on frame-left, looking DOWN AND SCREEN-RIGHT toward her kneeling father outside frame; face in three-quarter view turned screen-right. Frame head and upper chest, eyes at 40% image height, head centered at 43% width. Quiet, relaxed mouth before a small smile. 85mm f2.8, natural skin, controlled highlights, restrained film grain. One person, one full image, no panels, no text.",
+      "assetId": "3e113801-80a5-4042-89ac-e1b7662f2a7f",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/3e113801-80a5-4042-89ac-e1b7662f2a7f.png",
+      "createdAt": "2026-09-26T16:38:31.152Z",
+      "updatedAt": "2026-09-26T16:38:50.897Z",
+      "creditsCharged": 16,
+      "file": "stills/S19-anchor.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "accepted_animatic_anchor",
+        "notes": "Teenage face consistent with K05/M02; down-right eyeline. Contrary to requested single-person frame, father appears blurred at extreme right. This motivated matched adult composition with Luna foreground. Already slight smile; animate subtle increase."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 7238511,
+      "sha256": "0bab59dc69c0da1c0927a5feb241cab1f7e09f37759ef3b60c0c48aa34450113",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S22-anchor",
+      "shots": [
+        "S22"
+      ],
+      "referenceImages": [
+        "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png"
+      ],
+      "prompt": "One cinematic live-action film frame, 16:9. The exact 71-year-old woman from reference1 is seated on a simple chair next to the open trunk in attic reference2. Preserve mature facial creases, gray-streaked dark curls, plum cardigan and cream blouse. Waist-up 50mm shot, woman frame-left looking gently screen-right at her granddaughter outside frame. Her right forearm rests naturally on her thigh, hand relaxed and visible near bottom center ready to offer it. Calm affectionate closed-mouth smile. Cool soft daylight from attic window frame-left, warm timber and blurred brick behind. Photographic realism, natural skin, restrained film grain. A single elderly woman, coherent hands, one image without text.",
+      "assetId": "83b0a694-c481-4dff-89b5-942aacf3e17d",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/83b0a694-c481-4dff-89b5-942aacf3e17d.png",
+      "createdAt": "2026-09-26T16:38:28.089Z",
+      "updatedAt": "2026-09-26T16:38:49.915Z",
+      "creditsCharged": 16,
+      "file": "stills/S22-anchor.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "accepted_animatic_anchor",
+        "notes": "Recognizable mature EL01 face, plum/cream outfit, right hand rests on thigh ready to offer. D06 brick/timber/cool window continuity plausible. Chair rather than original stool."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 6262289,
+      "sha256": "6449b9720f0ad10289882a9532963345201146ef8701a5cc8737b21b304b4ab8",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S18-anchor",
+      "shots": [
+        "S18"
+      ],
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png"
+      ],
+      "prompt": "Create a live-action 85mm close-up insert of the LEFT SHOE being held by the father in reference image, at lower-center-right of source. Preserve the scene exactly: 1995 wooden floor, teenage daughter's cuffed blue jeans, grounded black canvas high-top with yellowed off-white rubber and off-white laces. Inner ankle circular patch visible on this left shoe, no cream repair on left. Father's two adult hands enter from SCREEN-RIGHT with pale blue shirt cuffs. A normal already-tied shoelace bow with two loops, each gently pinched between thumb and index finger ready for a single small tightening pull. Full ankle and toe visible, shallow focus background, warm window light left, photorealistic. Exactly two natural hands and one main shoe; other foot only faint distant edge. No typography, no extra fingers.",
+      "assetId": "f172e9dc-d717-43be-85a0-0f31e6391cda",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/f172e9dc-d717-43be-85a0-0f31e6391cda.png",
+      "createdAt": "2026-09-26T16:38:34.085Z",
+      "updatedAt": "2026-09-26T16:38:52.507Z",
+      "creditsCharged": 16,
+      "file": "stills/S18-anchor.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "rejected",
+        "notes": "Extra third shoe in background right behind hands. Replaced by S18-anchor-v2 before video."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 6877778,
+      "sha256": "df4dea681b918914b4c5ab9e5fa30173466fbe70e36de161e41a7d980be59373",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S23-anchor",
+      "shots": [
+        "S23"
+      ],
+      "referenceImages": [
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+        "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png"
+      ],
+      "prompt": "Single live-action medium-wide film frame, 16:9, 40mm locked composition in exact reference4 attic, cool soft daylight left, open wooden trunk left, brick wall and rafters. Three DISTINCT generations. Luna15 from ref1 foreground SCREEN-RIGHT, seated low, charcoal tee, olive cargo pants with unfolded hems, low ponytail, both worn black high-top shoes clearly visible. Elena71 from ref2 seated center-left by trunk, plum cardigan cream blouse gray curls. Mother47 from ref3 stands quietly behind Elena on LEFT, navy cardigan charcoal trousers black loafers, small silver hoops. Elena offers one open hand toward Luna at frame center. Luna's nearest hand hovers three centimeters above Elena's palm ready for one contact; other hands rest separately. Three distinct readable faces exchange gentle looks, aged Elena clearly older than Mom. Natural anatomy, all feet grounded, photorealistic, subtle film grain, no panels or text.",
+      "assetId": "157d7be0-fb80-4013-ab28-f180e5e084a7",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/157d7be0-fb80-4013-ab28-f180e5e084a7.png",
+      "createdAt": "2026-09-26T16:39:25.774Z",
+      "updatedAt": "2026-09-26T16:39:47.819Z",
+      "creditsCharged": 16,
+      "file": "stills/S23-anchor.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "accepted_animatic_anchor",
+        "notes": "Three distinct cast faces; correct colors and hierarchy. Luna seated cross-legged right, grandmother seated left, Mom behind. Shoes present but soles and crossed legs make product detail less clear. Hand hovers ready for single contact. No memorial photo or board in crop."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 7280809,
+      "sha256": "18d651b6df59177eb031f7990a37e7f88cacd3cf1e1f2bc09b1a2dd0ea6f1fcb",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S16-anchor",
+      "shots": [
+        "S16"
+      ],
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png"
+      ],
+      "prompt": "Single live-action 65mm shoe-level insert from reference: the seated teenage girl's LEFT black canvas high-top, the farther shoe on screen right in the original scene, on 1995 wooden floor. Full shoe and cuffed denim ankle fill center. Inner ankle round star patch visible, yellowed off-white rubber toe and sole, aged black canvas and two neat already-tied lace loops. LEFT shoe has NO cream repair. Keep same direction toe pointing SCREEN-RIGHT. Father's hands are completely outside this composition. Daughter's other shoe only softly visible in background left. Soft warm window light from left, fine floor grain, realistic materials, shallow focus, restrained film grain, no graphic text.",
+      "assetId": "e2c0606f-3d43-4868-932b-f20633d22dca",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/e2c0606f-3d43-4868-932b-f20633d22dca.png",
+      "createdAt": "2026-09-26T16:39:28.337Z",
+      "updatedAt": "2026-09-26T16:39:48.217Z",
+      "creditsCharged": 16,
+      "file": "stills/S16-anchor.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "accepted_animatic_still",
+        "notes": "Two shoes only, main left shoe toe right and already tied. Cuff shape and patch colors differ from S18; product master still needs final harmonization."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 6853449,
+      "sha256": "7f2ed4de1c869b3a3dd7c0aafdf35d61c0efd21480e5940517327d4c6b566056",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S03-S20-anchor",
+      "shots": [
+        "S03",
+        "S20"
+      ],
+      "referenceImages": [
+        "production/videoassets/3e113801-80a5-4042-89ac-e1b7662f2a7f.png",
+        "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png"
+      ],
+      "prompt": "Change reference1 into the matching present-day film shot. Replace the teenage girl at LEFT with her exact 47-year-old adult identity from reference2: same framing, eye position, head scale, three-quarter head angle and gaze DOWN-RIGHT; preserve navy cardigan and top, silver small hoops, gray-streaked curls. Her expression is quiet tenderness, mouth closed and neutral. Replace blurred male foreground profile at far RIGHT with soft out-of-focus back/side of seated Luna15 from reference3, dark low ponytail and charcoal tee; Luna lower than Mom. Replace background by attic4 soft brick and timber with cool window daylight from LEFT. Adult mother is clearly main sharp face; Luna mostly outside frame. Photorealistic cinematic 85mm close-up, realistic skin, restrained grain. Exact framing correspondence with first image, no text or panels.",
+      "assetId": "2ea5aa34-d314-4cbf-aee0-296280c49853",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/2ea5aa34-d314-4cbf-aee0-296280c49853.png",
+      "createdAt": "2026-09-26T16:41:01.749Z",
+      "updatedAt": "2026-09-26T16:41:25.105Z",
+      "creditsCharged": 16,
+      "file": "stills/S03-S20-anchor.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "accepted_animatic_anchor",
+        "notes": "Adult mother identity/navy outfit clear; approximate matched eye height, head scale and gaze with S19. Blurred Luna replaces blurred father at right. Framing/lighting not pixel identical; cut is editorial age match, not morph."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 6709044,
+      "sha256": "17c42a19c3ebd23687b5c8358848d5188a1e01ddba86d8eddf2861210a9625a7",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S18-anchor-v2",
+      "shots": [
+        "S18"
+      ],
+      "referenceImages": [
+        "production/videoassets/f172e9dc-d717-43be-85a0-0f31e6391cda.png"
+      ],
+      "prompt": "Correct this exact photographic insert with a strictly local change: remove the EXTRA black shoe in far right background behind the father's wrists and replace that small background area with matching bare wooden floor. Preserve the main foreground left sneaker, its tied bow and both father's hands pixel composition; preserve the faint legitimate second shoe at extreme LEFT edge. Exactly two shoes total: main central shoe and cropped opposite shoe on extreme left. All else unchanged: natural fingers, blue cuffs, denim leg, warm lighting, lens, realistic texture.",
+      "assetId": "1275a00f-f8f9-4397-9232-986a8dcad5a8",
+      "status": "generated",
+      "media_type": "image",
+      "model": "nano-banana-2",
+      "arcadsPath": "production/videoassets/1275a00f-f8f9-4397-9232-986a8dcad5a8.png",
+      "createdAt": "2026-09-26T16:41:05.896Z",
+      "updatedAt": "2026-09-26T16:41:26.236Z",
+      "creditsCharged": 16,
+      "file": "stills/S18-anchor-v2.png",
+      "qa": {
+        "imageInspected": true,
+        "disposition": "accepted_animatic_anchor",
+        "notes": "Extra shoe removed; two hands clear, existing looped bow, left inner ankle badge. Color/scale differ slightly from S16 product insert; animatic placeholder product continuity."
+      },
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 7634257,
+      "sha256": "aeb7c900801cf2dc46b67921ed902c82bcf330ed1bd1784846cba93f1f244614",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "code": "S19",
+      "shots": [
+        "S19"
+      ],
+      "startFrame": "production/videoassets/3e113801-80a5-4042-89ac-e1b7662f2a7f.png",
+      "duration": 6,
+      "prompt": "Locked cinematic close-up. The girl holds her down-right eyeline toward her father. She lets a small affectionate closed-mouth smile grow gently, then holds it with a tiny natural blink. Father at the far right foreground stays still and blurred. One continuous take; stable identity, composition and light, only subtle breathing. Silent performance, closed lips, no spoken words, no music.",
+      "assetId": "814926b0-583b-430a-b972-b260434f214e",
+      "status": "generated",
+      "media_type": "video",
+      "model": "kling_30",
+      "creditsCharged": 272,
+      "arcadsPath": "production/videoassets/814926b0-583b-430a-b972-b260434f214e.mp4",
+      "createdAt": "2026-09-26T16:41:09.185Z",
+      "updatedAt": "2026-09-26T16:43:03.160Z",
+      "file": "videos/S19.mp4",
+      "qa": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 1,
+        "notes": "Smile rises slightly and settles; stable down-right/near-level eye line and face. Father remains blurred at right. Use 0.5–3.5s; intended age match needs editorial framing, not a morph."
+      },
+      "metadataFile": "qa/S19-metadata.json",
+      "audioHandling": "Mute generated track in assembly; root mixes sound separately.",
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 8942591,
+      "sha256": "310795db6092c091fc9339c0cf9911a573a30784e4d3e8be27dba3190b97632f",
+      "width": 1928,
+      "height": 1072,
+      "actualDurationSeconds": 6.041667,
+      "fps": 24
+    },
+    {
+      "code": "S22",
+      "shots": [
+        "S22"
+      ],
+      "startFrame": "production/videoassets/83b0a694-c481-4dff-89b5-942aacf3e17d.png",
+      "duration": 6,
+      "prompt": "Locked waist-up shot. The seated elderly woman gently lifts her right forearm from her thigh and extends one relaxed open palm toward screen-right, offering her hand to someone just off screen. She keeps her affectionate small smile and holds the invitation for the final two seconds. Her other hand rests still on her thigh. One slow natural gesture, stable facial identity and lighting. Closed-mouth silent performance, quiet room ambience, no dialogue, no music.",
+      "assetId": "8725b2c4-0ba9-4674-8caa-1fa8d27e2ace",
+      "status": "generated",
+      "media_type": "video",
+      "model": "kling_30",
+      "creditsCharged": 272,
+      "arcadsPath": "production/videoassets/8725b2c4-0ba9-4674-8caa-1fa8d27e2ace.mp4",
+      "createdAt": "2026-09-26T16:41:12.799Z",
+      "updatedAt": "2026-09-26T16:43:08.809Z",
+      "file": "videos/S22.mp4",
+      "qa": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 1,
+        "notes": "Right hand rises and opens cleanly, invitation held. Stable mature face. Use 1–4s. Hand height is higher in close shot than subsequent wide but direction consistent."
+      },
+      "metadataFile": "qa/S22-metadata.json",
+      "audioHandling": "Mute generated track in assembly; root mixes sound separately.",
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 4969206,
+      "sha256": "729a00762b5454570faea1b10b3cd03d97cda11f4445a93ac52b1108e63f016a",
+      "width": 1928,
+      "height": 1072,
+      "actualDurationSeconds": 6.041667,
+      "fps": 24
+    },
+    {
+      "code": "S17",
+      "shots": [
+        "S17"
+      ],
+      "startFrame": "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+      "duration": 6,
+      "prompt": "Locked two-shot. The kneeling father keeps his hands calmly at his daughter's already-tied shoelace. He slowly raises ONLY his gaze toward her face with a faint mock-serious expression, then softens into affection. Daughter remains seated smiling slightly. Shoes and hands stay in place. No knot-making, no standing, no camera move, no cut. Natural restrained breathing, consistent faces and clothing. Quiet room ambience, closed-mouth silent performances, no dialogue or music.",
+      "assetId": "78e1a2f1-45ea-4365-be4c-59cdfb129a7d",
+      "status": "generated",
+      "media_type": "video",
+      "model": "kling_30",
+      "creditsCharged": 272,
+      "arcadsPath": "production/videoassets/78e1a2f1-45ea-4365-be4c-59cdfb129a7d.mp4",
+      "createdAt": "2026-09-26T16:41:15.992Z",
+      "updatedAt": "2026-09-26T16:43:27.907Z",
+      "file": "videos/S17.mp4",
+      "qa": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 1,
+        "notes": "Father raises gaze by ~2s. Both faces stable, shoes grounded. Hands begin to relax away after ~3s; use 0.5–3.5s and cut before later release. Daughter expression is restrained."
+      },
+      "metadataFile": "qa/S17-metadata.json",
+      "audioHandling": "Mute generated track in assembly; root mixes sound separately.",
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 6974203,
+      "sha256": "f9fef24c258e92a899c80ca0e11a754e795d9b7fb7d4b25abf92e7fe10b0b272",
+      "width": 1928,
+      "height": 1072,
+      "actualDurationSeconds": 6.041667,
+      "fps": 24
+    },
+    {
+      "code": "S03-S20",
+      "shots": [
+        "S03",
+        "S20"
+      ],
+      "startFrame": "production/videoassets/2ea5aa34-d314-4cbf-aee0-296280c49853.png",
+      "duration": 7,
+      "prompt": "Locked cinematic close-up. For the first three seconds the adult mother remains quietly thoughtful, mouth closed, eyes gently down-right toward her daughter. During the next second her expression softens into a small warm closed-mouth smile, which she holds for the last three seconds. The blurred teenage daughter at the right edge stays still. Only tiny natural breathing and one blink. Keep face identity, eye position, framing and light constant. Silent performance, no speech or lip articulation, no music, quiet attic air.",
+      "assetId": "f73a4c6c-6bed-4f3e-9b2e-11071da8836a",
+      "status": "generated",
+      "media_type": "video",
+      "model": "kling_30",
+      "creditsCharged": 304,
+      "arcadsPath": "production/videoassets/f73a4c6c-6bed-4f3e-9b2e-11071da8836a.mp4",
+      "createdAt": "2026-09-26T16:42:09.461Z",
+      "updatedAt": "2026-09-26T16:44:09.223Z",
+      "file": "videos/S03-S20.mp4",
+      "qa": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 2,
+        "extraInspectedSeconds": [
+          6.5
+        ],
+        "notes": "Mother remains quiet through ~4s then smiles. Use S03 0–2.5s and S20 4–7s. Stable adult identity, matching teen composition. Approximate face scale/eyeline only; no pixel-perfect age match. Luna blurred foreground stays mostly still."
+      },
+      "metadataFile": "qa/S03-S20-metadata.json",
+      "audioHandling": "Mute generated track in assembly; root mixes sound separately.",
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 7968193,
+      "sha256": "7fc2c7775027f69ab573f55688a05893fbcddb55f1655dc84d70dd90e260d41d",
+      "width": 1928,
+      "height": 1072,
+      "actualDurationSeconds": 7.041667,
+      "fps": 24
+    },
+    {
+      "code": "S18",
+      "shots": [
+        "S18"
+      ],
+      "startFrame": "production/videoassets/1275a00f-f8f9-4397-9232-986a8dcad5a8.png",
+      "duration": 6,
+      "prompt": "Locked macro close-up. The father's thumbs and index fingers make ONE tiny outward tug on the two already-formed shoelace bow loops, tightening the existing knot by two centimeters, then release to rest beside the shoe. Bow remains securely tied throughout. Keep exactly two natural hands, grounded shoe and denim ankle in same position. No tying sequence, no new knot, no additional feet. Natural restrained movement, consistent materials and daylight. Quiet lace friction only, no voice, no music.",
+      "assetId": "cdf17065-7d78-4da4-9c3f-37e130761705",
+      "status": "generated",
+      "media_type": "video",
+      "model": "kling_30",
+      "creditsCharged": 272,
+      "arcadsPath": "production/videoassets/cdf17065-7d78-4da4-9c3f-37e130761705.mp4",
+      "createdAt": "2026-09-26T16:42:15.260Z",
+      "updatedAt": "2026-09-26T16:44:10.818Z",
+      "file": "videos/S18.mp4",
+      "qa": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 2,
+        "extraInspectedSeconds": [
+          3.5,
+          4.5
+        ],
+        "notes": "First ~2s includes more finger repositioning than requested. Use 2–5s for small loop tightening and release. Two hands plausible in inspected frames; bow stays tied. Logo lettering slightly unstable, product insert differs from S16; animatic only."
+      },
+      "metadataFile": "qa/S18-metadata.json",
+      "audioHandling": "Mute generated track in assembly; root mixes sound separately.",
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 10805268,
+      "sha256": "38083853193b655729f99709fab5187d00365fff5523c04120ba5dfec2534ff3",
+      "width": 1928,
+      "height": 1072,
+      "actualDurationSeconds": 6.041667,
+      "fps": 24
+    },
+    {
+      "code": "S23",
+      "shots": [
+        "S23"
+      ],
+      "startFrame": "production/videoassets/157d7be0-fb80-4013-ab28-f180e5e084a7.png",
+      "duration": 6,
+      "prompt": "Locked medium-wide three-person shot. Luna at screen-right gently lowers her hovering hand three centimeters into her grandmother's open palm at center. Their hands settle together and remain connected for the final three seconds, without interlaced fingers. The grandmother looks at Luna with a small smile. Mother standing behind stays quietly attentive and still. One simple hand contact only. Preserve all three distinct faces, positions, clothing, shoes and natural anatomy. No standing, no hug, no cut. Soft room ambience, silent closed-mouth performance, no dialogue or music.",
+      "assetId": "2f3121f9-e89c-4e6a-9cf0-a9046c1e5c91",
+      "status": "generated",
+      "media_type": "video",
+      "model": "kling_30",
+      "creditsCharged": 272,
+      "arcadsPath": "production/videoassets/2f3121f9-e89c-4e6a-9cf0-a9046c1e5c91.mp4",
+      "createdAt": "2026-09-26T16:42:12.511Z",
+      "updatedAt": "2026-09-26T16:44:14.626Z",
+      "file": "videos/S23.mp4",
+      "qa": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 2,
+        "extraInspectedSeconds": [
+          2
+        ],
+        "notes": "Luna settles hand into grandmother's palm in first second, contact holds. All three faces distinct and positions stable, no extra fingers seen in sampled 2s full frame. Use 0–4s. Mother remains attentive; Luna cross-legged, product less prominent."
+      },
+      "metadataFile": "qa/S23-metadata.json",
+      "audioHandling": "Mute generated track in assembly; root mixes sound separately.",
+      "candidateApproval": "exploratory animatic; not team-approved final",
+      "fileBytes": 6880537,
+      "sha256": "babdf57ef7e6079b6a435d3d8928c36e642c4fc69c8eb3cdc87e0a32f6378553",
+      "width": 1928,
+      "height": 1072,
+      "actualDurationSeconds": 6.041667,
+      "fps": 24
+    }
+  ]
+}

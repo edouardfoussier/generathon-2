@@ -1,0 +1,104 @@
+{
+  "baseDirectory": "creative/animatic-v1/family",
+  "shots": [
+    {
+      "shot_id": "S03",
+      "media_type": "video",
+      "file": "videos/S03-S20.mp4",
+      "source_in_seconds": 0,
+      "available_duration": 7.041667,
+      "source_duration_seconds": 7.041667,
+      "edit_duration_seconds": 2.5,
+      "qa": "Quiet extract before smile.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S16",
+      "media_type": "image",
+      "file": "stills/S16-anchor.png",
+      "source_in_seconds": 0,
+      "available_duration": 3,
+      "source_duration_seconds": 3,
+      "edit_duration_seconds": 3,
+      "qa": "Still product insert; digital push optional.",
+      "disposition": "still",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S17",
+      "media_type": "video",
+      "file": "videos/S17.mp4",
+      "source_in_seconds": 0.5,
+      "available_duration": 5.541667,
+      "source_duration_seconds": 6.041667,
+      "edit_duration_seconds": 3,
+      "qa": "Gaze lift; cut before later hand release.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S18",
+      "media_type": "video",
+      "file": "videos/S18.mp4",
+      "source_in_seconds": 2,
+      "available_duration": 4.041667,
+      "source_duration_seconds": 6.041667,
+      "edit_duration_seconds": 3,
+      "qa": "Trim off initial finger repositioning; includes tug and release.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S19",
+      "media_type": "video",
+      "file": "videos/S19.mp4",
+      "source_in_seconds": 0.5,
+      "available_duration": 5.541667,
+      "source_duration_seconds": 6.041667,
+      "edit_duration_seconds": 3,
+      "qa": "Teen smile; match cut to S20.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S20",
+      "media_type": "video",
+      "file": "videos/S03-S20.mp4",
+      "source_in_seconds": 4,
+      "available_duration": 3.0416670000000003,
+      "source_duration_seconds": 7.041667,
+      "edit_duration_seconds": 3,
+      "qa": "Adult smile extract; same source as S03.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S22",
+      "media_type": "video",
+      "file": "videos/S22.mp4",
+      "source_in_seconds": 1,
+      "available_duration": 5.041667,
+      "source_duration_seconds": 6.041667,
+      "edit_duration_seconds": 3,
+      "qa": "Hand offer from thigh to palm extended.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    },
+    {
+      "shot_id": "S23",
+      "media_type": "video",
+      "file": "videos/S23.mp4",
+      "source_in_seconds": 0,
+      "available_duration": 6.041667,
+      "source_duration_seconds": 6.041667,
+      "edit_duration_seconds": 4,
+      "qa": "One hand contact, three distinct generations.",
+      "disposition": "video",
+      "audio": "mute source; root sound mix"
+    }
+  ],
+  "totalEditSeconds": 24.5,
+  "credits": 1776,
+  "status": "ready_for_assembly"
+}

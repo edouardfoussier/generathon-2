@@ -1,0 +1,33 @@
+{
+  "code": "V03",
+  "shots": [
+    "S05",
+    "S21"
+  ],
+  "media": "video",
+  "args": {
+    "prompt": "Locked close-up, continuous single take. For the first three seconds she keeps her eyes lowered, softly exhales, lips closed and expression thoughtful. Then she slowly raises only her gaze toward upper frame-left, toward her mother offscreen. Her face relaxes into a small warm closed-mouth half-smile that holds for the final three seconds. Natural subtle breathing, same face and light. Silent scene, no dialogue, no music.",
+    "startFrame": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+    "duration": 8
+  },
+  "submittedAt": "2026-09-26T16:39:10.572Z",
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 9dabeccc-cfd1-4996-8c9f-e64dce6be23b\n- **Type**: kling_30\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 4:39:10 PM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "9dabeccc-cfd1-4996-8c9f-e64dce6be23b",
+          "type": "kling_30",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}
