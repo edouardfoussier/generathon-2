@@ -1,0 +1,46 @@
+{
+  "code": "CS01G",
+  "group": "shoes",
+  "subjectId": "black-chucks-early",
+  "title": {
+    "fr": "Converse noires · 1970–1979",
+    "en": "Black Converse · 1970–1979"
+  },
+  "referenceImages": [
+    "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+    "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+  ],
+  "referenceNotes": {
+    "fr": "P01 pour la construction, sans usure tardive ; GA05 pour le médium seulement.",
+    "en": "P01 supplies construction with later wear removed; GA05 is medium only."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Rafa's original matched black canvas high-top Converse pair during 1970–1979, early life before any repair. Use PHOTO reference1 for exact classic construction and silhouette, but restore deep black canvas, intact tidy seams, light believable early wear, warm ivory rubber not extreme dirt. NO cream patch, NO darned tear, NO tan blob, NO blue ink dash, NO invented trim. The painted reference supplies medium only; do not copy its large patch or inconsistent badges. RIGHT panel: opened tongue close-up showing small naturally hand-written black ink initials 'R.M.' on INSIDE tongue, never on outside canvas. Keep tongue attached and shoe intact. Brand lettering on badges restrained; no additional words.",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CS01G.png",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "a03d21f1-5421-4fd4-b529-ac46e28f1dcc",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:13:42.293Z",
+  "assetId": "a03d21f1-5421-4fd4-b529-ac46e28f1dcc",
+  "creditsCharged": 8,
+  "qa": {
+    "fr": "Vues intérieure/extérieure bien séparées, sans réparation, R.M. lisible. Lettrage du badge à contrôler avant très gros plan.",
+    "en": "Clear inner/outer views, no repair, readable R.M. Check badge lettering before extreme close-ups."
+  },
+  "generatedReference": "production/videoassets/a03d21f1-5421-4fd4-b529-ac46e28f1dcc.png",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "totalCreditsCharged": 8
+}

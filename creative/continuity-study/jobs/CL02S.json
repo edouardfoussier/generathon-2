@@ -1,0 +1,46 @@
+{
+  "code": "CL02S",
+  "group": "locations",
+  "subjectId": "court-1970",
+  "title": {
+    "fr": "Terrain du Bronx · 1970",
+    "en": "Bronx court · 1970"
+  },
+  "referenceImages": [
+    "production/videoassets/876b2abe-43f8-4c21-ae37-1c428173c6d9.png",
+    "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+  ],
+  "referenceNotes": {
+    "fr": "R03 fixe le panier à gauche, l'arche à droite et la grille ; GA03 pour la peinture.",
+    "en": "R03 locks left hoop, right arch and fence; GA03 for paint treatment."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: exact 1970 Bronx neighborhood basketball court. Preserve R03 photograph architecture: weathered off-white rectangular basketball backboard with red inset rectangle and rusty red rim to LEFT, continuous chain-link fence, red brick tenements with black metal fire escapes, brick arch and passage at RIGHT. Restrained gold sunset, terracotta bricks, navy shadows. LEFT: wide empty court with left hoop and right arch. CENTER: low baseline view along asphalt still seeing same hoop on left and arch on right. RIGHT: rim/net/backboard construction detail against the same period brick/fire-escape context. No players or basketball props, no skate ramps, no modern murals, no graffiti, no LED screens, no new architecture.",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CL02S.jpg",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "50d8ef2e-e001-457f-8427-0000cc50b98a",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:11:59.462Z",
+  "assetId": "50d8ef2e-e001-457f-8427-0000cc50b98a",
+  "creditsCharged": 32,
+  "qa": {
+    "fr": "Panier et arche présents au plan large ; texture aquarellée forte. Vérifier les lignes du terrain au raccord.",
+    "en": "Hoop and arch present in the wide view; strong watercolor texture. Check court lines across cuts."
+  },
+  "generatedReference": "production/videoassets/50d8ef2e-e001-457f-8427-0000cc50b98a.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "totalCreditsCharged": 32
+}

@@ -1,0 +1,46 @@
+{
+  "code": "CL04S",
+  "group": "locations",
+  "subjectId": "wedding-1978",
+  "title": {
+    "fr": "Porte du mariage · 1978",
+    "en": "Wedding doorway · 1978"
+  },
+  "referenceImages": [
+    "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+    "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+  ],
+  "referenceNotes": {
+    "fr": "Le plan mariage fixe les portes en bois et la brique ; GA05 sert au médium.",
+    "en": "Wedding frame fixes wood doors and brick facade; GA05 is medium only."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact circa-1978 town-hall/community-building wedding doorway in photographic reference1 with the couple REMOVED. Tall honey-brown paneled wooden double doors with upper glass, right leaf open into warm interior, modest stone threshold and shallow stoop, weathered tan/brown brick facade, period bronze door knob. Urban Bronx street context on LEFT, brick tenements and one simple dark streetlamp, warm late afternoon sun. LEFT: empty doorway frontal/three-quarter establishing view like reference1. CENTER: wider sidewalk view giving street and brick facade context while retaining door proportions. RIGHT: close low view of paneled door base, bronze hinge, stone threshold and stoop wear. No people, flowers, wedding dress, signs, text, fantasy architecture or modern glass tower.",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CL04S.jpg",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "499a52fd-5ef4-41d8-9656-2292c007281e",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:12:30.947Z",
+  "assetId": "499a52fd-5ef4-41d8-9656-2292c007281e",
+  "creditsCharged": 32,
+  "qa": {
+    "fr": "Double porte et seuil cohérents ; même axe répété plutôt qu’un vrai plan de rue très large.",
+    "en": "Coherent double door and threshold; repeats a similar axis rather than a very wide street view."
+  },
+  "generatedReference": "production/videoassets/499a52fd-5ef4-41d8-9656-2292c007281e.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "totalCreditsCharged": 32
+}

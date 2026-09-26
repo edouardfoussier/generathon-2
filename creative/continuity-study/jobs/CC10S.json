@@ -1,0 +1,54 @@
+{
+  "codeBase": "CC10",
+  "subjectId": "mother-newborn-1979",
+  "title": {
+    "fr": "La fille de Rafa · nouveau-née · 1979",
+    "en": "Rafa's daughter · newborn · 1979"
+  },
+  "referenceImages": [
+    "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+    "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+  ],
+  "referenceNotes": {
+    "fr": "Bébé de la scène naissance v3 : future mère de Luna ; GA05 : peinture uniquement.",
+    "en": "Baby from v3 birth scene: Luna's future mother; GA05: paint medium only."
+  },
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the newborn infant wrapped in cream in her father's arms. This is Rafa and Elena's newborn DAUGHTER in1979, future mother of Luna. Preserve her natural small face, warm light-brown skin and fine dark hair. Safe comfortably supported poses only. EXACTLY THREE equal vertical panels on warm ivory paper: LEFT close sleeping face and swaddle shoulders, CENTER supported three-quarter upper-body view of same infant fully wrapped in cream knitted blanket with an adult's supportive forearm beneath her head and body, RIGHT close-up of the baby's tiny hand gently closing around one adult index finger, cream blanket behind. Neutral soft daylight, tender real proportions rendered in painted shapes. No standing infant or back-turnaround pose, no adult face, no extra baby, no baby shoes, no jewelry, no text, no pink stereotype decorations. Ordinary gentle family portrait, no distress.",
+  "group": "characters",
+  "code": "CC10S",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CC10S.jpg",
+  "submittedAt": "2026-09-26T20:12:35.733Z",
+  "response": {
+    "assets": [
+      {
+        "id": "ada8ebd4-bef5-4139-a5e7-da37de0996cd",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "assetId": "ada8ebd4-bef5-4139-a5e7-da37de0996cd",
+  "status": "generated",
+  "creditsCharged": 32,
+  "completedAt": "2026-09-26T20:14:51.268Z",
+  "arcadsPath": "production/videoassets/ada8ebd4-bef5-4139-a5e7-da37de0996cd.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "fileBytes": 419754,
+  "format": "JPEG",
+  "qa": {
+    "fr": "Nouveau-née emmaillotée et soutenue, trois détails cohérents : visage, corps enveloppé, main. C’est la future mère de Luna, sans nouvelle branche familiale. Lavis doux, traits plus lissés et stylisés.",
+    "en": "Wrapped, supported newborn with three coherent details: face, swaddled body, hand. She is Luna’s future mother, not an additional family branch. Soft washes with smoother, more stylized features."
+  },
+  "visualReview": {
+    "inspected": true,
+    "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+    "motionValidated": false
+  }
+}

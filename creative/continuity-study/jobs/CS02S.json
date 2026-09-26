@@ -1,0 +1,47 @@
+{
+  "code": "CS02S",
+  "group": "shoes",
+  "subjectId": "black-chucks-late",
+  "title": {
+    "fr": "Converse transmises · 1995–2026",
+    "en": "Inherited Converse · 1995–2026"
+  },
+  "referenceImages": [
+    "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+    "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+    "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+  ],
+  "referenceNotes": {
+    "fr": "P01 pour la silhouette ; fin v3 pour la petite réparation droite ; GA05 pour la peinture.",
+    "en": "P01 supplies silhouette; v3 ending supplies small right repair; GA05 supplies paint technique."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: exactly the same adult black canvas high-top Converse inherited pair, later in 1995–2026. Preserve first PHOTO reference construction and thin sole. Faded black canvas, controlled subtle scuffs, mildly yellowed cream rubber, still wearable not destroyed. One and ONLY ONE small rectangular cream stitched fabric repair roughly 2cm wide, on the OUTER/LATERAL side of the RIGHT shoe, just ABOVE rubber foxing near forefoot, as PHOTO2. LEFT shoe has NO repair. No broad cream side panel, no cream circle on outer ankle, no tan toe blob, no blue pen slash. Final painting is medium only, do not copy its erroneous big patches. RIGHT panel: opened attached tongue revealing small black hand-written initials 'R.M.' on INSIDE. Side elevations show RIGHT shoe outer repair versus LEFT shoe inner round ankle badge, clearly anatomically distinct. Do not put patch on rubber or cover toe cap.",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CS02S.jpg",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "457734d7-58d6-47aa-a17f-858876a64ece",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:14:18.900Z",
+  "assetId": "457734d7-58d6-47aa-a17f-858876a64ece",
+  "creditsCharged": 32,
+  "qa": {
+    "fr": "Réparation présente mais sa forme et sa position varient entre les trois vues ; ne pas verrouiller ce détail depuis cette seule planche.",
+    "en": "Repair is present but its shape and position vary across the three views; do not lock this detail from this sheet alone."
+  },
+  "generatedReference": "production/videoassets/457734d7-58d6-47aa-a17f-858876a64ece.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "totalCreditsCharged": 32
+}

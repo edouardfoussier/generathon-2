@@ -1,0 +1,565 @@
+{
+  "createdAt": "2026-09-26T20:11:08.038Z",
+  "style": "gouache",
+  "comparison": "Same references and prompt, one sheet per model, three models per subject.",
+  "jobs": [
+    {
+      "code": "CL01N",
+      "group": "locations",
+      "subjectId": "attic-2026",
+      "title": {
+        "fr": "Grenier D06 · 2026",
+        "en": "D06 attic · 2026"
+      },
+      "referenceImages": [
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+        "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+      ],
+      "referenceNotes": {
+        "fr": "D06 fixe l'architecture ; GA01 guide seulement la peinture.",
+        "en": "D06 locks architecture; GA01 guides paint technique only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact D06 family attic from reference 1 in 2026. Preserve pitched exposed timber rafters, brick rear gable, open white casement window at LEFT, open wooden trunk in left foreground, upright round wooden stool, rear workbench with vintage suitcase and lamp, large vertical timber post to RIGHT. Warm afternoon window light falls diagonally left-to-right on pale timber floorboards. LEFT panel wide establishing view following reference1 composition. CENTER same room viewed from doorway with all landmark relationships preserved, no imaginary extra windows. RIGHT panel low shoe-height view across floorboards toward the open trunk, showing window light and timber joints. Remove Luna/skateboard/shoes from any style reference. Keep all three panels empty and warmly lived-in, not abandoned or haunted.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CL01N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL01S",
+      "group": "locations",
+      "subjectId": "attic-2026",
+      "title": {
+        "fr": "Grenier D06 · 2026",
+        "en": "D06 attic · 2026"
+      },
+      "referenceImages": [
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+        "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+      ],
+      "referenceNotes": {
+        "fr": "D06 fixe l'architecture ; GA01 guide seulement la peinture.",
+        "en": "D06 locks architecture; GA01 guides paint technique only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact D06 family attic from reference 1 in 2026. Preserve pitched exposed timber rafters, brick rear gable, open white casement window at LEFT, open wooden trunk in left foreground, upright round wooden stool, rear workbench with vintage suitcase and lamp, large vertical timber post to RIGHT. Warm afternoon window light falls diagonally left-to-right on pale timber floorboards. LEFT panel wide establishing view following reference1 composition. CENTER same room viewed from doorway with all landmark relationships preserved, no imaginary extra windows. RIGHT panel low shoe-height view across floorboards toward the open trunk, showing window light and timber joints. Remove Luna/skateboard/shoes from any style reference. Keep all three panels empty and warmly lived-in, not abandoned or haunted.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CL01S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL01G",
+      "group": "locations",
+      "subjectId": "attic-2026",
+      "title": {
+        "fr": "Grenier D06 · 2026",
+        "en": "D06 attic · 2026"
+      },
+      "referenceImages": [
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+        "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+      ],
+      "referenceNotes": {
+        "fr": "D06 fixe l'architecture ; GA01 guide seulement la peinture.",
+        "en": "D06 locks architecture; GA01 guides paint technique only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact D06 family attic from reference 1 in 2026. Preserve pitched exposed timber rafters, brick rear gable, open white casement window at LEFT, open wooden trunk in left foreground, upright round wooden stool, rear workbench with vintage suitcase and lamp, large vertical timber post to RIGHT. Warm afternoon window light falls diagonally left-to-right on pale timber floorboards. LEFT panel wide establishing view following reference1 composition. CENTER same room viewed from doorway with all landmark relationships preserved, no imaginary extra windows. RIGHT panel low shoe-height view across floorboards toward the open trunk, showing window light and timber joints. Remove Luna/skateboard/shoes from any style reference. Keep all three panels empty and warmly lived-in, not abandoned or haunted.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CL01G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL02N",
+      "group": "locations",
+      "subjectId": "court-1970",
+      "title": {
+        "fr": "Terrain du Bronx · 1970",
+        "en": "Bronx court · 1970"
+      },
+      "referenceImages": [
+        "production/videoassets/876b2abe-43f8-4c21-ae37-1c428173c6d9.png",
+        "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+      ],
+      "referenceNotes": {
+        "fr": "R03 fixe le panier à gauche, l'arche à droite et la grille ; GA03 pour la peinture.",
+        "en": "R03 locks left hoop, right arch and fence; GA03 for paint treatment."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: exact 1970 Bronx neighborhood basketball court. Preserve R03 photograph architecture: weathered off-white rectangular basketball backboard with red inset rectangle and rusty red rim to LEFT, continuous chain-link fence, red brick tenements with black metal fire escapes, brick arch and passage at RIGHT. Restrained gold sunset, terracotta bricks, navy shadows. LEFT: wide empty court with left hoop and right arch. CENTER: low baseline view along asphalt still seeing same hoop on left and arch on right. RIGHT: rim/net/backboard construction detail against the same period brick/fire-escape context. No players or basketball props, no skate ramps, no modern murals, no graffiti, no LED screens, no new architecture.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CL02N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL02S",
+      "group": "locations",
+      "subjectId": "court-1970",
+      "title": {
+        "fr": "Terrain du Bronx · 1970",
+        "en": "Bronx court · 1970"
+      },
+      "referenceImages": [
+        "production/videoassets/876b2abe-43f8-4c21-ae37-1c428173c6d9.png",
+        "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+      ],
+      "referenceNotes": {
+        "fr": "R03 fixe le panier à gauche, l'arche à droite et la grille ; GA03 pour la peinture.",
+        "en": "R03 locks left hoop, right arch and fence; GA03 for paint treatment."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: exact 1970 Bronx neighborhood basketball court. Preserve R03 photograph architecture: weathered off-white rectangular basketball backboard with red inset rectangle and rusty red rim to LEFT, continuous chain-link fence, red brick tenements with black metal fire escapes, brick arch and passage at RIGHT. Restrained gold sunset, terracotta bricks, navy shadows. LEFT: wide empty court with left hoop and right arch. CENTER: low baseline view along asphalt still seeing same hoop on left and arch on right. RIGHT: rim/net/backboard construction detail against the same period brick/fire-escape context. No players or basketball props, no skate ramps, no modern murals, no graffiti, no LED screens, no new architecture.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CL02S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL02G",
+      "group": "locations",
+      "subjectId": "court-1970",
+      "title": {
+        "fr": "Terrain du Bronx · 1970",
+        "en": "Bronx court · 1970"
+      },
+      "referenceImages": [
+        "production/videoassets/876b2abe-43f8-4c21-ae37-1c428173c6d9.png",
+        "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+      ],
+      "referenceNotes": {
+        "fr": "R03 fixe le panier à gauche, l'arche à droite et la grille ; GA03 pour la peinture.",
+        "en": "R03 locks left hoop, right arch and fence; GA03 for paint treatment."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: exact 1970 Bronx neighborhood basketball court. Preserve R03 photograph architecture: weathered off-white rectangular basketball backboard with red inset rectangle and rusty red rim to LEFT, continuous chain-link fence, red brick tenements with black metal fire escapes, brick arch and passage at RIGHT. Restrained gold sunset, terracotta bricks, navy shadows. LEFT: wide empty court with left hoop and right arch. CENTER: low baseline view along asphalt still seeing same hoop on left and arch on right. RIGHT: rim/net/backboard construction detail against the same period brick/fire-escape context. No players or basketball props, no skate ramps, no modern murals, no graffiti, no LED screens, no new architecture.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CL02G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL03N",
+      "group": "locations",
+      "subjectId": "salsa-1977",
+      "title": {
+        "fr": "Salle de salsa · 1977",
+        "en": "Salsa hall · 1977"
+      },
+      "referenceImages": [
+        "production/videoassets/3cf0e71d-dc2d-44c3-9913-f4b7263da94f.png",
+        "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+      ],
+      "referenceNotes": {
+        "fr": "R05 pour la salle, ses rideaux et instruments ; GA04 pour les touches peintes.",
+        "en": "R05 supplies hall, curtains and instruments; GA04 supplies brushwork."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact intimate 1977 neighborhood salsa hall of reference1. Preserve three tall LEFT windows with wine-red curtains, scuffed honey-brown wooden dance floor, little round tables and bentwood chairs along side walls, low stage at REAR RIGHT holding upright wooden piano, two congas and microphone stand. Brick stage wall with curtain valance, amber pendant bulbs and restrained plum/purple stage light, blue dusk through windows. LEFT: wide empty dancefloor from doorway. CENTER: very low view across scuffed floorboards toward same stage/piano/congas, reflecting warm light. RIGHT: intimate band-corner detail of piano, congas, curtains and glowing period practical bulb. All instruments have normal proportions. No musicians, dancers, modern nightclub, neon signage or confetti.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CL03N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL03S",
+      "group": "locations",
+      "subjectId": "salsa-1977",
+      "title": {
+        "fr": "Salle de salsa · 1977",
+        "en": "Salsa hall · 1977"
+      },
+      "referenceImages": [
+        "production/videoassets/3cf0e71d-dc2d-44c3-9913-f4b7263da94f.png",
+        "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+      ],
+      "referenceNotes": {
+        "fr": "R05 pour la salle, ses rideaux et instruments ; GA04 pour les touches peintes.",
+        "en": "R05 supplies hall, curtains and instruments; GA04 supplies brushwork."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact intimate 1977 neighborhood salsa hall of reference1. Preserve three tall LEFT windows with wine-red curtains, scuffed honey-brown wooden dance floor, little round tables and bentwood chairs along side walls, low stage at REAR RIGHT holding upright wooden piano, two congas and microphone stand. Brick stage wall with curtain valance, amber pendant bulbs and restrained plum/purple stage light, blue dusk through windows. LEFT: wide empty dancefloor from doorway. CENTER: very low view across scuffed floorboards toward same stage/piano/congas, reflecting warm light. RIGHT: intimate band-corner detail of piano, congas, curtains and glowing period practical bulb. All instruments have normal proportions. No musicians, dancers, modern nightclub, neon signage or confetti.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CL03S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL03G",
+      "group": "locations",
+      "subjectId": "salsa-1977",
+      "title": {
+        "fr": "Salle de salsa · 1977",
+        "en": "Salsa hall · 1977"
+      },
+      "referenceImages": [
+        "production/videoassets/3cf0e71d-dc2d-44c3-9913-f4b7263da94f.png",
+        "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+      ],
+      "referenceNotes": {
+        "fr": "R05 pour la salle, ses rideaux et instruments ; GA04 pour les touches peintes.",
+        "en": "R05 supplies hall, curtains and instruments; GA04 supplies brushwork."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact intimate 1977 neighborhood salsa hall of reference1. Preserve three tall LEFT windows with wine-red curtains, scuffed honey-brown wooden dance floor, little round tables and bentwood chairs along side walls, low stage at REAR RIGHT holding upright wooden piano, two congas and microphone stand. Brick stage wall with curtain valance, amber pendant bulbs and restrained plum/purple stage light, blue dusk through windows. LEFT: wide empty dancefloor from doorway. CENTER: very low view across scuffed floorboards toward same stage/piano/congas, reflecting warm light. RIGHT: intimate band-corner detail of piano, congas, curtains and glowing period practical bulb. All instruments have normal proportions. No musicians, dancers, modern nightclub, neon signage or confetti.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CL03G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL04N",
+      "group": "locations",
+      "subjectId": "wedding-1978",
+      "title": {
+        "fr": "Porte du mariage · 1978",
+        "en": "Wedding doorway · 1978"
+      },
+      "referenceImages": [
+        "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "Le plan mariage fixe les portes en bois et la brique ; GA05 sert au médium.",
+        "en": "Wedding frame fixes wood doors and brick facade; GA05 is medium only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact circa-1978 town-hall/community-building wedding doorway in photographic reference1 with the couple REMOVED. Tall honey-brown paneled wooden double doors with upper glass, right leaf open into warm interior, modest stone threshold and shallow stoop, weathered tan/brown brick facade, period bronze door knob. Urban Bronx street context on LEFT, brick tenements and one simple dark streetlamp, warm late afternoon sun. LEFT: empty doorway frontal/three-quarter establishing view like reference1. CENTER: wider sidewalk view giving street and brick facade context while retaining door proportions. RIGHT: close low view of paneled door base, bronze hinge, stone threshold and stoop wear. No people, flowers, wedding dress, signs, text, fantasy architecture or modern glass tower.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CL04N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL04S",
+      "group": "locations",
+      "subjectId": "wedding-1978",
+      "title": {
+        "fr": "Porte du mariage · 1978",
+        "en": "Wedding doorway · 1978"
+      },
+      "referenceImages": [
+        "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "Le plan mariage fixe les portes en bois et la brique ; GA05 sert au médium.",
+        "en": "Wedding frame fixes wood doors and brick facade; GA05 is medium only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact circa-1978 town-hall/community-building wedding doorway in photographic reference1 with the couple REMOVED. Tall honey-brown paneled wooden double doors with upper glass, right leaf open into warm interior, modest stone threshold and shallow stoop, weathered tan/brown brick facade, period bronze door knob. Urban Bronx street context on LEFT, brick tenements and one simple dark streetlamp, warm late afternoon sun. LEFT: empty doorway frontal/three-quarter establishing view like reference1. CENTER: wider sidewalk view giving street and brick facade context while retaining door proportions. RIGHT: close low view of paneled door base, bronze hinge, stone threshold and stoop wear. No people, flowers, wedding dress, signs, text, fantasy architecture or modern glass tower.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CL04S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL04G",
+      "group": "locations",
+      "subjectId": "wedding-1978",
+      "title": {
+        "fr": "Porte du mariage · 1978",
+        "en": "Wedding doorway · 1978"
+      },
+      "referenceImages": [
+        "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "Le plan mariage fixe les portes en bois et la brique ; GA05 sert au médium.",
+        "en": "Wedding frame fixes wood doors and brick facade; GA05 is medium only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact circa-1978 town-hall/community-building wedding doorway in photographic reference1 with the couple REMOVED. Tall honey-brown paneled wooden double doors with upper glass, right leaf open into warm interior, modest stone threshold and shallow stoop, weathered tan/brown brick facade, period bronze door knob. Urban Bronx street context on LEFT, brick tenements and one simple dark streetlamp, warm late afternoon sun. LEFT: empty doorway frontal/three-quarter establishing view like reference1. CENTER: wider sidewalk view giving street and brick facade context while retaining door proportions. RIGHT: close low view of paneled door base, bronze hinge, stone threshold and stoop wear. No people, flowers, wedding dress, signs, text, fantasy architecture or modern glass tower.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CL04G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL05N",
+      "group": "locations",
+      "subjectId": "family-room-1979-1995",
+      "title": {
+        "fr": "Salon familial · 1979 / 1995",
+        "en": "Family room · 1979 / 1995"
+      },
+      "referenceImages": [
+        "production/videoassets/626c4a2c-28f8-43e3-927a-414d10687bb7.png",
+        "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "R06 fixe la pièce ; naissance pour le rocking-chair ; GA05 pour 1995 et la gouache.",
+        "en": "R06 locks the room; newborn scene supplies rocking chair; GA05 guides 1995 dressing and gouache."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: same modest family living room in 1979 and 1995. Photo reference1 locks geometry: tall window at LEFT, broad exposed brick rear wall, faded olive sofa, wooden bookcase rear right, doorway and stair glimpsed at far RIGHT, pale wooden floor. Photo reference2 adds period 1979 rocking chair. Final gouache reference provides 1995 two wooden chairs and painted treatment only; REMOVE ALL PEOPLE AND SHOES. LEFT panel: wide 1979 room with one dark wood rocking chair near left window, modest rug, small shelf, warm honey afternoon light; no CRT required. CENTER: SAME architecture in 1995, with two ordinary wooden chairs facing slightly toward each other in front of sofa and small CRT television rear left. RIGHT: low close study of warm floorboards, window light, brick and chair leg, no people. Deliberate furniture change across eras but window/brick wall/stair positions consistent. No foreground cable, no modern screens, no extra room or duplicated stairs.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CL05N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL05S",
+      "group": "locations",
+      "subjectId": "family-room-1979-1995",
+      "title": {
+        "fr": "Salon familial · 1979 / 1995",
+        "en": "Family room · 1979 / 1995"
+      },
+      "referenceImages": [
+        "production/videoassets/626c4a2c-28f8-43e3-927a-414d10687bb7.png",
+        "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "R06 fixe la pièce ; naissance pour le rocking-chair ; GA05 pour 1995 et la gouache.",
+        "en": "R06 locks the room; newborn scene supplies rocking chair; GA05 guides 1995 dressing and gouache."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: same modest family living room in 1979 and 1995. Photo reference1 locks geometry: tall window at LEFT, broad exposed brick rear wall, faded olive sofa, wooden bookcase rear right, doorway and stair glimpsed at far RIGHT, pale wooden floor. Photo reference2 adds period 1979 rocking chair. Final gouache reference provides 1995 two wooden chairs and painted treatment only; REMOVE ALL PEOPLE AND SHOES. LEFT panel: wide 1979 room with one dark wood rocking chair near left window, modest rug, small shelf, warm honey afternoon light; no CRT required. CENTER: SAME architecture in 1995, with two ordinary wooden chairs facing slightly toward each other in front of sofa and small CRT television rear left. RIGHT: low close study of warm floorboards, window light, brick and chair leg, no people. Deliberate furniture change across eras but window/brick wall/stair positions consistent. No foreground cable, no modern screens, no extra room or duplicated stairs.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CL05S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CL05G",
+      "group": "locations",
+      "subjectId": "family-room-1979-1995",
+      "title": {
+        "fr": "Salon familial · 1979 / 1995",
+        "en": "Family room · 1979 / 1995"
+      },
+      "referenceImages": [
+        "production/videoassets/626c4a2c-28f8-43e3-927a-414d10687bb7.png",
+        "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "R06 fixe la pièce ; naissance pour le rocking-chair ; GA05 pour 1995 et la gouache.",
+        "en": "R06 locks the room; newborn scene supplies rocking chair; GA05 guides 1995 dressing and gouache."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: same modest family living room in 1979 and 1995. Photo reference1 locks geometry: tall window at LEFT, broad exposed brick rear wall, faded olive sofa, wooden bookcase rear right, doorway and stair glimpsed at far RIGHT, pale wooden floor. Photo reference2 adds period 1979 rocking chair. Final gouache reference provides 1995 two wooden chairs and painted treatment only; REMOVE ALL PEOPLE AND SHOES. LEFT panel: wide 1979 room with one dark wood rocking chair near left window, modest rug, small shelf, warm honey afternoon light; no CRT required. CENTER: SAME architecture in 1995, with two ordinary wooden chairs facing slightly toward each other in front of sofa and small CRT television rear left. RIGHT: low close study of warm floorboards, window light, brick and chair leg, no people. Deliberate furniture change across eras but window/brick wall/stair positions consistent. No foreground cable, no modern screens, no extra room or duplicated stairs.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CL05G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS01N",
+      "group": "shoes",
+      "subjectId": "black-chucks-early",
+      "title": {
+        "fr": "Converse noires · 1970–1979",
+        "en": "Black Converse · 1970–1979"
+      },
+      "referenceImages": [
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "P01 pour la construction, sans usure tardive ; GA05 pour le médium seulement.",
+        "en": "P01 supplies construction with later wear removed; GA05 is medium only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Rafa's original matched black canvas high-top Converse pair during 1970–1979, early life before any repair. Use PHOTO reference1 for exact classic construction and silhouette, but restore deep black canvas, intact tidy seams, light believable early wear, warm ivory rubber not extreme dirt. NO cream patch, NO darned tear, NO tan blob, NO blue ink dash, NO invented trim. The painted reference supplies medium only; do not copy its large patch or inconsistent badges. RIGHT panel: opened tongue close-up showing small naturally hand-written black ink initials 'R.M.' on INSIDE tongue, never on outside canvas. Keep tongue attached and shoe intact. Brand lettering on badges restrained; no additional words.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CS01N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS01S",
+      "group": "shoes",
+      "subjectId": "black-chucks-early",
+      "title": {
+        "fr": "Converse noires · 1970–1979",
+        "en": "Black Converse · 1970–1979"
+      },
+      "referenceImages": [
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "P01 pour la construction, sans usure tardive ; GA05 pour le médium seulement.",
+        "en": "P01 supplies construction with later wear removed; GA05 is medium only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Rafa's original matched black canvas high-top Converse pair during 1970–1979, early life before any repair. Use PHOTO reference1 for exact classic construction and silhouette, but restore deep black canvas, intact tidy seams, light believable early wear, warm ivory rubber not extreme dirt. NO cream patch, NO darned tear, NO tan blob, NO blue ink dash, NO invented trim. The painted reference supplies medium only; do not copy its large patch or inconsistent badges. RIGHT panel: opened tongue close-up showing small naturally hand-written black ink initials 'R.M.' on INSIDE tongue, never on outside canvas. Keep tongue attached and shoe intact. Brand lettering on badges restrained; no additional words.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CS01S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS01G",
+      "group": "shoes",
+      "subjectId": "black-chucks-early",
+      "title": {
+        "fr": "Converse noires · 1970–1979",
+        "en": "Black Converse · 1970–1979"
+      },
+      "referenceImages": [
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "P01 pour la construction, sans usure tardive ; GA05 pour le médium seulement.",
+        "en": "P01 supplies construction with later wear removed; GA05 is medium only."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Rafa's original matched black canvas high-top Converse pair during 1970–1979, early life before any repair. Use PHOTO reference1 for exact classic construction and silhouette, but restore deep black canvas, intact tidy seams, light believable early wear, warm ivory rubber not extreme dirt. NO cream patch, NO darned tear, NO tan blob, NO blue ink dash, NO invented trim. The painted reference supplies medium only; do not copy its large patch or inconsistent badges. RIGHT panel: opened tongue close-up showing small naturally hand-written black ink initials 'R.M.' on INSIDE tongue, never on outside canvas. Keep tongue attached and shoe intact. Brand lettering on badges restrained; no additional words.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CS01G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS02N",
+      "group": "shoes",
+      "subjectId": "black-chucks-late",
+      "title": {
+        "fr": "Converse transmises · 1995–2026",
+        "en": "Inherited Converse · 1995–2026"
+      },
+      "referenceImages": [
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "P01 pour la silhouette ; fin v3 pour la petite réparation droite ; GA05 pour la peinture.",
+        "en": "P01 supplies silhouette; v3 ending supplies small right repair; GA05 supplies paint technique."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: exactly the same adult black canvas high-top Converse inherited pair, later in 1995–2026. Preserve first PHOTO reference construction and thin sole. Faded black canvas, controlled subtle scuffs, mildly yellowed cream rubber, still wearable not destroyed. One and ONLY ONE small rectangular cream stitched fabric repair roughly 2cm wide, on the OUTER/LATERAL side of the RIGHT shoe, just ABOVE rubber foxing near forefoot, as PHOTO2. LEFT shoe has NO repair. No broad cream side panel, no cream circle on outer ankle, no tan toe blob, no blue pen slash. Final painting is medium only, do not copy its erroneous big patches. RIGHT panel: opened attached tongue revealing small black hand-written initials 'R.M.' on INSIDE. Side elevations show RIGHT shoe outer repair versus LEFT shoe inner round ankle badge, clearly anatomically distinct. Do not put patch on rubber or cover toe cap.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CS02N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS02S",
+      "group": "shoes",
+      "subjectId": "black-chucks-late",
+      "title": {
+        "fr": "Converse transmises · 1995–2026",
+        "en": "Inherited Converse · 1995–2026"
+      },
+      "referenceImages": [
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "P01 pour la silhouette ; fin v3 pour la petite réparation droite ; GA05 pour la peinture.",
+        "en": "P01 supplies silhouette; v3 ending supplies small right repair; GA05 supplies paint technique."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: exactly the same adult black canvas high-top Converse inherited pair, later in 1995–2026. Preserve first PHOTO reference construction and thin sole. Faded black canvas, controlled subtle scuffs, mildly yellowed cream rubber, still wearable not destroyed. One and ONLY ONE small rectangular cream stitched fabric repair roughly 2cm wide, on the OUTER/LATERAL side of the RIGHT shoe, just ABOVE rubber foxing near forefoot, as PHOTO2. LEFT shoe has NO repair. No broad cream side panel, no cream circle on outer ankle, no tan toe blob, no blue pen slash. Final painting is medium only, do not copy its erroneous big patches. RIGHT panel: opened attached tongue revealing small black hand-written initials 'R.M.' on INSIDE. Side elevations show RIGHT shoe outer repair versus LEFT shoe inner round ankle badge, clearly anatomically distinct. Do not put patch on rubber or cover toe cap.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CS02S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS02G",
+      "group": "shoes",
+      "subjectId": "black-chucks-late",
+      "title": {
+        "fr": "Converse transmises · 1995–2026",
+        "en": "Inherited Converse · 1995–2026"
+      },
+      "referenceImages": [
+        "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+        "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+        "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+      ],
+      "referenceNotes": {
+        "fr": "P01 pour la silhouette ; fin v3 pour la petite réparation droite ; GA05 pour la peinture.",
+        "en": "P01 supplies silhouette; v3 ending supplies small right repair; GA05 supplies paint technique."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: exactly the same adult black canvas high-top Converse inherited pair, later in 1995–2026. Preserve first PHOTO reference construction and thin sole. Faded black canvas, controlled subtle scuffs, mildly yellowed cream rubber, still wearable not destroyed. One and ONLY ONE small rectangular cream stitched fabric repair roughly 2cm wide, on the OUTER/LATERAL side of the RIGHT shoe, just ABOVE rubber foxing near forefoot, as PHOTO2. LEFT shoe has NO repair. No broad cream side panel, no cream circle on outer ankle, no tan toe blob, no blue pen slash. Final painting is medium only, do not copy its erroneous big patches. RIGHT panel: opened attached tongue revealing small black hand-written initials 'R.M.' on INSIDE. Side elevations show RIGHT shoe outer repair versus LEFT shoe inner round ankle badge, clearly anatomically distinct. Do not put patch on rubber or cover toe cap.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CS02G.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS03N",
+      "group": "shoes",
+      "subjectId": "red-chucks-elena",
+      "title": {
+        "fr": "Converse rouges d’Elena · 1977",
+        "en": "Elena’s red Converse · 1977"
+      },
+      "referenceImages": [
+        "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+        "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+      ],
+      "referenceNotes": {
+        "fr": "Paire rouge du plan salsa pour construction et couleur ; GA04 pour le médium.",
+        "en": "Red pair in salsa frame supplies construction and color; GA04 supplies medium."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Elena's matched RED canvas high-top Converse in 1977, separate from Rafa's black inherited pair. Isolate ONLY the red pair in PHOTO1, ignore men's black footwear and all legs/background. Rich cardinal-red fabric, intact ivory stitching, almost fresh wearable condition with slight dance-floor scuff on cream rubber. Keep both ankle collars fully high-top and matching. Round badge inner ankle ONLY, outer faces plain red canvas. RIGHT panel: close study of red canvas weave, silver eyelets, attached red tongue and criss-cross ivory laces. Absolutely NO 'R.M.' initials, no repair patch, no black canvas, no pink or orange substitution, no chunky platform.",
+      "kind": "image",
+      "model": "nano-banana-2",
+      "modelLabel": "Nano Banana 2",
+      "localFile": "images/CS03N.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS03S",
+      "group": "shoes",
+      "subjectId": "red-chucks-elena",
+      "title": {
+        "fr": "Converse rouges d’Elena · 1977",
+        "en": "Elena’s red Converse · 1977"
+      },
+      "referenceImages": [
+        "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+        "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+      ],
+      "referenceNotes": {
+        "fr": "Paire rouge du plan salsa pour construction et couleur ; GA04 pour le médium.",
+        "en": "Red pair in salsa frame supplies construction and color; GA04 supplies medium."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Elena's matched RED canvas high-top Converse in 1977, separate from Rafa's black inherited pair. Isolate ONLY the red pair in PHOTO1, ignore men's black footwear and all legs/background. Rich cardinal-red fabric, intact ivory stitching, almost fresh wearable condition with slight dance-floor scuff on cream rubber. Keep both ankle collars fully high-top and matching. Round badge inner ankle ONLY, outer faces plain red canvas. RIGHT panel: close study of red canvas weave, silver eyelets, attached red tongue and criss-cross ivory laces. Absolutely NO 'R.M.' initials, no repair patch, no black canvas, no pink or orange substitution, no chunky platform.",
+      "kind": "image",
+      "model": "seedream_5_pro",
+      "modelLabel": "Seedream 5 Pro",
+      "localFile": "images/CS03S.png",
+      "status": "planned"
+    },
+    {
+      "code": "CS03G",
+      "group": "shoes",
+      "subjectId": "red-chucks-elena",
+      "title": {
+        "fr": "Converse rouges d’Elena · 1977",
+        "en": "Elena’s red Converse · 1977"
+      },
+      "referenceImages": [
+        "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+        "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+      ],
+      "referenceNotes": {
+        "fr": "Paire rouge du plan salsa pour construction et couleur ; GA04 pour le médium.",
+        "en": "Red pair in salsa frame supplies construction and color; GA04 supplies medium."
+      },
+      "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Elena's matched RED canvas high-top Converse in 1977, separate from Rafa's black inherited pair. Isolate ONLY the red pair in PHOTO1, ignore men's black footwear and all legs/background. Rich cardinal-red fabric, intact ivory stitching, almost fresh wearable condition with slight dance-floor scuff on cream rubber. Keep both ankle collars fully high-top and matching. Round badge inner ankle ONLY, outer faces plain red canvas. RIGHT panel: close study of red canvas weave, silver eyelets, attached red tongue and criss-cross ivory laces. Absolutely NO 'R.M.' initials, no repair patch, no black canvas, no pink or orange substitution, no chunky platform.",
+      "kind": "image",
+      "model": "gpt-image-2-5-sunburst",
+      "modelLabel": "GPT Image 2.5 Sunburst",
+      "localFile": "images/CS03G.png",
+      "status": "planned"
+    }
+  ]
+}

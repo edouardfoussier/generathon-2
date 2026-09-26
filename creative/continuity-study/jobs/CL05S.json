@@ -1,0 +1,47 @@
+{
+  "code": "CL05S",
+  "group": "locations",
+  "subjectId": "family-room-1979-1995",
+  "title": {
+    "fr": "Salon familial · 1979 / 1995",
+    "en": "Family room · 1979 / 1995"
+  },
+  "referenceImages": [
+    "production/videoassets/626c4a2c-28f8-43e3-927a-414d10687bb7.png",
+    "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+    "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+  ],
+  "referenceNotes": {
+    "fr": "R06 fixe la pièce ; naissance pour le rocking-chair ; GA05 pour 1995 et la gouache.",
+    "en": "R06 locks the room; newborn scene supplies rocking chair; GA05 guides 1995 dressing and gouache."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: same modest family living room in 1979 and 1995. Photo reference1 locks geometry: tall window at LEFT, broad exposed brick rear wall, faded olive sofa, wooden bookcase rear right, doorway and stair glimpsed at far RIGHT, pale wooden floor. Photo reference2 adds period 1979 rocking chair. Final gouache reference provides 1995 two wooden chairs and painted treatment only; REMOVE ALL PEOPLE AND SHOES. LEFT panel: wide 1979 room with one dark wood rocking chair near left window, modest rug, small shelf, warm honey afternoon light; no CRT required. CENTER: SAME architecture in 1995, with two ordinary wooden chairs facing slightly toward each other in front of sofa and small CRT television rear left. RIGHT: low close study of warm floorboards, window light, brick and chair leg, no people. Deliberate furniture change across eras but window/brick wall/stair positions consistent. No foreground cable, no modern screens, no extra room or duplicated stairs.",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CL05S.jpg",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "63af0c63-07a1-4e79-9c29-d03580ac9268",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:13:26.430Z",
+  "assetId": "63af0c63-07a1-4e79-9c29-d03580ac9268",
+  "creditsCharged": 32,
+  "qa": {
+    "fr": "Fenêtre et mur de brique constants entre les deux époques ; lumière douce, changement de mobilier clair.",
+    "en": "Window and brick wall stay constant across eras; soft light and clear furniture change."
+  },
+  "generatedReference": "production/videoassets/63af0c63-07a1-4e79-9c29-d03580ac9268.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "totalCreditsCharged": 32
+}

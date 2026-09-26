@@ -30,6 +30,8 @@ Open **http://127.0.0.1:8787/**. This is a local editing room, not a publicly ho
 
 [The illustrated style study](creative/sketch-study/README.md) reinterprets six keyframes in both textured gouache and ink/hatching. Two Veo 3.1 motion tests explore basketball and the father–daughter shoe handover. These are style tests; the photographic version remains available.
 
+[The continuity study](creative/continuity-study/README.md) compares **54 new reference sheets across Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst**: one sheet per model for each of 18 subjects. It uses the latest gouache direction as a working assumption, with matched identity, wardrobe and location references. These candidates help the team choose a single master per subject; they do not automatically replace the existing cast or establish continuity in motion.
+
 ## Open the board
 
 Open [`creative/selection/index.html`](creative/selection/index.html) directly in a browser, keeping its companion files and image folders together. There is no build step or package installation.
@@ -44,7 +46,7 @@ Then open [the English animatic board](http://127.0.0.1:8765/creative/selection/
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 98-entry board
+## The 152-entry board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -61,8 +63,11 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | AV01 | 1 | Complete 76-second first animatic with music and English voice |
 | AV02–AV04 | 3 | Script v3 comparison: Seedance 2.5, Kling 3 Pro and Veo 3.1, 76 seconds each |
 | Illustrated study | 14 | Six gouache keyframes, six ink keyframes and two Veo animated tests |
+| CC01–CC10 × N/S/G | 30 | Ten character states and costume sheets, compared across three image models |
+| CL01–CL05 × N/S/G | 15 | Five locations, with multiple camera views and period dressing |
+| CS01–CS03 × N/S/G | 9 | Early black pair, later worn/repaired black pair, and Elena’s red pair |
 
-The latest tab is **Illustrated** (`?category=illustrated&lang=en`). **Animatics** (`?category=animatic&lang=en`) retains the full comparison films and links to Cut Room. The board contains 89 stills, five short clips and four full animatic entries: the three new script-v3 comparisons appear before the preserved AV01 script-v2 cut. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
+The latest tab is **Continuity** (`?category=continuity&lang=en`), with three adjacent model candidates per subject, bilingual review notes and downloads. The suffixes N, S and G identify Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst. **Illustrated** (`?category=illustrated&lang=en`) retains the earlier style tests. **Animatics** (`?category=animatic&lang=en`) retains the full comparison films and links to Cut Room. The board contains 143 stills, five short clips and four full animatic entries: the three script-v3 comparisons appear before the preserved AV01 script-v2 cut. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
 
 ## Where to continue
 
@@ -80,7 +85,7 @@ The [bilingual cinematic script v2](creative/converse-cinematic-script-v2.md) an
 - [`creative/selection/README.md`](creative/selection/README.md): detailed board guide and generation notes.
 - `creative/selection/index.html`, `board.js`, `i18n.js` and `assets.js`: layout, interactions, interface translations and bilingual card metadata.
 - `creative/selection/assets/`: original images; `assets/archive/` contains retained superseded tests.
-- `creative/selection/manifest.json` and the `*generation-log.json` files: Arcads asset IDs, prompts, reference lineage, attempts and reported costs. Images use **Nano Banana 2 through Arcads**; the script-v3 comparison uses **Seedance 2.5, Kling 3 Pro and Veo 3.1 through Arcads**.
+- `creative/selection/manifest.json` and the `*generation-log.json` files: Arcads asset IDs, prompts, reference lineage, attempts and reported costs. Earlier images use **Nano Banana 2 through Arcads**; the continuity study adds **Seedream 5 Pro and GPT Image 2.5 Sunburst**. Its full ledger is in `creative/continuity-study/manifest.json`. The script-v3 video comparison uses **Seedance 2.5, Kling 3 Pro and Veo 3.1 through Arcads**.
 - `creative/selection/references/`: supplied style reference, saved inspiration links and observations.
 
 Preserve existing asset codes and original images when adding tests. Give alternatives new codes or archive replaced versions, update both language captions, and record prompts, references and actual generation costs. Before producing final shots, agree on the cast, shoe details and visual treatment, then test a short movement sequence for identity, product fidelity and transition stability.

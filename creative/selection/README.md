@@ -1,10 +1,26 @@
 # Planche de sélection — Converse
 
-98 entrées : **89 images, 5 clips courts et 4 montages complets**. Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
+152 entrées : **143 images, 5 clips courts et 4 montages complets**. Le nouvel onglet **Continuité / Continuity** (`?category=continuity`) réunit **54 images : 18 sujets × 3 modèles** (30 images de personnages, 15 de lieux et 9 de chaussures). Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
 
 Le nouvel [atelier Cut Room](../editor/README.md) permet de comparer les trois pistes, choisir des passages et exporter le montage. Depuis la racine du dépôt, lancer `python3 creative/editor/server.py`, puis ouvrir http://127.0.0.1:8787/. Il fonctionne localement ; les coéquipiers échangent leurs montages via les fichiers JSON.
 
 Pour servir la planche par HTTP, servir la **racine du dépôt**, puis ouvrir `/creative/selection/?category=animatic`, afin que le dossier voisin `creative/animatic-v1/` soit accessible. L’ouverture directe du fichier HTML reste possible.
+
+## Continuité / Continuity
+
+Le nouvel onglet **Continuité** (`?category=continuity`, ou `?category=continuity&lang=en`) compare **Nano Banana 2**, **Seedream 5 Pro** et **GPT Image 2.5 Sunburst** sur **18 sujets en 54 images**, avec des groupes **Personnages**, **Lieux** et **Chaussures**. Les trois variantes d’un sujet sont placées côte à côte ; le modèle est nommé sur chaque carte. Une navigation par sujet évite de parcourir toute la série. Chaque nouvelle carte propose « Télécharger la référence » pour récupérer le fichier original. Les références apparaissent uniquement une fois le fichier généré disponible localement.
+
+Ces images sont des propositions, pas des choix déjà validés. Comparer les visages, costumes, volumes des décors et détails de construction des chaussures, puis retenir **une référence par sujet**. Les références retenues doivent être réutilisées dans les générations de scène ; multiplier les variantes ne garantit pas à lui seul la cohérence. Les commentaires de génération disponibles uniquement en anglais portent le préfixe « EN » dans la version française.
+
+The **Continuity** tab compares three image models side by side for every subject, grouped into **Characters**, **Locations** and **Shoes**. Use the subject links to move through a group and **Download reference** to save an original image. Choose one reference per subject, then reuse the chosen references when generating shots. These candidates are not automatically approved. Existing choices remain saved in the same browser storage.
+
+La source est `../continuity-study/manifest.json`. Pour synchroniser les images terminées après de nouvelles générations :
+
+```sh
+python3 creative/selection/sync-continuity.py
+```
+
+Le script préserve les cartes antérieures, remplace seulement les entrées `continuity`, ignore les générations en cours et les fichiers absents, et garde les trois modèles dans le même ordre. Il ne copie aucune URL de média distante dans la planche. Les coûts, les prompts et le journal complet restent dans le manifest source.
 
 ## Utilisation
 

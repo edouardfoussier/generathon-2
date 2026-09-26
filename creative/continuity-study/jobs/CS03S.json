@@ -1,0 +1,46 @@
+{
+  "code": "CS03S",
+  "group": "shoes",
+  "subjectId": "red-chucks-elena",
+  "title": {
+    "fr": "Converse rouges d’Elena · 1977",
+    "en": "Elena’s red Converse · 1977"
+  },
+  "referenceImages": [
+    "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+    "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+  ],
+  "referenceNotes": {
+    "fr": "Paire rouge du plan salsa pour construction et couleur ; GA04 pour le médium.",
+    "en": "Red pair in salsa frame supplies construction and color; GA04 supplies medium."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equally sized panels across a landscape 16:9 sheet with warm ivory paper backdrops and soft painted contact shadows. No people, no feet, no hands, no environment. LEFT: pair three-quarter view; CENTER: precise side-by-side inner and outer elevation of that SAME pair; RIGHT: the detail described below. These are repeated reference views of ONE matched left/right pair, not new designs. All views preserve original narrow flat vulcanized sole and classic ankle-high silhouette, adult proportions, silver eyelets, cream rubber toe caps and foxing, off-white cotton laces. No platforms, no orange, no low-top conversion, no detached components or exploded anatomy. Round Converse ankle badge appears ONLY on each shoe's MEDIAL / inner ankle; the OUTER canvas sides have no circular badge. No sheet titles or labels or extra handwritten annotation.  Subject: Elena's matched RED canvas high-top Converse in 1977, separate from Rafa's black inherited pair. Isolate ONLY the red pair in PHOTO1, ignore men's black footwear and all legs/background. Rich cardinal-red fabric, intact ivory stitching, almost fresh wearable condition with slight dance-floor scuff on cream rubber. Keep both ankle collars fully high-top and matching. Round badge inner ankle ONLY, outer faces plain red canvas. RIGHT panel: close study of red canvas weave, silver eyelets, attached red tongue and criss-cross ivory laces. Absolutely NO 'R.M.' initials, no repair patch, no black canvas, no pink or orange substitution, no chunky platform.",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CS03S.jpg",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "a5e9d6d1-e634-4e08-ab11-8bce11a333e5",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:14:30.272Z",
+  "assetId": "a5e9d6d1-e634-4e08-ab11-8bce11a333e5",
+  "creditsCharged": 32,
+  "qa": {
+    "fr": "Bon rendu peint, aucun symbole hérité ; une chaussure est coupée au bord du premier panneau.",
+    "en": "Good painted treatment, no inherited symbols; one shoe is cropped at the first panel edge."
+  },
+  "generatedReference": "production/videoassets/a5e9d6d1-e634-4e08-ab11-8bce11a333e5.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "totalCreditsCharged": 32
+}

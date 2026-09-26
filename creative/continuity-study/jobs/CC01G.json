@@ -1,0 +1,30 @@
+{
+  "group": "characters",
+  "subjectId": "luna-2026",
+  "title": {
+    "fr": "Luna · 15 ans · 2026",
+    "en": "Luna · age 15 · 2026"
+  },
+  "referenceNotes": "L01 identity and original charcoal/olive wardrobe; GA01 gouache technique only. No new casting.",
+  "referenceImages": [
+    "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+    "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+  ],
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. REFERENCE1 is the sole exact identity and wardrobe reference: the SAME fictional 15-year-old Luna, preserve youthful face shape, brown eyes, nose, eyebrows, warm brown skin, dark curly LOW ponytail, ordinary teenage proportions. REFERENCE2 guides PAINT MEDIUM ONLY: translucent washes, broad opaque brush shapes, subtle dry edges and reserved paper; not photorealism, not 3D, not glossy anime. Three clearly separated equal panels on one landscape16:9 sheet: LEFT full head-to-toe FRONT standing view, CENTER full head-to-toe BACK standing view, RIGHT enlarged head-and-shoulders THREE-QUARTER portrait. Both full figures have margin above head and below feet. Charcoal oversized plain cotton T-shirt, plain solid olive baggy cargo trousers NOT camouflage, exact same garment colors/fit across panels; black classic canvas high-top sneakers with ivory toes and cream laces, inner-ankle badges only. Neutral relaxed posture, hands empty, restrained curious expression, no glamour or makeup or adult proportions. Plain warm paper backdrop in every panel, no attic, no props, no captions or labels or dates, no logos overlaid as graphics, no tattoos or invented facial marks. Depict one identity consistently, detailed face while keeping confident visible painted planes.",
+  "code": "CC01G",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CC01G.png",
+  "submittedAt": "2026-09-26T20:07:14.604Z",
+  "response": {
+    "assets": [
+      {
+        "id": "76689e1b-f130-49fe-85aa-087e8f52dcd1",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  }
+}

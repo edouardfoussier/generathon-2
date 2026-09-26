@@ -1,0 +1,1262 @@
+[
+  {
+    "subjectId": "rafa-1970",
+    "title": {
+      "fr": "Rafa · 16 ans · 1970",
+      "en": "Rafa · age 16 · 1970"
+    },
+    "referenceImages": [
+      "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png",
+      "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+    ],
+    "referenceNotes": {
+      "fr": "G12 : identité et tenue ; GA03 : matière gouache uniquement.",
+      "en": "G12: identity and outfit; GA03: gouache medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the SAME fictional Rafa at age16: youthful clean-shaven face, dark short curly hair, slim ordinary teenage build. Preserve his distinctive broad rounded nose and warm brown skin, do not make him an adult athlete. White cotton basketball tank top, dark navy modest gym shorts above knees, white tube socks with two burgundy bands, black classic canvas high-top Converse with offwhite rubber toes and cream laces. Inner ankle round badges only; plain outer ankle. Shoes are relatively new, NO cream repair patch. No basketball, no jewellery. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC02N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC02N.png",
+    "submittedAt": "2026-09-26T20:09:39.479Z",
+    "assetId": "b2c479c1-cb06-47e0-8bce-1f353be60070",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/b2c479c1-cb06-47e0-8bce-1f353be60070.png",
+    "completedAt": "2026-09-26T20:09:59.340Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6089447,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Rafa jeune reconnaissable, trois vues et tenue de basket cohérentes. Vérifier le côté des écussons sur les chaussures avant les gros plans. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Recognizable young Rafa, three views and consistent basketball outfit. Check ankle-badge orientation before product close-ups. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "rafa-1970",
+    "title": {
+      "fr": "Rafa · 16 ans · 1970",
+      "en": "Rafa · age 16 · 1970"
+    },
+    "referenceImages": [
+      "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png",
+      "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+    ],
+    "referenceNotes": {
+      "fr": "G12 : identité et tenue ; GA03 : matière gouache uniquement.",
+      "en": "G12: identity and outfit; GA03: gouache medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the SAME fictional Rafa at age16: youthful clean-shaven face, dark short curly hair, slim ordinary teenage build. Preserve his distinctive broad rounded nose and warm brown skin, do not make him an adult athlete. White cotton basketball tank top, dark navy modest gym shorts above knees, white tube socks with two burgundy bands, black classic canvas high-top Converse with offwhite rubber toes and cream laces. Inner ankle round badges only; plain outer ankle. Shoes are relatively new, NO cream repair patch. No basketball, no jewellery. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC02S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC02S.jpg",
+    "submittedAt": "2026-09-26T20:09:46.366Z",
+    "assetId": "58b5e925-6cd7-4986-887d-7d6b53a8890a",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/58b5e925-6cd7-4986-887d-7d6b53a8890a.png",
+    "completedAt": "2026-09-26T20:11:27.541Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 419314,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Rafa jeune reconnaissable, trois vues et tenue de basket cohérentes. Vérifier le côté des écussons sur les chaussures avant les gros plans. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Recognizable young Rafa, three views and consistent basketball outfit. Check ankle-badge orientation before product close-ups. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "rafa-1970",
+    "title": {
+      "fr": "Rafa · 16 ans · 1970",
+      "en": "Rafa · age 16 · 1970"
+    },
+    "referenceImages": [
+      "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png",
+      "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png"
+    ],
+    "referenceNotes": {
+      "fr": "G12 : identité et tenue ; GA03 : matière gouache uniquement.",
+      "en": "G12: identity and outfit; GA03: gouache medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the SAME fictional Rafa at age16: youthful clean-shaven face, dark short curly hair, slim ordinary teenage build. Preserve his distinctive broad rounded nose and warm brown skin, do not make him an adult athlete. White cotton basketball tank top, dark navy modest gym shorts above knees, white tube socks with two burgundy bands, black classic canvas high-top Converse with offwhite rubber toes and cream laces. Inner ankle round badges only; plain outer ankle. Shoes are relatively new, NO cream repair patch. No basketball, no jewellery. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC02G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC02G.png",
+    "submittedAt": "2026-09-26T20:09:43.637Z",
+    "assetId": "9cf41881-a032-45d7-88c7-368972dae1d4",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png",
+    "completedAt": "2026-09-26T20:10:26.491Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3224141,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Rafa jeune reconnaissable, trois vues et tenue de basket cohérentes. Vérifier le côté des écussons sur les chaussures avant les gros plans. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Recognizable young Rafa, three views and consistent basketball outfit. Check ankle-badge orientation before product close-ups. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "rafa-1977-79",
+    "title": {
+      "fr": "Rafa · 23–25 ans · trois tenues",
+      "en": "Rafa · ages 23–25 · three outfits"
+    },
+    "referenceImages": [
+      "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png",
+      "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+    ],
+    "referenceNotes": {
+      "fr": "G13 : visage ; mariage et naissance v3 : costumes ; GA04 : peinture uniquement.",
+      "en": "G13: face; v3 wedding and birth: outfits; GA04: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the sole young Rafa identity: SAME fictional man age23–25, clean-shaven, short dense dark curls, warm brown skin and gentle broad-nosed face. References2 and3 supply WARDROBE only; do NOT draw the women, baby or locations. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns of SAME man, head to toe with margin, one full figure per column. LEFT dance1977: muted rust long-sleeve open-collar shirt, dark warm brown flared trousers, brown narrow belt. CENTER wedding1978: chocolate brown two-piece suit, ivory open-collar shirt, discreet cream boutonniere, no hat. RIGHT father1979: plain ivory crewneck tee and warm brown corduroy trousers. Same youthful facial features in all three columns. ALL THREE outfits have classic black CANVAS HIGH-TOP sneakers, visible high collars where trousers allow, ivory rubber toes, cream laces. Correct low-top-looking wedding shoes into high-tops; inner ankle patches only. No repairs yet. Relaxed pose, hands empty; no second row or face inset.",
+    "group": "characters",
+    "code": "CC03N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC03N.png",
+    "submittedAt": "2026-09-26T20:09:50.411Z",
+    "assetId": "fff4b68b-2fdf-4adf-a87b-59fdfd1a3d34",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/fff4b68b-2fdf-4adf-a87b-59fdfd1a3d34.png",
+    "completedAt": "2026-09-26T20:10:11.467Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 5703313,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Trois costumes lisibles pour la même période : danse, mariage, jeune père. Les pantalons masquent les cols des chaussures ; utiliser la fiche produit pour garantir les montantes. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Three readable period outfits: dance, wedding, young father. Trousers hide shoe collars; use the product master to guarantee high-tops. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "rafa-1977-79",
+    "title": {
+      "fr": "Rafa · 23–25 ans · trois tenues",
+      "en": "Rafa · ages 23–25 · three outfits"
+    },
+    "referenceImages": [
+      "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png",
+      "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+    ],
+    "referenceNotes": {
+      "fr": "G13 : visage ; mariage et naissance v3 : costumes ; GA04 : peinture uniquement.",
+      "en": "G13: face; v3 wedding and birth: outfits; GA04: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the sole young Rafa identity: SAME fictional man age23–25, clean-shaven, short dense dark curls, warm brown skin and gentle broad-nosed face. References2 and3 supply WARDROBE only; do NOT draw the women, baby or locations. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns of SAME man, head to toe with margin, one full figure per column. LEFT dance1977: muted rust long-sleeve open-collar shirt, dark warm brown flared trousers, brown narrow belt. CENTER wedding1978: chocolate brown two-piece suit, ivory open-collar shirt, discreet cream boutonniere, no hat. RIGHT father1979: plain ivory crewneck tee and warm brown corduroy trousers. Same youthful facial features in all three columns. ALL THREE outfits have classic black CANVAS HIGH-TOP sneakers, visible high collars where trousers allow, ivory rubber toes, cream laces. Correct low-top-looking wedding shoes into high-tops; inner ankle patches only. No repairs yet. Relaxed pose, hands empty; no second row or face inset.",
+    "group": "characters",
+    "code": "CC03S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC03S.jpg",
+    "submittedAt": "2026-09-26T20:09:56.300Z",
+    "assetId": "8069340e-7830-4ec4-9d53-56549063ad5f",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/8069340e-7830-4ec4-9d53-56549063ad5f.png",
+    "completedAt": "2026-09-26T20:12:12.949Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 372157,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Trois costumes lisibles pour la même période : danse, mariage, jeune père. Les pantalons masquent les cols des chaussures ; utiliser la fiche produit pour garantir les montantes. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Three readable period outfits: dance, wedding, young father. Trousers hide shoe collars; use the product master to guarantee high-tops. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "rafa-1977-79",
+    "title": {
+      "fr": "Rafa · 23–25 ans · trois tenues",
+      "en": "Rafa · ages 23–25 · three outfits"
+    },
+    "referenceImages": [
+      "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png",
+      "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+    ],
+    "referenceNotes": {
+      "fr": "G13 : visage ; mariage et naissance v3 : costumes ; GA04 : peinture uniquement.",
+      "en": "G13: face; v3 wedding and birth: outfits; GA04: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the sole young Rafa identity: SAME fictional man age23–25, clean-shaven, short dense dark curls, warm brown skin and gentle broad-nosed face. References2 and3 supply WARDROBE only; do NOT draw the women, baby or locations. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns of SAME man, head to toe with margin, one full figure per column. LEFT dance1977: muted rust long-sleeve open-collar shirt, dark warm brown flared trousers, brown narrow belt. CENTER wedding1978: chocolate brown two-piece suit, ivory open-collar shirt, discreet cream boutonniere, no hat. RIGHT father1979: plain ivory crewneck tee and warm brown corduroy trousers. Same youthful facial features in all three columns. ALL THREE outfits have classic black CANVAS HIGH-TOP sneakers, visible high collars where trousers allow, ivory rubber toes, cream laces. Correct low-top-looking wedding shoes into high-tops; inner ankle patches only. No repairs yet. Relaxed pose, hands empty; no second row or face inset.",
+    "group": "characters",
+    "code": "CC03G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC03G.png",
+    "submittedAt": "2026-09-26T20:09:53.477Z",
+    "assetId": "6509991d-eda9-461a-8a23-cd7f747b8e86",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png",
+    "completedAt": "2026-09-26T20:11:12.093Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3287159,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Trois costumes lisibles pour la même période : danse, mariage, jeune père. Les pantalons masquent les cols des chaussures ; utiliser la fiche produit pour garantir les montantes. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Three readable period outfits: dance, wedding, young father. Trousers hide shoe collars; use the product master to guarantee high-tops. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "rafa-1995",
+    "title": {
+      "fr": "Rafa · 41 ans · 1995",
+      "en": "Rafa · age 41 · 1995"
+    },
+    "referenceImages": [
+      "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "Rafa dans la scène de transmission v3 ; GA05 : matière picturale uniquement.",
+      "en": "Rafa in v3 handover scene; GA05: painted medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1: use ONLY the father on the RIGHT, Rafa age41 in1995. Preserve his actual face and dark moustache, short dark curls with only subtle grey at temples, ordinary middle-aged build, warm brown skin. Do not copy teenage daughter or shoes he holds. Rolled light-blue button-up cotton shirt, charcoal straight trousers, plain dark brown house loafers. He does NOT wear or hold Converse here because the inherited pair is for his daughter. No strong elderly wrinkles, no white hair, no new casting. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC04N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC04N.png",
+    "submittedAt": "2026-09-26T20:10:22.916Z",
+    "assetId": "25617e83-1793-4c3f-98be-b3cdd6425b76",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/25617e83-1793-4c3f-98be-b3cdd6425b76.png",
+    "completedAt": "2026-09-26T20:10:48.769Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6170883,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Rafa moustachu conserve la chemise bleue et les chaussures de maison. L’âge perçu et le gris des tempes diffèrent entre modèles ; verrouiller une seule version. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Moustached Rafa keeps the blue shirt and house shoes. Apparent age and temple grey vary between models; lock one version. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "rafa-1995",
+    "title": {
+      "fr": "Rafa · 41 ans · 1995",
+      "en": "Rafa · age 41 · 1995"
+    },
+    "referenceImages": [
+      "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "Rafa dans la scène de transmission v3 ; GA05 : matière picturale uniquement.",
+      "en": "Rafa in v3 handover scene; GA05: painted medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1: use ONLY the father on the RIGHT, Rafa age41 in1995. Preserve his actual face and dark moustache, short dark curls with only subtle grey at temples, ordinary middle-aged build, warm brown skin. Do not copy teenage daughter or shoes he holds. Rolled light-blue button-up cotton shirt, charcoal straight trousers, plain dark brown house loafers. He does NOT wear or hold Converse here because the inherited pair is for his daughter. No strong elderly wrinkles, no white hair, no new casting. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC04S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC04S.jpg",
+    "submittedAt": "2026-09-26T20:10:25.877Z",
+    "assetId": "3010c162-0a3e-4fc6-b2d6-01f4f22c0896",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/3010c162-0a3e-4fc6-b2d6-01f4f22c0896.png",
+    "completedAt": "2026-09-26T20:12:14.913Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 397278,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Rafa moustachu conserve la chemise bleue et les chaussures de maison. L’âge perçu et le gris des tempes diffèrent entre modèles ; verrouiller une seule version. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Moustached Rafa keeps the blue shirt and house shoes. Apparent age and temple grey vary between models; lock one version. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "rafa-1995",
+    "title": {
+      "fr": "Rafa · 41 ans · 1995",
+      "en": "Rafa · age 41 · 1995"
+    },
+    "referenceImages": [
+      "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "Rafa dans la scène de transmission v3 ; GA05 : matière picturale uniquement.",
+      "en": "Rafa in v3 handover scene; GA05: painted medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1: use ONLY the father on the RIGHT, Rafa age41 in1995. Preserve his actual face and dark moustache, short dark curls with only subtle grey at temples, ordinary middle-aged build, warm brown skin. Do not copy teenage daughter or shoes he holds. Rolled light-blue button-up cotton shirt, charcoal straight trousers, plain dark brown house loafers. He does NOT wear or hold Converse here because the inherited pair is for his daughter. No strong elderly wrinkles, no white hair, no new casting. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC04G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC04G.png",
+    "submittedAt": "2026-09-26T20:10:17.380Z",
+    "assetId": "76c3801c-d588-415c-a0a4-ff8a6430ab73",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/76c3801c-d588-415c-a0a4-ff8a6430ab73.png",
+    "completedAt": "2026-09-26T20:11:08.836Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3332123,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Rafa moustachu conserve la chemise bleue et les chaussures de maison. L’âge perçu et le gris des tempes diffèrent entre modèles ; verrouiller une seule version. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Moustached Rafa keeps the blue shirt and house shoes. Apparent age and temple grey vary between models; lock one version. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "rafa-2026",
+    "title": {
+      "fr": "Rafa · 72 ans · identité de référence",
+      "en": "Rafa · age 72 · identity reference"
+    },
+    "referenceImages": [
+      "production/videoassets/5fe31836-8251-4632-a215-319ce1eb6021.png",
+      "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "G11 et G01 : même grand-père choisi ; GA01 : peinture uniquement. Pas de nouvelle scène.",
+      "en": "G11 and G01: the selected grandfather; GA01: paint only. No new scene implied."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCES1 and2 show the SAME selected grandfather Rafa age72. Preserve exact broad face, warm olive-brown skin, short curly silver-grey hair, neat grey moustache, brown eyes, distinctive nose and quietly witty closed-mouth smile. Natural age lines, not frail caricature. Outfit matches reference1: open faded charcoal overshirt over light-grey tee, dark charcoal casual trousers, ordinary worn neutral grey canvas shoes. Do not give him a separate pristine inherited hero pair or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC05N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC05N.png",
+    "submittedAt": "2026-09-26T20:10:14.013Z",
+    "assetId": "03a4026e-f5b4-492a-98d4-70bb01ecde51",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/03a4026e-f5b4-492a-98d4-70bb01ecde51.png",
+    "completedAt": "2026-09-26T20:10:41.716Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6257763,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Visage du grand-père G01 bien repris, cheveux argentés, surchemise charbon. Les chaussures ordinaires changent légèrement entre modèles. Référence d’identité, pas une scène ajoutée. Aplats de gouache plus francs et contours sculptés.",
+      "en": "G01 grandfather identity is recognizable, with silver hair and charcoal overshirt. Ordinary shoes vary slightly between models. Identity reference, not an added scene. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "rafa-2026",
+    "title": {
+      "fr": "Rafa · 72 ans · identité de référence",
+      "en": "Rafa · age 72 · identity reference"
+    },
+    "referenceImages": [
+      "production/videoassets/5fe31836-8251-4632-a215-319ce1eb6021.png",
+      "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "G11 et G01 : même grand-père choisi ; GA01 : peinture uniquement. Pas de nouvelle scène.",
+      "en": "G11 and G01: the selected grandfather; GA01: paint only. No new scene implied."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCES1 and2 show the SAME selected grandfather Rafa age72. Preserve exact broad face, warm olive-brown skin, short curly silver-grey hair, neat grey moustache, brown eyes, distinctive nose and quietly witty closed-mouth smile. Natural age lines, not frail caricature. Outfit matches reference1: open faded charcoal overshirt over light-grey tee, dark charcoal casual trousers, ordinary worn neutral grey canvas shoes. Do not give him a separate pristine inherited hero pair or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC05S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC05S.jpg",
+    "submittedAt": "2026-09-26T20:10:30.272Z",
+    "assetId": "26412800-d108-4bb9-b767-f21a7761ee9a",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/26412800-d108-4bb9-b767-f21a7761ee9a.png",
+    "completedAt": "2026-09-26T20:12:17.975Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 428682,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Visage du grand-père G01 bien repris, cheveux argentés, surchemise charbon. Les chaussures ordinaires changent légèrement entre modèles. Référence d’identité, pas une scène ajoutée. Lavis doux, traits plus lissés et stylisés.",
+      "en": "G01 grandfather identity is recognizable, with silver hair and charcoal overshirt. Ordinary shoes vary slightly between models. Identity reference, not an added scene. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "rafa-2026",
+    "title": {
+      "fr": "Rafa · 72 ans · identité de référence",
+      "en": "Rafa · age 72 · identity reference"
+    },
+    "referenceImages": [
+      "production/videoassets/5fe31836-8251-4632-a215-319ce1eb6021.png",
+      "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "G11 et G01 : même grand-père choisi ; GA01 : peinture uniquement. Pas de nouvelle scène.",
+      "en": "G11 and G01: the selected grandfather; GA01: paint only. No new scene implied."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCES1 and2 show the SAME selected grandfather Rafa age72. Preserve exact broad face, warm olive-brown skin, short curly silver-grey hair, neat grey moustache, brown eyes, distinctive nose and quietly witty closed-mouth smile. Natural age lines, not frail caricature. Outfit matches reference1: open faded charcoal overshirt over light-grey tee, dark charcoal casual trousers, ordinary worn neutral grey canvas shoes. Do not give him a separate pristine inherited hero pair or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC05G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC05G.png",
+    "submittedAt": "2026-09-26T20:10:20.371Z",
+    "assetId": "3e40aef8-213d-4f0d-97ea-3f0e06602e04",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/3e40aef8-213d-4f0d-97ea-3f0e06602e04.png",
+    "completedAt": "2026-09-26T20:11:10.343Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3445009,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Visage du grand-père G01 bien repris, cheveux argentés, surchemise charbon. Les chaussures ordinaires changent légèrement entre modèles. Référence d’identité, pas une scène ajoutée. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "G01 grandfather identity is recognizable, with silver hair and charcoal overshirt. Ordinary shoes vary slightly between models. Identity reference, not an added scene. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "elena-1977-79",
+    "title": {
+      "fr": "Elena · 22–24 ans · trois tenues",
+      "en": "Elena · ages 22–24 · three outfits"
+    },
+    "referenceImages": [
+      "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png",
+      "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+    ],
+    "referenceNotes": {
+      "fr": "Visage jeune à gauche de EL02 ; mariage/naissance v3 : costumes ; GA04 : peinture.",
+      "en": "Young left-hand EL02 face; v3 wedding/birth: wardrobe; GA04: painted medium."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG woman on LEFT, Elena age22–24. Preserve same face, warm medium-brown skin, dark eyes, shoulder-length natural dark curls, young adult ordinary proportions. Do NOT age her from the right portrait. References2 and3 guide wardrobe only, omit man/baby/rooms. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns, same woman and hair, entire head and feet with generous margin. LEFT dance1977: simple violet short-sleeve calf-length dress with V neckline; RED classic canvas high-top Converse, ivory rubber toes and cream laces, round badge INNER ankle only, no initial or repair. CENTER wedding1978: ivory floor-length long-sleeve bridal dress with modest lace neckline and sheer veil, plain ivory closed shoes visible at hem; no bouquet needed. RIGHT mother1979: simple violet short-sleeve home dress, plain dark burgundy low closed shoes. SAME exact young face in three costumes, relaxed neutral posture and empty hands, one figure per column. No additional face inset.",
+    "group": "characters",
+    "code": "CC06N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC06N.png",
+    "submittedAt": "2026-09-26T20:10:46.116Z",
+    "assetId": "952e73e1-1a8c-432b-afee-905efb6a8559",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/952e73e1-1a8c-432b-afee-905efb6a8559.png",
+    "completedAt": "2026-09-26T20:11:32.985Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 5669113,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Même jeune Elena dans trois costumes ; rouge au bal, ivoire au mariage, violet à la maison. Le col de la tenue de maison et les détails des baskets diffèrent : choisir une version avant animation. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Same young Elena in three outfits: red shoes at the dance, ivory wedding dress, violet at home. Home-dress neckline and sneaker details vary; choose a version before animation. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "elena-1977-79",
+    "title": {
+      "fr": "Elena · 22–24 ans · trois tenues",
+      "en": "Elena · ages 22–24 · three outfits"
+    },
+    "referenceImages": [
+      "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png",
+      "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+    ],
+    "referenceNotes": {
+      "fr": "Visage jeune à gauche de EL02 ; mariage/naissance v3 : costumes ; GA04 : peinture.",
+      "en": "Young left-hand EL02 face; v3 wedding/birth: wardrobe; GA04: painted medium."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG woman on LEFT, Elena age22–24. Preserve same face, warm medium-brown skin, dark eyes, shoulder-length natural dark curls, young adult ordinary proportions. Do NOT age her from the right portrait. References2 and3 guide wardrobe only, omit man/baby/rooms. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns, same woman and hair, entire head and feet with generous margin. LEFT dance1977: simple violet short-sleeve calf-length dress with V neckline; RED classic canvas high-top Converse, ivory rubber toes and cream laces, round badge INNER ankle only, no initial or repair. CENTER wedding1978: ivory floor-length long-sleeve bridal dress with modest lace neckline and sheer veil, plain ivory closed shoes visible at hem; no bouquet needed. RIGHT mother1979: simple violet short-sleeve home dress, plain dark burgundy low closed shoes. SAME exact young face in three costumes, relaxed neutral posture and empty hands, one figure per column. No additional face inset.",
+    "group": "characters",
+    "code": "CC06S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC06S.jpg",
+    "submittedAt": "2026-09-26T20:10:50.353Z",
+    "assetId": "363a4be7-d356-4872-87c0-e93468e55b46",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/363a4be7-d356-4872-87c0-e93468e55b46.png",
+    "completedAt": "2026-09-26T20:12:46.590Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 387825,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Même jeune Elena dans trois costumes ; rouge au bal, ivoire au mariage, violet à la maison. Le col de la tenue de maison et les détails des baskets diffèrent : choisir une version avant animation. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Same young Elena in three outfits: red shoes at the dance, ivory wedding dress, violet at home. Home-dress neckline and sneaker details vary; choose a version before animation. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "elena-1977-79",
+    "title": {
+      "fr": "Elena · 22–24 ans · trois tenues",
+      "en": "Elena · ages 22–24 · three outfits"
+    },
+    "referenceImages": [
+      "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png",
+      "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+    ],
+    "referenceNotes": {
+      "fr": "Visage jeune à gauche de EL02 ; mariage/naissance v3 : costumes ; GA04 : peinture.",
+      "en": "Young left-hand EL02 face; v3 wedding/birth: wardrobe; GA04: painted medium."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG woman on LEFT, Elena age22–24. Preserve same face, warm medium-brown skin, dark eyes, shoulder-length natural dark curls, young adult ordinary proportions. Do NOT age her from the right portrait. References2 and3 guide wardrobe only, omit man/baby/rooms. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns, same woman and hair, entire head and feet with generous margin. LEFT dance1977: simple violet short-sleeve calf-length dress with V neckline; RED classic canvas high-top Converse, ivory rubber toes and cream laces, round badge INNER ankle only, no initial or repair. CENTER wedding1978: ivory floor-length long-sleeve bridal dress with modest lace neckline and sheer veil, plain ivory closed shoes visible at hem; no bouquet needed. RIGHT mother1979: simple violet short-sleeve home dress, plain dark burgundy low closed shoes. SAME exact young face in three costumes, relaxed neutral posture and empty hands, one figure per column. No additional face inset.",
+    "group": "characters",
+    "code": "CC06G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC06G.png",
+    "submittedAt": "2026-09-26T20:11:05.068Z",
+    "assetId": "829f59f6-07ce-4936-b7ad-f667e8116382",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png",
+    "completedAt": "2026-09-26T20:12:09.209Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3037707,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Même jeune Elena dans trois costumes ; rouge au bal, ivoire au mariage, violet à la maison. Le col de la tenue de maison et les détails des baskets diffèrent : choisir une version avant animation. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Same young Elena in three outfits: red shoes at the dance, ivory wedding dress, violet at home. Home-dress neckline and sneaker details vary; choose a version before animation. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "elena-2026",
+    "title": {
+      "fr": "Elena · 71 ans · identité de référence",
+      "en": "Elena · age 71 · identity reference"
+    },
+    "referenceImages": [
+      "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "EL01 : visage âgé et costume ; GA01 : gouache uniquement.",
+      "en": "EL01: older face and wardrobe; GA01: gouache only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Elena age71, SAME woman in all panels. Preserve warm brown skin, face proportions, mature lines and greying natural shoulder-length curls. Healthy ordinary older woman, dignified unposed warmth, not frail and not glamorously de-aged. Plum cardigan over ivory blouse, charcoal straight trousers, burgundy low closed shoes, discreet plain wedding band. No Converse or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC07N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC07N.png",
+    "submittedAt": "2026-09-26T20:11:01.726Z",
+    "assetId": "0fb21347-5fba-4b48-9948-1378dc793376",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/0fb21347-5fba-4b48-9948-1378dc793376.png",
+    "completedAt": "2026-09-26T20:11:25.181Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6837935,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Elena âgée et cardigan prune cohérents ; boucles grises conservées. L’âge reste élégant et modéré, à comparer à EL01 avant sélection. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Older Elena and plum cardigan stay consistent; grey curls preserved. Ageing remains graceful and moderate; compare with EL01 before selection. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "elena-2026",
+    "title": {
+      "fr": "Elena · 71 ans · identité de référence",
+      "en": "Elena · age 71 · identity reference"
+    },
+    "referenceImages": [
+      "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "EL01 : visage âgé et costume ; GA01 : gouache uniquement.",
+      "en": "EL01: older face and wardrobe; GA01: gouache only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Elena age71, SAME woman in all panels. Preserve warm brown skin, face proportions, mature lines and greying natural shoulder-length curls. Healthy ordinary older woman, dignified unposed warmth, not frail and not glamorously de-aged. Plum cardigan over ivory blouse, charcoal straight trousers, burgundy low closed shoes, discreet plain wedding band. No Converse or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC07S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC07S.jpg",
+    "submittedAt": "2026-09-26T20:11:15.886Z",
+    "assetId": "ff7dd43b-75fe-4711-a157-bf5627ec7a70",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/ff7dd43b-75fe-4711-a157-bf5627ec7a70.png",
+    "completedAt": "2026-09-26T20:13:20.679Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 441697,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Elena âgée et cardigan prune cohérents ; boucles grises conservées. L’âge reste élégant et modéré, à comparer à EL01 avant sélection. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Older Elena and plum cardigan stay consistent; grey curls preserved. Ageing remains graceful and moderate; compare with EL01 before selection. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "elena-2026",
+    "title": {
+      "fr": "Elena · 71 ans · identité de référence",
+      "en": "Elena · age 71 · identity reference"
+    },
+    "referenceImages": [
+      "production/videoassets/2e5f99f0-b110-4641-b4d0-363d411c4f19.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "EL01 : visage âgé et costume ; GA01 : gouache uniquement.",
+      "en": "EL01: older face and wardrobe; GA01: gouache only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Elena age71, SAME woman in all panels. Preserve warm brown skin, face proportions, mature lines and greying natural shoulder-length curls. Healthy ordinary older woman, dignified unposed warmth, not frail and not glamorously de-aged. Plum cardigan over ivory blouse, charcoal straight trousers, burgundy low closed shoes, discreet plain wedding band. No Converse or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC07G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC07G.png",
+    "submittedAt": "2026-09-26T20:11:11.519Z",
+    "assetId": "b487ba6a-fe0c-4381-bce5-f547c0a9a1f9",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/b487ba6a-fe0c-4381-bce5-f547c0a9a1f9.png",
+    "completedAt": "2026-09-26T20:12:07.370Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3648309,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Elena âgée et cardigan prune cohérents ; boucles grises conservées. L’âge reste élégant et modéré, à comparer à EL01 avant sélection. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Older Elena and plum cardigan stay consistent; grey curls preserved. Ageing remains graceful and moderate; compare with EL01 before selection. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "mother-1995",
+    "title": {
+      "fr": "Maman · 16 ans · 1995",
+      "en": "Mother · age 16 · 1995"
+    },
+    "referenceImages": [
+      "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png",
+      "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "M02 gauche : visage adolescent ; transmission v3 : denim ; GA05 : peinture uniquement.",
+      "en": "M02 left: teenage face; v3 handover: denim outfit; GA05: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG teenage girl on LEFT, same daughter aged16 in1995, Luna's future mother. Reference2 supplies full denim outfit ONLY, do not draw father/chairs/shoes held aloft. Preserve the young daughter's exact softly rounded cheeks, brows, brown eyes, warm brown skin and shoulder-length loose dark curls. Distinct from Luna: not a ponytail or charcoal tee. Blue denim jacket and blue straight jeans with rolled ankles over a plain ivory tee. Black high-top inherited Converse at her feet, cream laces/ivory rubber, small cream stitched repair on outer RIGHT shoe above rubber edge, inner badges only; no tan blob on toe. Ordinary teenage proportions, no adult glamour or makeup. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC08N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC08N.png",
+    "submittedAt": "2026-09-26T20:11:52.181Z",
+    "assetId": "d1a7d758-d180-46b6-92a0-e462182b5c00",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/d1a7d758-d180-46b6-92a0-e462182b5c00.png",
+    "completedAt": "2026-09-26T20:12:14.532Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6193148,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Maman adolescente distincte de Luna, denim et boucles cohérents. La petite réparation de la chaussure droite est peu lisible ; les gros plans devront reprendre la fiche produit. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Teenage Mom remains distinct from Luna, with consistent denim and curls. The right-shoe repair is not clearly legible; close-ups must use the product master. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "mother-1995",
+    "title": {
+      "fr": "Maman · 16 ans · 1995",
+      "en": "Mother · age 16 · 1995"
+    },
+    "referenceImages": [
+      "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png",
+      "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "M02 gauche : visage adolescent ; transmission v3 : denim ; GA05 : peinture uniquement.",
+      "en": "M02 left: teenage face; v3 handover: denim outfit; GA05: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG teenage girl on LEFT, same daughter aged16 in1995, Luna's future mother. Reference2 supplies full denim outfit ONLY, do not draw father/chairs/shoes held aloft. Preserve the young daughter's exact softly rounded cheeks, brows, brown eyes, warm brown skin and shoulder-length loose dark curls. Distinct from Luna: not a ponytail or charcoal tee. Blue denim jacket and blue straight jeans with rolled ankles over a plain ivory tee. Black high-top inherited Converse at her feet, cream laces/ivory rubber, small cream stitched repair on outer RIGHT shoe above rubber edge, inner badges only; no tan blob on toe. Ordinary teenage proportions, no adult glamour or makeup. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC08S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC08S.jpg",
+    "submittedAt": "2026-09-26T20:12:06.868Z",
+    "assetId": "d000c1c5-43e6-4084-a3c5-2ffa30dc4257",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/d000c1c5-43e6-4084-a3c5-2ffa30dc4257.png",
+    "completedAt": "2026-09-26T20:13:59.360Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 468551,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Maman adolescente distincte de Luna, denim et boucles cohérents. La petite réparation de la chaussure droite est peu lisible ; les gros plans devront reprendre la fiche produit. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Teenage Mom remains distinct from Luna, with consistent denim and curls. The right-shoe repair is not clearly legible; close-ups must use the product master. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "mother-1995",
+    "title": {
+      "fr": "Maman · 16 ans · 1995",
+      "en": "Mother · age 16 · 1995"
+    },
+    "referenceImages": [
+      "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png",
+      "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "M02 gauche : visage adolescent ; transmission v3 : denim ; GA05 : peinture uniquement.",
+      "en": "M02 left: teenage face; v3 handover: denim outfit; GA05: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG teenage girl on LEFT, same daughter aged16 in1995, Luna's future mother. Reference2 supplies full denim outfit ONLY, do not draw father/chairs/shoes held aloft. Preserve the young daughter's exact softly rounded cheeks, brows, brown eyes, warm brown skin and shoulder-length loose dark curls. Distinct from Luna: not a ponytail or charcoal tee. Blue denim jacket and blue straight jeans with rolled ankles over a plain ivory tee. Black high-top inherited Converse at her feet, cream laces/ivory rubber, small cream stitched repair on outer RIGHT shoe above rubber edge, inner badges only; no tan blob on toe. Ordinary teenage proportions, no adult glamour or makeup. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC08G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC08G.png",
+    "submittedAt": "2026-09-26T20:12:10.256Z",
+    "assetId": "7b729196-9c53-4f1d-8017-37805c4db367",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/7b729196-9c53-4f1d-8017-37805c4db367.png",
+    "completedAt": "2026-09-26T20:12:56.029Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3614413,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Maman adolescente distincte de Luna, denim et boucles cohérents. La petite réparation de la chaussure droite est peu lisible ; les gros plans devront reprendre la fiche produit. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Teenage Mom remains distinct from Luna, with consistent denim and curls. The right-shoe repair is not clearly legible; close-ups must use the product master. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "mother-2026",
+    "title": {
+      "fr": "Maman · 47 ans · 2026",
+      "en": "Mother · age 47 · 2026"
+    },
+    "referenceImages": [
+      "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "M01 : visage adulte et tenue marine ; GA01 : peinture uniquement.",
+      "en": "M01: adult face and navy wardrobe; GA01: paint only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Luna's mother age47, same mature woman throughout. Preserve exact face shape and nose, brown eyes, gently rounded cheeks, warm brown skin, natural subtle crow's feet and shoulder-length loose dark curls with a few grey strands. She must look47 rather than20 or70. Plain muted navy blouse and open navy lightweight cardigan, charcoal straight trousers, ordinary black leather loafers, small silver HOOP earrings matching reference. No Converse: inherited pair belongs to Luna. Calm restrained warmth. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC09N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC09N.png",
+    "submittedAt": "2026-09-26T20:11:59.774Z",
+    "assetId": "48bb4713-a578-48a9-8bad-7c418b7de09b",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/48bb4713-a578-48a9-8bad-7c418b7de09b.png",
+    "completedAt": "2026-09-26T20:12:21.064Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6057003,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Maman adulte conserve le marine et le visage de M01. Les mèches grises et les traits paraissent plus ou moins âgés selon le modèle ; choisir un seul visage de référence. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Adult Mom retains navy wardrobe and the M01 face. Grey strands and facial lines read older or younger by model; choose one master face. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "mother-2026",
+    "title": {
+      "fr": "Maman · 47 ans · 2026",
+      "en": "Mother · age 47 · 2026"
+    },
+    "referenceImages": [
+      "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "M01 : visage adulte et tenue marine ; GA01 : peinture uniquement.",
+      "en": "M01: adult face and navy wardrobe; GA01: paint only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Luna's mother age47, same mature woman throughout. Preserve exact face shape and nose, brown eyes, gently rounded cheeks, warm brown skin, natural subtle crow's feet and shoulder-length loose dark curls with a few grey strands. She must look47 rather than20 or70. Plain muted navy blouse and open navy lightweight cardigan, charcoal straight trousers, ordinary black leather loafers, small silver HOOP earrings matching reference. No Converse: inherited pair belongs to Luna. Calm restrained warmth. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC09S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC09S.jpg",
+    "submittedAt": "2026-09-26T20:12:03.260Z",
+    "assetId": "e1b70a96-6322-4c47-860d-0e46c628088f",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/e1b70a96-6322-4c47-860d-0e46c628088f.png",
+    "completedAt": "2026-09-26T20:13:44.559Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 393696,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Maman adulte conserve le marine et le visage de M01. Les mèches grises et les traits paraissent plus ou moins âgés selon le modèle ; choisir un seul visage de référence. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Adult Mom retains navy wardrobe and the M01 face. Grey strands and facial lines read older or younger by model; choose one master face. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "mother-2026",
+    "title": {
+      "fr": "Maman · 47 ans · 2026",
+      "en": "Mother · age 47 · 2026"
+    },
+    "referenceImages": [
+      "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+      "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+    ],
+    "referenceNotes": {
+      "fr": "M01 : visage adulte et tenue marine ; GA01 : peinture uniquement.",
+      "en": "M01: adult face and navy wardrobe; GA01: paint only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Luna's mother age47, same mature woman throughout. Preserve exact face shape and nose, brown eyes, gently rounded cheeks, warm brown skin, natural subtle crow's feet and shoulder-length loose dark curls with a few grey strands. She must look47 rather than20 or70. Plain muted navy blouse and open navy lightweight cardigan, charcoal straight trousers, ordinary black leather loafers, small silver HOOP earrings matching reference. No Converse: inherited pair belongs to Luna. Calm restrained warmth. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+    "group": "characters",
+    "code": "CC09G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC09G.png",
+    "submittedAt": "2026-09-26T20:12:13.772Z",
+    "assetId": "075fce73-a989-4512-a9ac-a4148f1056e8",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/075fce73-a989-4512-a9ac-a4148f1056e8.png",
+    "completedAt": "2026-09-26T20:13:00.329Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3489525,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Maman adulte conserve le marine et le visage de M01. Les mèches grises et les traits paraissent plus ou moins âgés selon le modèle ; choisir un seul visage de référence. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Adult Mom retains navy wardrobe and the M01 face. Grey strands and facial lines read older or younger by model; choose one master face. More translucent watercolor with a detailed face closer to photography."
+    }
+  },
+  {
+    "subjectId": "mother-newborn-1979",
+    "title": {
+      "fr": "La fille de Rafa · nouveau-née · 1979",
+      "en": "Rafa's daughter · newborn · 1979"
+    },
+    "referenceImages": [
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "Bébé de la scène naissance v3 : future mère de Luna ; GA05 : peinture uniquement.",
+      "en": "Baby from v3 birth scene: Luna's future mother; GA05: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the newborn infant wrapped in cream in her father's arms. This is Rafa and Elena's newborn DAUGHTER in1979, future mother of Luna. Preserve her natural small face, warm light-brown skin and fine dark hair. Safe comfortably supported poses only. EXACTLY THREE equal vertical panels on warm ivory paper: LEFT close sleeping face and swaddle shoulders, CENTER supported three-quarter upper-body view of same infant fully wrapped in cream knitted blanket with an adult's supportive forearm beneath her head and body, RIGHT close-up of the baby's tiny hand gently closing around one adult index finger, cream blanket behind. Neutral soft daylight, tender real proportions rendered in painted shapes. No standing infant or back-turnaround pose, no adult face, no extra baby, no baby shoes, no jewelry, no text, no pink stereotype decorations. Ordinary gentle family portrait, no distress.",
+    "group": "characters",
+    "code": "CC10N",
+    "kind": "image",
+    "model": "nano-banana-2",
+    "modelLabel": "Nano Banana 2",
+    "localFile": "images/CC10N.png",
+    "submittedAt": "2026-09-26T20:12:28.952Z",
+    "assetId": "c062ee63-3fba-4887-ab15-12acc7fb334d",
+    "status": "generated",
+    "creditsCharged": 16,
+    "arcadsPath": "production/videoassets/c062ee63-3fba-4887-ab15-12acc7fb334d.png",
+    "completedAt": "2026-09-26T20:13:00.289Z",
+    "dimensions": {
+      "width": 2752,
+      "height": 1536
+    },
+    "fileBytes": 6251550,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Nouveau-née emmaillotée et soutenue, trois détails cohérents : visage, corps enveloppé, main. C’est la future mère de Luna, sans nouvelle branche familiale. Aplats de gouache plus francs et contours sculptés.",
+      "en": "Wrapped, supported newborn with three coherent details: face, swaddled body, hand. She is Luna’s future mother, not an additional family branch. Bolder gouache planes and sculpted contours."
+    }
+  },
+  {
+    "subjectId": "mother-newborn-1979",
+    "title": {
+      "fr": "La fille de Rafa · nouveau-née · 1979",
+      "en": "Rafa's daughter · newborn · 1979"
+    },
+    "referenceImages": [
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "Bébé de la scène naissance v3 : future mère de Luna ; GA05 : peinture uniquement.",
+      "en": "Baby from v3 birth scene: Luna's future mother; GA05: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the newborn infant wrapped in cream in her father's arms. This is Rafa and Elena's newborn DAUGHTER in1979, future mother of Luna. Preserve her natural small face, warm light-brown skin and fine dark hair. Safe comfortably supported poses only. EXACTLY THREE equal vertical panels on warm ivory paper: LEFT close sleeping face and swaddle shoulders, CENTER supported three-quarter upper-body view of same infant fully wrapped in cream knitted blanket with an adult's supportive forearm beneath her head and body, RIGHT close-up of the baby's tiny hand gently closing around one adult index finger, cream blanket behind. Neutral soft daylight, tender real proportions rendered in painted shapes. No standing infant or back-turnaround pose, no adult face, no extra baby, no baby shoes, no jewelry, no text, no pink stereotype decorations. Ordinary gentle family portrait, no distress.",
+    "group": "characters",
+    "code": "CC10S",
+    "kind": "image",
+    "model": "seedream_5_pro",
+    "modelLabel": "Seedream 5 Pro",
+    "localFile": "images/CC10S.jpg",
+    "submittedAt": "2026-09-26T20:12:35.733Z",
+    "assetId": "ada8ebd4-bef5-4139-a5e7-da37de0996cd",
+    "status": "generated",
+    "creditsCharged": 32,
+    "arcadsPath": "production/videoassets/ada8ebd4-bef5-4139-a5e7-da37de0996cd.png",
+    "completedAt": "2026-09-26T20:14:51.268Z",
+    "dimensions": {
+      "width": 2048,
+      "height": 1152
+    },
+    "fileBytes": 419754,
+    "format": "JPEG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Nouveau-née emmaillotée et soutenue, trois détails cohérents : visage, corps enveloppé, main. C’est la future mère de Luna, sans nouvelle branche familiale. Lavis doux, traits plus lissés et stylisés.",
+      "en": "Wrapped, supported newborn with three coherent details: face, swaddled body, hand. She is Luna’s future mother, not an additional family branch. Soft washes with smoother, more stylized features."
+    }
+  },
+  {
+    "subjectId": "mother-newborn-1979",
+    "title": {
+      "fr": "La fille de Rafa · nouveau-née · 1979",
+      "en": "Rafa's daughter · newborn · 1979"
+    },
+    "referenceImages": [
+      "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+    ],
+    "referenceNotes": {
+      "fr": "Bébé de la scène naissance v3 : future mère de Luna ; GA05 : peinture uniquement.",
+      "en": "Baby from v3 birth scene: Luna's future mother; GA05: paint medium only."
+    },
+    "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the newborn infant wrapped in cream in her father's arms. This is Rafa and Elena's newborn DAUGHTER in1979, future mother of Luna. Preserve her natural small face, warm light-brown skin and fine dark hair. Safe comfortably supported poses only. EXACTLY THREE equal vertical panels on warm ivory paper: LEFT close sleeping face and swaddle shoulders, CENTER supported three-quarter upper-body view of same infant fully wrapped in cream knitted blanket with an adult's supportive forearm beneath her head and body, RIGHT close-up of the baby's tiny hand gently closing around one adult index finger, cream blanket behind. Neutral soft daylight, tender real proportions rendered in painted shapes. No standing infant or back-turnaround pose, no adult face, no extra baby, no baby shoes, no jewelry, no text, no pink stereotype decorations. Ordinary gentle family portrait, no distress.",
+    "group": "characters",
+    "code": "CC10G",
+    "kind": "image",
+    "model": "gpt-image-2-5-sunburst",
+    "modelLabel": "GPT Image 2.5 Sunburst",
+    "localFile": "images/CC10G.png",
+    "submittedAt": "2026-09-26T20:12:32.659Z",
+    "assetId": "749757d0-7429-4138-83f6-4fca84cf154d",
+    "status": "generated",
+    "creditsCharged": 8,
+    "arcadsPath": "production/videoassets/749757d0-7429-4138-83f6-4fca84cf154d.png",
+    "completedAt": "2026-09-26T20:13:38.346Z",
+    "dimensions": {
+      "width": 1920,
+      "height": 1072
+    },
+    "fileBytes": 3650392,
+    "format": "PNG",
+    "aspectRatio": "16:9",
+    "style": "gouache",
+    "approvalStatus": "Unselected model-comparison candidate; not an approved new identity.",
+    "visualReview": {
+      "inspected": true,
+      "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+      "motionValidated": false
+    },
+    "qa": {
+      "fr": "Nouveau-née emmaillotée et soutenue, trois détails cohérents : visage, corps enveloppé, main. C’est la future mère de Luna, sans nouvelle branche familiale. Aquarelle plus transparente, visage détaillé proche de la photo.",
+      "en": "Wrapped, supported newborn with three coherent details: face, swaddled body, hand. She is Luna’s future mother, not an additional family branch. More translucent watercolor with a detailed face closer to photography."
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "codeBase": "CC06",
+  "subjectId": "elena-1977-79",
+  "title": {
+    "fr": "Elena · 22–24 ans · trois tenues",
+    "en": "Elena · ages 22–24 · three outfits"
+  },
+  "referenceImages": [
+    "production/videoassets/49bc47ca-23a9-4cf3-aaf9-a4a72deb1616.png",
+    "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+    "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+    "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+  ],
+  "referenceNotes": {
+    "fr": "Visage jeune à gauche de EL02 ; mariage/naissance v3 : costumes ; GA04 : peinture.",
+    "en": "Young left-hand EL02 face; v3 wedding/birth: wardrobe; GA04: painted medium."
+  },
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 use ONLY the YOUNG woman on LEFT, Elena age22–24. Preserve same face, warm medium-brown skin, dark eyes, shoulder-length natural dark curls, young adult ordinary proportions. Do NOT age her from the right portrait. References2 and3 guide wardrobe only, omit man/baby/rooms. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns, same woman and hair, entire head and feet with generous margin. LEFT dance1977: simple violet short-sleeve calf-length dress with V neckline; RED classic canvas high-top Converse, ivory rubber toes and cream laces, round badge INNER ankle only, no initial or repair. CENTER wedding1978: ivory floor-length long-sleeve bridal dress with modest lace neckline and sheer veil, plain ivory closed shoes visible at hem; no bouquet needed. RIGHT mother1979: simple violet short-sleeve home dress, plain dark burgundy low closed shoes. SAME exact young face in three costumes, relaxed neutral posture and empty hands, one figure per column. No additional face inset.",
+  "group": "characters",
+  "code": "CC06G",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CC06G.png",
+  "submittedAt": "2026-09-26T20:11:05.068Z",
+  "response": {
+    "assets": [
+      {
+        "id": "829f59f6-07ce-4936-b7ad-f667e8116382",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "assetId": "829f59f6-07ce-4936-b7ad-f667e8116382",
+  "status": "generated",
+  "creditsCharged": 8,
+  "completedAt": "2026-09-26T20:12:09.209Z",
+  "arcadsPath": "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "fileBytes": 3037707,
+  "format": "PNG",
+  "qa": {
+    "fr": "Même jeune Elena dans trois costumes ; rouge au bal, ivoire au mariage, violet à la maison. Le col de la tenue de maison et les détails des baskets diffèrent : choisir une version avant animation. Aquarelle plus transparente, visage détaillé proche de la photo.",
+    "en": "Same young Elena in three outfits: red shoes at the dance, ivory wedding dress, violet at home. Home-dress neckline and sneaker details vary; choose a version before animation. More translucent watercolor with a detailed face closer to photography."
+  },
+  "visualReview": {
+    "inspected": true,
+    "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+    "motionValidated": false
+  }
+}

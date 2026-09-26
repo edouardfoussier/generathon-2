@@ -1,0 +1,20 @@
+{
+  "code": "CC01S",
+  "attempt": 2,
+  "reason": "Restore plain olive cargo fabric, avoid camouflage-like shading, reveal high tops.",
+  "prompt": "Make ONLY a targeted wardrobe correction to this gouache character reference sheet. Preserve exactly the SAME Luna facial identity, hairstyle, charcoal t-shirt, panel composition, expression, anatomy and lovely hand-painted gouache medium. In BOTH front and back full-body panels replace the camouflage-looking patterns on the trousers with PLAIN SOLID UNIFORM OLIVE cotton cargo trousers, one dyed fabric color approximately #737754 across the entire garment. No mottled patches, no camouflage shapes, no two-tone pattern, no decorative color blocks. Show fabric volume with only subtle gradual light/shadow and thin fold contours, not separate colored paint islands. Keep side cargo pockets and original loose silhouette. Both feet wear BLACK HIGH-TOP canvas Converse: lift trouser hems just enough to reveal the high ankle collars, off-white toe caps and cream laces, flat soles, ankle badge ONLY on inner side. No exterior ankle logos. Keep every other pixel/compositional element as close as possible. No new marks, no text, no extra panels or props.",
+  "referenceImages": [
+    "production/videoassets/890a4442-e004-4a82-bb85-2bef21389273.png"
+  ],
+  "model": "seedream_5_pro",
+  "response": {
+    "assets": [
+      {
+        "id": "1dbcae56-7f05-44f4-a600-8c3436f8d7d6",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  }
+}

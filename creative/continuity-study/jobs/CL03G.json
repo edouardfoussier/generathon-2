@@ -1,0 +1,46 @@
+{
+  "code": "CL03G",
+  "group": "locations",
+  "subjectId": "salsa-1977",
+  "title": {
+    "fr": "Salle de salsa · 1977",
+    "en": "Salsa hall · 1977"
+  },
+  "referenceImages": [
+    "production/videoassets/3cf0e71d-dc2d-44c3-9913-f4b7263da94f.png",
+    "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+  ],
+  "referenceNotes": {
+    "fr": "R05 pour la salle, ses rideaux et instruments ; GA04 pour les touches peintes.",
+    "en": "R05 supplies hall, curtains and instruments; GA04 supplies brushwork."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact intimate 1977 neighborhood salsa hall of reference1. Preserve three tall LEFT windows with wine-red curtains, scuffed honey-brown wooden dance floor, little round tables and bentwood chairs along side walls, low stage at REAR RIGHT holding upright wooden piano, two congas and microphone stand. Brick stage wall with curtain valance, amber pendant bulbs and restrained plum/purple stage light, blue dusk through windows. LEFT: wide empty dancefloor from doorway. CENTER: very low view across scuffed floorboards toward same stage/piano/congas, reflecting warm light. RIGHT: intimate band-corner detail of piano, congas, curtains and glowing period practical bulb. All instruments have normal proportions. No musicians, dancers, modern nightclub, neon signage or confetti.",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CL03G.png",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "d20d9e88-e60b-477b-9cdb-08d214bf6f60",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:12:28.254Z",
+  "assetId": "d20d9e88-e60b-477b-9cdb-08d214bf6f60",
+  "creditsCharged": 8,
+  "qa": {
+    "fr": "Bonne reprise de la scène, des rideaux et des lumières ; rendu plus détaillé que les autres peintures.",
+    "en": "Good stage, curtain and lighting continuity; rendering is more detailed than the other paintings."
+  },
+  "generatedReference": "production/videoassets/d20d9e88-e60b-477b-9cdb-08d214bf6f60.png",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "totalCreditsCharged": 8
+}

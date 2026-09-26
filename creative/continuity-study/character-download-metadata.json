@@ -1,0 +1,218 @@
+[
+  {
+    "code": "CC02N",
+    "localFile": "images/CC02N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6089447,
+    "format": "PNG"
+  },
+  {
+    "code": "CC02G",
+    "localFile": "images/CC02G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3224141,
+    "format": "PNG"
+  },
+  {
+    "code": "CC02S",
+    "localFile": "images/CC02S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 419314,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC03N",
+    "localFile": "images/CC03N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 5703313,
+    "format": "PNG"
+  },
+  {
+    "code": "CC03G",
+    "localFile": "images/CC03G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3287159,
+    "format": "PNG"
+  },
+  {
+    "code": "CC03S",
+    "localFile": "images/CC03S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 372157,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC05N",
+    "localFile": "images/CC05N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6257763,
+    "format": "PNG"
+  },
+  {
+    "code": "CC04G",
+    "localFile": "images/CC04G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3332123,
+    "format": "PNG"
+  },
+  {
+    "code": "CC05G",
+    "localFile": "images/CC05G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3445009,
+    "format": "PNG"
+  },
+  {
+    "code": "CC04N",
+    "localFile": "images/CC04N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6170883,
+    "format": "PNG"
+  },
+  {
+    "code": "CC04S",
+    "localFile": "images/CC04S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 397278,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC05S",
+    "localFile": "images/CC05S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 428682,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC06N",
+    "localFile": "images/CC06N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 5669113,
+    "format": "PNG"
+  },
+  {
+    "code": "CC06S",
+    "localFile": "images/CC06S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 387825,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC07N",
+    "localFile": "images/CC07N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6837935,
+    "format": "PNG"
+  },
+  {
+    "code": "CC06G",
+    "localFile": "images/CC06G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3037707,
+    "format": "PNG"
+  },
+  {
+    "code": "CC07G",
+    "localFile": "images/CC07G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3648309,
+    "format": "PNG"
+  },
+  {
+    "code": "CC08N",
+    "localFile": "images/CC08N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6193148,
+    "format": "PNG"
+  },
+  {
+    "code": "CC09N",
+    "localFile": "images/CC09N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6057003,
+    "format": "PNG"
+  },
+  {
+    "code": "CC08G",
+    "localFile": "images/CC08G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3614413,
+    "format": "PNG"
+  },
+  {
+    "code": "CC09G",
+    "localFile": "images/CC09G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3489525,
+    "format": "PNG"
+  },
+  {
+    "code": "CC10N",
+    "localFile": "images/CC10N.png",
+    "width": 2752,
+    "height": 1536,
+    "bytes": 6251550,
+    "format": "PNG"
+  },
+  {
+    "code": "CC07S",
+    "localFile": "images/CC07S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 441697,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC09S",
+    "localFile": "images/CC09S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 393696,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC08S",
+    "localFile": "images/CC08S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 468551,
+    "format": "JPEG"
+  },
+  {
+    "code": "CC10G",
+    "localFile": "images/CC10G.png",
+    "width": 1920,
+    "height": 1072,
+    "bytes": 3650392,
+    "format": "PNG"
+  },
+  {
+    "code": "CC10S",
+    "localFile": "images/CC10S.jpg",
+    "width": 2048,
+    "height": 1152,
+    "bytes": 419754,
+    "format": "JPEG"
+  }
+]

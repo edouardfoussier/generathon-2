@@ -1,0 +1,24 @@
+{
+  "originalAssetId": "aeaa1381-9738-4e5d-a7ad-d8cea5953e9c",
+  "assetId": "c7798545-ee67-49b5-af43-8daf8e2d3e49",
+  "response": {
+    "assets": [
+      {
+        "id": "c7798545-ee67-49b5-af43-8daf8e2d3e49",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "prompt": "Precise continuity correction to this existing hand-painted shoe sheet. Change ONE THING ONLY: in the CENTER panel, on the UPPER of the two single shoe side elevations (the plain outer side, toe pointing LEFT), add a small 2cm rectangular cream stitched fabric repair on black OUTER canvas just above the rubber edge near the FOREFOOT, matching the exact small cream repair already visible on the near shoe in the LEFT panel pair view. The repair must be on canvas not rubber, about the same proportional size, no large patch. Do not add a repair to the center LOWER shoe with circular inner-ankle badge. Preserve every other pixel/content/composition, three panels, gouache brush texture, shoe construction, laces, wear, and right-panel 'R.M.' tongue initials unchanged.",
+  "status": "generated",
+  "creditsCharged": 8,
+  "qa": {
+    "fr": "Réparation extérieure corrigée après un premier oubli ; vues intérieure/extérieure et R.M. lisibles. La forme exacte des coutures reste à verrouiller avant un très gros plan.",
+    "en": "Outer repair corrected after an initial omission; clear inner/outer views and R.M. Lock exact stitch shape before extreme close-ups."
+  },
+  "referenceImages": [
+    "production/videoassets/aeaa1381-9738-4e5d-a7ad-d8cea5953e9c.png"
+  ]
+}

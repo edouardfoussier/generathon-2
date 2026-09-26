@@ -1,0 +1,55 @@
+{
+  "codeBase": "CC05",
+  "subjectId": "rafa-2026",
+  "title": {
+    "fr": "Rafa · 72 ans · identité de référence",
+    "en": "Rafa · age 72 · identity reference"
+  },
+  "referenceImages": [
+    "production/videoassets/5fe31836-8251-4632-a215-319ce1eb6021.png",
+    "production/videoassets/c452a869-8780-4460-b2c1-9e0109cc9590.png",
+    "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+  ],
+  "referenceNotes": {
+    "fr": "G11 et G01 : même grand-père choisi ; GA01 : peinture uniquement. Pas de nouvelle scène.",
+    "en": "G11 and G01: the selected grandfather; GA01: paint only. No new scene implied."
+  },
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCES1 and2 show the SAME selected grandfather Rafa age72. Preserve exact broad face, warm olive-brown skin, short curly silver-grey hair, neat grey moustache, brown eyes, distinctive nose and quietly witty closed-mouth smile. Natural age lines, not frail caricature. Outfit matches reference1: open faded charcoal overshirt over light-grey tee, dark charcoal casual trousers, ordinary worn neutral grey canvas shoes. Do not give him a separate pristine inherited hero pair or props. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+  "group": "characters",
+  "code": "CC05S",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CC05S.jpg",
+  "submittedAt": "2026-09-26T20:10:30.272Z",
+  "response": {
+    "assets": [
+      {
+        "id": "26412800-d108-4bb9-b767-f21a7761ee9a",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "assetId": "26412800-d108-4bb9-b767-f21a7761ee9a",
+  "status": "generated",
+  "creditsCharged": 32,
+  "completedAt": "2026-09-26T20:12:17.975Z",
+  "arcadsPath": "production/videoassets/26412800-d108-4bb9-b767-f21a7761ee9a.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "fileBytes": 428682,
+  "format": "JPEG",
+  "qa": {
+    "fr": "Visage du grand-père G01 bien repris, cheveux argentés, surchemise charbon. Les chaussures ordinaires changent légèrement entre modèles. Référence d’identité, pas une scène ajoutée. Lavis doux, traits plus lissés et stylisés.",
+    "en": "G01 grandfather identity is recognizable, with silver hair and charcoal overshirt. Ordinary shoes vary slightly between models. Identity reference, not an added scene. Soft washes with smoother, more stylized features."
+  },
+  "visualReview": {
+    "inspected": true,
+    "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+    "motionValidated": false
+  }
+}

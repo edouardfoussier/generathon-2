@@ -14,7 +14,7 @@
   } catch (_) {}
   const t = key => strings[language][key] || strings.fr[key] || key;
   const field = (asset, key) => (language === 'en' ? asset[key + 'En'] : asset[key]) || asset[key] || '';
-  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic', 'illustrated'].map((id, index) => ({
+  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic', 'illustrated', 'continuity'].map((id, index) => ({
     id, number: String(index + 1).padStart(2, '0'),
     get label() { return strings[language].categories[id].label; },
     get title() { return strings[language].categories[id].title; },
@@ -127,7 +127,9 @@
       escapeHtml(asset.model || t('exploratoryReference')) + '</span><button type="button" class="choose" data-choose="' +
       code + '" aria-pressed="' + chosen + '" aria-label="' + t(chosen ? 'unchoose' : 'choose') + ' ' + code + '">' +
       choiceContent(chosen) + '</button></div>' +
-      (field(asset, 'note') ? '<p class="note">' + escapeHtml(field(asset, 'note')) + '</p>' : '') + '</div></article>';
+      (field(asset, 'note') ? '<p class="note">' + escapeHtml(field(asset, 'note')) + '</p>' : '') +
+      (asset.category === 'continuity' && source ? '<a class="media-download" href="' + escapeHtml(source) +
+        '" download>' + t('downloadReference') + ' ↗</a>' : '') + '</div></article>';
   }
   function styleIntroduction() {
     return '<div class="style-intro"><div><h3>' + t('stylesIntroTitle') + '</h3><p>' + t('stylesIntro') +
@@ -256,10 +258,47 @@
       }).join('') + (items.some(asset => asset.mediaType === 'video') ? '' : '<p class="production-footnote" role="status">' +
         t('illustratedMotionPending') + '</p>') + '<p class="production-footnote">' + t('illustratedReview') + '</p>';
   }
+  function continuityContent(items) {
+    const groups = [
+      {id:'characters', index:'A', title:'continuityCharacters', detail:'continuityCharactersDetail'},
+      {id:'locations', index:'B', title:'continuityLocations', detail:'continuityLocationsDetail'},
+      {id:'shoes', index:'C', title:'continuityShoes', detail:'continuityShoesDetail'}
+    ];
+    return '<div class="production-pitch continuity-pitch"><p class="eyebrow">' + t('continuityKicker') + '</p><h3>' +
+      t('continuityTitle') + '</h3><p>' + t('continuityIntro') + '</p><nav class="production-jumps">' +
+      groups.filter(group => items.some(asset => asset.group === group.id)).map(group =>
+        '<a href="#continuity-' + group.id + '">' + t(group.title) + ' ↓</a>').join('') +
+      '</nav><p class="continuity-status">' + t('continuityStatus') + '</p></div>' +
+      '<div class="continuity-method"><div><span>01</span><h3>' + t('continuityCompare') + '</h3><p>' +
+      t('continuityCompareDetail') + '</p></div><div><span>02</span><h3>' + t('continuityChoose') + '</h3><p>' +
+      t('continuityChooseDetail') + '</p></div><div><span>03</span><h3>' + t('continuityReuse') + '</h3><p>' +
+      t('continuityReuseDetail') + '</p></div></div>' + groups.map(group => {
+        const grouped = items.filter(asset => asset.group === group.id);
+        if (!grouped.length) return '';
+        const subjects = [...new Set(grouped.map(asset => asset.subjectId))];
+        return '<section class="team-group continuity-group" aria-labelledby="continuity-' + group.id + '">' +
+          '<header class="team-group-heading"><span class="section-index">' + group.index + '</span><div><h3 id="continuity-' +
+          group.id + '">' + t(group.title) + '</h3><p>' + t(group.detail) + '</p></div></header>' +
+          (subjects.length > 1 ? '<nav class="continuity-subject-links" aria-label="' + t('continuityJumpSubject') + '">' +
+            subjects.map((subject, index) => {
+              const first = grouped.find(asset => asset.subjectId === subject);
+              return '<a href="#continuity-' + group.id + '-' + index + '">' +
+                escapeHtml(field(first, 'subjectTitle') || field(first, 'title')) + '</a>';
+            }).join('') + '</nav>' : '') + subjects.map((subject, index) => {
+            const candidates = grouped.filter(asset => asset.subjectId === subject);
+            const label = field(candidates[0], 'subjectTitle') || field(candidates[0], 'title');
+            return '<section class="continuity-subject" aria-labelledby="continuity-' + group.id + '-' + index + '">' +
+              '<header><h4 id="continuity-' + group.id + '-' + index + '">' + escapeHtml(label) + '</h4><span>' +
+              escapeHtml(t('continuityCandidateCount').replace('{count}', candidates.length)) + '</span></header><div class="grid continuity-grid">' +
+              candidates.map(card).join('') + '</div></section>';
+          }).join('') + '</section>';
+      }).join('') + (!items.length ? '<p class="production-footnote" role="status">' + t('continuityPending') + '</p>' : '') +
+      '<p class="production-footnote">' + t('continuityCaveat') + '</p>';
+  }
   function renderGallery() {
     $('gallery').querySelectorAll('video').forEach(video => video.pause());
     const visible = visibleAssets();
-    if (!visible.length) {
+    if (!visible.length && !(activeCategory === 'continuity' && !favoritesOnly)) {
       $('gallery').innerHTML = '<div class="empty"><h2>' + t(assets.length ? 'noReferences' : 'boardPreparing') +
         '</h2><p>' + t(assets.length ? 'noReferencesHint' : 'boardPreparingHint') + '</p>' +
         (assets.length ? '<button type="button" class="action reset-filter" id="reset-filter">' + t('resetFilters') +
@@ -272,11 +311,11 @@
     }
     $('gallery').innerHTML = categories.map(category => {
       const items = visible.filter(a => a.category === category.id);
-      return items.length ? '<section class="category" data-category="' + category.id +
+      return (items.length || (category.id === 'continuity' && activeCategory === 'continuity' && !favoritesOnly)) ? '<section class="category" data-category="' + category.id +
         '" aria-labelledby="title-' + category.id + '"><header class="section-heading"><div class="section-title">' +
         '<span class="section-index">' + category.number + '</span><h2 id="title-' + category.id + '">' +
         category.title + '</h2></div><p class="section-detail">' + category.detail + '</p></header>' +
-        (category.id === 'illustrated' ? illustratedContent(items) : category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
+        (category.id === 'continuity' ? continuityContent(items) : category.id === 'illustrated' ? illustratedContent(items) : category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
           (category.id === 'styles' ? styleIntroduction() : '') + '<div class="grid">' + items.map(card).join('') + '</div>') +
         '</section>' : '';
     }).join('');
@@ -392,6 +431,7 @@
   $('explore-scenes').addEventListener('click', () => exploreCategory('scenes'));
   $('explore-animatic').addEventListener('click', () => exploreCategory('animatic'));
   $('explore-illustrated').addEventListener('click', () => exploreCategory('illustrated'));
+  $('explore-continuity').addEventListener('click', () => exploreCategory('continuity'));
   $('filters').addEventListener('click', e => {
     const button = e.target.closest('[data-filter]'); if (!button) return;
     activeCategory = button.dataset.filter; renderFilters(); renderGallery();

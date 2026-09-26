@@ -1,0 +1,54 @@
+{
+  "codeBase": "CC09",
+  "subjectId": "mother-2026",
+  "title": {
+    "fr": "Maman · 47 ans · 2026",
+    "en": "Mother · age 47 · 2026"
+  },
+  "referenceImages": [
+    "production/videoassets/b8637b82-556b-4067-9709-2044c958c6ab.png",
+    "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+  ],
+  "referenceNotes": {
+    "fr": "M01 : visage adulte et tenue marine ; GA01 : peinture uniquement.",
+    "en": "M01: adult face and navy wardrobe; GA01: paint only."
+  },
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is Luna's mother age47, same mature woman throughout. Preserve exact face shape and nose, brown eyes, gently rounded cheeks, warm brown skin, natural subtle crow's feet and shoulder-length loose dark curls with a few grey strands. She must look47 rather than20 or70. Plain muted navy blouse and open navy lightweight cardigan, charcoal straight trousers, ordinary black leather loafers, small silver HOOP earrings matching reference. No Converse: inherited pair belongs to Luna. Calm restrained warmth. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+  "group": "characters",
+  "code": "CC09G",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CC09G.png",
+  "submittedAt": "2026-09-26T20:12:13.772Z",
+  "response": {
+    "assets": [
+      {
+        "id": "075fce73-a989-4512-a9ac-a4148f1056e8",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "assetId": "075fce73-a989-4512-a9ac-a4148f1056e8",
+  "status": "generated",
+  "creditsCharged": 8,
+  "completedAt": "2026-09-26T20:13:00.329Z",
+  "arcadsPath": "production/videoassets/075fce73-a989-4512-a9ac-a4148f1056e8.png",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "fileBytes": 3489525,
+  "format": "PNG",
+  "qa": {
+    "fr": "Maman adulte conserve le marine et le visage de M01. Les mèches grises et les traits paraissent plus ou moins âgés selon le modèle ; choisir un seul visage de référence. Aquarelle plus transparente, visage détaillé proche de la photo.",
+    "en": "Adult Mom retains navy wardrobe and the M01 face. Grey strands and facial lines read older or younger by model; choose one master face. More translucent watercolor with a detailed face closer to photography."
+  },
+  "visualReview": {
+    "inspected": true,
+    "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+    "motionValidated": false
+  }
+}

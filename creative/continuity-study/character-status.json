@@ -1,0 +1,191 @@
+[
+  {
+    "code": "CC02N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:09:59.340Z",
+    "arcadsPath": "production/videoassets/b2c479c1-cb06-47e0-8bce-1f353be60070.png"
+  },
+  {
+    "code": "CC02G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:10:26.491Z",
+    "arcadsPath": "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png"
+  },
+  {
+    "code": "CC02S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:11:27.541Z",
+    "arcadsPath": "production/videoassets/58b5e925-6cd7-4986-887d-7d6b53a8890a.png"
+  },
+  {
+    "code": "CC03N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:10:11.467Z",
+    "arcadsPath": "production/videoassets/fff4b68b-2fdf-4adf-a87b-59fdfd1a3d34.png"
+  },
+  {
+    "code": "CC03G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:11:12.093Z",
+    "arcadsPath": "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png"
+  },
+  {
+    "code": "CC03S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:12:12.949Z",
+    "arcadsPath": "production/videoassets/8069340e-7830-4ec4-9d53-56549063ad5f.png"
+  },
+  {
+    "code": "CC05N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:10:41.716Z",
+    "arcadsPath": "production/videoassets/03a4026e-f5b4-492a-98d4-70bb01ecde51.png"
+  },
+  {
+    "code": "CC04G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:11:08.836Z",
+    "arcadsPath": "production/videoassets/76c3801c-d588-415c-a0a4-ff8a6430ab73.png"
+  },
+  {
+    "code": "CC05G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:11:10.343Z",
+    "arcadsPath": "production/videoassets/3e40aef8-213d-4f0d-97ea-3f0e06602e04.png"
+  },
+  {
+    "code": "CC04N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:10:48.769Z",
+    "arcadsPath": "production/videoassets/25617e83-1793-4c3f-98be-b3cdd6425b76.png"
+  },
+  {
+    "code": "CC04S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:12:14.913Z",
+    "arcadsPath": "production/videoassets/3010c162-0a3e-4fc6-b2d6-01f4f22c0896.png"
+  },
+  {
+    "code": "CC05S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:12:17.975Z",
+    "arcadsPath": "production/videoassets/26412800-d108-4bb9-b767-f21a7761ee9a.png"
+  },
+  {
+    "code": "CC06N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:11:32.985Z",
+    "arcadsPath": "production/videoassets/952e73e1-1a8c-432b-afee-905efb6a8559.png"
+  },
+  {
+    "code": "CC06S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:12:46.590Z",
+    "arcadsPath": "production/videoassets/363a4be7-d356-4872-87c0-e93468e55b46.png"
+  },
+  {
+    "code": "CC07N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:11:25.181Z",
+    "arcadsPath": "production/videoassets/0fb21347-5fba-4b48-9948-1378dc793376.png"
+  },
+  {
+    "code": "CC06G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:12:09.209Z",
+    "arcadsPath": "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png"
+  },
+  {
+    "code": "CC07G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:12:07.370Z",
+    "arcadsPath": "production/videoassets/b487ba6a-fe0c-4381-bce5-f547c0a9a1f9.png"
+  },
+  {
+    "code": "CC07S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:13:20.679Z",
+    "arcadsPath": "production/videoassets/ff7dd43b-75fe-4711-a157-bf5627ec7a70.png"
+  },
+  {
+    "code": "CC08N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:12:14.532Z",
+    "arcadsPath": "production/videoassets/d1a7d758-d180-46b6-92a0-e462182b5c00.png"
+  },
+  {
+    "code": "CC09N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:12:21.064Z",
+    "arcadsPath": "production/videoassets/48bb4713-a578-48a9-8bad-7c418b7de09b.png"
+  },
+  {
+    "code": "CC09S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:13:44.559Z",
+    "arcadsPath": "production/videoassets/e1b70a96-6322-4c47-860d-0e46c628088f.png"
+  },
+  {
+    "code": "CC08S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:13:59.360Z",
+    "arcadsPath": "production/videoassets/d000c1c5-43e6-4084-a3c5-2ffa30dc4257.png"
+  },
+  {
+    "code": "CC08G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:12:56.029Z",
+    "arcadsPath": "production/videoassets/7b729196-9c53-4f1d-8017-37805c4db367.png"
+  },
+  {
+    "code": "CC09G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:13:00.329Z",
+    "arcadsPath": "production/videoassets/075fce73-a989-4512-a9ac-a4148f1056e8.png"
+  },
+  {
+    "code": "CC10N",
+    "status": "generated",
+    "creditsCharged": 16,
+    "completedAt": "2026-09-26T20:13:00.289Z",
+    "arcadsPath": "production/videoassets/c062ee63-3fba-4887-ab15-12acc7fb334d.png"
+  },
+  {
+    "code": "CC10G",
+    "status": "generated",
+    "creditsCharged": 8,
+    "completedAt": "2026-09-26T20:13:38.346Z",
+    "arcadsPath": "production/videoassets/749757d0-7429-4138-83f6-4fca84cf154d.png"
+  },
+  {
+    "code": "CC10S",
+    "status": "generated",
+    "creditsCharged": 32,
+    "completedAt": "2026-09-26T20:14:51.268Z",
+    "arcadsPath": "production/videoassets/ada8ebd4-bef5-4139-a5e7-da37de0996cd.png"
+  }
+]

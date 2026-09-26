@@ -1,0 +1,56 @@
+{
+  "codeBase": "CC03",
+  "subjectId": "rafa-1977-79",
+  "title": {
+    "fr": "Rafa · 23–25 ans · trois tenues",
+    "en": "Rafa · ages 23–25 · three outfits"
+  },
+  "referenceImages": [
+    "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png",
+    "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+    "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+    "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png"
+  ],
+  "referenceNotes": {
+    "fr": "G13 : visage ; mariage et naissance v3 : costumes ; GA04 : peinture uniquement.",
+    "en": "G13: face; v3 wedding and birth: outfits; GA04: paint medium only."
+  },
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1 is the sole young Rafa identity: SAME fictional man age23–25, clean-shaven, short dense dark curls, warm brown skin and gentle broad-nosed face. References2 and3 supply WARDROBE only; do NOT draw the women, baby or locations. LAYOUT exactly THREE equal full-body FRONT three-quarter standing columns of SAME man, head to toe with margin, one full figure per column. LEFT dance1977: muted rust long-sleeve open-collar shirt, dark warm brown flared trousers, brown narrow belt. CENTER wedding1978: chocolate brown two-piece suit, ivory open-collar shirt, discreet cream boutonniere, no hat. RIGHT father1979: plain ivory crewneck tee and warm brown corduroy trousers. Same youthful facial features in all three columns. ALL THREE outfits have classic black CANVAS HIGH-TOP sneakers, visible high collars where trousers allow, ivory rubber toes, cream laces. Correct low-top-looking wedding shoes into high-tops; inner ankle patches only. No repairs yet. Relaxed pose, hands empty; no second row or face inset.",
+  "group": "characters",
+  "code": "CC03G",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CC03G.png",
+  "submittedAt": "2026-09-26T20:09:53.477Z",
+  "response": {
+    "assets": [
+      {
+        "id": "6509991d-eda9-461a-8a23-cd7f747b8e86",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "assetId": "6509991d-eda9-461a-8a23-cd7f747b8e86",
+  "status": "generated",
+  "creditsCharged": 8,
+  "completedAt": "2026-09-26T20:11:12.093Z",
+  "arcadsPath": "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "fileBytes": 3287159,
+  "format": "PNG",
+  "qa": {
+    "fr": "Trois costumes lisibles pour la même période : danse, mariage, jeune père. Les pantalons masquent les cols des chaussures ; utiliser la fiche produit pour garantir les montantes. Aquarelle plus transparente, visage détaillé proche de la photo.",
+    "en": "Three readable period outfits: dance, wedding, young father. Trousers hide shoe collars; use the product master to guarantee high-tops. More translucent watercolor with a detailed face closer to photography."
+  },
+  "visualReview": {
+    "inspected": true,
+    "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+    "motionValidated": false
+  }
+}

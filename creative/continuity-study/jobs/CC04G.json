@@ -1,0 +1,54 @@
+{
+  "codeBase": "CC04",
+  "subjectId": "rafa-1995",
+  "title": {
+    "fr": "Rafa · 41 ans · 1995",
+    "en": "Rafa · age 41 · 1995"
+  },
+  "referenceImages": [
+    "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+    "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png"
+  ],
+  "referenceNotes": {
+    "fr": "Rafa dans la scène de transmission v3 ; GA05 : matière picturale uniquement.",
+    "en": "Rafa in v3 handover scene; GA05: painted medium only."
+  },
+  "prompt": "Create a professional CHARACTER CONTINUITY SHEET in HAND-PAINTED WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Preserve the EXACT fictional identity from the named photographic reference: same face shape, eye spacing, nose, brows, mouth, natural skin tone, hair and age. The LAST reference is PAINT MEDIUM ONLY: broad opaque brush planes, translucent washes, tactile dry edges and reserved paper. Do not borrow faces, costume, pose or scenery from the style reference. Confident visible painted shapes, gently simplified volumes and expressive detailed face. NOT a filtered photograph, NOT 3D, NOT glossy anime. No lettering, names, captions, dates, diagram arrows, watermarks or graphic logos. No tattoos, extra limbs or invented facial marks. Plain warm ivory paper background throughout. Landscape 16:9. REFERENCE1: use ONLY the father on the RIGHT, Rafa age41 in1995. Preserve his actual face and dark moustache, short dark curls with only subtle grey at temples, ordinary middle-aged build, warm brown skin. Do not copy teenage daughter or shoes he holds. Rolled light-blue button-up cotton shirt, charcoal straight trousers, plain dark brown house loafers. He does NOT wear or hold Converse here because the inherited pair is for his daughter. No strong elderly wrinkles, no white hair, no new casting. SHEET LAYOUT: exactly THREE clearly separated equal vertical panels: LEFT full-body FRONT standing view, CENTER full-body BACK standing view, RIGHT enlarged THREE-QUARTER head-and-shoulders portrait. Both standing figures are fully framed from top of head through complete shoes, comfortable margin at top and bottom. Same outfit and proportions across every panel. Relaxed neutral posture, empty hands, restrained expression. No additional people or scenery. ",
+  "group": "characters",
+  "code": "CC04G",
+  "kind": "image",
+  "model": "gpt-image-2-5-sunburst",
+  "modelLabel": "GPT Image 2.5 Sunburst",
+  "localFile": "images/CC04G.png",
+  "submittedAt": "2026-09-26T20:10:17.380Z",
+  "response": {
+    "assets": [
+      {
+        "id": "76c3801c-d588-415c-a0a4-ff8a6430ab73",
+        "type": "gpt-image-2-5-sunburst",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "assetId": "76c3801c-d588-415c-a0a4-ff8a6430ab73",
+  "status": "generated",
+  "creditsCharged": 8,
+  "completedAt": "2026-09-26T20:11:08.836Z",
+  "arcadsPath": "production/videoassets/76c3801c-d588-415c-a0a4-ff8a6430ab73.png",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "fileBytes": 3332123,
+  "format": "PNG",
+  "qa": {
+    "fr": "Rafa moustachu conserve la chemise bleue et les chaussures de maison. L’âge perçu et le gris des tempes diffèrent entre modèles ; verrouiller une seule version. Aquarelle plus transparente, visage détaillé proche de la photo.",
+    "en": "Moustached Rafa keeps the blue shirt and house shoes. Apparent age and temple grey vary between models; lock one version. More translucent watercolor with a detailed face closer to photography."
+  },
+  "visualReview": {
+    "inspected": true,
+    "method": "Local three-model contact-sheet comparison; final newborn Seedream image also viewed full size.",
+    "motionValidated": false
+  }
+}

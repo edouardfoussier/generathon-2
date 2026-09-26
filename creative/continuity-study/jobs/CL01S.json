@@ -1,0 +1,46 @@
+{
+  "code": "CL01S",
+  "group": "locations",
+  "subjectId": "attic-2026",
+  "title": {
+    "fr": "Grenier D06 · 2026",
+    "en": "D06 attic · 2026"
+  },
+  "referenceImages": [
+    "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+    "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png"
+  ],
+  "referenceNotes": {
+    "fr": "D06 fixe l'architecture ; GA01 guide seulement la peinture.",
+    "en": "D06 locks architecture; GA01 guides paint technique only."
+  },
+  "prompt": "Render a professional film continuity reference sheet, entirely hand-painted WATERCOLOR AND OPAQUE GOUACHE on warm ivory textured paper. Use the final illustrated reference for PAINT MEDIUM ONLY: broad visible brush planes, transparent washes, dry edges, warm reserved paper, selective precise construction lines. Photographic references determine geometry and object construction. This is a convincing hand-painted artwork, not a photograph with a filter, not 3D, not glossy anime.  Exactly THREE equal vertical panels in a single landscape 16:9 sheet, with narrow clean warm-paper gutters. No captions, no letters, no labels, no people, no silhouettes, no faces in portraits, no shoes, no vehicles newer than the period. One coherent location across the panels; perspective changes must preserve architectural landmarks.  Subject: the exact D06 family attic from reference 1 in 2026. Preserve pitched exposed timber rafters, brick rear gable, open white casement window at LEFT, open wooden trunk in left foreground, upright round wooden stool, rear workbench with vintage suitcase and lamp, large vertical timber post to RIGHT. Warm afternoon window light falls diagonally left-to-right on pale timber floorboards. LEFT panel wide establishing view following reference1 composition. CENTER same room viewed from doorway with all landmark relationships preserved, no imaginary extra windows. RIGHT panel low shoe-height view across floorboards toward the open trunk, showing window light and timber joints. Remove Luna/skateboard/shoes from any style reference. Keep all three panels empty and warmly lived-in, not abandoned or haunted.",
+  "kind": "image",
+  "model": "seedream_5_pro",
+  "modelLabel": "Seedream 5 Pro",
+  "localFile": "images/CL01S.jpg",
+  "status": "generated",
+  "response": {
+    "assets": [
+      {
+        "id": "06e4a7af-5a5b-4cd7-8007-024f6614fc9f",
+        "type": "seedream_5_pro",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "submittedAt": "2026-09-26T20:11:41.692Z",
+  "assetId": "06e4a7af-5a5b-4cd7-8007-024f6614fc9f",
+  "creditsCharged": 32,
+  "qa": {
+    "fr": "Bonne continuité des repères et belle matière peinte ; le détail bas reste assez large.",
+    "en": "Good landmark continuity and painted texture; low detail remains fairly wide."
+  },
+  "generatedReference": "production/videoassets/06e4a7af-5a5b-4cd7-8007-024f6614fc9f.png",
+  "dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "totalCreditsCharged": 32
+}
