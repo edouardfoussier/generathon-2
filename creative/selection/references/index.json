@@ -82,6 +82,31 @@
       "file": "references/west-side-street-reference.png",
       "title": "Street color and movement reference",
       "usage": "Palette, architecture and wardrobe mood; not a request to reproduce the depicted actors."
+    },
+    {
+      "id": "REF-SHOE-PATINA-01",
+      "type": "image",
+      "source": "User-supplied example, added to the project and attached in conversation on 2026-09-26",
+      "file": "../converse-history-philosophy-and-iconic-products-the-original-converse-shoe-image-via-boston-com.jpg.webp",
+      "sha256": "23c7bc97fcb26af0a248c2149859658124580d097c5a98336f281e484bed093b",
+      "titleFr": "Chaussure ancienne — référence de patine",
+      "titleEn": "Old shoe — material and wear reference",
+      "observedFr": [
+        "Toile claire plissée et lacets ternis",
+        "Caoutchouc sombre très patiné",
+        "Écusson circulaire ocre et foncé"
+      ],
+      "observedEn": [
+        "Creased light canvas and dull laces",
+        "Heavily aged dark rubber",
+        "Ochre and dark circular ankle badge"
+      ],
+      "notVerified": [
+        "Date and exact model",
+        "Historical provenance",
+        "Whether worn areas are repairs"
+      ],
+      "usage": "Material and wear study only. Not a selected replacement for the working black pair. Preserve a wearable fictional shoe and establish consistent construction, wear, repair and markings before final frames."
     }
   ]
 }

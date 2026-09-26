@@ -6,11 +6,11 @@ Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-
 
 **Rafa did not say much. His shoes have stories to tell.** Fifteen-year-old Luna discovers her grandfather through his worn black Converse: basketball, meeting Elena at a salsa dance, and quietly caring for his daughter. Luna carries that story forward on her skateboard.
 
-Working tagline: **“Converse. Conserve what matters.”** One proposed visual rule is a photographic present that changes into animated memories when Luna first steps into the shoes. Pixel art, clay, illustration and mixed-media treatments remain options to compare. **Current choices:** Luna’s existing face, G01 for the grandfather, D06 for the attic, and photographic realism for the current tests. The younger grandfather, orange costume alternative, final story and six final key images remain open.
+Working tagline: **“Converse. Conserve what matters.”** The consolidated script now proposes a **75-second photographic version**, opening in the attic and moving through three memories. Pixel art, clay, illustration and a photographic-to-animated transition remain archived alternatives. **Current choices:** Luna’s existing face, G01 for the grandfather, D06 for the attic, and photographic realism for the current tests. The younger grandfather, orange costume alternative, final story and six final key images remain open.
 
 Deliverables from the supplied brief:
 
-- Main ad: **80 seconds maximum**; the current story proposal targets 70 seconds.
+- Main ad: **80 seconds maximum**; the consolidated story proposal targets 75 seconds including the final text.
 - Face-camera explanation: **60 seconds maximum**, covering inspiration, concept, process, challenges, accomplishments, learning, next steps and tools.
 - The track slide also calls for a **complete one-shot sequence**. Resolve this in the final staging and transitions; the exploratory stills do not establish compliance.
 
@@ -47,10 +47,12 @@ The latest tab is **Characters & locations** (`?category=production&lang=en`). I
 
 ## Where to continue
 
+**Start with the [bilingual production bible and detailed 75-second script](creative/converse-production-bible-v1.md).** It consolidates selected references, open decisions, the old-shoe material study, six planned keyframe briefs and the production order. The [editable shot list](creative/converse-shot-list-v1.csv) contains 13 timed action units; these are planned beats, not submitted generation jobs.
+
 - [`creative/luna-character-bible-v1.md`](creative/luna-character-bible-v1.md): latest character references, costume options, chosen attic and continuity notes.
 - `creative/selection/creative-choices.json`: explicit team choices, distinct from each browser’s favorites.
-- [`creative/converse-team-directions-v3.md`](creative/converse-team-directions-v3.md): current story, proposed 70-second structure, family chronology and sources; includes an English synopsis.
-- [`creative/converse-style-switch-v4.md`](creative/converse-style-switch-v4.md): latest visual direction and proposed five-second transition test; includes English notes.
+- [`creative/converse-team-directions-v3.md`](creative/converse-team-directions-v3.md): earlier 70-second story proposal, family chronology and research sources; retained as development history.
+- [`creative/converse-style-switch-v4.md`](creative/converse-style-switch-v4.md): archived material-switch direction and proposed five-second transition test; includes English notes.
 - [`creative/converse-direction-v1.md`](creative/converse-direction-v1.md): earlier concept exploration.
 - [`creative/selection/README.md`](creative/selection/README.md): detailed board guide and generation notes.
 - `creative/selection/index.html`, `board.js`, `i18n.js` and `assets.js`: layout, interactions, interface translations and bilingual card metadata.

@@ -86,6 +86,12 @@ La fiche de Luna comprend des repères d’identité, les deux tenues et une pal
 
 `../luna-character-bible-v1.md` rassemble les références et points de continuité. `creative-choices.json` consigne les choix explicites. `character-location-generation-log.json` documente **21 générations, 17 images retenues, quatre premiers essais archivés et 0 crédit facturé déclaré**. Aucun mouvement ni film final n’est généré.
 
+## Dossier consolidé / Consolidated script
+
+Le [dossier de production bilingue](../converse-production-bible-v1.md) rassemble désormais les choix, les alternatives, un script proposé de 75 secondes et les briefs des six images clés. La [liste CSV](../converse-shot-list-v1.csv) détaille les unités d’action et leurs dépendances. Il distingue les éléments choisis des propositions ; aucun nouveau plan vidéo n’a encore été généré. La nouvelle référence de chaussure ancienne est enregistrée dans `references/index.json` pour sa matière et sa patine, sans remplacer automatiquement la paire noire.
+
+The [bilingual production bible](../converse-production-bible-v1.md) is the current working synthesis: a proposed 75-second script, selected and open choices, six planned keyframe briefs, and a production sequence. The [CSV shot list](../converse-shot-list-v1.csv) makes timing and dependencies editable. The old-shoe reference is for wear and materials, not an approved product replacement.
+
 ## Après le choix
 
 1. Partir de Luna, G01 et D06 désormais retenus ; choisir la tenue et les versions jeunes du grand-père.
