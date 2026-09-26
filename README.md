@@ -6,7 +6,7 @@ Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-
 
 **Rafa did not say much. His shoes have stories to tell.** Fifteen-year-old Luna discovers her grandfather through his worn black Converse: basketball, meeting Elena at a salsa dance, and quietly caring for his daughter. Luna carries that story forward on her skateboard.
 
-Working tagline: **“Converse. Conserve what matters.”** One proposed visual rule is a photographic present that changes into animated memories when Luna first steps into the shoes. Pixel art, clay, illustration and mixed-media treatments remain options to compare. The story, casting, style and six final key images are **not locked**.
+Working tagline: **“Converse. Conserve what matters.”** One proposed visual rule is a photographic present that changes into animated memories when Luna first steps into the shoes. Pixel art, clay, illustration and mixed-media treatments remain options to compare. **Current choices:** Luna’s existing face, G01 for the grandfather, D06 for the attic, and photographic realism for the current tests. The younger grandfather, orange costume alternative, final story and six final key images remain open.
 
 Deliverables from the supplied brief:
 
@@ -30,7 +30,7 @@ Then open [the English board](http://127.0.0.1:8765/?lang=en). Use the **FR / EN
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 50-image board
+## The 67-image board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -41,9 +41,14 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | S00–S08 | 9 | Shared baseline and eight visual styles |
 | T01–T08, U01–U05 | 13 | Team story scenes, alternate future and style treatments |
 | H01–H05, X01–X03 | 8 | Pixels, clay, mixed materials and three stills for a proposed style transition |
+| L01–L05, G11–G15, R01–R07 | 17 | Realistic Luna character sheets, grandfather development from G01, and scene locations from D06 |
+
+The latest tab is **Characters & locations** (`?category=production&lang=en`). It groups Luna’s character bible, five grandfather sheets and seven empty scene locations. The orange wardrobe remains an alternative to compare.
 
 ## Where to continue
 
+- [`creative/luna-character-bible-v1.md`](creative/luna-character-bible-v1.md): latest character references, costume options, chosen attic and continuity notes.
+- `creative/selection/creative-choices.json`: explicit team choices, distinct from each browser’s favorites.
 - [`creative/converse-team-directions-v3.md`](creative/converse-team-directions-v3.md): current story, proposed 70-second structure, family chronology and sources; includes an English synopsis.
 - [`creative/converse-style-switch-v4.md`](creative/converse-style-switch-v4.md): latest visual direction and proposed five-second transition test; includes English notes.
 - [`creative/converse-direction-v1.md`](creative/converse-direction-v1.md): earlier concept exploration.

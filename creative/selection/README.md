@@ -1,6 +1,6 @@
 # Planche de sélection — Converse
 
-50 références sur la planche, générées le 26 septembre 2026 avec Nano Banana 2 dans Arcads : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 nouveaux tests de pixel art, matières hybrides et changement de style.
+67 références sur la planche, générées le 26 septembre 2026 avec Nano Banana 2 dans Arcads : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
 
 ## Utilisation
 
@@ -74,9 +74,21 @@ La capture fournie et le lien Instagram sont conservés dans la section « Réf�
 
 Cette série a nécessité 12 générations terminées pour 8 images retenues, plus deux appels rejetés à la validation des références. Les quatre versions remplacées sont conservées dans `assets/archive`. Arcads déclare **0 crédit facturé** pour les générations terminées. `hybrid-generation-log.json` conserve l’historique, les prompts et les coûts déclarés.
 
+## Personnages & décors / Characters & locations
+
+L’atelier 05 reprend les choix de l’équipe : **Luna conservée, visage G01 pour le grand-père, grenier D06 et style réaliste**. Accès direct : `?category=production` ou `?category=production&lang=en`.
+
+- **L01–L05** : fiche de Luna face/dos/portrait, six expressions, transposition réaliste du dessin orange, fiche de cette tenue et intégration dans D06.
+- **G11–G15** : grand-père dérivé de G01, à 72, 16, 23 et 41 ans environ, plus six expressions. Les jeunes versions restent des propositions ; G14 paraît un peu plus âgé.
+- **R01–R07** : deux angles du grenier, terrain 1970 et son équivalent 2026, salle de salsa, salon familial et cimetière optionnel. Le tabouret renversé dans R01 et le petit fil dans R06 sont signalés pour correction avant les plans finaux.
+
+La fiche de Luna comprend des repères d’identité, les deux tenues et une palette. La tenue aux accessoires orange et la personnalisation orange des chaussures restent des variantes à choisir. Les exemples de fiches fournis servent à organiser les vues, sans remplacer le visage de Luna.
+
+`../luna-character-bible-v1.md` rassemble les références et points de continuité. `creative-choices.json` consigne les choix explicites. `character-location-generation-log.json` documente **21 générations, 17 images retenues, quatre premiers essais archivés et 0 crédit facturé déclaré**. Aucun mouvement ni film final n’est généré.
+
 ## Après le choix
 
-1. Retenir idéalement 1–2 enfants, 1–2 grands-pères, une paire et un couple décor/lumière.
+1. Partir de Luna, G01 et D06 désormais retenus ; choisir la tenue et les versions jeunes du grand-père.
 2. Fixer les identités, le vêtement du protagoniste et la version jeune du grand-père choisi.
 3. Comparer les modèles sur une même scène, avec les mêmes références, cadrage et consigne. Commencer par un plan de découverte réunissant personnage, chaussures et grenier.
 4. Juger le naturel des visages, la fidélité à la paire, la conservation du décor et la qualité de la lumière.
@@ -86,4 +98,4 @@ Ces images sont des études de casting, de patine et d’ambiance. Avant le film
 
 ## English quick start
 
-Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Pixel & hybrids** for the eight latest pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The new style switch is illustrated with three still keyframes; no video or temporal continuity has been validated. The supplied screenshot and Instagram reference are saved in the new tab. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.
+Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Characters & locations** for the 17 latest realistic character and location tests, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The new style switch is illustrated with three still keyframes; no video or temporal continuity has been validated. The supplied screenshot and Instagram reference are saved in the new tab. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.

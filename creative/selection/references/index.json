@@ -50,6 +50,38 @@
       ],
       "adaptationFr": "Conserver le pied et la silhouette de la chaussure pendant une brève bascule ; transformer le décor et les matières autour du contact. Adaptation proposée, pas une scène observée dans le Reel.",
       "adaptationEn": "Preserve the foot and shoe silhouette across a brief style switch; transform the world and materials around the contact. Proposed adaptation, not a scene observed in the Reel."
+    },
+    {
+      "id": "REF-ORANGE-01",
+      "type": "image",
+      "source": "User-provided screenshot",
+      "file": "references/luna-orange-watercolor.png",
+      "title": "Luna — orange watercolor costume",
+      "usage": "Wardrobe and accessory reference. Preserve selected Luna face. Painted shoe toes are a custom design test."
+    },
+    {
+      "id": "REF-SHEET-01",
+      "type": "image",
+      "source": "User-provided screenshot",
+      "file": "references/character-sheet-layout.png",
+      "title": "Character bible layout example",
+      "usage": "Organization reference for turnarounds, portraits, expressions and palette; not a casting reference."
+    },
+    {
+      "id": "REF-TRIPTYCH-01",
+      "type": "image",
+      "source": "User-provided screenshot",
+      "file": "references/character-triptych-layout.png",
+      "title": "Character triptych example",
+      "usage": "Layout reference only; do not replace Luna with the depicted person or copy her wardrobe."
+    },
+    {
+      "id": "REF-STREET-01",
+      "type": "image",
+      "source": "User-provided screenshot",
+      "file": "references/west-side-street-reference.png",
+      "title": "Street color and movement reference",
+      "usage": "Palette, architecture and wardrobe mood; not a request to reproduce the depicted actors."
     }
   ]
 }

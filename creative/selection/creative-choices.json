@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-26",
+  "source": "Explicit team choices supplied in conversation",
+  "style": "photorealistic for current production exploration",
+  "luna": {
+    "selected": true,
+    "identityReferences": [
+      "T01",
+      "X01"
+    ],
+    "originalWardrobeSheet": "L01",
+    "expressionSheet": "L02",
+    "alternativeOrangeWardrobe": [
+      "L03",
+      "L04"
+    ],
+    "orangeWardrobeApproved": false
+  },
+  "grandfather": {
+    "faceReference": "G01",
+    "development": [
+      "G11",
+      "G12",
+      "G13",
+      "G14",
+      "G15"
+    ],
+    "youngerVersionsLocked": false
+  },
+  "attic": {
+    "master": "D06",
+    "angleTests": [
+      "R01",
+      "R02"
+    ],
+    "lunaIntegration": "L05"
+  },
+  "finalVideoGenerated": false
+}

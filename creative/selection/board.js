@@ -14,7 +14,7 @@
   } catch (_) {}
   const t = key => strings[language][key] || strings.fr[key] || key;
   const field = (asset, key) => (language === 'en' ? asset[key + 'En'] : asset[key]) || asset[key] || '';
-  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides'].map((id, index) => ({
+  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production'].map((id, index) => ({
     id, number: String(index + 1).padStart(2, '0'),
     get label() { return strings[language].categories[id].label; },
     get title() { return strings[language].categories[id].title; },
@@ -169,6 +169,34 @@
         '</h3><p>' + t('hybridTransitionDetail') + '</p></div></header><div class="grid transition-grid">' + frames.map(card).join('') +
         '</div><div class="transition-note"><p>' + t('hybridTiming') + '</p><p>' + t('hybridCaveat') + '</p></div></section>' : '');
   }
+  function productionContent(items) {
+    const groups = [
+      {id:'luna', index:'A', title:'productionLuna', detail:'productionLunaDetail'},
+      {id:'grandpa', index:'B', title:'productionGrandpa', detail:'productionGrandpaDetail'},
+      {id:'sets', index:'C', title:'productionSets', detail:'productionSetsDetail'}
+    ].filter(group => items.some(a => a.group === group.id));
+    const profile = '<div class="luna-profile">' +
+      ['Identity','Wardrobe','Orange'].map(part => '<div><h4>' + t('luna' + part + 'Label') +
+        '</h4><p>' + t('luna' + part) + '</p></div>').join('') +
+      '<div><h4>' + t('lunaPaletteLabel') + '</h4><div class="luna-palette" aria-hidden="true">' +
+      ['#353735','#74725b','#171918','#d7cfb9','#d06f33'].map(color => '<span style="background:' + color + '"></span>').join('') +
+      '</div><p>' + t('lunaPaletteNames') + '</p><a href="references/luna-orange-watercolor.png" target="_blank" rel="noopener noreferrer">' +
+      t('lunaWatercolorLink') + '</a></div></div>';
+    return '<div class="production-pitch"><p class="eyebrow">' + t('productionKicker') + '</p><h3>' +
+      t('productionTitle') + '</h3><p>' + t('productionIntro') + '</p><nav class="production-jumps" aria-label="' +
+      t('productionJumpLabel') + '">' + groups.map(g => '<a href="#production-' + g.id + '">' + t(g.title) + ' ↓</a>').join('') +
+      '</nav></div><aside class="production-anchors" aria-label="' + t('productionChoices') + '">' +
+      [{code:'G01',key:'productionG01'},{code:'D06',key:'productionD06'}].map(ref =>
+        '<a href="assets/' + ref.code + '.png" target="_blank" rel="noopener noreferrer"><img src="assets/' + ref.code +
+        '.png" alt="' + t(ref.key) + '" loading="lazy"><span>' + t(ref.key) + ' ↗</span></a>').join('') + '</aside>' +
+      groups.map(group => '<section class="team-group production-group" aria-labelledby="production-' + group.id +
+        '"><header class="team-group-heading"><span class="section-index">' + group.index + '</span><div><h3 id="production-' +
+        group.id + '">' + t(group.title) + '</h3><p>' + t(group.detail) + '</p></div></header>' +
+        (group.id === 'luna' ? profile : '') + '<div class="grid production-grid">' +
+        items.filter(a => a.group === group.id).map(card).join('') + '</div>' +
+        (group.id === 'grandpa' ? '<p class="production-footnote">' + t('productionAgeNote') + '</p>' : '') + '</section>').join('') +
+      '<p class="production-footnote">' + t('productionCaveat') + '</p>';
+  }
   function renderGallery() {
     const visible = visibleAssets();
     if (!visible.length) {
@@ -188,7 +216,7 @@
         '" aria-labelledby="title-' + category.id + '"><header class="section-heading"><div class="section-title">' +
         '<span class="section-index">' + category.number + '</span><h2 id="title-' + category.id + '">' +
         category.title + '</h2></div><p class="section-detail">' + category.detail + '</p></header>' +
-        (category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) :
+        (category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
           (category.id === 'styles' ? styleIntroduction() : '') + '<div class="grid">' + items.map(card).join('') + '</div>') +
         '</section>' : '';
     }).join('');
@@ -297,6 +325,7 @@
   $('explore-styles').addEventListener('click', () => exploreCategory('styles'));
   $('explore-team').addEventListener('click', () => exploreCategory('equipe'));
   $('explore-hybrids').addEventListener('click', () => exploreCategory('hybrides'));
+  $('explore-production').addEventListener('click', () => exploreCategory('production'));
   $('filters').addEventListener('click', e => {
     const button = e.target.closest('[data-filter]'); if (!button) return;
     activeCategory = button.dataset.filter; renderFilters(); renderGallery();
@@ -327,14 +356,14 @@
   });
   $('download').addEventListener('click', () => {
     const data = {
-      project:t('projectName'), exploration:4, language, exportedAt:new Date().toISOString(),
+      project:t('projectName'), exploration:5, language, exportedAt:new Date().toISOString(),
       selection:assets.filter(a => selected.has(a.code)).map(a => ({
         ...a, title:field(a, 'title'), subtitle:field(a, 'subtitle'), ...(a.note ? {note:field(a, 'note')} : {})
       }))
     };
     const blob = new Blob([JSON.stringify(data, null, 2) + '\n'], {type:'application/json;charset=utf-8'});
     const url = URL.createObjectURL(blob), link = document.createElement('a');
-    link.href = url; link.download = 'converse-selection-04.json'; document.body.appendChild(link);
+    link.href = url; link.download = 'converse-selection-05.json'; document.body.appendChild(link);
     link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 1000);
     notify(t('readyToDownload'));
   });
