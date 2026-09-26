@@ -1,0 +1,25 @@
+{
+  "matchedPrompt": true,
+  "matchedParameters": true,
+  "sixRoleMatchedReferencesPerTreatment": true,
+  "noCrossModelReferenceMixing": true,
+  "acceptedJobs": {
+    "opening-n": "84c6581b-6d56-44c4-8216-db1247334f34",
+    "opening-s": "f5e26338-3825-47d7-90e9-c24c1f5548e8",
+    "opening-g": "73e96460-32f5-4e31-90b8-01549dbeaf94"
+  },
+  "commonAudio": {
+    "duration": 30,
+    "meanDbFS": -18.6,
+    "peakDbFS": -1.5
+  },
+  "phoneInsertSeconds": 7,
+  "actualVideoQa": "Three outputs technically verified and sampled visually. One Nano ending correction integrated; see manifest notes.",
+  "finalExports": {
+    "duration": 30,
+    "frames": 720,
+    "width": 1280,
+    "height": 720,
+    "audioPeakDbFS": -1.4
+  }
+}

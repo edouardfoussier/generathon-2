@@ -14,7 +14,7 @@
   } catch (_) {}
   const t = key => strings[language][key] || strings.fr[key] || key;
   const field = (asset, key) => (language === 'en' ? asset[key + 'En'] : asset[key]) || asset[key] || '';
-  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic', 'illustrated', 'continuity'].map((id, index) => ({
+  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic', 'illustrated', 'continuity', 'motionlab'].map((id, index) => ({
     id, number: String(index + 1).padStart(2, '0'),
     get label() { return strings[language].categories[id].label; },
     get title() { return strings[language].categories[id].title; },
@@ -94,6 +94,11 @@
       (activeCategory === c.id) + '">' + escapeHtml(c.label) + '</button>'
     ).join('');
     $('favorites').setAttribute('aria-pressed', String(favoritesOnly));
+    updateToolbarHeight();
+  }
+  function updateToolbarHeight() {
+    const toolbar = document.querySelector('.toolbar');
+    document.documentElement.style.setProperty('--toolbar-height', Math.ceil(toolbar.getBoundingClientRect().height) + 'px');
   }
   function imageFallback(asset) {
     return '<div class="image-fallback">' + t('preparing') + '<span>' + escapeHtml(asset.code) +
@@ -114,7 +119,8 @@
         '</span><button type="button" class="choose" data-choose="' + code + '" aria-pressed="' + chosen +
         '" aria-label="' + t(chosen ? 'unchoose' : 'choose') + ' ' + code + '">' + choiceContent(chosen) +
         '</button></div><p class="note">' + escapeHtml(field(asset, 'note')) + '</p><a class="media-download" href="' +
-        escapeHtml(source) + '" download>' + t('downloadVideo') + ' ↗</a></div></article>';
+        escapeHtml(source) + '" download>' + t('downloadVideo') + ' ↗</a>' +
+        (asset.category === 'motionlab' ? motionSources(asset) : '') + '</div></article>';
     }
     return '<article class="card' + (chosen ? ' is-selected' : '') + '" data-code="' + code + '">' +
       '<div class="image-wrap"><button class="image-button" type="button" data-preview="' + code +
@@ -295,10 +301,64 @@
       }).join('') + (!items.length ? '<p class="production-footnote" role="status">' + t('continuityPending') + '</p>' : '') +
       '<p class="production-footnote">' + t('continuityCaveat') + '</p>';
   }
+  function motionSources(asset) {
+    const references = Array.isArray(asset.referenceCodes) ? asset.referenceCodes.filter(code => assetMap.has(code)) : [];
+    return '<dl class="motion-metadata"><div><dt>' + t('motionImageModel') + '</dt><dd>' +
+      escapeHtml(asset.imageModel || '') + '</dd></div><div><dt>' + t('motionVideoModel') + '</dt><dd>' +
+      escapeHtml(asset.videoModel || asset.model || '') + '</dd></div>' +
+      (asset.durationSeconds ? '<div><dt>' + t('motionDuration') + '</dt><dd>' +
+        escapeHtml(Math.round(Number(asset.durationSeconds) * 10) / 10) + ' s</dd></div>' : '') + '</dl>' +
+      (references.length ? '<details class="motion-references"><summary>' + t('motionSources') + '</summary><div>' +
+        references.map(code => '<button type="button" data-motion-reference="' + escapeHtml(code) + '">' +
+          escapeHtml(code) + ' ↗</button>').join('') + '</div></details>' : '');
+  }
+  function motionStatus(treatment) {
+    const state = treatment.status || 'not-submitted';
+    const key = state === 'submission-error-no-job-id' || state.startsWith('blocked') ? 'motionBlocked' :
+      state === 'correcting' ? 'motionCorrecting' :
+      ['failed', 'error', 'cancelled'].includes(state) ? 'motionFailed' :
+      ['generated', 'complete', 'completed', 'ready'].includes(state) ? 'motionEditing' :
+      ['pending','submitted','processing','generating'].includes(state) ? 'motionGenerating' : 'motionNotSubmitted';
+    return '<article class="motion-pending"><span class="motion-status-label">' + t(key) + '</span><h4>' +
+      escapeHtml(treatment.assetModel || treatment.imageModel || '') + '</h4><p>' + t('motionPendingDescription') +
+      '</p><dl class="motion-metadata"><div><dt>' + t('motionVideoModel') + '</dt><dd>Seedance 2.5</dd></div>' +
+      '<div><dt>' + t('motionTargetDuration') + '</dt><dd>30 s</dd></div></dl>' +
+      '<a class="media-download" href="?category=continuity&amp;lang=' + language +
+      '" data-explore="continuity">' + t('motionViewReferences') + ' ↗</a></article>';
+  }
+  function motionContent(items) {
+    const state = window.CONVERSE_MOTION_STATUS || {};
+    const treatments = Array.isArray(state.treatments) ? state.treatments : [];
+    const openings = items.filter(asset => asset.group === 'openings');
+    const films = items.filter(asset => asset.group === 'full-film');
+    const blocked = treatments.some(item => item.status === 'submission-error-no-job-id' || (item.status || '').startsWith('blocked'));
+    const comparison = favoritesOnly ? openings.map(card).join('') : treatments.map(treatment => {
+      const ready = openings.find(asset => asset.treatmentId === treatment.id);
+      return ready ? card(ready) : motionStatus(treatment);
+    }).join('');
+    return '<div class="production-pitch motion-pitch"><p class="eyebrow">' + t('motionKicker') + '</p><h3>' +
+      t('motionTitle') + '</h3><p>' + t('motionIntro') + '</p><nav class="production-jumps"><a href="#motion-openings">' +
+      t('motionOpenings') + ' ↓</a><a href="#motion-full-film">' + t('motionFilm') +
+      ' ↓</a><a href="?category=continuity&amp;lang=' + language + '" data-explore="continuity">' +
+      t('motionViewReferences') + ' ↗</a></nav></div>' +
+      '<section class="team-group" aria-labelledby="motion-openings"><header class="team-group-heading">' +
+      '<span class="section-index">A</span><div><h3 id="motion-openings">' + t('motionOpenings') + '</h3><p>' +
+      t('motionOpeningsDetail') + '</p></div></header>' +
+      (blocked && !favoritesOnly ? '<div class="motion-service-status" role="status"><strong>' + t('motionServiceTitle') +
+        '</strong><p>' + t('motionServiceDetail') + '</p></div>' : '') +
+      '<div class="grid motion-opening-grid">' + comparison + '</div></section>' +
+      '<section class="team-group" aria-labelledby="motion-full-film"><header class="team-group-heading">' +
+      '<span class="section-index">B</span><div><h3 id="motion-full-film">' + t('motionFilm') + '</h3><p>' +
+      t('motionFilmDetail') + '</p></div></header><div class="grid motion-film-grid">' + films.map(card).join('') +
+      '</div>' + (!films.length && !favoritesOnly ? '<p class="motion-film-pending" role="status">' +
+        t('motionFilmPending') + '</p>' : '') + '<p class="production-footnote"><a href="' +
+      'https://www.instagram.com/p/DdrmutrkgGy/?img_index=11" target="_blank" rel="noopener noreferrer">' +
+      t('motionInspiration') + ' ↗</a></p></section><p class="production-footnote">' + t('motionReview') + '</p>';
+  }
   function renderGallery() {
     $('gallery').querySelectorAll('video').forEach(video => video.pause());
     const visible = visibleAssets();
-    if (!visible.length && !(activeCategory === 'continuity' && !favoritesOnly)) {
+    if (!visible.length && !(['continuity', 'motionlab'].includes(activeCategory) && !favoritesOnly)) {
       $('gallery').innerHTML = '<div class="empty"><h2>' + t(assets.length ? 'noReferences' : 'boardPreparing') +
         '</h2><p>' + t(assets.length ? 'noReferencesHint' : 'boardPreparingHint') + '</p>' +
         (assets.length ? '<button type="button" class="action reset-filter" id="reset-filter">' + t('resetFilters') +
@@ -311,11 +371,11 @@
     }
     $('gallery').innerHTML = categories.map(category => {
       const items = visible.filter(a => a.category === category.id);
-      return (items.length || (category.id === 'continuity' && activeCategory === 'continuity' && !favoritesOnly)) ? '<section class="category" data-category="' + category.id +
+      return (items.length || (['continuity', 'motionlab'].includes(category.id) && activeCategory === category.id && !favoritesOnly)) ? '<section class="category" data-category="' + category.id +
         '" aria-labelledby="title-' + category.id + '"><header class="section-heading"><div class="section-title">' +
         '<span class="section-index">' + category.number + '</span><h2 id="title-' + category.id + '">' +
         category.title + '</h2></div><p class="section-detail">' + category.detail + '</p></header>' +
-        (category.id === 'continuity' ? continuityContent(items) : category.id === 'illustrated' ? illustratedContent(items) : category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
+        (category.id === 'motionlab' ? motionContent(items) : category.id === 'continuity' ? continuityContent(items) : category.id === 'illustrated' ? illustratedContent(items) : category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
           (category.id === 'styles' ? styleIntroduction() : '') + '<div class="grid">' + items.map(card).join('') + '</div>') +
         '</section>' : '';
     }).join('');
@@ -432,6 +492,7 @@
   $('explore-animatic').addEventListener('click', () => exploreCategory('animatic'));
   $('explore-illustrated').addEventListener('click', () => exploreCategory('illustrated'));
   $('explore-continuity').addEventListener('click', () => exploreCategory('continuity'));
+  $('explore-motionlab').addEventListener('click', () => exploreCategory('motionlab'));
   $('filters').addEventListener('click', e => {
     const button = e.target.closest('[data-filter]'); if (!button) return;
     activeCategory = button.dataset.filter; renderFilters(); renderGallery();
@@ -440,6 +501,20 @@
   });
   $('favorites').addEventListener('click', () => { favoritesOnly = !favoritesOnly; renderFilters(); renderGallery(); });
   $('gallery').addEventListener('click', e => {
+    const reference = e.target.closest('[data-motion-reference]');
+    if (reference) {
+      const code = reference.dataset.motionReference;
+      if (assetMap.has(code)) {
+        returnFocus = reference;
+        lightboxItems = assets.filter(asset => asset.category === 'continuity').map(asset => asset.code);
+        renderLightbox(code);
+        lastBodyOverflow = document.body.style.overflow;
+        document.body.style.overflow = 'hidden'; $('lightbox').hidden = false;
+        document.querySelector('.shell').inert = true; $('floating-selection').inert = true;
+        $('lightbox-close').focus();
+      }
+      return;
+    }
     const explore = e.target.closest('[data-explore]');
     if (explore && categoryIds.has(explore.dataset.explore)) {
       e.preventDefault(); exploreCategory(explore.dataset.explore); return;
@@ -501,4 +576,5 @@
     }
   });
   renderStaticText(); renderFilters(); renderGallery(); renderSelection();
+  if (typeof ResizeObserver !== 'undefined') new ResizeObserver(updateToolbarHeight).observe(document.querySelector('.toolbar'));
 })();

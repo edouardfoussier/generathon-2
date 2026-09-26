@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "code": "CV01N",
+      "treatmentId": "opening-n",
+      "group": "openings",
+      "kind": "video",
+      "status": "ready",
+      "localFile": "renders/converse-continuity-n-seedance25-30s.mp4",
+      "poster": "renders/n-poster.jpg",
+      "title": {
+        "fr": "30 secondes \u00b7 Nano Banana 2",
+        "en": "30 seconds \u00b7 Nano Banana 2"
+      },
+      "subtitle": {
+        "fr": "Seedance 2.5 \u00b7 720p \u00b7 m\u00eames plans, m\u00eame son",
+        "en": "Seedance 2.5 \u00b7 720p \u00b7 matched edit and audio"
+      },
+      "note": {
+        "fr": "Raccord final repris (26\u201330 s) avec les r\u00e9f\u00e9rences Nano : un seul Rafa aux proportions normales. L\u2019original avec la chaussette g\u00e9ante est archiv\u00e9. La d\u00e9couverte reste douce et lisible ; les initiales sont moins mises en valeur.",
+        "en": "Final transition reshot (26\u201330 s) using Nano references: one normal-scale Rafa. The original giant-sock result is archived. The discovery stays gentle and clear; the initials are less emphasized."
+      },
+      "durationSeconds": 30,
+      "imageModel": "Nano Banana 2",
+      "videoModel": "Seedance 2.5",
+      "referenceCodes": [
+        "CC01N",
+        "CC02N",
+        "CL01N",
+        "CL02N",
+        "CS02N",
+        "CS01N"
+      ],
+      "assetId": "84c6581b-6d56-44c4-8216-db1247334f34",
+      "creditsCharged": 1428,
+      "qaMethod": "16 sampled original frames plus original final frame; eight sampled correction frames; nine sampled final export frames. Full decode, duration and audio checks. Not frame-by-frame review.",
+      "nativeSource": "videos/opening-n.mp4",
+      "comparisonStatus": "Same initial prompts across models, with one disclosed targeted Nano ending correction.",
+      "endingCorrectionAssetId": "11934553-2569-4153-9347-85fca7899b36",
+      "endingCorrectionRange": [
+        26,
+        30
+      ],
+      "archivedFirstPass": "archive/first-pass-converse-continuity-n-seedance25-30s.mp4"
+    },
+    {
+      "code": "CV01S",
+      "treatmentId": "opening-s",
+      "group": "openings",
+      "kind": "video",
+      "status": "ready",
+      "localFile": "renders/converse-continuity-s-seedance25-30s.mp4",
+      "poster": "renders/s-poster.jpg",
+      "title": {
+        "fr": "30 secondes \u00b7 Seedream 5 Pro",
+        "en": "30 seconds \u00b7 Seedream 5 Pro"
+      },
+      "subtitle": {
+        "fr": "Seedance 2.5 \u00b7 720p \u00b7 m\u00eames plans, m\u00eame son",
+        "en": "Seedance 2.5 \u00b7 720p \u00b7 matched edit and audio"
+      },
+      "note": {
+        "fr": "D\u00e9couverte et initiales lisibles ; raccord vers le terrain avec une chaussure g\u00e9ante au premier plan avant le retour \u00e0 une \u00e9chelle normale. Essai comparatif, raccord \u00e0 reprendre pour la version finale.",
+        "en": "Clear discovery and initials; court transition briefly retains a giant shoe in the foreground before returning to normal scale. A comparison take; refine this transition for a final cut."
+      },
+      "durationSeconds": 30,
+      "imageModel": "Seedream 5 Pro",
+      "videoModel": "Seedance 2.5",
+      "referenceCodes": [
+        "CC01S",
+        "CC02S",
+        "CL01S",
+        "CL02S",
+        "CS02S",
+        "CS01S"
+      ],
+      "assetId": "f5e26338-3825-47d7-90e9-c24c1f5548e8",
+      "creditsCharged": 1260,
+      "qaMethod": "16 sampled native frames plus final frame; 9 sampled export frames; full technical decode, duration and audio checks. Not frame-by-frame review.",
+      "nativeSource": "videos/opening-s.mp4",
+      "comparisonStatus": "First-pass comparison with documented limitations, not an approved final ad."
+    },
+    {
+      "code": "CV01G",
+      "treatmentId": "opening-g",
+      "group": "openings",
+      "kind": "video",
+      "status": "ready",
+      "localFile": "renders/converse-continuity-g-seedance25-30s.mp4",
+      "poster": "renders/g-poster.jpg",
+      "title": {
+        "fr": "30 secondes \u00b7 GPT Image 2.5 Sunburst",
+        "en": "30 seconds \u00b7 GPT Image 2.5 Sunburst"
+      },
+      "subtitle": {
+        "fr": "Seedance 2.5 \u00b7 720p \u00b7 m\u00eames plans, m\u00eame son",
+        "en": "Seedance 2.5 \u00b7 720p \u00b7 matched edit and audio"
+      },
+      "note": {
+        "fr": "Belle d\u00e9couverte, initiales et passage au terrain coh\u00e9rents. Le visage de Rafa n\u2019appara\u00eet qu\u2019\u00e0 la toute fin ; laisser davantage de temps \u00e0 la r\u00e9v\u00e9lation au montage final.",
+        "en": "Strong discovery, initials and coherent court transition. Rafa\u2019s face appears only at the very end; allow more time for the reveal in a final cut."
+      },
+      "durationSeconds": 30,
+      "imageModel": "GPT Image 2.5 Sunburst",
+      "videoModel": "Seedance 2.5",
+      "referenceCodes": [
+        "CC01G",
+        "CC02G",
+        "CL01G",
+        "CL02G",
+        "CS02G",
+        "CS01G"
+      ],
+      "assetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+      "creditsCharged": 1260,
+      "qaMethod": "16 sampled native frames plus final frame; 9 sampled export frames; full technical decode, duration and audio checks. Not frame-by-frame review.",
+      "nativeSource": "videos/opening-g.mp4",
+      "comparisonStatus": "First-pass comparison with documented limitations, not an approved final ad."
+    }
+  ],
+  "totalConfirmedCredits": 3948,
+  "correctionCredits": 168,
+  "status": "complete",
+  "deliveredVideos": 3
+}

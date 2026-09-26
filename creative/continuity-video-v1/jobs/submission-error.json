@@ -1,0 +1,8 @@
+{
+  "tool": "arcads_generate_video_seedance_25",
+  "requestedVariant": "opening-n",
+  "result": "Mcp error: -32603: Internal error",
+  "returnedAssetId": null,
+  "creditCharge": null,
+  "retryPolicy": "No retry without service recovery or a status check; avoid duplicate charges on an uncertain request."
+}

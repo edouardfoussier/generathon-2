@@ -1,6 +1,6 @@
 # Planche de sélection — Converse
 
-152 entrées : **143 images, 5 clips courts et 4 montages complets**. Le nouvel onglet **Continuité / Continuity** (`?category=continuity`) réunit **54 images : 18 sujets × 3 modèles** (30 images de personnages, 15 de lieux et 9 de chaussures). Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
+156 entrées : **143 images, 8 clips courts et 5 montages complets**. Le nouvel onglet **Animations** (`?category=motionlab`) donne accès au collage animé MD01 de 76 secondes et à trois ouvertures Seedance 2.5 de 30 secondes (CV01N / CV01S / CV01G). Le raccord final de CV01N a été repris et sa première version est archivée. Le nouvel onglet **Continuité / Continuity** (`?category=continuity`) réunit **54 images : 18 sujets × 3 modèles** (30 images de personnages, 15 de lieux et 9 de chaussures). Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
 
 Le nouvel [atelier Cut Room](../editor/README.md) permet de comparer les trois pistes, choisir des passages et exporter le montage. Depuis la racine du dépôt, lancer `python3 creative/editor/server.py`, puis ouvrir http://127.0.0.1:8787/. Il fonctionne localement ; les coéquipiers échangent leurs montages via les fichiers JSON.
 
@@ -21,6 +21,25 @@ python3 creative/selection/sync-continuity.py
 ```
 
 Le script préserve les cartes antérieures, remplace seulement les entrées `continuity`, ignore les générations en cours et les fichiers absents, et garde les trois modèles dans le même ordre. Il ne copie aucune URL de média distante dans la planche. Les coûts, les prompts et le journal complet restent dans le manifest source.
+
+## Animations / Motion lab
+
+L’onglet **Animations** (`?category=motionlab`, ou `?category=motionlab&lang=en`) distingue deux expériences :
+
+- Trois ouvertures d’environ 30 secondes, toutes animées avec **Seedance 2.5**. Seul le modèle des images de référence change : Nano Banana 2, Seedream 5 Pro ou GPT Image 2.5 Sunburst.
+- Une publicité complète en motion design, composée à partir des références Nano Banana 2.
+
+Les états de génération apparaissent sans faux lecteur : seules les vidéos terminées, vérifiées et présentes sur disque peuvent être lues ou téléchargées. Les fiches des films séparent le modèle des images de celui de l’animation, indiquent la durée du fichier et donnent accès aux références de continuité employées. Les favoris précédents restent conservés.
+
+The **Animations** tab compares three Seedance 2.5 openings with different reference-image families, plus a full Nano Banana 2 motion-design film. Unavailable videos display their status instead of a placeholder player. Completed cards include a download link, actual file duration, image and animation provenance, and links to the source references.
+
+```sh
+python3 creative/selection/sync-motion.py
+```
+
+Ce script lit les manifestes `../continuity-video-v1/manifest.json` et `../motion-design-v1/manifest.json`, ainsi que les statuts de `../continuity-video-v1/plan.json`. Il ne modifie que les entrées `motionlab` et préserve toutes les cartes existantes. Aucun média distant ni URL signée n’est publié. Les fichiers vidéo sont contrôlés avec `ffprobe` avant leur ajout.
+
+Contrat d’un manifeste source : `assets` est une liste de records avec `code`, `group` (`openings` ou `full-film`), `status` (`ready`, `complete`, `completed` ou `reviewed`), `localFile`, `poster` facultatif, `title`, `subtitle` et `note` (objets FR/EN), `durationSeconds`, `imageModel`, `videoModel` et `referenceCodes`. Une ouverture possède aussi `treatmentId` (`opening-n`, `opening-s` ou `opening-g`). Les chemins de média sont relatifs au dossier du manifeste. Les notes et coûts détaillés restent dans les dossiers de production.
 
 ## Utilisation
 
@@ -142,4 +161,4 @@ Ces images sont des études de casting, de patine et d’ambiance. Avant le film
 
 ## English quick start
 
-Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Scenes & transitions** for the six scene keyframes and three playable transition tests, **Characters & locations** for the character and location tests, including the four new Grandma & Mom references, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The earlier X01–X03 style switch remains a still-image study. The new TR01–TR03 clips compare realistic present-to-memory transitions; the full ad has not been assembled. The supplied screenshot and Instagram reference are saved in Pixel & hybrids. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.
+Open `index.html` with all its companion files. Click **EN** in the top-right corner, then **Scenes & transitions** for the six scene keyframes and three playable transition tests, **Characters & locations** for the character and location tests, including the four new Grandma & Mom references, **Pixel & hybrids** for the eight pixel, clay and style-switch tests, **Team directions** for the 13 story tests, or **Visual styles** for the earlier eight directions. The earlier X01–X03 style switch remains a still-image study. The new TR01–TR03 clips compare realistic present-to-memory transitions; full edits are available in Animatics and the new Animations tab. The supplied screenshot and Instagram reference are saved in Pixel & hybrids. Click any image to enlarge it, choose your favorites, then use **Copy the codes** to share your choices. Language changes preserve your selection. Favorites are stored locally in your browser; they are not automatically shared with teammates or Codex. The JSON download preserves a portable copy of your choices.

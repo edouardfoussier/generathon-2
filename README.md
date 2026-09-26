@@ -32,6 +32,10 @@ Open **http://127.0.0.1:8787/**. This is a local editing room, not a publicly ho
 
 [The continuity study](creative/continuity-study/README.md) compares **54 new reference sheets across Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst**: one sheet per model for each of 18 subjects. It uses the latest gouache direction as a working assumption, with matched identity, wardrobe and location references. These candidates help the team choose a single master per subject; they do not automatically replace the existing cast or establish continuity in motion.
 
+**[Continuity in motion](creative/continuity-video-v1/README.md)** compares three 30-second openings, all animated with **Seedance 2.5**, using Nano Banana, Seedream or GPT continuity references respectively. The image-model lineage changes; the initial video prompt and shared English soundtrack stay the same. Each film has a readable editorial phone insert, and the review notes record any finishing changes.
+
+**[The things we keep](creative/motion-design-v1/README.md)** is a complete 76-second animated scrapbook ad using all 18 Nano Banana subjects. It reinterprets the story through moving postcards, layered scenery, a recurring lace and native typography. This is composed paper animation, distinct from the new Seedance character performances. [The reference study](creative/motion-design-v1/reference-analysis.md) records what was actually observed in the supplied Instagram film.
+
 ## Open the board
 
 Open [`creative/selection/index.html`](creative/selection/index.html) directly in a browser, keeping its companion files and image folders together. There is no build step or package installation.
@@ -46,7 +50,7 @@ Then open [the English animatic board](http://127.0.0.1:8765/creative/selection/
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 152-entry board
+## The 156-entry board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -66,8 +70,10 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | CC01–CC10 × N/S/G | 30 | Ten character states and costume sheets, compared across three image models |
 | CL01–CL05 × N/S/G | 15 | Five locations, with multiple camera views and period dressing |
 | CS01–CS03 × N/S/G | 9 | Early black pair, later worn/repaired black pair, and Elena’s red pair |
+| CV01N, CV01S, CV01G | 3 | First 30 seconds with Seedance 2.5, comparing the three continuity image-model families |
+| MD01 | 1 | Complete 76-second paper-collage ad using all 18 Nano Banana subjects |
 
-The latest tab is **Continuity** (`?category=continuity&lang=en`), with three adjacent model candidates per subject, bilingual review notes and downloads. The suffixes N, S and G identify Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst. **Illustrated** (`?category=illustrated&lang=en`) retains the earlier style tests. **Animatics** (`?category=animatic&lang=en`) retains the full comparison films and links to Cut Room. The board contains 143 stills, five short clips and four full animatic entries: the three script-v3 comparisons appear before the preserved AV01 script-v2 cut. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
+The latest tab is **Animations** (`?category=motionlab&lang=en`), with three opening comparisons, the complete paper film, playable exports and links to their continuity sources. **Continuity** (`?category=continuity&lang=en`) retains the 54 reference sheets with bilingual notes and downloads. The suffixes N, S and G identify Nano Banana 2, Seedream 5 Pro and GPT Image 2.5 Sunburst. **Illustrated** (`?category=illustrated&lang=en`) retains the earlier style tests. **Animatics** (`?category=animatic&lang=en`) retains the photographic model comparisons and links to Cut Room. The board contains 143 stills, five short clips, three 30-second openings and five full-film entries. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
 
 ## Where to continue
 

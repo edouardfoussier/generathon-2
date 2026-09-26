@@ -1,0 +1,37 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'creative/continuity-video-v1/renders/converse-continuity-s-seedance25-30s.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.101
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 1914 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 1714 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc62.28.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 0x8f9004c00] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.101
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.101 pcm_s16le
+      handler_name    : SoundHandler
+[Parsed_volumedetect_0 @ 0x8f9005080] n_samples: 2881536
+[Parsed_volumedetect_0 @ 0x8f9005080] mean_volume: -18.6 dB
+[Parsed_volumedetect_0 @ 0x8f9005080] max_volume: -1.4 dB
+[Parsed_volumedetect_0 @ 0x8f9005080] histogram_1db: 311
+[Parsed_volumedetect_0 @ 0x8f9005080] histogram_2db: 654
+[Parsed_volumedetect_0 @ 0x8f9005080] histogram_3db: 1014
+[Parsed_volumedetect_0 @ 0x8f9005080] histogram_4db: 1699
+[out#0/null @ 0x8f9004900] video:0KiB audio:5628KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:30.01 bitrate=N/A speed= 131x elapsed=0:00:00.22    

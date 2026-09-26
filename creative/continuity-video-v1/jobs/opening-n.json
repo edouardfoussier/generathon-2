@@ -1,0 +1,55 @@
+{
+  "id": "opening-n",
+  "assetModel": "Nano Banana 2",
+  "codes": [
+    "CC01N",
+    "CC02N",
+    "CL01N",
+    "CL02N",
+    "CS02N",
+    "CS01N"
+  ],
+  "referenceImages": [
+    "production/videoassets/3046c06c-9b9c-4a5a-bfe5-2be18ce6f826.png",
+    "production/videoassets/b2c479c1-cb06-47e0-8bce-1f353be60070.png",
+    "production/videoassets/28412a31-67f3-4836-b734-887dfd7bf863.png",
+    "production/videoassets/97d47f0c-d4fb-4043-8418-2413d0575dd3.png",
+    "production/videoassets/abb500bc-301d-4e84-918e-27b170a4b187.png",
+    "production/videoassets/0c906000-b3ec-407d-887e-eaf0b3312fa9.png"
+  ],
+  "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0\u20131.0 black screen. 1.0\u20136.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0\u201310.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0\u201313.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0\u201315.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0\u201322.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0\u201324.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0\u201326.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0\u201329.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0\u201330.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+  "params": {
+    "duration": 30,
+    "aspectRatio": "16:9",
+    "resolution": "720p",
+    "audioEnabled": false,
+    "nbGenerations": 1,
+    "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+  },
+  "status": "generated",
+  "assetId": "84c6581b-6d56-44c4-8216-db1247334f34",
+  "submittedAt": "2026-09-26T20:53:55.463Z",
+  "previousSubmissionError": {
+    "code": -32603,
+    "message": "Internal error",
+    "assetIdReturned": false,
+    "creditsKnown": false
+  },
+  "response": {
+    "assets": [
+      {
+        "id": "84c6581b-6d56-44c4-8216-db1247334f34",
+        "type": "seedance_25",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "suffix": "n",
+  "creditsCharged": 1260,
+  "createdAt": "2026-09-26T20:53:29.118Z",
+  "updatedAt": "2026-09-26T20:53:34.252Z",
+  "lastCheckedAt": "2026-09-26T21:01:04.347276+00:00",
+  "localFile": "videos/opening-n.mp4",
+  "downloadedAt": "2026-09-26T21:05:50.514647+00:00"
+}

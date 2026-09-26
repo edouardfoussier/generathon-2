@@ -1,0 +1,27 @@
+{
+  "id": "opening-n-ending-fix",
+  "assetId": "11934553-2569-4153-9347-85fca7899b36",
+  "status": "generated",
+  "submittedAt": "2026-09-26T21:06:26Z",
+  "model": "seedance_25",
+  "duration": 4,
+  "resolution": "720p",
+  "aspectRatio": "16:9",
+  "audioEnabled": false,
+  "referenceCodes": [
+    "CC02N",
+    "CL02N"
+  ],
+  "referenceImages": [
+    "production/videoassets/b2c479c1-cb06-47e0-8bce-1f353be60070.png",
+    "production/videoassets/97d47f0c-d4fb-4043-8418-2413d0575dd3.png"
+  ],
+  "reason": "The final source frame incorrectly places a tiny duplicate Rafa inside a giant sock. Replace only seconds 26\u201330 with one simple normal-scale court shot. Keep the initial comparative export archived.",
+  "expectedCredits": 168,
+  "creditsCharged": 168,
+  "prompt": "ONE SIMPLE CINEMATIC SHOT, 4 seconds, hand-painted gouache/watercolor animated film on warm textured paper. Image1 is the exact young Rafa character identity and wardrobe reference: fictional 16-year-old boy with dark short curls, warm brown skin, youthful clean-shaven face, white basketball tank, navy gym shorts, white tube socks with burgundy bands, ordinary black classic canvas HIGH-TOP sneakers with cream toes and laces, thin flat soles. Image2 is ONLY the empty 1970 Bronx basketball court location and warm afternoon lighting. These are reference SHEETS only: select their appropriate views, NEVER display panels, borders, collage or multiple versions of the boy. Exactly ONE normal-proportioned teenager, ONE orange basketball. Frame a coherent MEDIUM FULL-BODY view of Rafa standing alone at normal human scale, camera at chest height around three meters away. His entire head and shoes fit comfortably in frame. He holds the basketball loosely against his right hip, glances down briefly then raises his eyes with a very small private smile, relaxed natural adolescent acting. A tiny smooth slow dolly-in, less than ten percent framing change over four seconds. Keep his head and shoes in frame throughout. Do not tilt from extreme shoe close-up, do not put any shoe or leg in the foreground. NO giant shoes, NO giant body parts, NO tiny duplicate Rafa, NO portals, NO transitions, NO scale changes, NO superimposition, NO split-screen. Preserve same anatomy, identity and wardrobe every frame, feet stay on ground. No cream repair patch on these 1970 shoes. No typography, watermark, subtitles, voice, sound or music. Warm, tender memory; credible proportions and quiet expression are more important than a dramatic camera move.",
+  "lastCheckedAt": "2026-09-26T21:10:27.335972+00:00",
+  "localFile": "videos/opening-n-ending-fix.mp4",
+  "nativeDurationSeconds": 4.041667,
+  "qa": "Reviewed eight sampled frames. Single normal-scale Rafa, stable basketball, soft look up/smile. Camera pushes in more than requested and crops feet late, but major duplicate/giant-sock error is absent."
+}

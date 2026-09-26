@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "style": "Original watercolor / paper-collage scrapbook",
+  "referenceUrl": "https://www.instagram.com/p/DdrmutrkgGy/?img_index=11",
+  "sourceCount": 18,
+  "newGenerationCredits": 0,
+  "renderCosts": "No per-render credit debit returned by sandbox tool. Existing assets and audio reused.",
+  "assets": [
+    {
+      "code": "MD01",
+      "group": "full-film",
+      "status": "ready",
+      "localFile": "renders/converse-motion-design-v1.mp4",
+      "poster": "renders/poster.png",
+      "title": {
+        "fr": "Les choses que l’on garde",
+        "en": "The things we keep"
+      },
+      "subtitle": {
+        "fr": "Film de collage animé · 76 s",
+        "en": "Animated scrapbook film · 76 seconds"
+      },
+      "note": {
+        "fr": "18 références Nano Banana 2 · animation native sur papier · voix et musique originales du projet",
+        "en": "18 Nano Banana 2 references · native paper animation · the project’s original voices and music"
+      },
+      "durationSeconds": 76.007324,
+      "imageModel": "Nano Banana 2",
+      "videoModel": "Higgsedit",
+      "referenceCodes": [
+        "CC01N",
+        "CC02N",
+        "CC03N",
+        "CC04N",
+        "CC05N",
+        "CC06N",
+        "CC07N",
+        "CC08N",
+        "CC09N",
+        "CC10N",
+        "CL01N",
+        "CL02N",
+        "CL03N",
+        "CL04N",
+        "CL05N",
+        "CS01N",
+        "CS02N",
+        "CS03N"
+      ],
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "validation": "qa/validation.json",
+      "creditsCharged": 0,
+      "creditNote": "No new paid generations; existing Nano sheets and audio reused."
+    }
+  ]
+}
