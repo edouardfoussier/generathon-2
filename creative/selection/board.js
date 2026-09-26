@@ -14,7 +14,7 @@
   } catch (_) {}
   const t = key => strings[language][key] || strings.fr[key] || key;
   const field = (asset, key) => (language === 'en' ? asset[key + 'En'] : asset[key]) || asset[key] || '';
-  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic'].map((id, index) => ({
+  const categories = ['enfants', 'grands-peres', 'paires', 'ambiances', 'styles', 'equipe', 'hybrides', 'production', 'scenes', 'animatic', 'illustrated'].map((id, index) => ({
     id, number: String(index + 1).padStart(2, '0'),
     get label() { return strings[language].categories[id].label; },
     get title() { return strings[language].categories[id].title; },
@@ -229,8 +229,32 @@
       t('animaticTitle') + '</h3><p>' + t('animaticIntro') + '</p><nav class="production-jumps"><a href="' +
       'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-cinematic-script-v3.md" target="_blank" rel="noopener noreferrer">' +
       t('animaticScript') + ' ↗</a><a href="https://github.com/edouardfoussier/generathon-2/blob/main/creative/model-comparison-v3/README.md" target="_blank" rel="noopener noreferrer">' +
-      t('animaticGuide') + ' ↗</a></nav></div><div class="grid animatic-grid">' + items.map(card).join('') +
+      t('animaticGuide') + ' ↗</a><a href="http://127.0.0.1:8787/" target="_blank" rel="noopener noreferrer">' +
+      t('openEditor') + ' ↗</a><a href="?category=illustrated&amp;lang=' + language + '" data-explore="illustrated">' +
+      t('exploreIllustrated') + '</a></nav><p class="editor-local-note">' + t('editorLocalNote') +
+      '</p></div><div class="grid animatic-grid">' + items.map(card).join('') +
       '</div><p class="production-footnote">' + t('animaticReview') + '</p>';
+  }
+  function illustratedContent(items) {
+    const groups = [
+      {id:'gouache', index:'A', title:'illustratedGouache', detail:'illustratedGouacheDetail'},
+      {id:'ink', index:'B', title:'illustratedInk', detail:'illustratedInkDetail'},
+      {id:'motion', index:'C', title:'illustratedMotion', detail:'illustratedMotionDetail'}
+    ];
+    return '<div class="production-pitch"><p class="eyebrow">' + t('illustratedKicker') + '</p><h3>' +
+      t('illustratedTitle') + '</h3><p>' + t('illustratedIntro') + '</p><nav class="production-jumps"><a href="' +
+      '../sketch-study/gouache-contact-sheet.jpg" target="_blank" rel="noopener noreferrer">' +
+      t('illustratedGouacheSheet') + ' ↗</a><a href="../sketch-study/ink-contact-sheet.jpg" target="_blank" rel="noopener noreferrer">' +
+      t('illustratedInkSheet') + ' ↗</a><a href="?category=animatic&amp;lang=' + language + '" data-explore="animatic">' +
+      t('illustratedRealisticLink') + ' ↗</a></nav></div>' + groups.map(group => {
+        const grouped = items.filter(asset => asset.group === group.id);
+        if (!grouped.length) return '';
+        return '<section class="team-group" aria-labelledby="illustrated-' + group.id + '"><header class="team-group-heading">' +
+          '<span class="section-index">' + group.index + '</span><div><h3 id="illustrated-' + group.id + '">' +
+          t(group.title) + '</h3><p>' + t(group.detail) + '</p></div></header><div class="grid">' +
+          grouped.map(card).join('') + '</div></section>';
+      }).join('') + (items.some(asset => asset.mediaType === 'video') ? '' : '<p class="production-footnote" role="status">' +
+        t('illustratedMotionPending') + '</p>') + '<p class="production-footnote">' + t('illustratedReview') + '</p>';
   }
   function renderGallery() {
     $('gallery').querySelectorAll('video').forEach(video => video.pause());
@@ -252,7 +276,7 @@
         '" aria-labelledby="title-' + category.id + '"><header class="section-heading"><div class="section-title">' +
         '<span class="section-index">' + category.number + '</span><h2 id="title-' + category.id + '">' +
         category.title + '</h2></div><p class="section-detail">' + category.detail + '</p></header>' +
-        (category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
+        (category.id === 'illustrated' ? illustratedContent(items) : category.id === 'animatic' ? animaticContent(items) : category.id === 'scenes' ? scenesContent(items) : category.id === 'equipe' ? teamContent(items) : category.id === 'hybrides' ? hybridContent(items) : category.id === 'production' ? productionContent(items) :
           (category.id === 'styles' ? styleIntroduction() : '') + '<div class="grid">' + items.map(card).join('') + '</div>') +
         '</section>' : '';
     }).join('');
@@ -367,6 +391,7 @@
   $('explore-production').addEventListener('click', () => exploreCategory('production'));
   $('explore-scenes').addEventListener('click', () => exploreCategory('scenes'));
   $('explore-animatic').addEventListener('click', () => exploreCategory('animatic'));
+  $('explore-illustrated').addEventListener('click', () => exploreCategory('illustrated'));
   $('filters').addEventListener('click', e => {
     const button = e.target.closest('[data-filter]'); if (!button) return;
     activeCategory = button.dataset.filter; renderFilters(); renderGallery();
@@ -375,6 +400,10 @@
   });
   $('favorites').addEventListener('click', () => { favoritesOnly = !favoritesOnly; renderFilters(); renderGallery(); });
   $('gallery').addEventListener('click', e => {
+    const explore = e.target.closest('[data-explore]');
+    if (explore && categoryIds.has(explore.dataset.explore)) {
+      e.preventDefault(); exploreCategory(explore.dataset.explore); return;
+    }
     const choose = e.target.closest('[data-choose]');
     if (choose) { toggleSelection(choose.dataset.choose); return; }
     const preview = e.target.closest('[data-preview]');

@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-26T19:34:00Z",
+  "title": {
+    "fr": "\u00c9tudes de styles illustr\u00e9s",
+    "en": "Illustrated style studies"
+  },
+  "creditsBefore": 16350,
+  "creditsChargedImages": 288,
+  "creditsChargedVideos": 1600,
+  "creditsAfter": 14462,
+  "comparisonPurpose": "Six matched narrative frames in two illustrated media. Motion tests cover action and emotional handover within the gouache direction.",
+  "assets": [
+    {
+      "code": "GA01",
+      "kind": "image",
+      "scene": "attic",
+      "style": "gouache",
+      "title": {
+        "fr": "Luna au grenier",
+        "en": "Luna in the attic"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "localFile": "images/gouache/attic.png",
+      "assetId": "64f94497-adfe-4040-a473-fbbdc6840fce",
+      "arcadsPath": "production/videoassets/64f94497-adfe-4040-a473-fbbdc6840fce.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/selection/assets/K01.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "GA02",
+      "kind": "image",
+      "scene": "discovery",
+      "style": "gouache",
+      "title": {
+        "fr": "La bo\u00eete aux souvenirs",
+        "en": "The memory box"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "localFile": "images/gouache/discovery.png",
+      "assetId": "8d863995-1929-4535-b833-8dd8cc91a448",
+      "arcadsPath": "production/videoassets/8d863995-1929-4535-b833-8dd8cc91a448.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "GA03",
+      "kind": "image",
+      "scene": "court",
+      "style": "gouache",
+      "title": {
+        "fr": "Rafa, Bronx 1970",
+        "en": "Rafa, Bronx 1970"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "localFile": "images/gouache/court.png",
+      "assetId": "110c98fc-5871-497b-b3e4-bf68f49adb58",
+      "arcadsPath": "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/selection/assets/K03.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "GA04",
+      "kind": "image",
+      "scene": "salsa",
+      "style": "gouache",
+      "title": {
+        "fr": "La rencontre avec Elena",
+        "en": "Meeting Elena"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "localFile": "images/gouache/salsa.png",
+      "assetId": "2f5cab03-5ec8-42c5-b949-6c245baec9ae",
+      "arcadsPath": "production/videoassets/2f5cab03-5ec8-42c5-b949-6c245baec9ae.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/dance.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "GA05",
+      "kind": "image",
+      "scene": "gift",
+      "style": "gouache",
+      "title": {
+        "fr": "Le cadeau \u00e0 sa fille",
+        "en": "A gift to his daughter"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "localFile": "images/gouache/gift.png",
+      "assetId": "80a0cecb-b5f8-4659-a375-66239755b699",
+      "arcadsPath": "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/gift.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "GA06",
+      "kind": "image",
+      "scene": "return",
+      "style": "gouache",
+      "title": {
+        "fr": "Le retour de Luna",
+        "en": "Luna returns"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "localFile": "images/gouache/return.png",
+      "assetId": "ae5b17b4-fa59-4bb1-a7da-db2513a26729",
+      "arcadsPath": "production/videoassets/ae5b17b4-fa59-4bb1-a7da-db2513a26729.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/return.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "IN01",
+      "kind": "image",
+      "scene": "attic",
+      "style": "ink",
+      "title": {
+        "fr": "Luna au grenier",
+        "en": "Luna in the attic"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "localFile": "images/ink/attic.png",
+      "assetId": "d365f9f9-a1bf-4df6-a49b-024d8e73d1b8",
+      "arcadsPath": "production/videoassets/d365f9f9-a1bf-4df6-a49b-024d8e73d1b8.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/selection/assets/K01.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "IN02",
+      "kind": "image",
+      "scene": "discovery",
+      "style": "ink",
+      "title": {
+        "fr": "La bo\u00eete aux souvenirs",
+        "en": "The memory box"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "localFile": "images/ink/discovery.png",
+      "assetId": "1269cde0-0fc7-4409-85b8-04fe6bd6821b",
+      "arcadsPath": "production/videoassets/1269cde0-0fc7-4409-85b8-04fe6bd6821b.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "IN03",
+      "kind": "image",
+      "scene": "court",
+      "style": "ink",
+      "title": {
+        "fr": "Rafa, Bronx 1970",
+        "en": "Rafa, Bronx 1970"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "localFile": "images/ink/court.png",
+      "assetId": "1b82cb09-768c-43ac-8dc1-d8c5b15ee139",
+      "arcadsPath": "production/videoassets/1b82cb09-768c-43ac-8dc1-d8c5b15ee139.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/selection/assets/K03.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "IN04",
+      "kind": "image",
+      "scene": "salsa",
+      "style": "ink",
+      "title": {
+        "fr": "La rencontre avec Elena",
+        "en": "Meeting Elena"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "localFile": "images/ink/salsa.png",
+      "assetId": "a30d4bd7-0167-4066-b8ac-32fc71627d57",
+      "arcadsPath": "production/videoassets/a30d4bd7-0167-4066-b8ac-32fc71627d57.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/dance.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "IN05",
+      "kind": "image",
+      "scene": "gift",
+      "style": "ink",
+      "title": {
+        "fr": "Le cadeau \u00e0 sa fille",
+        "en": "A gift to his daughter"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "localFile": "images/ink/gift.png",
+      "assetId": "a98d0341-3d92-4f1d-b344-21096250e047",
+      "arcadsPath": "production/videoassets/a98d0341-3d92-4f1d-b344-21096250e047.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/gift.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "IN06",
+      "kind": "image",
+      "scene": "return",
+      "style": "ink",
+      "title": {
+        "fr": "Le retour de Luna",
+        "en": "Luna returns"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "localFile": "images/ink/return.png",
+      "assetId": "24353594-3127-4c23-8dfd-78831b003620",
+      "arcadsPath": "production/videoassets/24353594-3127-4c23-8dfd-78831b003620.png",
+      "model": "nano-banana-2",
+      "status": "generated",
+      "creditsCharged": 16,
+      "sourceFile": "creative/model-comparison-v3/shared/stills/return.png",
+      "qa": "Reviewed in contact sheet. Story composition, wardrobe, age and black high-top product recognizable. Stylized badge/repair details are exploratory and require final continuity cleanup.",
+      "selected": true
+    },
+    {
+      "code": "GV01",
+      "scene": "court",
+      "title": {
+        "fr": "Gouache anim\u00e9e \u2014 Le terrain",
+        "en": "Animated gouache \u2014 The court"
+      },
+      "startFrame": "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png",
+      "localFile": "videos/gouache-court-veo31.mp4",
+      "poster": "images/gouache/court.png",
+      "prompt": "An eight-second HAND-PAINTED 2D WATERCOLOR AND GOUACHE ANIMATION, matching the opening drawing throughout. Rafa, the same sixteen-year-old boy, bounces the basketball once, gathers it with both hands, pivots his black high-top sneakers toward the hoop at screen left, then makes one small controlled jump shot. He lands naturally on both feet and watches the ball. A gentle lateral camera drift keeps his entire body, shoes and hoop in frame. Animate real limb articulation and the single ball, not a static zoom. Broad translucent brush shapes redraw on twos, subtle dry-brush motion accents on the fast ball, warm textured paper and unfinished painted edges remain visible, architecture holds steady. Same face, white tank, navy shorts, striped white socks, BLACK classic high-top canvas shoes. Preserve the loose painted medium; never become live action, polished 3D or glossy anime. One continuous shot, no scene change, captions, added people or dialogue. Only a restrained ball bounce and shoe squeak, no music.",
+      "kind": "video",
+      "style": "gouache",
+      "model": "veo31",
+      "resolution": "1080p",
+      "assetId": "ee7804f8-b162-47bc-baf5-55df80a2de8d",
+      "status": "generated",
+      "creditsCharged": 800,
+      "selected": true,
+      "arcadsPath": "production/videoassets/ee7804f8-b162-47bc-baf5-55df80a2de8d.mp4",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "qa": "Decoded completely; visually sampled at 1 fps. Dribble, pivot, jump and landing read clearly. Painted paper setting stays stable, although the moving character becomes slightly smoother than the anchor. Basket scoring is not confirmed from samples; use a separate net insert in a final ad. Product badge details remain illustrative.",
+      "qaContactSheet": "qa/GV01-contact-sheet.jpg"
+    },
+    {
+      "code": "GV02",
+      "scene": "gift",
+      "title": {
+        "fr": "Gouache anim\u00e9e \u2014 La transmission",
+        "en": "Animated gouache \u2014 Passing it on"
+      },
+      "startFrame": "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png",
+      "localFile": "videos/gouache-gift-veo31.mp4",
+      "poster": "images/gouache/gift.png",
+      "prompt": "An eight-second HAND-PAINTED 2D WATERCOLOR AND GOUACHE ANIMATION that maintains the exact loose brushwork, broad paint planes and warm textured paper of the opening illustration. The father seated on the RIGHT gently offers the single black high-top shoe in his hands. His teenage daughter seated on the LEFT reaches with both hands and accepts it, then looks up into his eyes with a small grateful smile; he smiles back and releases his hands. They stay seated. The second shoe remains motionless on the floor beside his chair. Slow intimate camera push, tiny natural breathing and soft hair motion. Animate clear restrained human gestures, keep hands anatomically separate and the shoe a stable solid object. Preserve their exact faces, ages, denim outfit and pale blue shirt. Paper grain, watercolor edges and visible reserved white areas stay constant; illustrated faces never become photorealistic or 3D. One continuous shot, no new objects, text, subtitles, dialogue or music. Soft cloth rustle only.",
+      "kind": "video",
+      "style": "gouache",
+      "model": "veo31",
+      "resolution": "1080p",
+      "assetId": "fe06bcf5-fef2-4ba2-bcdf-ef23e377bd46",
+      "status": "generated",
+      "creditsCharged": 800,
+      "selected": true,
+      "arcadsPath": "production/videoassets/fe06bcf5-fef2-4ba2-bcdf-ef23e377bd46.mp4",
+      "duration": 8,
+      "width": 1920,
+      "height": 1080,
+      "fps": 24,
+      "qa": "Decoded completely; visually sampled at 1 fps. The daughter accepts one shoe, father releases it, eye contact and smiles are readable. Warm paper and painted brush planes stay coherent through the push-in. Best test of the emotional illustrated direction. Badge and repair placement require final product cleanup.",
+      "qaContactSheet": "qa/GV02-contact-sheet.jpg"
+    }
+  ],
+  "firstPassArchive": "images/gouache-first-pass",
+  "contactSheets": [
+    "gouache-contact-sheet.jpg",
+    "ink-contact-sheet.jpg"
+  ],
+  "qaNotes": [
+    "Two illustrated styles were generated from the selected realistic cast and scene anchors.",
+    "Gouache required one stronger pass because the initial result remained too photographic.",
+    "Temporary style uploads were moved or consumed after first use; ten rejected calls were retried with permanent copies and were not charged.",
+    "No publication or final brand-identity approval is implied by exploratory generative badge details."
+  ],
+  "creditsChargedTotal": 1888
+}

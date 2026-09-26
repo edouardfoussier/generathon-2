@@ -16,4 +16,7 @@ venv/
 __pycache__/
 *.py[cod]
 
+# Local editor renders and job records; source media stays tracked.
+creative/editor/exports/
+
 # Keep the project's source media, reference renders and generation records.

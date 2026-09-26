@@ -1,0 +1,376 @@
+{
+  "createdAt": "2026-09-26T19:22:48.168Z",
+  "creditsBefore": 16350,
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "imageModel": "nano-banana-2",
+  "videoModel": "veo31",
+  "scenes": [
+    {
+      "code": "01",
+      "id": "attic",
+      "fr": "Luna au grenier",
+      "en": "Luna in the attic",
+      "asset": "c0a4f046-e4c1-44a1-811c-c96fc62d9413",
+      "file": "creative/selection/assets/K01.png",
+      "detail": "Luna, age 15, sitting on a stool in the family attic, looking quietly at the inherited black high-top shoe in her hands. Keep her selected face, low dark ponytail, oversized charcoal T-shirt, olive cargo trousers and exact attic beams, brickwork, window, stool and skateboard. Preserve the full-width environmental composition."
+    },
+    {
+      "code": "02",
+      "id": "discovery",
+      "fr": "La boîte aux souvenirs",
+      "en": "The memory box",
+      "asset": "05fc3f4b-2419-45de-a201-7b4d054b90dd",
+      "file": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "detail": "Over Luna's shoulder, her bare hands open a cardboard box containing precisely two aged BLACK canvas Converse high-tops, ivory toe caps and soles, off-white laces. A single faded photo of young Rafa with a basketball lies beside the pair. Preserve the intimate top-down framing, cardboard, wood, repaired cream canvas detail. Tiny handwritten R.M. only inside the shoe tongue if readable; no other text."
+    },
+    {
+      "code": "03",
+      "id": "court",
+      "fr": "Rafa, Bronx 1970",
+      "en": "Rafa, Bronx 1970",
+      "asset": "eb03cc2f-641c-4fd4-9c4a-8cbd4750baee",
+      "file": "creative/selection/assets/K03.png",
+      "detail": "Rafa at age 16, alone on the 1970 Bronx basketball court at golden hour. Same teen boy face, dark wavy hair, white tank top, navy gym shorts and striped tube socks. BLACK Converse canvas high-tops, ivory soles and toe caps, no repair patch yet. Ball in his right hand at hip. Full body, red-brick tenements, chain-link fence and backboard. Preserve correct anatomy and selected stance."
+    },
+    {
+      "code": "04",
+      "id": "salsa",
+      "fr": "La rencontre avec Elena",
+      "en": "Meeting Elena",
+      "asset": "1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3",
+      "file": "creative/model-comparison-v3/shared/stills/dance.png",
+      "detail": "Rafa at 23, screen left, rust open collar shirt, brown flared trousers and BLACK high-top Converse, reaching toward Elena at 22 on screen right in her violet dress and RED high-top Converse. Keep their exact faces and positions. 1977 dance hall, wooden floor, warm amber and restrained purple lighting. Both complete bodies and shoe silhouettes visible. It is a tender first encounter."
+    },
+    {
+      "code": "05",
+      "id": "gift",
+      "fr": "Le cadeau à sa fille",
+      "en": "A gift to his daughter",
+      "asset": "e0860c3e-0c24-42af-b0b6-60b7db257d33",
+      "file": "creative/model-comparison-v3/shared/stills/gift.png",
+      "detail": "1995. Rafa at 41 sits on the right, light blue rolled-sleeve shirt, dark trousers, brown house shoes, offering one worn BLACK high-top Converse in both hands to his smiling sixteen-year-old daughter seated left in blue denim and white socks. Their exact faces, father-daughter relation, separation and gestures match image 1. Second black shoe on the floor. Warm domestic brick living room, window at left. His daughter will become Luna's mother."
+    },
+    {
+      "code": "06",
+      "id": "return",
+      "fr": "Le retour de Luna",
+      "en": "Luna returns",
+      "asset": "1e95852e-725e-4e53-8552-fd3c69baf9f4",
+      "file": "creative/model-comparison-v3/shared/stills/return.png",
+      "detail": "Luna, same 15-year-old face and low dark ponytail, charcoal oversized T-shirt, olive cargo trousers, sitting in the same attic now wearing the inherited black Converse pair, holding grandfather's photo, looking toward the doorway with a soft rediscovered smile. Preserve pose, stool, open shoebox, warm window, wooden beams and brick backdrop. Tender restraint, no crying, no added people."
+    }
+  ],
+  "styles": [
+    {
+      "id": "gouache",
+      "code": "GA",
+      "fr": "Gouache sur papier",
+      "en": "Gouache on paper",
+      "sourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "look": "Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime."
+    },
+    {
+      "id": "ink",
+      "code": "IN",
+      "fr": "Encre et hachures",
+      "en": "Ink and hatching",
+      "sourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "look": "Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame."
+    }
+  ],
+  "jobs": [
+    {
+      "code": "GA01",
+      "style": "gouache",
+      "scene": "attic",
+      "title": {
+        "fr": "Luna au grenier",
+        "en": "Luna in the attic"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "source": "creative/selection/assets/K01.png",
+      "referenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "external-api-temp-uploads/6d72af33-6c12-4582-838c-11b87f4fe354.png",
+        "external-api-temp-uploads/090e4a37-22d5-41d9-a749-59b9c52f2cef.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "localFile": "images/gouache/attic.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: Luna, age 15, sitting on a stool in the family attic, looking quietly at the inherited black high-top shoe in her hands. Keep her selected face, low dark ponytail, oversized charcoal T-shirt, olive cargo trousers and exact attic beams, brickwork, window, stool and skateboard. Preserve the full-width environmental composition. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "GA02",
+      "style": "gouache",
+      "scene": "discovery",
+      "title": {
+        "fr": "La boîte aux souvenirs",
+        "en": "The memory box"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "referenceImages": [
+        "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+        "external-api-temp-uploads/6d72af33-6c12-4582-838c-11b87f4fe354.png",
+        "external-api-temp-uploads/090e4a37-22d5-41d9-a749-59b9c52f2cef.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "localFile": "images/gouache/discovery.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: Over Luna's shoulder, her bare hands open a cardboard box containing precisely two aged BLACK canvas Converse high-tops, ivory toe caps and soles, off-white laces. A single faded photo of young Rafa with a basketball lies beside the pair. Preserve the intimate top-down framing, cardboard, wood, repaired cream canvas detail. Tiny handwritten R.M. only inside the shoe tongue if readable; no other text. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "GA03",
+      "style": "gouache",
+      "scene": "court",
+      "title": {
+        "fr": "Rafa, Bronx 1970",
+        "en": "Rafa, Bronx 1970"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "source": "creative/selection/assets/K03.png",
+      "referenceImages": [
+        "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+        "external-api-temp-uploads/6d72af33-6c12-4582-838c-11b87f4fe354.png",
+        "external-api-temp-uploads/090e4a37-22d5-41d9-a749-59b9c52f2cef.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "localFile": "images/gouache/court.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: Rafa at age 16, alone on the 1970 Bronx basketball court at golden hour. Same teen boy face, dark wavy hair, white tank top, navy gym shorts and striped tube socks. BLACK Converse canvas high-tops, ivory soles and toe caps, no repair patch yet. Ball in his right hand at hip. Full body, red-brick tenements, chain-link fence and backboard. Preserve correct anatomy and selected stance. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "GA04",
+      "style": "gouache",
+      "scene": "salsa",
+      "title": {
+        "fr": "La rencontre avec Elena",
+        "en": "Meeting Elena"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/dance.png",
+      "referenceImages": [
+        "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+        "external-api-temp-uploads/6d72af33-6c12-4582-838c-11b87f4fe354.png",
+        "external-api-temp-uploads/090e4a37-22d5-41d9-a749-59b9c52f2cef.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "localFile": "images/gouache/salsa.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: Rafa at 23, screen left, rust open collar shirt, brown flared trousers and BLACK high-top Converse, reaching toward Elena at 22 on screen right in her violet dress and RED high-top Converse. Keep their exact faces and positions. 1977 dance hall, wooden floor, warm amber and restrained purple lighting. Both complete bodies and shoe silhouettes visible. It is a tender first encounter. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "GA05",
+      "style": "gouache",
+      "scene": "gift",
+      "title": {
+        "fr": "Le cadeau à sa fille",
+        "en": "A gift to his daughter"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/gift.png",
+      "referenceImages": [
+        "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+        "external-api-temp-uploads/6d72af33-6c12-4582-838c-11b87f4fe354.png",
+        "external-api-temp-uploads/090e4a37-22d5-41d9-a749-59b9c52f2cef.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "localFile": "images/gouache/gift.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: 1995. Rafa at 41 sits on the right, light blue rolled-sleeve shirt, dark trousers, brown house shoes, offering one worn BLACK high-top Converse in both hands to his smiling sixteen-year-old daughter seated left in blue denim and white socks. Their exact faces, father-daughter relation, separation and gestures match image 1. Second black shoe on the floor. Warm domestic brick living room, window at left. His daughter will become Luna's mother. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "GA06",
+      "style": "gouache",
+      "scene": "return",
+      "title": {
+        "fr": "Le retour de Luna",
+        "en": "Luna returns"
+      },
+      "styleName": {
+        "fr": "Gouache sur papier",
+        "en": "Gouache on paper"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/return.png",
+      "referenceImages": [
+        "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+        "external-api-temp-uploads/6d72af33-6c12-4582-838c-11b87f4fe354.png",
+        "external-api-temp-uploads/090e4a37-22d5-41d9-a749-59b9c52f2cef.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+        "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+      ],
+      "localFile": "images/gouache/return.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: Luna, same 15-year-old face and low dark ponytail, charcoal oversized T-shirt, olive cargo trousers, sitting in the same attic now wearing the inherited black Converse pair, holding grandfather's photo, looking toward the doorway with a soft rediscovered smile. Preserve pose, stool, open shoebox, warm window, wooden beams and brick backdrop. Tender restraint, no crying, no added people. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "IN01",
+      "style": "ink",
+      "scene": "attic",
+      "title": {
+        "fr": "Luna au grenier",
+        "en": "Luna in the attic"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "source": "creative/selection/assets/K01.png",
+      "referenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "localFile": "images/ink/attic.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: Luna, age 15, sitting on a stool in the family attic, looking quietly at the inherited black high-top shoe in her hands. Keep her selected face, low dark ponytail, oversized charcoal T-shirt, olive cargo trousers and exact attic beams, brickwork, window, stool and skateboard. Preserve the full-width environmental composition. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "IN02",
+      "style": "ink",
+      "scene": "discovery",
+      "title": {
+        "fr": "La boîte aux souvenirs",
+        "en": "The memory box"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "referenceImages": [
+        "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+        "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "localFile": "images/ink/discovery.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: Over Luna's shoulder, her bare hands open a cardboard box containing precisely two aged BLACK canvas Converse high-tops, ivory toe caps and soles, off-white laces. A single faded photo of young Rafa with a basketball lies beside the pair. Preserve the intimate top-down framing, cardboard, wood, repaired cream canvas detail. Tiny handwritten R.M. only inside the shoe tongue if readable; no other text. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "IN03",
+      "style": "ink",
+      "scene": "court",
+      "title": {
+        "fr": "Rafa, Bronx 1970",
+        "en": "Rafa, Bronx 1970"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "source": "creative/selection/assets/K03.png",
+      "referenceImages": [
+        "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+        "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "localFile": "images/ink/court.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: Rafa at age 16, alone on the 1970 Bronx basketball court at golden hour. Same teen boy face, dark wavy hair, white tank top, navy gym shorts and striped tube socks. BLACK Converse canvas high-tops, ivory soles and toe caps, no repair patch yet. Ball in his right hand at hip. Full body, red-brick tenements, chain-link fence and backboard. Preserve correct anatomy and selected stance. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "IN04",
+      "style": "ink",
+      "scene": "salsa",
+      "title": {
+        "fr": "La rencontre avec Elena",
+        "en": "Meeting Elena"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/dance.png",
+      "referenceImages": [
+        "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+        "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "localFile": "images/ink/salsa.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: Rafa at 23, screen left, rust open collar shirt, brown flared trousers and BLACK high-top Converse, reaching toward Elena at 22 on screen right in her violet dress and RED high-top Converse. Keep their exact faces and positions. 1977 dance hall, wooden floor, warm amber and restrained purple lighting. Both complete bodies and shoe silhouettes visible. It is a tender first encounter. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "IN05",
+      "style": "ink",
+      "scene": "gift",
+      "title": {
+        "fr": "Le cadeau à sa fille",
+        "en": "A gift to his daughter"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/gift.png",
+      "referenceImages": [
+        "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+        "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "localFile": "images/ink/gift.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: 1995. Rafa at 41 sits on the right, light blue rolled-sleeve shirt, dark trousers, brown house shoes, offering one worn BLACK high-top Converse in both hands to his smiling sixteen-year-old daughter seated left in blue denim and white socks. Their exact faces, father-daughter relation, separation and gestures match image 1. Second black shoe on the floor. Warm domestic brick living room, window at left. His daughter will become Luna's mother. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    },
+    {
+      "code": "IN06",
+      "style": "ink",
+      "scene": "return",
+      "title": {
+        "fr": "Le retour de Luna",
+        "en": "Luna returns"
+      },
+      "styleName": {
+        "fr": "Encre et hachures",
+        "en": "Ink and hatching"
+      },
+      "source": "creative/model-comparison-v3/shared/stills/return.png",
+      "referenceImages": [
+        "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+        "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+      ],
+      "styleSourceFiles": [
+        "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+      ],
+      "localFile": "images/ink/return.png",
+      "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: Luna, same 15-year-old face and low dark ponytail, charcoal oversized T-shirt, olive cargo trousers, sitting in the same attic now wearing the inherited black Converse pair, holding grandfather's photo, looking toward the doorway with a soft rediscovered smile. Preserve pose, stool, open shoebox, warm window, wooden beams and brick backdrop. Tender restraint, no crying, no added people. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example."
+    }
+  ]
+}

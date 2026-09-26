@@ -1,0 +1,37 @@
+{
+  "code": "GA02",
+  "style": "gouache",
+  "scene": "discovery",
+  "title": {
+    "fr": "La boîte aux souvenirs",
+    "en": "The memory box"
+  },
+  "styleName": {
+    "fr": "Gouache sur papier",
+    "en": "Gouache on paper"
+  },
+  "source": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+  "referenceImages": [
+    "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+    "production/videoassets/12996f6b-778d-4aa0-a588-b74caa53f0e2_reference_image_1.png",
+    "production/videoassets/12996f6b-778d-4aa0-a588-b74caa53f0e2_reference_image_2.png"
+  ],
+  "styleSourceFiles": [
+    "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+    "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+  ],
+  "localFile": "images/gouache/discovery.png",
+  "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Hand-painted editorial watercolor and opaque gouache on warm ivory textured paper, as the style references. Build every face, fabric fold and object from deliberate irregular brush planes, pigment pooling, dry-brush edges and visible paper tooth. Natural recognizable facial proportions but clearly illustrated, deep warm umber shadows, luminous reserved paper highlights, brick red and olive palette with restrained saturated accents. Environment becomes broad confident washes; expressive detailed face and hero shoes, beautiful simplification elsewhere. Not a photographic filter, not 3D, not anime. SCENE: Over Luna's shoulder, her bare hands open a cardboard box containing precisely two aged BLACK canvas Converse high-tops, ivory toe caps and soles, off-white laces. A single faded photo of young Rafa with a basketball lies beside the pair. Preserve the intimate top-down framing, cardboard, wood, repaired cream canvas detail. Tiny handwritten R.M. only inside the shoe tongue if readable; no other text. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example.",
+  "submittedAt": "2026-09-26T19:24:19.349Z",
+  "response": {
+    "assets": [
+      {
+        "id": "459f8df4-7b5b-4f58-8887-6360b5a47ebf",
+        "type": "nano-banana-2",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "retryReason": "Temporary style upload appears consumed/moved by the first generation. Retried with permanent copies of style references stored on the successful first job."
+}

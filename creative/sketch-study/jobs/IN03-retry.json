@@ -1,0 +1,35 @@
+{
+  "code": "IN03",
+  "style": "ink",
+  "scene": "court",
+  "title": {
+    "fr": "Rafa, Bronx 1970",
+    "en": "Rafa, Bronx 1970"
+  },
+  "styleName": {
+    "fr": "Encre et hachures",
+    "en": "Ink and hatching"
+  },
+  "source": "creative/selection/assets/K03.png",
+  "referenceImages": [
+    "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+    "production/videoassets/d365f9f9-a1bf-4df6-a49b-024d8e73d1b8_reference_image_1.png"
+  ],
+  "styleSourceFiles": [
+    "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+  ],
+  "localFile": "images/ink/court.png",
+  "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: Rafa at age 16, alone on the 1970 Bronx basketball court at golden hour. Same teen boy face, dark wavy hair, white tank top, navy gym shorts and striped tube socks. BLACK Converse canvas high-tops, ivory soles and toe caps, no repair patch yet. Ball in his right hand at hip. Full body, red-brick tenements, chain-link fence and backboard. Preserve correct anatomy and selected stance. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example.",
+  "submittedAt": "2026-09-26T19:24:38.993Z",
+  "response": {
+    "assets": [
+      {
+        "id": "1b82cb09-768c-43ac-8dc1-d8c5b15ee139",
+        "type": "nano-banana-2",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "retryReason": "Temporary style upload appears consumed/moved by the first generation. Retried with permanent copies of style references stored on the successful first job."
+}

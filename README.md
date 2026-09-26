@@ -6,7 +6,7 @@ Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-
 
 **Rafa did not say much. His shoes have stories to tell.** Sent to fetch her mother’s winter clothes, fifteen-year-old Luna complains about the old things in the attic. A worn pair of black Converse leads her through her grandfather’s life: basketball, meeting Elena, their wedding, becoming a father and passing the shoes to his daughter. Back in the present, Luna asks her mother to tell her about Grandpa.
 
-Working tagline: **“Converse. Conserve what matters.”** The latest [cinematic script v3](creative/converse-cinematic-script-v3.md) is the **76-second photographic story used for the current three-model comparison**. Its brief phone/AI moment gives way to memories carried by the shoes and a final conversation with Mom. Pixel art, clay, illustration and a photographic-to-animated transition remain archived alternatives. **Current references:** Luna’s existing face and original wardrobe, G01 and its younger derivatives for Rafa, and D06 for the attic. Orange remains a costume alternative.
+Working tagline: **“Converse. Conserve what matters.”** The latest [cinematic script v3](creative/converse-cinematic-script-v3.md) is the **76-second photographic story used for the current three-model comparison**. Its brief phone/AI moment gives way to memories carried by the shoes and a final conversation with Mom. Veo is the preferred photographic rendering. A fresh gouache/ink study now explores an illustrated alternative; pixel art, clay and a photographic-to-animated transition remain earlier explorations. **Current references:** Luna’s existing face and original wardrobe, G01 and its younger derivatives for Rafa, and D06 for the attic. Orange remains a costume alternative.
 
 Deliverables from the supplied brief:
 
@@ -17,6 +17,18 @@ Deliverables from the supplied brief:
 **[The current comparison uses Seedance 2.5, Kling 3 Pro and Veo 3.1](creative/model-comparison-v3/README.md).** AV02–AV04 are the three complete 76-second script-v3 comparison cuts. Each model generates fresh motion from shared reference stills; the phone interface, temporary English voices and music are common to all three. These are exploratory cuts for team review, not approved final advertising.
 
 **[Animatic v1 remains available as AV01](creative/animatic-v1/README.md).** Its 76-second, 26-shot script-v2 edit combines 21 video-based shots, five still inserts, a score and an English maternal voice line. K01–K06 and TR01–TR03 remain the source explorations.
+
+## Build your own edit
+
+[Converse Cut Room](creative/editor/README.md) compares the three complete films with synchronized previews, three source tracks, a final cut track, split/trim/reorder controls and MP4 export. **Veo starts selected throughout.**
+
+```sh
+python3 creative/editor/server.py
+```
+
+Open **http://127.0.0.1:8787/**. This is a local editing room, not a publicly hosted collaborative site. Teammates can clone this repo, run the same command, and exchange edits using **Save edit / Open edit** JSON files. Python 3.10+, FFmpeg and FFprobe are required. Output is 1080p/24 fps, with a shared soundtrack and an 80-second limit. Source videos stay unchanged.
+
+[The illustrated style study](creative/sketch-study/README.md) reinterprets six keyframes in both textured gouache and ink/hatching. Two Veo 3.1 motion tests explore basketball and the father–daughter shoe handover. These are style tests; the photographic version remains available.
 
 ## Open the board
 
@@ -32,7 +44,7 @@ Then open [the English animatic board](http://127.0.0.1:8765/creative/selection/
 
 Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** shares a compact selection; **Download JSON** preserves an export. Favorites live in each browser’s local storage, are separate between file and localhost addresses, and are **not synchronized with teammates**.
 
-## The 84-entry board
+## The 98-entry board
 
 | Codes | Count | Exploration |
 |---|---:|---|
@@ -48,8 +60,9 @@ Click an image to enlarge it and **Choose** to favorite it. **Copy the codes** s
 | EL01–EL02, M01–M02 | 4 | Grandma Elena and Luna’s mother, with present-day character sheets and comparisons across ages |
 | AV01 | 1 | Complete 76-second first animatic with music and English voice |
 | AV02–AV04 | 3 | Script v3 comparison: Seedance 2.5, Kling 3 Pro and Veo 3.1, 76 seconds each |
+| Illustrated study | 14 | Six gouache keyframes, six ink keyframes and two Veo animated tests |
 
-The latest tab is **Animatics** (`?category=animatic&lang=en`), with players and downloads. The board contains 77 stills, three transition clips and four full animatic entries: the three new script-v3 comparisons appear before the preserved AV01 script-v2 cut. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
+The latest tab is **Illustrated** (`?category=illustrated&lang=en`). **Animatics** (`?category=animatic&lang=en`) retains the full comparison films and links to Cut Room. The board contains 89 stills, five short clips and four full animatic entries: the three new script-v3 comparisons appear before the preserved AV01 script-v2 cut. **Scenes & transitions** retains the six keyframes and short comparisons; **Characters & locations** retains the Grandma & Mom group. Luna’s original wardrobe is used; orange remains an alternative.
 
 ## Where to continue
 

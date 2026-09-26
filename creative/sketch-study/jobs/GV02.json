@@ -1,0 +1,23 @@
+{
+  "code": "GV02",
+  "scene": "gift",
+  "title": {
+    "fr": "Gouache animée — La transmission",
+    "en": "Animated gouache — Passing it on"
+  },
+  "startFrame": "production/videoassets/80a0cecb-b5f8-4659-a375-66239755b699.png",
+  "localFile": "videos/gouache-gift-veo31.mp4",
+  "poster": "images/gouache/gift.png",
+  "prompt": "An eight-second HAND-PAINTED 2D WATERCOLOR AND GOUACHE ANIMATION that maintains the exact loose brushwork, broad paint planes and warm textured paper of the opening illustration. The father seated on the RIGHT gently offers the single black high-top shoe in his hands. His teenage daughter seated on the LEFT reaches with both hands and accepts it, then looks up into his eyes with a small grateful smile; he smiles back and releases his hands. They stay seated. The second shoe remains motionless on the floor beside his chair. Slow intimate camera push, tiny natural breathing and soft hair motion. Animate clear restrained human gestures, keep hands anatomically separate and the shoe a stable solid object. Preserve their exact faces, ages, denim outfit and pale blue shirt. Paper grain, watercolor edges and visible reserved white areas stay constant; illustrated faces never become photorealistic or 3D. One continuous shot, no new objects, text, subtitles, dialogue or music. Soft cloth rustle only.",
+  "submittedAt": "2026-09-26T19:27:57.198Z",
+  "response": {
+    "assets": [
+      {
+        "id": "fe06bcf5-fef2-4ba2-bcdf-ef23e377bd46",
+        "type": "veo31",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "code": "GA06",
+  "style": "gouache",
+  "scene": "return",
+  "title": {
+    "fr": "Le retour de Luna",
+    "en": "Luna returns"
+  },
+  "styleName": {
+    "fr": "Gouache sur papier",
+    "en": "Gouache on paper"
+  },
+  "source": "creative/model-comparison-v3/shared/stills/return.png",
+  "referenceImages": [
+    "production/videoassets/12996f6b-778d-4aa0-a588-b74caa53f0e2_reference_image_1.png",
+    "production/videoassets/12996f6b-778d-4aa0-a588-b74caa53f0e2_reference_image_2.png",
+    "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png"
+  ],
+  "styleSourceFiles": [
+    "style_sketch/Screenshot 2026-09-26 at 21.14.48.png",
+    "style_sketch/Screenshot 2026-09-26 at 21.14.18.png"
+  ],
+  "localFile": "images/gouache/return.png",
+  "prompt": "Paint an original 16:9 WATERCOLOR AND GOUACHE ANIMATION FRAME. Images 1 and 2 are the dominant STYLE references: loose handmade editorial fashion illustration, large angular translucent washes, granular warm-white paper visible BETWEEN brush marks, dry-brush edges, unfinished pencil construction, saturated tiny accent notes, realistic human proportions translated into bold simplified painted shapes. Image 3 is ONLY a loose guide to character identity, costume, action, camera framing and setting. Completely repaint it. REDUCE tiny architectural and fabric detail by 70 percent; don't trace or reproduce its photographic pixels. Broad expressive paint planes for faces, fully illustrated eyes/hair/skin; no photographic face or smooth realistic skin. Let peripheral scenery dissolve into reserved unpainted warm paper, without a regular border. Keep the emotional scene legible, both shoes properly formed, black high-top canvas sneaker design from image 3, never the running shoes or people from style references. SCENE: Luna, same 15-year-old face and low dark ponytail, charcoal oversized T-shirt, olive cargo trousers, sitting in the same attic now wearing the inherited black Converse pair, holding grandfather's photo, looking toward the doorway with a soft rediscovered smile. Preserve pose, stool, open shoebox, warm window, wooden beams and brick backdrop. Tender restraint, no crying, no added people. No text, arrows, circles, watermark, panels, UI or collage. No 3D rendering, no photo-realistic lighting/materials, no oil-painted photographic filter. It must visibly be hand-painted on PAPER.",
+  "submittedAt": "2026-09-26T19:26:21.194Z",
+  "response": {
+    "assets": [
+      {
+        "id": "ae5b17b4-fa59-4bb1-a7da-db2513a26729",
+        "type": "nano-banana-2",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  },
+  "reason": "First pass under-transformed the photographic anchors. Second pass prioritizes reference style, visible paper and broad brush planes."
+}

@@ -11,6 +11,23 @@ window.CONVERSE_I18N = {
     exploreProduction: "Luna, sa famille & décors réalistes ↗",
     exploreScenes: 'Six scènes & transitions vidéo ↗',
     exploreAnimatic: 'Comparer les trois montages · 76 s ↗',
+    exploreIllustrated: 'Dessiné · gouache & encre ↗',
+    openEditor: 'Monter nos meilleurs passages',
+    editorLocalNote: 'L’atelier de montage s’ouvre sur cet ordinateur. Le serveur local doit être lancé pour la lecture et l’export MP4.',
+    illustratedKicker: 'Atelier 10 · Donner une matière au souvenir',
+    illustratedTitle: 'Et si la mémoire se dessinait ?',
+    illustratedIntro: 'Les mêmes six moments, le casting retenu et la paire noire, réinterprétés à partir de vos références style_sketch et style_sketch2. Comparez la gouache sur papier à l’encre et aux hachures ; les essais animés explorent ensuite le mouvement dans la direction gouache.',
+    illustratedGouache: 'Gouache sur papier',
+    illustratedGouacheDetail: 'Lumière douce, aplats peints et bords inachevés. Six scènes pour éprouver la continuité des visages et de la matière.',
+    illustratedInk: 'Encre et hachures',
+    illustratedInkDetail: 'Traits expressifs, ombres dessinées et accents de couleur. Les mêmes scènes permettent une comparaison directe.',
+    illustratedMotion: 'Deux scènes en mouvement',
+    illustratedMotionDetail: 'Le terrain éprouve le mouvement du corps et du ballon ; le cadeau met les mains, le regard et l’émotion au premier plan. Essais de gouache animée avec Veo 3.1.',
+    illustratedMotionPending: 'Les deux essais animés sont en cours de génération. Les lecteurs apparaîtront après téléchargement et vérification des clips.',
+    illustratedGouacheSheet: 'Planche des six gouaches',
+    illustratedInkSheet: 'Planche des six dessins à l’encre',
+    illustratedRealisticLink: 'Revenir aux trois montages réalistes',
+    illustratedReview: 'À regarder : le dessin reste-t-il vivant pendant le geste ? Reconnaît-on les personnages et la même paire ? Ces études servent à choisir une direction ; les détails des chaussures et la continuité demandent encore une passe de finition.',
     animaticKicker: 'Atelier 09 · Trois modèles, une histoire',
     animaticTitle: 'La même histoire. Trois interprétations.',
     animaticIntro: 'AV02, AV03 et AV04 déclinent le scénario v3 en trois montages complets de 76 secondes : Seedance 2.5, Kling 3 Pro et Veo 3.1. Chaque modèle génère ses mouvements à partir des mêmes images de référence ; interface du téléphone, voix provisoires en anglais et musique sont partagées. AV01 conserve le premier montage du scénario v2 pour retrouver le chemin parcouru.',
@@ -122,7 +139,8 @@ window.CONVERSE_I18N = {
       hybrides: {label:'Pixel & hybrides', title:'Pixel, argile & hybridations', detail:'Quand les chaussures changent le monde.'},
       production: {label:'Personnages & décors', title:'Luna, sa famille & lieux', detail:'Références réalistes · Ateliers 05 & 07'},
       scenes: {label:'Scènes & transitions', title:'Les scènes prennent vie', detail:'Images clés et essais vidéo · Atelier 06'},
-      animatic: {label:'Animatiques', title:'Comparer les trois modèles', detail:'Scénario v3 · 3 × 76 secondes · AV01 conservé'}
+      animatic: {label:'Animatiques', title:'Comparer les trois modèles', detail:'Scénario v3 · 3 × 76 secondes · AV01 conservé'},
+      illustrated: {label:'Dessiné', title:'Le souvenir dessiné', detail:'Six scènes · Deux matières · Essais animés'}
     }
   },
   en: {
@@ -137,6 +155,23 @@ window.CONVERSE_I18N = {
     exploreProduction: "Luna, her family & realistic locations ↗",
     exploreScenes: 'Six scenes & video transitions ↗',
     exploreAnimatic: 'Compare the three cuts · 76 s ↗',
+    exploreIllustrated: 'Illustrated · gouache & ink ↗',
+    openEditor: 'Edit our best moments',
+    editorLocalNote: 'The editing workspace opens on this computer. The local server must be running for playback and MP4 export.',
+    illustratedKicker: 'Workshop 10 · Giving memories a texture',
+    illustratedTitle: 'What if memory were drawn?',
+    illustratedIntro: 'The same six moments, selected cast and black shoes, reinterpreted from your style_sketch and style_sketch2 references. Compare gouache on paper with ink and hatching; the motion tests then explore animation within the gouache direction.',
+    illustratedGouache: 'Gouache on paper',
+    illustratedGouacheDetail: 'Soft light, painted shapes and unfinished edges. Six scenes to explore consistency of faces and texture.',
+    illustratedInk: 'Ink and hatching',
+    illustratedInkDetail: 'Expressive lines, drawn shadows and colour accents. Matching scenes make the two treatments directly comparable.',
+    illustratedMotion: 'Two scenes in motion',
+    illustratedMotionDetail: 'The court tests body and ball movement; the gift focuses on hands, eye contact and emotion. Animated gouache tests with Veo 3.1.',
+    illustratedMotionPending: 'The two motion tests are being generated. Players will appear after the clips have been downloaded and checked.',
+    illustratedGouacheSheet: 'Six gouache frames',
+    illustratedInkSheet: 'Six ink frames',
+    illustratedRealisticLink: 'Back to the three realistic cuts',
+    illustratedReview: 'Look for a drawing that stays alive throughout the gesture, recognizable characters and a consistent pair of shoes. These studies help choose a direction; product details and continuity still need a finishing pass.',
     animaticKicker: 'Workshop 09 · Three models, one story',
     animaticTitle: 'The same story. Three interpretations.',
     animaticIntro: 'AV02, AV03 and AV04 turn script v3 into three complete 76-second cuts: Seedance 2.5, Kling 3 Pro and Veo 3.1. Each model generates its own motion from shared reference stills; the phone interface, temporary English voices and music are common to all three. AV01 preserves the first cut of script v2 as a record of the story’s development.',
@@ -248,7 +283,8 @@ window.CONVERSE_I18N = {
       hybrides: {label:'Pixel & hybrids', title:'Pixels, clay & hybrid styles', detail:'When the shoes change the world.'},
       production: {label:'Characters & locations', title:'Luna, her family & locations', detail:'Photographic references · Workshops 05 & 07'},
       scenes: {label:'Scenes & transitions', title:'The scenes come to life', detail:'Keyframes and motion tests · Workshop 06'},
-      animatic: {label:'Animatics', title:'Compare the three models', detail:'Script v3 · 3 × 76 seconds · AV01 preserved'}
+      animatic: {label:'Animatics', title:'Compare the three models', detail:'Script v3 · 3 × 76 seconds · AV01 preserved'},
+      illustrated: {label:'Illustrated', title:'Memories in drawing', detail:'Six scenes · Two media · Motion tests'}
     }
   }
 };

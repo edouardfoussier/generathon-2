@@ -1,6 +1,8 @@
 # Planche de sélection — Converse
 
-81 entrées sur la planche au 26 septembre 2026 : **77 images, 3 transitions vidéo et 1 animatique complète**. Le nouvel onglet **Animatique / Animatic** présente AV01 : 76 secondes, 26 plans, musique originale et voix anglaise. [Notes du montage](../animatic-v1/README.md). Les images sont générées avec Nano Banana 2 dans Arcads ; les vidéos avec Kling 3 Pro. Les 67 images des ateliers 01–05 comprennent : 6 enfants, 4 grands-pères, 4 paires, 3 greniers déclinés sous 2 lumières, une scène commune et huit styles graphiques, puis 13 tests issus des pistes de l’équipe et 8 tests de pixel art, matières hybrides et changement de style. L’atelier 05 ajoute 17 références réalistes autour de Luna, G01 et D06.
+98 entrées : **89 images, 5 clips courts et 4 montages complets**. Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
+
+Le nouvel [atelier Cut Room](../editor/README.md) permet de comparer les trois pistes, choisir des passages et exporter le montage. Depuis la racine du dépôt, lancer `python3 creative/editor/server.py`, puis ouvrir http://127.0.0.1:8787/. Il fonctionne localement ; les coéquipiers échangent leurs montages via les fichiers JSON.
 
 Pour servir la planche par HTTP, servir la **racine du dépôt**, puis ouvrir `/creative/selection/?category=animatic`, afin que le dossier voisin `creative/animatic-v1/` soit accessible. L’ouverture directe du fichier HTML reste possible.
 

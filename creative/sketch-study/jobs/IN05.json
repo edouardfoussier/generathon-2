@@ -1,0 +1,27 @@
+{
+  "code": "IN05",
+  "style": "ink",
+  "scene": "gift",
+  "title": {
+    "fr": "Le cadeau à sa fille",
+    "en": "A gift to his daughter"
+  },
+  "styleName": {
+    "fr": "Encre et hachures",
+    "en": "Ink and hatching"
+  },
+  "source": "creative/model-comparison-v3/shared/stills/gift.png",
+  "referenceImages": [
+    "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+    "external-api-temp-uploads/d1fc2060-4ed0-4654-9a0b-f8532f32dd37.png"
+  ],
+  "styleSourceFiles": [
+    "style_sketch2/Screenshot 2026-09-26 at 21.13.59.png"
+  ],
+  "localFile": "images/ink/gift.png",
+  "prompt": "Transform IMAGE 1 into a finished 16:9 animated-film keyframe. Image 1 controls ONLY narrative composition, exact character identity, clothing and product geometry; images 2 onward control ONLY the drawing/painting technique. Do not copy characters, sneakers, outfits or interface icons from the style references. Contemporary hand-drawn ink illustration on warm white paper. Confident slightly uneven navy-black contour lines, closely spaced directional pen hatching in every shadow, broad flat muted mauve, tobacco, cream and olive color blocks, deliberate graphic perspective, restrained electric yellow accent only in reflected light. Preserve natural recognizable character facial features interpreted through elegant economical linework. Flat cel-shaded planes, visible paper grain, no photorealism, no watercolor smearing, no 3D. A cinematic editorial graphic-novel frame. SCENE: 1995. Rafa at 41 sits on the right, light blue rolled-sleeve shirt, dark trousers, brown house shoes, offering one worn BLACK high-top Converse in both hands to his smiling sixteen-year-old daughter seated left in blue denim and white socks. Their exact faces, father-daughter relation, separation and gestures match image 1. Second black shoe on the floor. Warm domestic brick living room, window at left. His daughter will become Luna's mother. Render the whole frame in this medium with cinematic depth and meaningful empty space, no page border, collage, panels, title, watermark, signature, social-media icons, arrows or screen UI. Preserve black classic high-top canvas shoe design; never replace it with the colorful low-top running shoes in a style example.",
+  "submittedAt": "2026-09-26T19:23:23.631Z",
+  "response": {
+    "error_code": "INVALID_ARGUMENT"
+  }
+}

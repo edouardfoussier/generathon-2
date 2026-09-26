@@ -1,0 +1,100 @@
+{
+  "images": [
+    {
+      "code": "GA01",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "GA02",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "GA03",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "GA04",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "GA05",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "GA06",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "IN01",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "IN02",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "IN03",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "IN04",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "IN05",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    },
+    {
+      "code": "IN06",
+      "width": 2752,
+      "height": 1536,
+      "decode": "pass"
+    }
+  ],
+  "videos": [
+    {
+      "code": "GV01",
+      "duration": 8.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "24/1",
+      "videoCodec": "h264",
+      "bytes": 9432693,
+      "decode": "pass",
+      "sampleContactSheet": "qa/GV01-contact-sheet.jpg"
+    },
+    {
+      "code": "GV02",
+      "duration": 8.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "24/1",
+      "videoCodec": "h264",
+      "bytes": 29302205,
+      "decode": "pass",
+      "sampleContactSheet": "qa/GV02-contact-sheet.jpg"
+    }
+  ]
+}

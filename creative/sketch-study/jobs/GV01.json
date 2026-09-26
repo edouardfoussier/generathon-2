@@ -1,0 +1,23 @@
+{
+  "code": "GV01",
+  "scene": "court",
+  "title": {
+    "fr": "Gouache animée — Le terrain",
+    "en": "Animated gouache — The court"
+  },
+  "startFrame": "production/videoassets/110c98fc-5871-497b-b3e4-bf68f49adb58.png",
+  "localFile": "videos/gouache-court-veo31.mp4",
+  "poster": "images/gouache/court.png",
+  "prompt": "An eight-second HAND-PAINTED 2D WATERCOLOR AND GOUACHE ANIMATION, matching the opening drawing throughout. Rafa, the same sixteen-year-old boy, bounces the basketball once, gathers it with both hands, pivots his black high-top sneakers toward the hoop at screen left, then makes one small controlled jump shot. He lands naturally on both feet and watches the ball. A gentle lateral camera drift keeps his entire body, shoes and hoop in frame. Animate real limb articulation and the single ball, not a static zoom. Broad translucent brush shapes redraw on twos, subtle dry-brush motion accents on the fast ball, warm textured paper and unfinished painted edges remain visible, architecture holds steady. Same face, white tank, navy shorts, striped white socks, BLACK classic high-top canvas shoes. Preserve the loose painted medium; never become live action, polished 3D or glossy anime. One continuous shot, no scene change, captions, added people or dialogue. Only a restrained ball bounce and shoe squeak, no music.",
+  "submittedAt": "2026-09-26T19:28:02.271Z",
+  "response": {
+    "assets": [
+      {
+        "id": "ee7804f8-b162-47bc-baf5-55df80a2de8d",
+        "type": "veo31",
+        "status": "pending",
+        "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+      }
+    ]
+  }
+}
