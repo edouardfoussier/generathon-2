@@ -1,0 +1,162 @@
+{
+  "model": "Kling 3 Pro",
+  "complete": true,
+  "generatedMotionSeconds": 68,
+  "sharedEditorialSeconds": 8,
+  "totalEditSeconds": 76,
+  "shots": [
+    {
+      "id": "B01",
+      "file": "creative/model-comparison-v3/kling3/videos/B01.mp4",
+      "assetId": "f89794f7-38ad-480f-84ad-87b4e56f7517",
+      "start": 1,
+      "source_in_seconds": 0,
+      "duration": 5,
+      "qa": "Six sampled frames: slow doorway push into stable attic. Door begins open; readable POV entry, no character visible."
+    },
+    {
+      "id": "B02",
+      "file": "creative/model-comparison-v3/kling3/videos/B02.mp4",
+      "assetId": "7abb1290-16c7-427a-b99e-680b25e5334a",
+      "start": 6,
+      "source_in_seconds": 0,
+      "duration": 4,
+      "qa": "Six sampled frames: stable Luna and attic. Her foot nudges the shoebox into foreground; the box travels farther than a subtle nudge, but motion is readable. No face close-up."
+    },
+    {
+      "id": "B03",
+      "file": "creative/model-comparison-v3/kling3/videos/B03.mp4",
+      "assetId": "387b0e51-0143-42ad-8fb0-7c3d5232ac61",
+      "start": 10,
+      "source_in_seconds": 0,
+      "duration": 5,
+      "qa": "Six sampled frames: exactly two shoes stay in the open box; one photo is picked up with a natural hand. Shoe wear stable. Photo details are small; readable R.M. and photo-back lettering still require the shared editorial treatment."
+    },
+    {
+      "id": "B05",
+      "file": "creative/model-comparison-v3/kling3/videos/B05.mp4",
+      "assetId": "7ba0cf42-efac-4a26-97b3-61bf99147809",
+      "start": 22,
+      "source_in_seconds": 0,
+      "duration": 4,
+      "qa": "Six sampled frames: lace pull and natural shoe step; no extra limbs. Cream wear/repair marks differ subtly from final macro, as in shared anchors."
+    },
+    {
+      "id": "B06",
+      "file": "creative/model-comparison-v3/kling3/videos/B06.mp4",
+      "assetId": "4503b557-7a7d-4751-9b10-67ea045d1b6d",
+      "start": 26,
+      "source_in_seconds": 0,
+      "duration": 3,
+      "qa": "Six sampled frames: stable shoes, clean sole landing and camera rise. First3s usable; younger shoe has plain outer side and no cream repair."
+    },
+    {
+      "id": "B07A",
+      "file": "creative/model-comparison-v3/kling3/videos/B07A.mp4",
+      "assetId": "4a4186a2-c494-4692-bff1-47e47485534b",
+      "start": 29,
+      "source_in_seconds": 0,
+      "duration": 3.5,
+      "qa": "Six sampled frames: natural gather, jump and offscreen shot; ball exits upper frame. Use first3.5s. Follows visible hoop at left only as background, not basket result."
+    },
+    {
+      "id": "B07B",
+      "file": "creative/model-comparison-v3/kling3/videos/B07B.mp4",
+      "assetId": "db56d1f8-3268-4f26-a428-747db0e3b9e9",
+      "start": 32.5,
+      "source_in_seconds": 0.25,
+      "duration": 1.5,
+      "qa": "Six sampled frames: single ball drops through hoop/net and exits. Use0.25–1.75s to include result within1.5s slot."
+    },
+    {
+      "id": "B07C",
+      "file": "creative/model-comparison-v3/kling3/videos/B07C.mp4",
+      "assetId": "a70340ec-8a57-48eb-98fd-b19e5d539879",
+      "start": 34,
+      "source_in_seconds": 2,
+      "duration": 2,
+      "qa": "Six sampled frames: stable face and progressive pleased smile. Use source2.0–4.0s for the smile payoff."
+    },
+    {
+      "id": "B08",
+      "file": "creative/model-comparison-v3/kling3/videos/B08.mp4",
+      "assetId": "0624f1ce-1d00-413f-a604-1b6cacbb1dfc",
+      "start": 36,
+      "source_in_seconds": 0,
+      "duration": 3,
+      "qa": "Six sampled frames: black/red sneakers remain separate and coherent; compact toe tap and salsa footwork. No morph transition is baked in; cut matches previous shoe shot."
+    },
+    {
+      "id": "B09",
+      "file": "creative/model-comparison-v3/kling3/videos/B09.mp4",
+      "assetId": "8686fc4b-6f3a-4a63-9c11-08fc26881952",
+      "start": 39,
+      "source_in_seconds": 0,
+      "duration": 8,
+      "qa": "Six sampled frames: stable couple, hand invitation, hand contact and a small synchronized dance step. Full8s usable; faces and black/red shoes remain coherent. Dance is deliberately restrained rather than big choreography."
+    },
+    {
+      "id": "B10",
+      "file": "creative/model-comparison-v3/kling3/videos/B10.mp4",
+      "assetId": "4f70f9f7-2298-4b23-9249-d38817e2a5c3",
+      "start": 47,
+      "source_in_seconds": 0,
+      "duration": 4,
+      "qa": "Six sampled frames: newlyweds exchange smiles with stable faces, clothes and period street. Wide-to-closer drift rather than literal shoe-to-face tilt."
+    },
+    {
+      "id": "B11",
+      "file": "creative/model-comparison-v3/kling3/videos/B11.mp4",
+      "assetId": "d9bcef31-d700-471d-877a-db916f252487",
+      "start": 51,
+      "source_in_seconds": 0,
+      "duration": 4,
+      "qa": "Six sampled frames: securely held single newborn and affectionate parents. Baby/finger contact remains small in frame; no detailed hand macro."
+    },
+    {
+      "id": "B12",
+      "file": "creative/model-comparison-v3/kling3/videos/B12.mp4",
+      "assetId": "b5522a66-3360-4c45-bd58-24b3a6d6c79a",
+      "start": 55,
+      "source_in_seconds": 0,
+      "duration": 8,
+      "qa": "Six sampled frames: clear offer, shoe lowered to daughter's foot, father kneels and tends the laces, then shared smile. One shoe remains on daughter and one sock visible; good emotional continuity over8s."
+    },
+    {
+      "id": "B13",
+      "file": "creative/model-comparison-v3/kling3/videos/B13.mp4",
+      "assetId": "9e7bc79d-8446-432e-95bc-fe4fedfe1721",
+      "start": 63,
+      "source_in_seconds": 0,
+      "duration": 3,
+      "qa": "Six sampled frames: stable Luna face and restrained look toward doorway, slight natural lip movement late. First3s usable."
+    },
+    {
+      "id": "B14A",
+      "file": "creative/model-comparison-v3/kling3/videos/B14A.mp4",
+      "assetId": "4c69fd34-7bcf-4663-bca7-8ef660358668",
+      "start": 66,
+      "source_in_seconds": 0,
+      "duration": 4,
+      "qa": "Six sampled frames: Luna returns one photo to the box, turns toward doorway and smiles. Mouth is small/profile; exact dialogue sync is not guaranteed."
+    },
+    {
+      "id": "B14B",
+      "file": "creative/model-comparison-v3/kling3/videos/B14B.mp4",
+      "assetId": "01a90309-c6c7-4553-8fa4-167a992ab5f3",
+      "start": 70,
+      "source_in_seconds": 2,
+      "duration": 2,
+      "qa": "Six sampled frames: stable mother face, smile appears at2.4s. Use source2.0–4.0s for final reaction."
+    },
+    {
+      "id": "B15",
+      "file": "creative/model-comparison-v3/kling3/videos/B15.mp4",
+      "assetId": "bc54658e-a436-4029-b028-9aaa25be4d98",
+      "start": 72,
+      "source_in_seconds": 0,
+      "duration": 4,
+      "qa": "Six sampled frames: one short step then stable ending hold, with clear left-side negative space for title. Plain outer side remains coherent and far inner badge is visible. Small cream repair is partly occluded by motion."
+    }
+  ]
+}

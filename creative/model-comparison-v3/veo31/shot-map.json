@@ -1,0 +1,163 @@
+{
+  "model": "veo31",
+  "complete": true,
+  "sourceClips": 17,
+  "sourceDurationSeconds": 136,
+  "timelineMotionSeconds": 68,
+  "creditsCharged": 14400,
+  "shots": [
+    {
+      "id": "B01",
+      "file": "creative/model-comparison-v3/veo31/videos/B01.mp4",
+      "assetId": "ce93c007-0d86-4788-a0c6-57462960a8a6",
+      "source_in_seconds": 0,
+      "duration": 5,
+      "start": 1,
+      "QA": "Doorway advances clearly; dust effect becomes heavier than natural airborne dust. Exploratory cut."
+    },
+    {
+      "id": "B02",
+      "file": "creative/model-comparison-v3/veo31/videos/B02.mp4",
+      "assetId": "e77eac49-6357-4315-8b47-be51bbb5c54c",
+      "source_in_seconds": 0,
+      "duration": 4,
+      "start": 6,
+      "QA": "Clear box nudge and downward glance; mild performance."
+    },
+    {
+      "id": "B03",
+      "file": "creative/model-comparison-v3/veo31/videos/B03.mp4",
+      "assetId": "1d114885-48e8-4ab0-87fc-3ef90cae1c52",
+      "source_in_seconds": 0,
+      "duration": 5,
+      "start": 10,
+      "QA": "Single adjacent photograph picked up cleanly, two shoes remain in open box. Blank source photo margin requires editorial name/date."
+    },
+    {
+      "id": "B05",
+      "file": "creative/model-comparison-v3/veo31/videos/B05.mp4",
+      "assetId": "9707efc8-52c5-4fb8-af56-d084e1c9ff08",
+      "source_in_seconds": 0,
+      "duration": 4,
+      "start": 22,
+      "QA": "Laces pull and feet settle with stable clothing and shoe construction."
+    },
+    {
+      "id": "B06",
+      "file": "creative/model-comparison-v3/veo31/videos/B06-R1.mp4",
+      "assetId": "44a5e923-c13e-49ce-9431-a24eee5a0b99",
+      "source_in_seconds": 0,
+      "duration": 3,
+      "start": 26,
+      "QA": "Corrected clip accepted: plain outer near ankle preserved. Use 0–3 s for foot placement."
+    },
+    {
+      "id": "B07A",
+      "file": "creative/model-comparison-v3/veo31/videos/B07A.mp4",
+      "assetId": "a1aac944-2700-4943-bf98-dedde3aed547",
+      "source_in_seconds": 0,
+      "duration": 3.5,
+      "start": 29,
+      "QA": "Use 0–3.5 s for set and jump release. Exclude later prolonged hang/landing."
+    },
+    {
+      "id": "B07B",
+      "file": "creative/model-comparison-v3/veo31/videos/B07B.mp4",
+      "assetId": "524cc899-f56e-483f-a9e8-0ac39bf6e47e",
+      "source_in_seconds": 0,
+      "duration": 1.5,
+      "start": 32.5,
+      "QA": "Ball passes through net within first 1.5 s."
+    },
+    {
+      "id": "B07C",
+      "file": "creative/model-comparison-v3/veo31/videos/B07C.mp4",
+      "assetId": "4c55bf2a-8d4d-4833-bccc-f6e84692e7e6",
+      "source_in_seconds": 0,
+      "duration": 2,
+      "start": 34,
+      "QA": "Private grin reads clearly within first 2 s."
+    },
+    {
+      "id": "B08",
+      "file": "creative/model-comparison-v3/veo31/videos/B08.mp4",
+      "assetId": "e0fbe4e6-a7d2-4a6e-a01d-1f4f910b0160",
+      "source_in_seconds": 0,
+      "duration": 3,
+      "start": 36,
+      "QA": "Separate black and red shoes maintain legibility; footwork leads into dance."
+    },
+    {
+      "id": "B09",
+      "file": "creative/model-comparison-v3/veo31/videos/B09.mp4",
+      "assetId": "121b268e-2312-412a-b583-63a9077c52be",
+      "source_in_seconds": 0,
+      "duration": 8,
+      "start": 39,
+      "QA": "Full 8 s captures hand contact and relaxed dance."
+    },
+    {
+      "id": "B10",
+      "file": "creative/model-comparison-v3/veo31/videos/B10.mp4",
+      "assetId": "240bea48-1e1d-4d7f-9afd-7317361cd016",
+      "source_in_seconds": 2,
+      "duration": 4,
+      "start": 47,
+      "QA": "Use 2–6 s for joined hands and smiles, avoiding early awkward lifted leg."
+    },
+    {
+      "id": "B11",
+      "file": "creative/model-comparison-v3/veo31/videos/B11.mp4",
+      "assetId": "c451f195-40bc-4ca9-8cd9-631f91e7f772",
+      "source_in_seconds": 0.5,
+      "duration": 4,
+      "start": 51,
+      "QA": "Securely held newborn, tender parental lean. Use 0.5–4.5 s."
+    },
+    {
+      "id": "B12",
+      "file": "creative/model-comparison-v3/veo31/videos/B12.mp4",
+      "assetId": "dfe76d3c-3317-45cc-870f-f04003bae3c3",
+      "source_in_seconds": 0,
+      "duration": 8,
+      "start": 55,
+      "QA": "Full handover, kneeling and shoe fit succeed; preserve full 8 s."
+    },
+    {
+      "id": "B13",
+      "file": "creative/model-comparison-v3/veo31/videos/B13.mp4",
+      "assetId": "7c5a74b2-e3a1-46af-b6f2-d83c87577738",
+      "source_in_seconds": 0,
+      "duration": 3,
+      "start": 63,
+      "QA": "Blink and look toward doorway visible within first 3 s."
+    },
+    {
+      "id": "B14A",
+      "file": "creative/model-comparison-v3/veo31/videos/B14A.mp4",
+      "assetId": "2b22e557-c5f0-4751-906e-296891248486",
+      "source_in_seconds": 0,
+      "duration": 4,
+      "start": 66,
+      "QA": "Generated internal cut from wide to close; use first 4 s. Subsequent talking excluded."
+    },
+    {
+      "id": "B14B",
+      "file": "creative/model-comparison-v3/veo31/videos/B14B.mp4",
+      "assetId": "751885c6-3d26-4ffc-8514-3ca686944466",
+      "source_in_seconds": 2,
+      "duration": 2,
+      "start": 70,
+      "QA": "Use 2–4 s for warm smile, before late speaking gesture."
+    },
+    {
+      "id": "B15",
+      "file": "creative/model-comparison-v3/veo31/videos/B15.mp4",
+      "assetId": "ea94945b-ddbc-428b-b6fb-cf652db7cdc8",
+      "source_in_seconds": 0,
+      "duration": 4,
+      "start": 72,
+      "QA": "Calm step then stable product composition. Cream repair preserved; left space for title."
+    }
+  ]
+}

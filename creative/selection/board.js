@@ -227,8 +227,8 @@
   function animaticContent(items) {
     return '<div class="production-pitch"><p class="eyebrow">' + t('animaticKicker') + '</p><h3>' +
       t('animaticTitle') + '</h3><p>' + t('animaticIntro') + '</p><nav class="production-jumps"><a href="' +
-      'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-cinematic-script-v2.md" target="_blank" rel="noopener noreferrer">' +
-      t('openScript') + ' ↗</a><a href="https://github.com/edouardfoussier/generathon-2/blob/main/creative/animatic-v1/README.md" target="_blank" rel="noopener noreferrer">' +
+      'https://github.com/edouardfoussier/generathon-2/blob/main/creative/converse-cinematic-script-v3.md" target="_blank" rel="noopener noreferrer">' +
+      t('animaticScript') + ' ↗</a><a href="https://github.com/edouardfoussier/generathon-2/blob/main/creative/model-comparison-v3/README.md" target="_blank" rel="noopener noreferrer">' +
       t('animaticGuide') + ' ↗</a></nav></div><div class="grid animatic-grid">' + items.map(card).join('') +
       '</div><p class="production-footnote">' + t('animaticReview') + '</p>';
   }

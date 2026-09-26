@@ -1,0 +1,21 @@
+{
+  "creditBalanceBefore": 42998,
+  "creditBalanceAfter": 16350,
+  "totalCredits": 26648,
+  "models": {
+    "seedance25": 8112,
+    "kling3": 3856,
+    "veo31": 14400
+  },
+  "shared": {
+    "images": 224,
+    "audio": 56,
+    "transcription": 0
+  },
+  "motionJobs": 52,
+  "selectedMotionJobs": 51,
+  "sharedImageJobs": 14,
+  "sharedSelectedAnchors": 12,
+  "corrections": "Two shared image corrections; one Veo court-shoe correction.",
+  "concurrency": "Three model workers active in parallel; batches of up to three submission calls per worker. Official Arcads service concurrency maximum was not disclosed; no maximum inferred from this successful run."
+}

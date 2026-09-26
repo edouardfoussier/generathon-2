@@ -1,0 +1,20 @@
+{
+  "shotId": "B07B",
+  "assetId": "3c00a390-e1be-4d6e-8336-5e8f64809077",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 4,
+  "anchor": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+  "prompt": "Use reference image 1 as the exact opening composition. Locked upward view of the basketball hoop. One orange basketball descends cleanly through the hoop and net. Net recoils then settles, ball exits bottom. Realistic gravity, one ball, no extra hoop or player. Short clean swish insert. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:16:31.017Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 416,
+  "lastCheckedAt": "2026-09-26T18:23:54.923Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B07B.mp4",
+  "source_in_seconds": 0.625,
+  "qa": "One ball passes through net with plausible recoil. Use 0.625\u20132.125 seconds to keep descent and exit inside the 1.5-second insert.",
+  "qaStatus": "sampled_frames_approved"
+}

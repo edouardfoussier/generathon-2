@@ -1,0 +1,186 @@
+{
+  "jobs": [
+    {
+      "code": "entry",
+      "referenceImages": [
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png"
+      ],
+      "prompt": "Interior attic viewed through a half-open wooden door from an arriving person's eye level. Match the referenced actual brick attic, roof rafters, left dormer window, warm diffuse light. Old cardboard boxes clutter a navigable path. Foreground door edge screen right. No people, no shoes as centerpiece, no lettering. One cinematic photorealistic 16:9 frame, muted warm natural color, 35mm lens.",
+      "status": "generated",
+      "assetId": "ff33d75a-e539-468f-aa88-ac38439b23d6",
+      "arcadsPath": "production/videoassets/ff33d75a-e539-468f-aa88-ac38439b23d6.png",
+      "creditsCharged": 16,
+      "localFile": "stills/entry.png",
+      "selected": true
+    },
+    {
+      "code": "annoyed",
+      "referenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png"
+      ],
+      "prompt": "Reframe the selected girl in the exact same brick attic. Full body, standing among old cardboard boxes, looking down with mild annoyance. Charcoal oversized tee, olive baggy cargo trousers, dark curly low ponytail, same young face. She wears simple dark low sneakers before finding inherited shoes. At her foot is ONE closed old plain cardboard shoe box. Left window daylight, wide35mm photoreal16:9. No funeral portrait, no sign, no text.",
+      "status": "generated",
+      "assetId": "41280ae9-0253-48b3-842a-f8c2d84e1106",
+      "arcadsPath": "production/videoassets/41280ae9-0253-48b3-842a-f8c2d84e1106.png",
+      "creditsCharged": 16,
+      "localFile": "stills/annoyed.png",
+      "selected": true
+    },
+    {
+      "code": "discovery",
+      "referenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+        "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png"
+      ],
+      "prompt": "Photorealistic overhead close-up in the attic. Girl's hands lifting lid off an old plain cardboard shoebox. Inside exactly TWO worn black high-top Converse with ivory rubber and laces, small cream outer repair; circular badges only on inner ankle. A single faded cream-bordered photograph lies beside shoes, showing the exact teen boy with basketball from reference3. Small handwritten R.M. on exposed inside tongue, not on outer canvas. On photo border small Rafa — 1970 handwriting. Tactile paper, natural left window light. No funeral card or other portraits, no extra shoes. One coherent16:9film frame.",
+      "status": "generated",
+      "assetId": "78423fc4-fc3c-4a08-9706-181361ea488c",
+      "arcadsPath": "production/videoassets/78423fc4-fc3c-4a08-9706-181361ea488c.png",
+      "creditsCharged": 16,
+      "localFile": "stills/discovery.png",
+      "selected": false
+    },
+    {
+      "code": "donning",
+      "referenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png"
+      ],
+      "prompt": "Photorealistic close-up below girl's knees while she sits in attic. Olive cargo hems, her feet now BOTH inside same black high-top pair, laces still loose; two hands poised to pull right lace ends. Right shoe outer side faces camera, plain black canvas with small cream rectangle repair near sole. Inner circular badge never on outside. Natural hands and exactly two feet, left window light, shallow depth,16:9.",
+      "status": "generated",
+      "assetId": "017ccace-f564-4e17-94a7-78bb18e51e65",
+      "arcadsPath": "production/videoassets/017ccace-f564-4e17-94a7-78bb18e51e65.png",
+      "creditsCharged": 16,
+      "localFile": "stills/donning.png",
+      "selected": true
+    },
+    {
+      "code": "net",
+      "referenceImages": [
+        "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png"
+      ],
+      "prompt": "Photorealistic upward 50mm shot of a single old playground basketball hoop on weathered rectangular backboard in the same 1970 Bronx court. Chainlink and brick tenements blurred behind, warm late sun. One orange basketball in the air just above the rim, about to descend. Coherent natural scale, no player, no letters,16:9.",
+      "status": "generated",
+      "assetId": "d1b89564-064e-41e6-b2f8-ad899cbd8aaf",
+      "arcadsPath": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+      "creditsCharged": 16,
+      "localFile": "stills/net.png",
+      "selected": true
+    },
+    {
+      "code": "dancefeet",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+      ],
+      "prompt": "Reframe reference at shoe height, same1977dance hall wood floor red-purple amber light. On screen left MAN'S black canvas HIGH-TOP Converse under brown flared trousers, plain outer ankle facing camera. On right WOMAN'S RED canvas HIGH-TOP Converse under violet dress hem, ivory rubber and ivory laces. Exactly two natural legs perperson, no high heels. Shoes about to gently touch toes. Photorealistic16:9 close-up.",
+      "status": "generated",
+      "assetId": "21bd5fc1-30b3-4728-822b-0cd08712b21c",
+      "arcadsPath": "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+      "creditsCharged": 16,
+      "localFile": "stills/dancefeet.png",
+      "selected": true
+    },
+    {
+      "code": "dance",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+      ],
+      "prompt": "Preserve exact two adult characters, faces, rust shirt, brown flared trousers, violet dress, camera and1977room. Change footwear only: woman's shoes are RED CANVAS HIGH-TOP Converse with ivory rubber toe and sole, white laces. Man wears BLACK CANVAS HIGH-TOP Converse, NOT low-tops. Both round badges only innerankle, outer sides plain. She offers hand, both slightly shy smiles, full body16:9 photorealism.",
+      "status": "generated",
+      "assetId": "1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3",
+      "arcadsPath": "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+      "creditsCharged": 16,
+      "localFile": "stills/dance.png",
+      "selected": true
+    },
+    {
+      "code": "wedding",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+      ],
+      "prompt": "1978 wedding portrait single cinematic16:9 shot, exact young adult couple faces fromreference aged onlyone year. Manwears simple dark1970swedding suit ivory shirt and BLACK CANVAS HIGH-TOP Converse visible under trousers; womanwears modest long ivory wedding dress, short veil, small bouquet. Joinedhands and shy happy smiles, fullbody. Small Bronx townhall wooddoorway warm afternoon, editorial35mm realism, no crowds, no writing.",
+      "status": "generated",
+      "assetId": "24d87a84-1924-42df-87c1-412401d020b6",
+      "arcadsPath": "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "creditsCharged": 16,
+      "localFile": "stills/wedding.png",
+      "selected": true
+    },
+    {
+      "code": "baby",
+      "referenceImages": [
+        "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png"
+      ],
+      "prompt": "Same exact adult couple faces, two years older in1979. Cozy modest Bronx apartment brick, warm sidewindow. Youngfather seated woodrockingchair in ivory tee and brown trousers, inherited BLACK HIGH-TOP canvas sneakers visible. He cradles ONE securelywrapped newborn daughter, motherinviolet casualblouse leansbeside him. Baby's tinyhandaroundhisfinger. Intimate full scene, warmphotorealistic16:9, calm tenderness, no text, no infant shoes.",
+      "status": "generated",
+      "assetId": "7be5c72f-3925-4b17-8d78-cc6c8d93f9e3",
+      "arcadsPath": "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "creditsCharged": 16,
+      "localFile": "stills/baby.png",
+      "selected": true
+    },
+    {
+      "code": "gift",
+      "referenceImages": [
+        "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png"
+      ],
+      "prompt": "Recreate exact father age41 and teenagedaughter16 in reference, samefaces, hair, denimoutfit, father'spale blue shirt,1995room. BEFORE kneeling: father sits or leansat right, holdingout the worn black high-top pair as a gift toward daughter seatedat left. Girlwearswhitesocks, NO shoes on herfeet yet. Exactlyonepair in father'shands. Small creamrepairnearoutersole, inneranklebadgesonly. Genuinepractical affection,mediumwide16:9, naturalphoto no writing.",
+      "status": "generated",
+      "assetId": "e0860c3e-0c24-42af-b0b6-60b7db257d33",
+      "arcadsPath": "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "creditsCharged": 16,
+      "localFile": "stills/gift.png",
+      "selected": true
+    },
+    {
+      "code": "return",
+      "referenceImages": [
+        "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+        "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png"
+      ],
+      "prompt": "Same exact Luna in samebrickattic, charcoaltee olivecargoslowponytail. Sheis seatedbeside plaincardboardshoebox nowopen on stool, ONEfadedbasketphotograph held in hand abovethebox. Bothfeet alreadywear inheritedblackhightops. Threequartermediumshot framinghandsandface, shelooks towarddoor screenright withsoftcurioussmile. No funeralportraits,noadditionalshoes. Warmnatural16:9cinematicphotograph.",
+      "status": "generated",
+      "assetId": "1e95852e-725e-4e53-8552-fd3c69baf9f4",
+      "arcadsPath": "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+      "creditsCharged": 16,
+      "localFile": "stills/return.png",
+      "selected": true
+    },
+    {
+      "code": "end",
+      "referenceImages": [
+        "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+        "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png"
+      ],
+      "prompt": "Lowwide cinematicphotograph samegirl'sfeet in inheritedwornBLACKhigh-topConverse withcreamouterrepair andolivecargopanthems, screenRIGHT in attic. Plainvisibleouterankles, roundbadgesonlyinner. Onefoot readyto step forwardnaturally. LEFT HALF of16:9frame quietdarkwoodfloor withsoftlightfalloff forlatergraphic overlay, nolettersorgraphics. Crisp tactilecanvasivoryrubber, diffusedaylighthero productshot.",
+      "status": "generated",
+      "assetId": "c925b40f-2624-4b57-a205-93d3cb3a979f",
+      "arcadsPath": "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+      "creditsCharged": 16,
+      "localFile": "stills/end.png",
+      "selected": true
+    },
+    {
+      "code": "discovery-v2",
+      "assetId": "6df2f319-b54d-4c0d-aabf-32e07e6b536f",
+      "status": "generated",
+      "arcadsPath": "production/videoassets/6df2f319-b54d-4c0d-aabf-32e07e6b536f.png",
+      "localFile": "stills/discovery-v2.png",
+      "creditsCharged": 16,
+      "selected": false
+    },
+    {
+      "code": "discovery-final",
+      "assetId": "05fc3f4b-2419-45de-a201-7b4d054b90dd",
+      "status": "generated",
+      "arcadsPath": "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+      "localFile": "stills/discovery-final.png",
+      "creditsCharged": 16,
+      "selected": true
+    }
+  ],
+  "creditsCharged": 224
+}

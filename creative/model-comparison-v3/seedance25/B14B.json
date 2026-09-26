@@ -1,0 +1,20 @@
+{
+  "shotId": "B14B",
+  "assetId": "cbc9e605-6745-4617-88c7-4f6fb7e59bda",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 4,
+  "anchor": "production/videoassets/2ea5aa34-d314-4cbf-aee0-296280c49853.png",
+  "prompt": "Use reference image 1 as the exact opening composition. Close-up of the girl's middle-aged mother near the attic doorway. She hears her daughter and slowly smiles with recognition and tenderness. Subtle eyes and breath, no dialogue. Preserve face, navy cardigan, silver hoops. A quiet moment before the endline. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:13:35.195Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 416,
+  "lastCheckedAt": "2026-09-26T18:20:01.769Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B14B.mp4",
+  "source_in_seconds": 2,
+  "qa": "Mother face stable with natural tender smile. Use last two seconds rather than delayed opening.",
+  "qaStatus": "sampled_frames_approved"
+}

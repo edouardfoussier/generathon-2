@@ -1,0 +1,20 @@
+{
+  "shotId": "B12",
+  "assetId": "8a341980-86ba-451f-89e0-036ea7ec2abd",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 8,
+  "anchor": "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+  "prompt": "Use reference image 1 as the exact opening composition. Father offers the worn black high-top pair to his teenage daughter. She smiles and sits, slips one foot into the open shoe. He kneels and gently straightens the tongue and pulls one lace snug. Two connected natural actions, clear tender handover, no new pair appears. Preserve identities and 1995 clothes. End on their exchanged smile. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:17:05.077Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 832,
+  "lastCheckedAt": "2026-09-26T18:23:54.887Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B12.mp4",
+  "source_in_seconds": 0,
+  "qa": "Readable handover followed by fitting and lace adjustment; model creates native wide\u2192shoe close-up\u2192smiles cuts within one clip. Some shoe scuff/repair details drift.",
+  "qaStatus": "sampled_frames_usable_with_caveats"
+}

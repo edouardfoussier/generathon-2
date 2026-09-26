@@ -1,0 +1,164 @@
+[
+  {
+    "id": "B01",
+    "file": "videos/B01.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 24981874
+  },
+  {
+    "id": "B02",
+    "file": "videos/B02.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 11349219
+  },
+  {
+    "id": "B03",
+    "file": "videos/B03.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 7990335
+  },
+  {
+    "id": "B05",
+    "file": "videos/B05.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 14883707
+  },
+  {
+    "id": "B06-R1",
+    "file": "videos/B06-R1.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 13944778
+  },
+  {
+    "id": "B06",
+    "file": "videos/B06.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 11489957
+  },
+  {
+    "id": "B07A",
+    "file": "videos/B07A.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 22859513
+  },
+  {
+    "id": "B07B",
+    "file": "videos/B07B.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 10572540
+  },
+  {
+    "id": "B07C",
+    "file": "videos/B07C.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 9781993
+  },
+  {
+    "id": "B08",
+    "file": "videos/B08.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 9647843
+  },
+  {
+    "id": "B09",
+    "file": "videos/B09.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 15940958
+  },
+  {
+    "id": "B10",
+    "file": "videos/B10.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 20330722
+  },
+  {
+    "id": "B11",
+    "file": "videos/B11.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 15427496
+  },
+  {
+    "id": "B12",
+    "file": "videos/B12.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 16890401
+  },
+  {
+    "id": "B13",
+    "file": "videos/B13.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 9409817
+  },
+  {
+    "id": "B14A",
+    "file": "videos/B14A.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 7623897
+  },
+  {
+    "id": "B14B",
+    "file": "videos/B14B.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 11315542
+  },
+  {
+    "id": "B15",
+    "file": "videos/B15.mp4",
+    "duration": 8.0,
+    "width": 1920,
+    "height": 1080,
+    "frameRate": "24/1",
+    "bytes": 8351665
+  }
+]

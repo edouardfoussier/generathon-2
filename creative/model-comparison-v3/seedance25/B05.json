@@ -1,0 +1,20 @@
+{
+  "shotId": "B05",
+  "assetId": "b257bad5-7727-4098-9a69-68d2afaf7502",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 4,
+  "anchor": "production/videoassets/017ccace-f564-4e17-94a7-78bb18e51e65.png",
+  "prompt": "Use reference image 1 as the exact opening composition. Close shot: girl pulls the loose laces snug once and places the now-worn shoe firmly onto the floor. Feet remain anatomically natural. Preserve black shoe construction, small cream repair and olive cargo trousers. Intentional small movements. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:16:25.451Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 416,
+  "lastCheckedAt": "2026-09-26T18:23:54.914Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B05.mp4",
+  "source_in_seconds": 0,
+  "qa": "Natural lace tightening then hands lift clear. Both inherited shoes remain anatomically stable; the entry of foot is implicit, as in shared anchor.",
+  "qaStatus": "sampled_frames_approved"
+}

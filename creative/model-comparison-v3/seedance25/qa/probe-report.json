@@ -1,0 +1,172 @@
+[
+  {
+    "shotId": "B01",
+    "file": "creative/model-comparison-v3/seedance25/videos/B01.mp4",
+    "duration": 5.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 2403919,
+    "audio": false
+  },
+  {
+    "shotId": "B02",
+    "file": "creative/model-comparison-v3/seedance25/videos/B02.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1455977,
+    "audio": false
+  },
+  {
+    "shotId": "B03",
+    "file": "creative/model-comparison-v3/seedance25/videos/B03.mp4",
+    "duration": 5.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 8902744,
+    "audio": false
+  },
+  {
+    "shotId": "B05",
+    "file": "creative/model-comparison-v3/seedance25/videos/B05.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1696496,
+    "audio": false
+  },
+  {
+    "shotId": "B06",
+    "file": "creative/model-comparison-v3/seedance25/videos/B06.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 949654,
+    "audio": false
+  },
+  {
+    "shotId": "B07A",
+    "file": "creative/model-comparison-v3/seedance25/videos/B07A.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1807119,
+    "audio": false
+  },
+  {
+    "shotId": "B07B",
+    "file": "creative/model-comparison-v3/seedance25/videos/B07B.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 467241,
+    "audio": false
+  },
+  {
+    "shotId": "B07C",
+    "file": "creative/model-comparison-v3/seedance25/videos/B07C.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 4107124,
+    "audio": false
+  },
+  {
+    "shotId": "B08",
+    "file": "creative/model-comparison-v3/seedance25/videos/B08.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 606547,
+    "audio": false
+  },
+  {
+    "shotId": "B09",
+    "file": "creative/model-comparison-v3/seedance25/videos/B09.mp4",
+    "duration": 8.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 2480130,
+    "audio": false
+  },
+  {
+    "shotId": "B10",
+    "file": "creative/model-comparison-v3/seedance25/videos/B10.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1065724,
+    "audio": false
+  },
+  {
+    "shotId": "B11",
+    "file": "creative/model-comparison-v3/seedance25/videos/B11.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1495363,
+    "audio": false
+  },
+  {
+    "shotId": "B12",
+    "file": "creative/model-comparison-v3/seedance25/videos/B12.mp4",
+    "duration": 8.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 3351619,
+    "audio": false
+  },
+  {
+    "shotId": "B13",
+    "file": "creative/model-comparison-v3/seedance25/videos/B13.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 633367,
+    "audio": false
+  },
+  {
+    "shotId": "B14A",
+    "file": "creative/model-comparison-v3/seedance25/videos/B14A.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1069625,
+    "audio": false
+  },
+  {
+    "shotId": "B14B",
+    "file": "creative/model-comparison-v3/seedance25/videos/B14B.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 1056986,
+    "audio": false
+  },
+  {
+    "shotId": "B15",
+    "file": "creative/model-comparison-v3/seedance25/videos/B15.mp4",
+    "duration": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "sizeBytes": 739009,
+    "audio": false
+  }
+]

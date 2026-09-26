@@ -1,0 +1,348 @@
+{
+  "model": "Seedance 2.5",
+  "status": "ready",
+  "creditsPerSecond1080p": 104,
+  "creditsCharged": 8112,
+  "jobs": [
+    {
+      "shotId": "B06",
+      "assetId": "88be1dfb-58e7-4e2b-8e33-b4add0c0bdc7",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Low close-up: the teenager's right black high-top sneaker settles onto the sunlit 1970 playground asphalt. Camera begins a smooth rise toward striped socks and navy shorts. Toe points screen right. No cream repair on this younger shoe, badge only on inner ankle. A basketball bounces offscreen. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:12:58.899Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:20:01.769Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B06.mp4",
+      "source_in_seconds": 0,
+      "qa": "Shoe settles cleanly, camera rises after two seconds. Outer ankle stays plain; far shoe inner badge visible. Keep first 3 seconds.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B07A",
+      "assetId": "c068dc84-ec3a-465e-8056-6b884ecc6eda",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+      "prompt": "Use reference image 1 as the exact opening composition. The boy raises the basketball from his hip, bends his knees and releases one controlled jump shot toward the offscreen hoop, following through with his wrist. Camera stays on player, never show ball entering hoop in this shot. Natural daylight, quiet 1970 New York playground. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:13:16.841Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:20:01.845Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B07A.mp4",
+      "source_in_seconds": 0.5,
+      "qa": "Controlled single jump shot and follow-through; framing tightens slightly during motion. Selected 0.5\u20134.0seconds contains setup and release.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B07C",
+      "assetId": "109143fa-ec77-4ef0-8110-9605c9e44686",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Intimate close-up. The boy watches the offscreen basket, catches his breath and breaks into a small delighted private grin. Beads of sweat, warm late afternoon sun. Gentle camera push, preserve face and teen age. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:13:20.178Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:20:01.844Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B07C.mp4",
+      "source_in_seconds": 2,
+      "qa": "Stable teen identity and subtle private smile. Use last two seconds for visible emotional payoff.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B13",
+      "assetId": "94b95175-202f-4d22-ae72-ff55b90896ae",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Close-up of girl in attic. She blinks as if returning from a vivid memory and turns her eyes toward the doorway. Small inhale, expression softens. Natural live action, preserve face and ponytail. Lips gently closed. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:13:22.851Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:20:01.840Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B13.mp4",
+      "source_in_seconds": 0.5,
+      "qa": "Luna identity stable; blinks and turns toward doorway. Three-second source window 0.5\u20133.5.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B14B",
+      "assetId": "cbc9e605-6745-4617-88c7-4f6fb7e59bda",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/2ea5aa34-d314-4cbf-aee0-296280c49853.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Close-up of the girl's middle-aged mother near the attic doorway. She hears her daughter and slowly smiles with recognition and tenderness. Subtle eyes and breath, no dialogue. Preserve face, navy cardigan, silver hoops. A quiet moment before the endline. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:13:35.195Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:20:01.769Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B14B.mp4",
+      "source_in_seconds": 2,
+      "qa": "Mother face stable with natural tender smile. Use last two seconds rather than delayed opening.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B01",
+      "assetId": "82e4db06-fb9c-4c1f-9fbb-e198bb74cbd0",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 5,
+      "anchor": "production/videoassets/ff33d75a-e539-468f-aa88-ac38439b23d6.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Slow handheld point of view advancing through the attic doorway. Door swings open; sunlight catches dust above old boxes. Walk around the clutter. Understated cinematic live action, no person appears in frame. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:22.989Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 520,
+      "lastCheckedAt": "2026-09-26T18:23:54.507Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B01.mp4",
+      "source_in_seconds": 0,
+      "qa": "Smooth POV advance through open attic doorway. Environment stable; no person added.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B05",
+      "assetId": "b257bad5-7727-4098-9a69-68d2afaf7502",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/017ccace-f564-4e17-94a7-78bb18e51e65.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Close shot: girl pulls the loose laces snug once and places the now-worn shoe firmly onto the floor. Feet remain anatomically natural. Preserve black shoe construction, small cream repair and olive cargo trousers. Intentional small movements. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:25.451Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:23:54.914Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B05.mp4",
+      "source_in_seconds": 0,
+      "qa": "Natural lace tightening then hands lift clear. Both inherited shoes remain anatomically stable; the entry of foot is implicit, as in shared anchor.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B02",
+      "assetId": "3bfba5c1-b987-4772-88ce-f4c9ca7b2e69",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/41280ae9-0253-48b3-842a-f8c2d84e1106.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Slow lateral camera movement. The girl nudges a box, glances down with mild irritation and notices the old shoebox at her foot. Natural teenage body language, no exaggerated acting. Preserve identity and clothes. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:28.341Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:23:54.747Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B02.mp4",
+      "source_in_seconds": 0,
+      "qa": "Luna looks down and nudges shoebox with her foot. Stable body and attire; restrained annoyance.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B07B",
+      "assetId": "3c00a390-e1be-4d6e-8336-5e8f64809077",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Locked upward view of the basketball hoop. One orange basketball descends cleanly through the hoop and net. Net recoils then settles, ball exits bottom. Realistic gravity, one ball, no extra hoop or player. Short clean swish insert. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:31.017Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:23:54.923Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B07B.mp4",
+      "source_in_seconds": 0.625,
+      "qa": "One ball passes through net with plausible recoil. Use 0.625\u20132.125 seconds to keep descent and exit inside the 1.5-second insert.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B09",
+      "assetId": "7a95e93f-789d-4355-87e9-2403f348b4de",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 8,
+      "anchor": "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+      "prompt": "Use reference image 1 as the exact opening composition. The man notices he has lightly stepped into the woman's space. A sheepish half-smile; she laughs softly and takes his hand. They begin a simple relaxed salsa step together. Camera eases wider, showing his black high-tops and her RED high-top canvas sneakers. Keep faces, violet dress and rust shirt stable. Restrained period dance hall energy, 1977. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:46.024Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 832,
+      "lastCheckedAt": "2026-09-26T18:23:54.923Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B09.mp4",
+      "source_in_seconds": 0,
+      "qa": "Stable adult identities and red/black shoe contrast. Hand-taking and shy smiles read clearly; dance is restrained and does not develop into a full salsa phrase.",
+      "qaStatus": "sampled_frames_usable_with_caveats"
+    },
+    {
+      "shotId": "B08",
+      "assetId": "e0aec49b-2156-4198-af7e-435167949a57",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Low shoe-height camera: a man's black high-top shoe lands and pivots on the wooden dance floor, flared brown trouser hem moving. A woman's red high-top sneaker enters from screen right and lightly taps his toe. Preserve separate feet, plain outer shoe sides, realistic friction. Focus on footwork. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:49.068Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:23:54.738Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B08.mp4",
+      "source_in_seconds": 0.833333,
+      "qa": "Black shoes pivot, red pair enters and lightly taps toe. Use 0.8333\u20133.8333 seconds to include encounter.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B10",
+      "assetId": "51d3dde0-a177-411a-ab7d-b6a95bbe110d",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Newlywed couple share a private smile and squeeze joined hands. Camera tilts from his black canvas high-top shoes under dark wedding trousers to their faces. Her ivory wedding dress moves gently. Brief elegant 1978 memory, natural documentary texture, no written signs. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:16:51.874Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:23:54.912Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B10.mp4",
+      "source_in_seconds": 0,
+      "qa": "Smooth upward tilt from wedding shoes to hands and smiling newlyweds. Faces and wardrobe stable.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B12",
+      "assetId": "8a341980-86ba-451f-89e0-036ea7ec2abd",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 8,
+      "anchor": "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Father offers the worn black high-top pair to his teenage daughter. She smiles and sits, slips one foot into the open shoe. He kneels and gently straightens the tongue and pulls one lace snug. Two connected natural actions, clear tender handover, no new pair appears. Preserve identities and 1995 clothes. End on their exchanged smile. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:17:05.077Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 832,
+      "lastCheckedAt": "2026-09-26T18:23:54.887Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B12.mp4",
+      "source_in_seconds": 0,
+      "qa": "Readable handover followed by fitting and lace adjustment; model creates native wide\u2192shoe close-up\u2192smiles cuts within one clip. Some shoe scuff/repair details drift.",
+      "qaStatus": "sampled_frames_usable_with_caveats"
+    },
+    {
+      "shotId": "B14A",
+      "assetId": "5cd1261d-2d95-4701-9770-12f0a18c9dd0",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+      "prompt": "Use reference image 1 as the exact opening composition. The girl carefully sets the photograph back inside the shoebox, turns her head toward the doorway and smiles with newfound warmth. Intimate slow camera move from hands to face. Preserve exactly one photo and two shoes on her feet. She quietly mouths: Mom, tell me about Grandpa. Natural restrained performance. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:17:07.700Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:23:55.027Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B14A.mp4",
+      "source_in_seconds": 0,
+      "qa": "Photo returned to box; camera rises as Luna turns away. Back/three-quarter mouth angle allows common offscreen line. A second photograph appears on stool after roughly 2 seconds; held photograph is older portrait rather than original basketball image, inherited from anchor.",
+      "qaStatus": "sampled_frames_usable_with_caveats"
+    },
+    {
+      "shotId": "B11",
+      "assetId": "2131fcaf-8f48-45f5-8bc6-da12ec1ab5ab",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Young father cradles the newborn gently while the mother leans close, smiling. Baby's small hand curls around father's index finger. One newborn, securely supported throughout. Camera makes a subtle push toward their faces and baby's hand. Quiet 1979 family room. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:17:10.944Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:25:29.421Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B11.mp4",
+      "source_in_seconds": 0,
+      "qa": "Gentle push toward securely held newborn and fingertip grip. One infant, natural support and stable parents; subtle emotional performance.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B15",
+      "assetId": "45e3a404-188d-4671-a0fb-9ad5c010e2fd",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 4,
+      "anchor": "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+      "prompt": "Use reference image 1 as the exact opening composition. One calm step forward in the worn inherited black high-top shoes. Low locked camera; right foot moves a short distance then rests. Preserve repaired canvas, ivory rubber, olive cargo hem and natural anatomy. Leave left half of composition quiet for typography; no generated lettering. Ending holds still. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:18:47.914Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 416,
+      "lastCheckedAt": "2026-09-26T18:25:29.421Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B15.mp4",
+      "source_in_seconds": 0,
+      "qa": "One short step then hold. Inherited shoe repair, canvas and sole preserved; foreground outer ankle stays plain. Leaves top-left space for endline, but shoe enters lower-left area.",
+      "qaStatus": "sampled_frames_approved"
+    },
+    {
+      "shotId": "B03",
+      "assetId": "cb01efb9-89a1-4ce8-bc69-b178a8e3bd68",
+      "model": "seedance_25",
+      "status": "generated",
+      "duration": 5,
+      "anchor": "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+      "prompt": "Use reference image 1 as the exact opening composition. Gentle overhead push in over the ALREADY OPEN shoebox. Preserve the open lid and exactly two worn black high-top shoes. The girl's bare forearm in charcoal T-shirt enters; her hand carefully picks up the single faded basketball photograph adjacent to the shoes. Keep the shoes and photograph readable. No extra objects or writing. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "createdAt": "2026-09-26T18:19:54.240Z",
+      "params": {
+        "resolution": "1080p",
+        "audioEnabled": false
+      },
+      "creditsCharged": 520,
+      "lastCheckedAt": "2026-09-26T18:25:29.421Z",
+      "localFile": "creative/model-comparison-v3/seedance25/videos/B03.mp4",
+      "source_in_seconds": 0,
+      "qa": "Stable overhead move; Luna picks up the single basketball photograph. R.M. marks remain visible inside shoe; hand and charcoal sleeve are coherent. Box already open at clip start, per corrected anchor.",
+      "qaStatus": "sampled_frames_approved"
+    }
+  ]
+}

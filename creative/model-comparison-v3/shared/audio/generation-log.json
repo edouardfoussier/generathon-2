@@ -1,0 +1,61 @@
+{
+  "notes": "Common scratch dialogue; catalog English/Spanish accent is not confirmed Puerto Rican casting. Exact words checked through independent transcription. Source speech slowed in edit for natural pacing; no voice cloning. Full perceptual accent/performance review still required.",
+  "jobs": [
+    {
+      "code": "mom-opening",
+      "voiceId": "0URFjhtaw6G2o9R3o3h5",
+      "voiceName": "Helen",
+      "script": "Luna! Can you grab my winter clothes from the attic?",
+      "at": 0.25,
+      "assetId": "03fc18af-0c79-48d0-a6be-7bb27b59ad52",
+      "status": "generated",
+      "creditsCharged": 8,
+      "arcadsPath": null,
+      "verification": "Luna, can you grab my winter clothes from the attic?"
+    },
+    {
+      "code": "luna-annoyed",
+      "voiceId": "09AoN6tYyW3VSTQqCo7C",
+      "voiceName": "Lauren",
+      "script": "Mom, why do you keep all this old stuff?",
+      "at": 6.1,
+      "assetId": "c6689d97-8915-4238-94f2-4c088a2654c6",
+      "status": "generated",
+      "creditsCharged": 8,
+      "arcadsPath": null,
+      "verification": "Mom, why do you keep all this old stuff?"
+    },
+    {
+      "code": "mom-return",
+      "voiceId": "0URFjhtaw6G2o9R3o3h5",
+      "voiceName": "Helen",
+      "script": "Luna? Are you coming down?",
+      "at": 62.9,
+      "assetId": "d30c869f-d7c0-48a1-9477-0ce62d64a93a",
+      "status": "generated",
+      "creditsCharged": 8,
+      "arcadsPath": null,
+      "verification": "Luna, are you coming down?"
+    },
+    {
+      "code": "luna-ending",
+      "voiceId": "09AoN6tYyW3VSTQqCo7C",
+      "voiceName": "Lauren",
+      "script": "Mom... tell me about Grandpa.",
+      "at": 67.1,
+      "assetId": "aafe9bec-dd61-471a-b5c8-b52cfb2dbdef",
+      "status": "generated",
+      "creditsCharged": 8,
+      "arcadsPath": null,
+      "verification": "Mom, tell me about Grandpa"
+    },
+    {
+      "code": "score",
+      "assetId": "2ef6fb8a-310c-461b-a294-b0bb2e3ac1ea",
+      "status": "generated",
+      "creditsCharged": 24,
+      "arcadsPath": null,
+      "verification": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "shotId": "B03",
+  "assetId": "cb01efb9-89a1-4ce8-bc69-b178a8e3bd68",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 5,
+  "anchor": "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+  "prompt": "Use reference image 1 as the exact opening composition. Gentle overhead push in over the ALREADY OPEN shoebox. Preserve the open lid and exactly two worn black high-top shoes. The girl's bare forearm in charcoal T-shirt enters; her hand carefully picks up the single faded basketball photograph adjacent to the shoes. Keep the shoes and photograph readable. No extra objects or writing. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:19:54.240Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 520,
+  "lastCheckedAt": "2026-09-26T18:25:29.421Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B03.mp4",
+  "source_in_seconds": 0,
+  "qa": "Stable overhead move; Luna picks up the single basketball photograph. R.M. marks remain visible inside shoe; hand and charcoal sleeve are coherent. Box already open at clip start, per corrected anchor.",
+  "qaStatus": "sampled_frames_approved"
+}

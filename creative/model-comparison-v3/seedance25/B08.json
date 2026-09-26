@@ -1,0 +1,20 @@
+{
+  "shotId": "B08",
+  "assetId": "e0aec49b-2156-4198-af7e-435167949a57",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 4,
+  "anchor": "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+  "prompt": "Use reference image 1 as the exact opening composition. Low shoe-height camera: a man's black high-top shoe lands and pivots on the wooden dance floor, flared brown trouser hem moving. A woman's red high-top sneaker enters from screen right and lightly taps his toe. Preserve separate feet, plain outer shoe sides, realistic friction. Focus on footwork. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:16:49.068Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 416,
+  "lastCheckedAt": "2026-09-26T18:23:54.738Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B08.mp4",
+  "source_in_seconds": 0.833333,
+  "qa": "Black shoes pivot, red pair enters and lightly taps toe. Use 0.8333\u20133.8333 seconds to include encounter.",
+  "qaStatus": "sampled_frames_approved"
+}

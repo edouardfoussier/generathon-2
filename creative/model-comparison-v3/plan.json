@@ -1,0 +1,159 @@
+{
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "duration": 76,
+  "resolution": "1080p",
+  "creditBalanceBefore": 42998,
+  "sharedInserts": [
+    {
+      "id": "B00",
+      "start": 0,
+      "duration": 1,
+      "type": "black"
+    },
+    {
+      "id": "B04",
+      "start": 15,
+      "duration": 7,
+      "type": "editorial_phone_interface"
+    }
+  ],
+  "shots": [
+    {
+      "id": "B01",
+      "start": 1,
+      "duration": 5,
+      "anchor": "entry",
+      "prompt": "Slow handheld point of view advancing through the attic doorway. Door swings open; sunlight catches dust above old boxes. Walk around the clutter. Understated cinematic live action, no person appears in frame.",
+      "generationDuration": 5
+    },
+    {
+      "id": "B02",
+      "start": 6,
+      "duration": 4,
+      "anchor": "annoyed",
+      "prompt": "Slow lateral camera movement. The girl nudges a box, glances down with mild irritation and notices the old shoebox at her foot. Natural teenage body language, no exaggerated acting. Preserve identity and clothes.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B03",
+      "start": 10,
+      "duration": 5,
+      "anchor": "discovery",
+      "prompt": "Gentle overhead push in as the girl lifts the shoebox lid to reveal exactly two worn black high-top shoes and one faded basketball photograph. Her hand carefully picks up the photograph. Hold the shoe and photograph readable. No invented extra objects or writing.",
+      "generationDuration": 5
+    },
+    {
+      "id": "B05",
+      "start": 22,
+      "duration": 4,
+      "anchor": "donning",
+      "prompt": "Close shot: girl pulls the loose laces snug once and places the now-worn shoe firmly onto the floor. Feet remain anatomically natural. Preserve black shoe construction, small cream repair and olive cargo trousers. Intentional small movements.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B06",
+      "start": 26,
+      "duration": 3,
+      "anchor": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+      "prompt": "Low close-up: the teenager's right black high-top sneaker settles onto the sunlit 1970 playground asphalt. Camera begins a smooth rise toward striped socks and navy shorts. Toe points screen right. No cream repair on this younger shoe, badge only on inner ankle. A basketball bounces offscreen.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B07A",
+      "start": 29,
+      "duration": 3.5,
+      "anchor": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+      "prompt": "The boy raises the basketball from his hip, bends his knees and releases one controlled jump shot toward the offscreen hoop, following through with his wrist. Camera stays on player, never show ball entering hoop in this shot. Natural daylight, quiet 1970 New York playground.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B07B",
+      "start": 32.5,
+      "duration": 1.5,
+      "anchor": "net",
+      "prompt": "Locked upward view of the basketball hoop. One orange basketball descends cleanly through the hoop and net. Net recoils then settles, ball exits bottom. Realistic gravity, one ball, no extra hoop or player. Short clean swish insert.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B07C",
+      "start": 34,
+      "duration": 2,
+      "anchor": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+      "prompt": "Intimate close-up. The boy watches the offscreen basket, catches his breath and breaks into a small delighted private grin. Beads of sweat, warm late afternoon sun. Gentle camera push, preserve face and teen age.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B08",
+      "start": 36,
+      "duration": 3,
+      "anchor": "dancefeet",
+      "prompt": "Low shoe-height camera: a man's black high-top shoe lands and pivots on the wooden dance floor, flared brown trouser hem moving. A woman's red high-top sneaker enters from screen right and lightly taps his toe. Preserve separate feet, plain outer shoe sides, realistic friction. Focus on footwork.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B09",
+      "start": 39,
+      "duration": 8,
+      "anchor": "dance",
+      "prompt": "The man notices he has lightly stepped into the woman's space. A sheepish half-smile; she laughs softly and takes his hand. They begin a simple relaxed salsa step together. Camera eases wider, showing his black high-tops and her RED high-top canvas sneakers. Keep faces, violet dress and rust shirt stable. Restrained period dance hall energy, 1977.",
+      "generationDuration": 8
+    },
+    {
+      "id": "B10",
+      "start": 47,
+      "duration": 4,
+      "anchor": "wedding",
+      "prompt": "Newlywed couple share a private smile and squeeze joined hands. Camera tilts from his black canvas high-top shoes under dark wedding trousers to their faces. Her ivory wedding dress moves gently. Brief elegant 1978 memory, natural documentary texture, no written signs.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B11",
+      "start": 51,
+      "duration": 4,
+      "anchor": "baby",
+      "prompt": "Young father cradles the newborn gently while the mother leans close, smiling. Baby's small hand curls around father's index finger. One newborn, securely supported throughout. Camera makes a subtle push toward their faces and baby's hand. Quiet 1979 family room.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B12",
+      "start": 55,
+      "duration": 8,
+      "anchor": "gift",
+      "prompt": "Father offers the worn black high-top pair to his teenage daughter. She smiles and sits, slips one foot into the open shoe. He kneels and gently straightens the tongue and pulls one lace snug. Two connected natural actions, clear tender handover, no new pair appears. Preserve identities and 1995 clothes. End on their exchanged smile.",
+      "generationDuration": 8
+    },
+    {
+      "id": "B13",
+      "start": 63,
+      "duration": 3,
+      "anchor": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+      "prompt": "Close-up of girl in attic. She blinks as if returning from a vivid memory and turns her eyes toward the doorway. Small inhale, expression softens. Natural live action, preserve face and ponytail. Lips gently closed.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B14A",
+      "start": 66,
+      "duration": 4,
+      "anchor": "return",
+      "prompt": "The girl carefully sets the photograph back inside the shoebox, turns her head toward the doorway and smiles with newfound warmth. Intimate slow camera move from hands to face. Preserve exactly one photo and two shoes on her feet. She quietly mouths: Mom, tell me about Grandpa. Natural restrained performance.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B14B",
+      "start": 70,
+      "duration": 2,
+      "anchor": "production/videoassets/2ea5aa34-d314-4cbf-aee0-296280c49853.png",
+      "prompt": "Close-up of the girl's middle-aged mother near the attic doorway. She hears her daughter and slowly smiles with recognition and tenderness. Subtle eyes and breath, no dialogue. Preserve face, navy cardigan, silver hoops. A quiet moment before the endline.",
+      "generationDuration": 4
+    },
+    {
+      "id": "B15",
+      "start": 72,
+      "duration": 4,
+      "anchor": "end",
+      "prompt": "One calm step forward in the worn inherited black high-top shoes. Low locked camera; right foot moves a short distance then rests. Preserve repaired canvas, ivory rubber, olive cargo hem and natural anatomy. Leave left half of composition quiet for typography; no generated lettering. Ending holds still.",
+      "generationDuration": 4
+    }
+  ],
+  "visualRules": "Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model."
+}

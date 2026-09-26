@@ -1,0 +1,155 @@
+{
+  "B01": {
+    "duration_seconds": 5.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 12146262,
+    "sha256": "934e33427bbae474cbad9f8a72d27b01eb618e78944341cfcbbdb51aacf65b6b"
+  },
+  "B02": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 9746288,
+    "sha256": "dda26e390b6dbcda82532b70768f189b68f0b3bcc4795b2451b548adde9abf72"
+  },
+  "B03": {
+    "duration_seconds": 5.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 11767107,
+    "sha256": "053508c6efc1c358c386a16acf4c6d6d0388160e25f8ea234f7c7d1d700c9678"
+  },
+  "B05": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 7256998,
+    "sha256": "20a9c95effef3708f5f7a18624f85b282a7b03f9c8e0f93580aeec0abc994fc6"
+  },
+  "B06": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 7467157,
+    "sha256": "c99586dd573de65c5e8b77a1e71b9636665c582c2460ce93018384ef1dbaf178"
+  },
+  "B07A": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 11395953,
+    "sha256": "6926242a1f1150fd225cbce845046b898268a290f29aca8ce6863b8d5ea02271"
+  },
+  "B07B": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 7018683,
+    "sha256": "e879f35e32c19cf303476ac87649d267bf22d784a819ab1f6b72ee59ffacc99d"
+  },
+  "B07C": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 6037017,
+    "sha256": "324599f2eb7a20c957a5fb01709c76c219adceaaeef8c168d51e1a56e115f543"
+  },
+  "B08": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 6514209,
+    "sha256": "377896b84f6a850bbd902675852b43ac5e69c63794cbcf3ec2218332e4f37928"
+  },
+  "B09": {
+    "duration_seconds": 8.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 13949177,
+    "sha256": "9517ca9fcb2cec38d589e8de1a2d9f828e216c20fbdeb08768f5e3727e67fc15"
+  },
+  "B10": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 10505851,
+    "sha256": "d8e6a17d9cf4cd6d98a4678481e4cfc653791c137a47e0d69542b179252b7371"
+  },
+  "B11": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 9475845,
+    "sha256": "b5ae9250f14142af6ca728b5549f938ab1e2d0af3610ceea6f524187f5c2f34d"
+  },
+  "B12": {
+    "duration_seconds": 8.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 16447414,
+    "sha256": "8e34a66010c89d1119406d4ffed04bb0ec9ef3224b3cd268f2936e754c8ec073"
+  },
+  "B13": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 4427802,
+    "sha256": "7b070db17a89a4220811e6f599588bbe912c89c36046175a3cc6ab2e66b88ba3"
+  },
+  "B14A": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 8443401,
+    "sha256": "952936d012c620b73318149ad12ca7d13e1f2f1968c34798c998c34d6fda3453"
+  },
+  "B14B": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 4979395,
+    "sha256": "bd07e884309deb096368e9479614900715abadaaa007e456ce755fcf29bafe4a"
+  },
+  "B15": {
+    "duration_seconds": 4.041667,
+    "width": 1928,
+    "height": 1072,
+    "fps": "24/1",
+    "audio_present": true,
+    "bytes": 4499888,
+    "sha256": "ca30082ad93d5a5384be13a36e39b4adc8b261b2379bf332743b19810e56e4d2"
+  }
+}

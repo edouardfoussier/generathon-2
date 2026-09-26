@@ -1,0 +1,74 @@
+{
+  "entry": {
+    "arcadsPath": "production/videoassets/ff33d75a-e539-468f-aa88-ac38439b23d6.png",
+    "assetId": "ff33d75a-e539-468f-aa88-ac38439b23d6",
+    "localFile": "stills/entry.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "annoyed": {
+    "arcadsPath": "production/videoassets/41280ae9-0253-48b3-842a-f8c2d84e1106.png",
+    "assetId": "41280ae9-0253-48b3-842a-f8c2d84e1106",
+    "localFile": "stills/annoyed.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "donning": {
+    "arcadsPath": "production/videoassets/017ccace-f564-4e17-94a7-78bb18e51e65.png",
+    "assetId": "017ccace-f564-4e17-94a7-78bb18e51e65",
+    "localFile": "stills/donning.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "net": {
+    "arcadsPath": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+    "assetId": "d1b89564-064e-41e6-b2f8-ad899cbd8aaf",
+    "localFile": "stills/net.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "dancefeet": {
+    "arcadsPath": "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+    "assetId": "21bd5fc1-30b3-4728-822b-0cd08712b21c",
+    "localFile": "stills/dancefeet.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "dance": {
+    "arcadsPath": "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+    "assetId": "1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3",
+    "localFile": "stills/dance.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "wedding": {
+    "arcadsPath": "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+    "assetId": "24d87a84-1924-42df-87c1-412401d020b6",
+    "localFile": "stills/wedding.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "baby": {
+    "arcadsPath": "production/videoassets/7be5c72f-3925-4b17-8d78-cc6c8d93f9e3.png",
+    "assetId": "7be5c72f-3925-4b17-8d78-cc6c8d93f9e3",
+    "localFile": "stills/baby.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "gift": {
+    "arcadsPath": "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+    "assetId": "e0860c3e-0c24-42af-b0b6-60b7db257d33",
+    "localFile": "stills/gift.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "return": {
+    "arcadsPath": "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+    "assetId": "1e95852e-725e-4e53-8552-fd3c69baf9f4",
+    "localFile": "stills/return.png",
+    "qa": "Shared still reviewed in contact sheet; exploratory anchor."
+  },
+  "end": {
+    "assetId": "c925b40f-2624-4b57-a205-93d3cb3a979f",
+    "arcadsPath": "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+    "localFile": "stills/end.png",
+    "qa": "Reviewed full size. Plain outer ankle, visible cream patch, space at left."
+  },
+  "discovery": {
+    "assetId": "05fc3f4b-2419-45de-a201-7b4d054b90dd",
+    "arcadsPath": "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+    "localFile": "stills/discovery-final.png",
+    "qa": "Corrected single basketball photo and bare arm/charcoal tee. Open box, two shoes, R.M. inside tongue. Blank inner badge is rough-cut caveat."
+  }
+}

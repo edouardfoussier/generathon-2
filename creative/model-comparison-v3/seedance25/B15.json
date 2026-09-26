@@ -1,0 +1,20 @@
+{
+  "shotId": "B15",
+  "assetId": "45e3a404-188d-4671-a0fb-9ad5c010e2fd",
+  "model": "seedance_25",
+  "status": "generated",
+  "duration": 4,
+  "anchor": "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+  "prompt": "Use reference image 1 as the exact opening composition. One calm step forward in the worn inherited black high-top shoes. Low locked camera; right foot moves a short distance then rests. Preserve repaired canvas, ivory rubber, olive cargo hem and natural anatomy. Leave left half of composition quiet for typography; no generated lettering. Ending holds still. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+  "createdAt": "2026-09-26T18:18:47.914Z",
+  "params": {
+    "resolution": "1080p",
+    "audioEnabled": false
+  },
+  "creditsCharged": 416,
+  "lastCheckedAt": "2026-09-26T18:25:29.421Z",
+  "localFile": "creative/model-comparison-v3/seedance25/videos/B15.mp4",
+  "source_in_seconds": 0,
+  "qa": "One short step then hold. Inherited shoe repair, canvas and sole preserved; foreground outer ankle stays plain. Leaves top-left space for endline, but shoe enters lower-left area.",
+  "qaStatus": "sampled_frames_approved"
+}

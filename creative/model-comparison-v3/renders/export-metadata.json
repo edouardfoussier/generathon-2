@@ -1,0 +1,27 @@
+{
+  "status": "rendered",
+  "renderer": "Native Higgsedit then FFmpeg shared sound mix",
+  "durationSeconds": 76,
+  "exports": {
+    "seedance25": {
+      "mediaId": "e5c67641-44b9-40ff-a1de-bf362cf7b9b4",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/e5c67641-44b9-40ff-a1de-bf362cf7b9b4.mp4"
+    },
+    "kling3": {
+      "mediaId": "e0b656c4-1292-44ea-98dd-9f12ae31c334",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/e0b656c4-1292-44ea-98dd-9f12ae31c334.mp4"
+    },
+    "veo31": {
+      "mediaId": "33173b55-a4ab-4f98-b5d2-6a9ba0555d4b",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/33173b55-a4ab-4f98-b5d2-6a9ba0555d4b.mp4"
+    },
+    "archive": {
+      "mediaId": "eb694d15-1e01-4f4f-95fa-14e6b5448b97",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/eb694d15-1e01-4f4f-95fa-14e6b5448b97.zip"
+    },
+    "phone-proof": {
+      "mediaId": "2d5ea0dd-96ef-4540-8ee6-4e0c86cbf271",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_30b3HOEPvgCuI1hRpA1L1PK7OiS/2d5ea0dd-96ef-4540-8ee6-4e0c86cbf271.png"
+    }
+  }
+}

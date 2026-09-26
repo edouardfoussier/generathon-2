@@ -10,12 +10,13 @@ window.CONVERSE_I18N = {
     exploreHybrids: 'Pixel, argile & changements de style ↗',
     exploreProduction: "Luna, sa famille & décors réalistes ↗",
     exploreScenes: 'Six scènes & transitions vidéo ↗',
-    exploreAnimatic: 'Voir le premier montage · 76 s ↗',
-    animaticKicker: 'Atelier 08 · Le premier montage',
-    animaticTitle: 'Une paire. Une histoire en mouvement.',
-    animaticIntro: 'Le scénario cinéma v2 prend forme en 26 plans sur 76 secondes : scènes animées, inserts fixes, transitions et son provisoire en anglais. Cette animatique sert à juger le rythme, la compréhension et l’émotion avant les finitions.',
+    exploreAnimatic: 'Comparer les trois montages · 76 s ↗',
+    animaticKicker: 'Atelier 09 · Trois modèles, une histoire',
+    animaticTitle: 'La même histoire. Trois interprétations.',
+    animaticIntro: 'AV02, AV03 et AV04 déclinent le scénario v3 en trois montages complets de 76 secondes : Seedance 2.5, Kling 3 Pro et Veo 3.1. Chaque modèle génère ses mouvements à partir des mêmes images de référence ; interface du téléphone, voix provisoires en anglais et musique sont partagées. AV01 conserve le premier montage du scénario v2 pour retrouver le chemin parcouru.',
+    animaticScript: 'Lire le scénario cinéma v3 · EN',
     animaticGuide: 'Lire les notes de montage et de génération · FR / EN',
-    animaticReview: 'À regarder ensemble : comprend-on le lien entre les trois générations ? Les souvenirs arrivent-ils au bon moment ? Quels plans méritent plus de respiration ? Les écarts de raccord, de produit ou de mouvement restent à corriger pour la publicité finale.',
+    animaticReview: 'À comparer ensemble : quel modèle rend les regards et les gestes les plus justes ? Le visage de Luna, la paire et les passages entre les époques restent-ils cohérents ? Ces essais servent à choisir les plans et le rythme ; les raccords, le produit et la synchronisation des voix restent à affiner avant la publicité finale.',
     scenesKicker: 'Atelier 06 · Du scénario à l’image',
     scenesTitle: 'Six moments. Une histoire.',
     scenesIntro: 'Premières images des scènes et essais vidéo de passage au souvenir. Luna, G01 et D06 servent de références. Le montage libre est confirmé pour Converse ; ces rendus restent à choisir et affiner.',
@@ -62,6 +63,7 @@ window.CONVERSE_I18N = {
     closePreview: 'Fermer l’aperçu', previousImage: 'Image précédente', nextImage: 'Image suivante',
     unavailable: 'Cette image n’est pas encore disponible.',
     all: 'Tout voir', preparing: 'Image en préparation', generated: 'générée', pending: 'en cours', failed: 'indisponible',
+    animatic_candidate: 'premier montage', comparison_candidate: 'montage comparatif',
     enlarge: 'Agrandir', choose: 'Choisir', chosen: 'Choisi', unchoose: 'Déchoisir',
     exploratoryReference: 'Référence exploratoire',
     noReferences: 'Aucune référence ici, pour l’instant.',
@@ -120,7 +122,7 @@ window.CONVERSE_I18N = {
       hybrides: {label:'Pixel & hybrides', title:'Pixel, argile & hybridations', detail:'Quand les chaussures changent le monde.'},
       production: {label:'Personnages & décors', title:'Luna, sa famille & lieux', detail:'Références réalistes · Ateliers 05 & 07'},
       scenes: {label:'Scènes & transitions', title:'Les scènes prennent vie', detail:'Images clés et essais vidéo · Atelier 06'},
-      animatic: {label:'Animatique', title:'Le film, première lecture', detail:'76 secondes · 26 plans · Son anglais'}
+      animatic: {label:'Animatiques', title:'Comparer les trois modèles', detail:'Scénario v3 · 3 × 76 secondes · AV01 conservé'}
     }
   },
   en: {
@@ -134,12 +136,13 @@ window.CONVERSE_I18N = {
     exploreHybrids: 'Pixels, clay & style switches ↗',
     exploreProduction: "Luna, her family & realistic locations ↗",
     exploreScenes: 'Six scenes & video transitions ↗',
-    exploreAnimatic: 'Watch the first cut · 76 s ↗',
-    animaticKicker: 'Workshop 08 · The first cut',
-    animaticTitle: 'One pair. A story in motion.',
-    animaticIntro: 'Cinematic script v2 takes shape in 26 shots across 76 seconds: animated scenes, still inserts, transitions and temporary English audio. This animatic helps us assess pacing, clarity and emotion before finishing the ad.',
+    exploreAnimatic: 'Compare the three cuts · 76 s ↗',
+    animaticKicker: 'Workshop 09 · Three models, one story',
+    animaticTitle: 'The same story. Three interpretations.',
+    animaticIntro: 'AV02, AV03 and AV04 turn script v3 into three complete 76-second cuts: Seedance 2.5, Kling 3 Pro and Veo 3.1. Each model generates its own motion from shared reference stills; the phone interface, temporary English voices and music are common to all three. AV01 preserves the first cut of script v2 as a record of the story’s development.',
+    animaticScript: 'Read cinematic script v3 · EN',
     animaticGuide: 'Read editing and generation notes · FR / EN',
-    animaticReview: 'Watch together: is the connection across three generations clear? Do the memories arrive at the right moment? Which shots need more breathing room? Remaining continuity, product and motion differences need correction for the final commercial.',
+    animaticReview: 'Compare together: which model gives the most convincing expressions and gestures? Do Luna’s face, the shoes and the shifts between eras stay consistent? These tests help us choose shots and pacing; continuity, product details and voice synchronization still need finishing before the final commercial.',
     scenesKicker: 'Workshop 06 · From script to frame',
     scenesTitle: 'Six moments. One story.',
     scenesIntro: 'First scene keyframes and moving tests for entering the memory. Luna, G01 and D06 anchor the images. Free editing is confirmed for Converse; these renders are still candidates to choose and refine.',
@@ -186,6 +189,7 @@ window.CONVERSE_I18N = {
     closePreview: 'Close preview', previousImage: 'Previous image', nextImage: 'Next image',
     unavailable: 'This image is not available yet.',
     all: 'View all', preparing: 'Image in progress', generated: 'generated', pending: 'in progress', failed: 'unavailable',
+    animatic_candidate: 'first cut', comparison_candidate: 'comparison cut',
     enlarge: 'Enlarge', choose: 'Choose', chosen: 'Selected', unchoose: 'Deselect',
     exploratoryReference: 'Exploratory reference',
     noReferences: 'No references here yet.',
@@ -244,7 +248,7 @@ window.CONVERSE_I18N = {
       hybrides: {label:'Pixel & hybrids', title:'Pixels, clay & hybrid styles', detail:'When the shoes change the world.'},
       production: {label:'Characters & locations', title:'Luna, her family & locations', detail:'Photographic references · Workshops 05 & 07'},
       scenes: {label:'Scenes & transitions', title:'The scenes come to life', detail:'Keyframes and motion tests · Workshop 06'},
-      animatic: {label:'Animatic', title:'The film, a first reading', detail:'76 seconds · 26 shots · English audio'}
+      animatic: {label:'Animatics', title:'Compare the three models', detail:'Script v3 · 3 × 76 seconds · AV01 preserved'}
     }
   }
 };

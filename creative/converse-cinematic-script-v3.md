@@ -2,7 +2,7 @@
 
 Script v3 · Quick polish of the team's new direction · 26 September 2026
 
-**76-second working cut, including a four-second endline.** This is a proposed revision, not a newly generated film. The existing animatic still follows v2. No generation jobs are ordered by this document.
+**76-second working cut, including a four-second endline.** The team approved this revision for three full model trials: Seedance 2.5, Kling 3 Pro and Veo 3.1. Production logs and edits are in [`model-comparison-v3`](model-comparison-v3/README.md). The earlier animatic remains available and follows v2.
 
 ## Editorial intention
 
