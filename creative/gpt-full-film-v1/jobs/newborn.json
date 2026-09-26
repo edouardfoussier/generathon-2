@@ -1,0 +1,28 @@
+{
+  "id": "newborn",
+  "duration": 4,
+  "timelineStart": 49,
+  "timelineEnd": 53,
+  "referenceCodes": [
+    "CC03G",
+    "CC06G",
+    "CC10G",
+    "CL05G"
+  ],
+  "referenceImages": [
+    "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png",
+    "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png",
+    "production/videoassets/749757d0-7429-4138-83f6-4fca84cf154d.png",
+    "production/videoassets/71079518-8a5b-46a8-b1bf-189aeca6be96.png"
+  ],
+  "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 RIGHT outfit only: Rafa age 25 in a plain ivory short-sleeve T-shirt and brown corduroy trousers, black high-top Converse. Image 2 RIGHT outfit only: Elena age 24, violet button-front house dress, no veil. Image 3: their newborn DAUGHTER swaddled safely in a cream knitted blanket. Image 4 LEFT room only: the 1979 family living room, warm afternoon window light on left, brick wall, green sofa and wooden rocking chair, NO television from middle panel. One newborn only, naturally tiny and safely supported. 0–2.5s: intimate medium two-shot, seated Rafa cradles the baby in both arms, Elena leans beside him and looks down with quiet wonder. His shoes are visible only as normal footwear. 2.5–4s: cut to close insert, baby's small hand closes softly around Rafa's index finger, cream blanket fills background. Gentle breathing and rocking, no exaggerated crying, no extra fingers. Their daughter grows into Luna's mother, not a son; no words on screen.",
+  "status": "generated",
+  "expectedCredits": 168,
+  "assetId": "36b8e264-7a57-43ec-b6ac-b6403a9ab830",
+  "submittedAt": "2026-09-26T22:18:52.772Z",
+  "creditsCharged": 168,
+  "nativeDurationSeconds": 4.041667,
+  "updatedAt": "2026-09-26T22:22:17.478Z",
+  "checkedAt": "2026-09-26T22:26:17.094Z",
+  "localFile": "videos/newborn.mp4"
+}

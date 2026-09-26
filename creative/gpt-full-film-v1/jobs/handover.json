@@ -1,0 +1,28 @@
+{
+  "id": "handover",
+  "duration": 8,
+  "timelineStart": 53,
+  "timelineEnd": 61,
+  "referenceCodes": [
+    "CC04G",
+    "CC08G",
+    "CL05G",
+    "CS02G"
+  ],
+  "referenceImages": [
+    "production/videoassets/76c3801c-d588-415c-a0a4-ff8a6430ab73.png",
+    "production/videoassets/7b729196-9c53-4f1d-8017-37805c4db367.png",
+    "production/videoassets/71079518-8a5b-46a8-b1bf-189aeca6be96.png",
+    "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+  ],
+  "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: same Rafa age 41 in 1995, black mustache, blue rolled-sleeve shirt, charcoal trousers and brown house loafers. Image 2: his 16-year-old daughter, short shoulder-length dark curls, denim jacket over plain white T-shirt, straight cuffed denim jeans. This is Luna's future mother, NOT Luna. Image 3 CENTER room only: 1995 family living room, window left, brick wall, green sofa and small old CRT TV, ordinary wooden chairs. Image 4: the ONE inherited pair of black high-top Converse with cream laces, modest wear, small rectangular cream cloth repair on right outer forefoot canvas. The pair is normally sized adult footwear, never a giant product. 0–2.5s: medium two-shot, father gently offers this pair to his seated daughter, she accepts and looks surprised and pleased. 2.5–5.5s: clean cut to a close insert at normal shoe scale, she now wears the pair, her father kneels and gently straightens the tongue of ONE shoe and snugs a lace using two normal hands. His own brown loafers remain separate. 5.5–8s: medium shot of both faces, she looks at him, they share a small affectionate smile. Tender practical love, simple unhurried gestures. No mother or baby in this shot. Do not add a second inherited pair.",
+  "status": "generated",
+  "expectedCredits": 336,
+  "assetId": "ed917ee0-69e6-499f-96ff-f223b819134c",
+  "submittedAt": "2026-09-26T22:18:52.772Z",
+  "creditsCharged": 336,
+  "nativeDurationSeconds": 8.041667,
+  "updatedAt": "2026-09-26T22:22:42.719Z",
+  "checkedAt": "2026-09-26T22:26:17.094Z",
+  "localFile": "videos/handover.mp4"
+}

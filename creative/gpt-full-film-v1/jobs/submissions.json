@@ -1,0 +1,140 @@
+[
+  {
+    "scene": "basketball",
+    "submittedAt": "2026-09-26T22:18:52.770Z",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 5563ce09-4c37-4269-9373-546ef6975aa2\n- **Type**: seedance_25\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 10:18:15 PM\n"
+        }
+      ],
+      "structuredContent": {
+        "assets": [
+          {
+            "id": "5563ce09-4c37-4269-9373-546ef6975aa2",
+            "type": "seedance_25",
+            "status": "pending",
+            "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+          }
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "scene": "salsa",
+    "submittedAt": "2026-09-26T22:18:52.772Z",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7\n- **Type**: seedance_25\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 10:18:19 PM\n"
+        }
+      ],
+      "structuredContent": {
+        "assets": [
+          {
+            "id": "d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7",
+            "type": "seedance_25",
+            "status": "pending",
+            "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+          }
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "scene": "wedding",
+    "submittedAt": "2026-09-26T22:18:52.772Z",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 28c26cf5-9d3c-468c-89ce-cbfa5a00caa6\n- **Type**: seedance_25\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 10:18:23 PM\n"
+        }
+      ],
+      "structuredContent": {
+        "assets": [
+          {
+            "id": "28c26cf5-9d3c-468c-89ce-cbfa5a00caa6",
+            "type": "seedance_25",
+            "status": "pending",
+            "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+          }
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "scene": "newborn",
+    "submittedAt": "2026-09-26T22:18:52.772Z",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 36b8e264-7a57-43ec-b6ac-b6403a9ab830\n- **Type**: seedance_25\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 10:18:27 PM\n"
+        }
+      ],
+      "structuredContent": {
+        "assets": [
+          {
+            "id": "36b8e264-7a57-43ec-b6ac-b6403a9ab830",
+            "type": "seedance_25",
+            "status": "pending",
+            "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+          }
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "scene": "handover",
+    "submittedAt": "2026-09-26T22:18:52.772Z",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset ed917ee0-69e6-499f-96ff-f223b819134c\n- **Type**: seedance_25\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 10:18:31 PM\n"
+        }
+      ],
+      "structuredContent": {
+        "assets": [
+          {
+            "id": "ed917ee0-69e6-499f-96ff-f223b819134c",
+            "type": "seedance_25",
+            "status": "pending",
+            "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+          }
+        ]
+      },
+      "isError": false
+    }
+  },
+  {
+    "scene": "return",
+    "submittedAt": "2026-09-26T22:18:52.772Z",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 62351e26-65e9-4688-a594-11a84e905bfb\n- **Type**: seedance_25\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/26/2026, 10:18:35 PM\n"
+        }
+      ],
+      "structuredContent": {
+        "assets": [
+          {
+            "id": "62351e26-65e9-4688-a594-11a84e905bfb",
+            "type": "seedance_25",
+            "status": "pending",
+            "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+          }
+        ]
+      },
+      "isError": false
+    }
+  }
+]

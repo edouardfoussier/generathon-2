@@ -2,9 +2,10 @@
 """Publish reviewed motion exports and current generation statuses to the board.
 
 Only ready/completed records with a real, probeable local video become cards.
-Manifests are read from ../continuity-video-v1/manifest.json and
-../motion-design-v1/manifest.json, or positional arguments. All paths in a source
-manifest are relative to its directory. Signed media URLs are never copied.
+Manifests are read from ../continuity-video-v1/manifest.json,
+../motion-design-v1/manifest.json and ../gpt-full-film-v1/manifest.json, or
+positional arguments. All paths in a source manifest are relative to its
+directory. Signed media URLs are never copied.
 """
 from __future__ import annotations
 
@@ -56,7 +57,8 @@ def main():
     parser.add_argument('manifests', nargs='*', type=Path)
     args = parser.parse_args()
     sources = args.manifests or [CREATIVE / 'continuity-video-v1/manifest.json',
-                                 CREATIVE / 'motion-design-v1/manifest.json']
+                                 CREATIVE / 'motion-design-v1/manifest.json',
+                                 CREATIVE / 'gpt-full-film-v1/manifest.json']
     prefix = 'window.CONVERSE_ASSETS = '
     raw = (BOARD / 'assets.js').read_text()
     if not raw.startswith(prefix):
@@ -64,13 +66,21 @@ def main():
     before = json.loads(raw[len(prefix):].strip().removesuffix(';'))
     preserved = [item for item in before if item.get('category') != 'motionlab']
     codes = {item['code'] for item in preserved}
-    cards, skipped = [], []
+    cards, skipped, full_films = [], [], []
     for source in sources:
         if not source.is_file():
             continue
         for record in load(source).get('assets', []):
             code = record.get('code')
             video = local_media(source, record.get('localFile'), {'.mp4', '.webm', '.mov'})
+            if record.get('group') == 'full-film' and code:
+                full_films.append({'code': code,
+                    'title': localized(record.get('title'), 'fr'),
+                    'titleEn': localized(record.get('title'), 'en'),
+                    'imageModel': record.get('imageModel', ''),
+                    'videoModel': record.get('videoModel', ''),
+                    'durationSeconds': record.get('durationSeconds'),
+                    'status': record.get('status', 'not-submitted')})
             if record.get('status', '').lower() not in READY or not video:
                 skipped.append(code)
                 continue
@@ -98,7 +108,8 @@ def main():
                 card['poster'] = os.path.relpath(poster, BOARD)
             cards.append(card)
     cards.sort(key=lambda item: (['openings', 'full-film'].index(item['group']),
-        [key for key, _ in MODELS].index(item['treatmentId']) if item.get('treatmentId') else 9))
+        [key for key, _ in MODELS].index(item['treatmentId']) if item.get('treatmentId') else 9,
+        item['code']))
     plan_path = CREATIVE / 'continuity-video-v1/plan.json'
     plan = load(plan_path) if plan_path.is_file() else {}
     variants = {item['id']: item for item in plan.get('variants', [])}
@@ -110,6 +121,7 @@ def main():
             'status': 'ready' if ready else variant.get('status', 'not-submitted'),
             'referenceCodes': variant.get('codes', [])})
     status['fullFilmReady'] = any(card['group'] == 'full-film' for card in cards)
+    status['fullFilms'] = sorted(full_films, key=lambda item: item['code'])
     (BOARD / 'motion-status.js').write_text('window.CONVERSE_MOTION_STATUS = ' +
         json.dumps(status, ensure_ascii=False, indent=2) + ';\n')
     (BOARD / 'assets.js').write_text(prefix + json.dumps(preserved + cards, ensure_ascii=False, indent=2) + ';\n')

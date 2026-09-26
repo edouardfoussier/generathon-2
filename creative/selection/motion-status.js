@@ -40,5 +40,25 @@ window.CONVERSE_MOTION_STATUS = {
       ]
     }
   ],
-  "fullFilmReady": true
+  "fullFilmReady": true,
+  "fullFilms": [
+    {
+      "code": "FG01",
+      "title": "Conserve what matters · Film GPT complet",
+      "titleEn": "Conserve what matters · Complete GPT film",
+      "imageModel": "GPT Image 2.5 Sunburst",
+      "videoModel": "Seedance 2.5",
+      "durationSeconds": 76,
+      "status": "ready"
+    },
+    {
+      "code": "MD01",
+      "title": "Les choses que l’on garde",
+      "titleEn": "The things we keep",
+      "imageModel": "Nano Banana 2",
+      "videoModel": "Higgsedit",
+      "durationSeconds": 76.007324,
+      "status": "ready"
+    }
+  ]
 };

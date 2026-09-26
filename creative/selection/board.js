@@ -320,9 +320,11 @@
       ['generated', 'complete', 'completed', 'ready'].includes(state) ? 'motionEditing' :
       ['pending','submitted','processing','generating'].includes(state) ? 'motionGenerating' : 'motionNotSubmitted';
     return '<article class="motion-pending"><span class="motion-status-label">' + t(key) + '</span><h4>' +
-      escapeHtml(treatment.assetModel || treatment.imageModel || '') + '</h4><p>' + t('motionPendingDescription') +
-      '</p><dl class="motion-metadata"><div><dt>' + t('motionVideoModel') + '</dt><dd>Seedance 2.5</dd></div>' +
-      '<div><dt>' + t('motionTargetDuration') + '</dt><dd>30 s</dd></div></dl>' +
+      escapeHtml(field(treatment, 'title') || treatment.assetModel || treatment.imageModel || '') + '</h4><p>' + t('motionPendingDescription') +
+      '</p><dl class="motion-metadata"><div><dt>' + t('motionVideoModel') + '</dt><dd>' +
+      escapeHtml(treatment.videoModel || 'Seedance 2.5') + '</dd></div>' +
+      (treatment.durationSeconds || !treatment.code ? '<div><dt>' + t('motionTargetDuration') + '</dt><dd>' +
+        escapeHtml(treatment.durationSeconds || 30) + ' s</dd></div>' : '') + '</dl>' +
       '<a class="media-download" href="?category=continuity&amp;lang=' + language +
       '" data-explore="continuity">' + t('motionViewReferences') + ' ↗</a></article>';
   }
@@ -331,6 +333,8 @@
     const treatments = Array.isArray(state.treatments) ? state.treatments : [];
     const openings = items.filter(asset => asset.group === 'openings');
     const films = items.filter(asset => asset.group === 'full-film');
+    const pendingFilms = favoritesOnly ? [] : (Array.isArray(state.fullFilms) ? state.fullFilms : [])
+      .filter(film => !films.some(asset => asset.code === film.code));
     const blocked = treatments.some(item => item.status === 'submission-error-no-job-id' || (item.status || '').startsWith('blocked'));
     const comparison = favoritesOnly ? openings.map(card).join('') : treatments.map(treatment => {
       const ready = openings.find(asset => asset.treatmentId === treatment.id);
@@ -349,8 +353,8 @@
       '<div class="grid motion-opening-grid">' + comparison + '</div></section>' +
       '<section class="team-group" aria-labelledby="motion-full-film"><header class="team-group-heading">' +
       '<span class="section-index">B</span><div><h3 id="motion-full-film">' + t('motionFilm') + '</h3><p>' +
-      t('motionFilmDetail') + '</p></div></header><div class="grid motion-film-grid">' + films.map(card).join('') +
-      '</div>' + (!films.length && !favoritesOnly ? '<p class="motion-film-pending" role="status">' +
+      t('motionFilmDetail') + '</p></div></header><div class="grid motion-film-grid">' + pendingFilms.map(motionStatus).join('') + films.map(card).join('') +
+      '</div>' + (!films.length && !pendingFilms.length && !favoritesOnly ? '<p class="motion-film-pending" role="status">' +
         t('motionFilmPending') + '</p>' : '') + '<p class="production-footnote"><a href="' +
       'https://www.instagram.com/p/DdrmutrkgGy/?img_index=11" target="_blank" rel="noopener noreferrer">' +
       t('motionInspiration') + ' ↗</a></p></section><p class="production-footnote">' + t('motionReview') + '</p>';

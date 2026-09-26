@@ -1,0 +1,30 @@
+{
+  "id": "return",
+  "duration": 11,
+  "timelineStart": 61,
+  "timelineEnd": 72,
+  "referenceCodes": [
+    "CC01G",
+    "CC09G",
+    "CL01G",
+    "CS02G",
+    "CC02G"
+  ],
+  "referenceImages": [
+    "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+    "production/videoassets/075fce73-a989-4512-a9ac-a4148f1056e8.png",
+    "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+    "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png",
+    "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png"
+  ],
+  "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: Luna age 15 in 2026, exact face, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, worn black high-top Converse. Image 2: her MOTHER age 47, shoulder-length curly dark hair with a little grey, navy cardigan and muted indigo top, charcoal trousers. Their faces must remain clearly distinct. Image 3: same D06 attic, timber rafters, brick gable, left casement window, wooden floor, cluttered boxes and trunk. Image 4: the inherited normally sized worn black high-top pair on Luna's feet, small cream right-side repair. Image 5 is the young Rafa who appears ONLY within a tiny sepia photograph, never as a live person here. 0–4s: close-medium on seated Luna in the attic, blinking as she returns from a memory. An offscreen call catches her attention; she looks toward the doorway to camera right, expression softening into a small smile. 4–6s: close insert, Luna carefully returns a faded photograph to the old open shoebox; her worn shoes are naturally beside her chair on her feet, no extra pair in the box. 6–11s: over Luna's shoulder toward Mom, who has come to the attic doorway, same rafters and left-window light. Luna is only seen from behind/shoulder while her line will be heard offscreen in the edit; Mom listens, a beat of recognition, then a warm restrained smile. No visible speaking mouths needed; voices will be added. Finish holding Mom's response, leaving a calm emotional pause for the endline. No funeral or supernatural objects.",
+  "status": "generated",
+  "expectedCredits": 462,
+  "assetId": "62351e26-65e9-4688-a594-11a84e905bfb",
+  "submittedAt": "2026-09-26T22:18:52.772Z",
+  "creditsCharged": 462,
+  "nativeDurationSeconds": 11.041667,
+  "updatedAt": "2026-09-26T22:23:37.305Z",
+  "checkedAt": "2026-09-26T22:26:17.094Z",
+  "localFile": "videos/return.mp4"
+}

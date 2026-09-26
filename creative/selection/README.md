@@ -1,6 +1,6 @@
 # Planche de sélection — Converse
 
-156 entrées : **143 images, 8 clips courts et 5 montages complets**. Le nouvel onglet **Animations** (`?category=motionlab`) donne accès au collage animé MD01 de 76 secondes et à trois ouvertures Seedance 2.5 de 30 secondes (CV01N / CV01S / CV01G). Le raccord final de CV01N a été repris et sa première version est archivée. Le nouvel onglet **Continuité / Continuity** (`?category=continuity`) réunit **54 images : 18 sujets × 3 modèles** (30 images de personnages, 15 de lieux et 9 de chaussures). Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
+157 entrées : **143 images, 8 clips courts et 6 montages complets**. L’onglet **Animations** (`?category=motionlab`) donne accès au film GPT/Seedance complet FG01 de 76 secondes, au collage animé MD01 de 76 secondes et à trois ouvertures Seedance 2.5 de 30 secondes (CV01N / CV01S / CV01G). FG01 conserve les 30 premières secondes de CV01G et complète le récit avec six nouvelles séquences. Le raccord final de CV01N a été repris et sa première version est archivée. Le nouvel onglet **Continuité / Continuity** (`?category=continuity`) réunit **54 images : 18 sujets × 3 modèles** (30 images de personnages, 15 de lieux et 9 de chaussures). Le nouvel onglet **Dessiné / Illustrated** (`?category=illustrated`) ajoute six gouaches, six dessins à l’encre et deux essais Veo 3.1 de huit secondes. [Notes et limites des tests](../sketch-study/README.md). **Animatiques** conserve les trois films de 76 secondes du scénario v3 et le premier montage AV01. [Comparaison des modèles](../model-comparison-v3/README.md).
 
 Le nouvel [atelier Cut Room](../editor/README.md) permet de comparer les trois pistes, choisir des passages et exporter le montage. Depuis la racine du dépôt, lancer `python3 creative/editor/server.py`, puis ouvrir http://127.0.0.1:8787/. Il fonctionne localement ; les coéquipiers échangent leurs montages via les fichiers JSON.
 
@@ -24,20 +24,21 @@ Le script préserve les cartes antérieures, remplace seulement les entrées `co
 
 ## Animations / Motion lab
 
-L’onglet **Animations** (`?category=motionlab`, ou `?category=motionlab&lang=en`) distingue deux expériences :
+L’onglet **Animations** (`?category=motionlab`, ou `?category=motionlab&lang=en`) distingue les essais et leurs versions complètes :
 
 - Trois ouvertures d’environ 30 secondes, toutes animées avec **Seedance 2.5**. Seul le modèle des images de référence change : Nano Banana 2, Seedream 5 Pro ou GPT Image 2.5 Sunburst.
+- Le film **FG01** de 76 secondes, développé à partir de l’ouverture GPT Image 2.5 Sunburst avec Seedance 2.5. Les 30 premières secondes de CV01G sont préservées ; six nouvelles séquences complètent le récit. [Production et limites de continuité](../gpt-full-film-v1/README.md).
 - Une publicité complète en motion design, composée à partir des références Nano Banana 2.
 
 Les états de génération apparaissent sans faux lecteur : seules les vidéos terminées, vérifiées et présentes sur disque peuvent être lues ou téléchargées. Les fiches des films séparent le modèle des images de celui de l’animation, indiquent la durée du fichier et donnent accès aux références de continuité employées. Les favoris précédents restent conservés.
 
-The **Animations** tab compares three Seedance 2.5 openings with different reference-image families, plus a full Nano Banana 2 motion-design film. Unavailable videos display their status instead of a placeholder player. Completed cards include a download link, actual file duration, image and animation provenance, and links to the source references.
+The **Animations** tab compares three Seedance 2.5 openings with different reference-image families. The complete-film section contains the GPT-reference continuation **FG01** and the separate Nano Banana 2 collage **MD01**. Unavailable videos display their production status instead of a placeholder player. Completed cards include a download link, actual file duration, image and animation provenance, and links to the source references.
 
 ```sh
 python3 creative/selection/sync-motion.py
 ```
 
-Ce script lit les manifestes `../continuity-video-v1/manifest.json` et `../motion-design-v1/manifest.json`, ainsi que les statuts de `../continuity-video-v1/plan.json`. Il ne modifie que les entrées `motionlab` et préserve toutes les cartes existantes. Aucun média distant ni URL signée n’est publié. Les fichiers vidéo sont contrôlés avec `ffprobe` avant leur ajout.
+Ce script lit les manifestes `../continuity-video-v1/manifest.json`, `../motion-design-v1/manifest.json` et `../gpt-full-film-v1/manifest.json`, ainsi que les statuts de `../continuity-video-v1/plan.json`. Il ne modifie que les entrées `motionlab` et préserve toutes les cartes existantes. Aucun média distant ni URL signée n’est publié. Les fichiers vidéo sont contrôlés avec `ffprobe` avant leur ajout. Les films complets sans fichier final affichent uniquement leur statut ; le lien Instagram est identifié comme la référence du collage MD01.
 
 Contrat d’un manifeste source : `assets` est une liste de records avec `code`, `group` (`openings` ou `full-film`), `status` (`ready`, `complete`, `completed` ou `reviewed`), `localFile`, `poster` facultatif, `title`, `subtitle` et `note` (objets FR/EN), `durationSeconds`, `imageModel`, `videoModel` et `referenceCodes`. Une ouverture possède aussi `treatmentId` (`opening-n`, `opening-s` ou `opening-g`). Les chemins de média sont relatifs au dossier du manifeste. Les notes et coûts détaillés restent dans les dossiers de production.
 

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "status": "complete",
+  "assets": [
+    {
+      "code": "FG01",
+      "group": "full-film",
+      "status": "ready",
+      "title": {
+        "fr": "Conserve what matters · Film GPT complet",
+        "en": "Conserve what matters · Complete GPT film"
+      },
+      "subtitle": {
+        "fr": "GPT Image 2.5 Sunburst → Seedance 2.5 · 76 s",
+        "en": "GPT Image 2.5 Sunburst → Seedance 2.5 · 76 seconds"
+      },
+      "note": {
+        "fr": "Les 30 premières secondes de CV01G sont conservées à l’image près. Six nouvelles séquences terminent le récit ; détails des chaussures encore à harmoniser.",
+        "en": "The first 30 seconds of CV01G are preserved frame for frame. Six new sequences complete the story; some footwear details still need continuity refinement."
+      },
+      "durationSeconds": 76,
+      "imageModel": "GPT Image 2.5 Sunburst",
+      "videoModel": "Seedance 2.5",
+      "referenceCodes": [
+        "CC01G",
+        "CC02G",
+        "CC03G",
+        "CC04G",
+        "CC06G",
+        "CC08G",
+        "CC09G",
+        "CC10G",
+        "CL01G",
+        "CL02G",
+        "CL03G",
+        "CL04G",
+        "CL05G",
+        "CS01G",
+        "CS02G",
+        "CS03G"
+      ],
+      "creditsCharged": 1764,
+      "kind": "video",
+      "localFile": "renders/converse-gpt-seedance25-full-76s.mp4",
+      "poster": "renders/poster.jpg",
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "openingCode": "CV01G",
+      "openingPictureExactlyPreserved": true,
+      "newClipCount": 6,
+      "sourcePlan": "plan.json",
+      "qaReport": "qa/render-report.json",
+      "creditNote": "1764 credits for six new clips; the opening, voices, score and end-card source are reused."
+    }
+  ],
+  "totalConfirmedCredits": 1764
+}

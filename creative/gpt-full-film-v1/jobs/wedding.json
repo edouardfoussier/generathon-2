@@ -1,0 +1,28 @@
+{
+  "id": "wedding",
+  "duration": 4,
+  "timelineStart": 45,
+  "timelineEnd": 49,
+  "referenceCodes": [
+    "CC03G",
+    "CC06G",
+    "CL04G",
+    "CS01G"
+  ],
+  "referenceImages": [
+    "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png",
+    "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png",
+    "production/videoassets/d2f3b78e-0e51-4fc5-bcb5-a9a9cca3f488.png",
+    "production/videoassets/a03d21f1-5421-4fd4-b529-ac46e28f1dcc.png"
+  ],
+  "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 CENTER outfit only: same Rafa age 24, brown 1978 wedding suit and cream shirt, small boutonniere, black high-top Converse. Image 2 CENTER outfit only: same Elena age 23 in long modest ivory wedding dress and veil. Image 3: brick building wedding doorway with double wooden doors. Image 4 only guides normal-size black shoe construction, relatively new with NO repair patch. 0–0.8s close-up of his black Converse beneath brown suit trousers settling onto the wooden threshold. 0.8–4s clean cut to a medium-wide portrait of the TWO newlyweds emerging just outside the doorway, holding hands and exchanging a happy intimate glance; gentle forward camera movement, veil catches a light breeze. Their hands remain anatomically natural. Do not show dance outfits or three copies of a person. No extra crowds, no written date.",
+  "status": "generated",
+  "expectedCredits": 168,
+  "assetId": "28c26cf5-9d3c-468c-89ce-cbfa5a00caa6",
+  "submittedAt": "2026-09-26T22:18:52.772Z",
+  "creditsCharged": 168,
+  "nativeDurationSeconds": 4.041667,
+  "updatedAt": "2026-09-26T22:21:37.981Z",
+  "checkedAt": "2026-09-26T22:26:17.093Z",
+  "localFile": "videos/wedding.mp4"
+}

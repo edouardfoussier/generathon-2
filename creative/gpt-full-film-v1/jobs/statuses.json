@@ -1,0 +1,56 @@
+[
+  {
+    "scene": "basketball",
+    "assetId": "5563ce09-4c37-4269-9373-546ef6975aa2",
+    "status": "generated",
+    "creditsCharged": 294,
+    "nativeDurationSeconds": 7.041667,
+    "updatedAt": "2026-09-26T22:22:06.258Z",
+    "checkedAt": "2026-09-26T22:26:17.088Z"
+  },
+  {
+    "scene": "salsa",
+    "assetId": "d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7",
+    "status": "generated",
+    "creditsCharged": 336,
+    "updatedAt": "2026-09-26T22:18:23.049Z",
+    "checkedAt": "2026-09-26T22:28:48.134478+00:00",
+    "nativeDurationSeconds": 8.041667
+  },
+  {
+    "scene": "wedding",
+    "assetId": "28c26cf5-9d3c-468c-89ce-cbfa5a00caa6",
+    "status": "generated",
+    "creditsCharged": 168,
+    "nativeDurationSeconds": 4.041667,
+    "updatedAt": "2026-09-26T22:21:37.981Z",
+    "checkedAt": "2026-09-26T22:26:17.093Z"
+  },
+  {
+    "scene": "newborn",
+    "assetId": "36b8e264-7a57-43ec-b6ac-b6403a9ab830",
+    "status": "generated",
+    "creditsCharged": 168,
+    "nativeDurationSeconds": 4.041667,
+    "updatedAt": "2026-09-26T22:22:17.478Z",
+    "checkedAt": "2026-09-26T22:26:17.094Z"
+  },
+  {
+    "scene": "handover",
+    "assetId": "ed917ee0-69e6-499f-96ff-f223b819134c",
+    "status": "generated",
+    "creditsCharged": 336,
+    "nativeDurationSeconds": 8.041667,
+    "updatedAt": "2026-09-26T22:22:42.719Z",
+    "checkedAt": "2026-09-26T22:26:17.094Z"
+  },
+  {
+    "scene": "return",
+    "assetId": "62351e26-65e9-4688-a594-11a84e905bfb",
+    "status": "generated",
+    "creditsCharged": 462,
+    "nativeDurationSeconds": 11.041667,
+    "updatedAt": "2026-09-26T22:23:37.305Z",
+    "checkedAt": "2026-09-26T22:26:17.094Z"
+  }
+]

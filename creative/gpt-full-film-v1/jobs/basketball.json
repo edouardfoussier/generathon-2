@@ -1,0 +1,24 @@
+{
+  "id": "basketball",
+  "duration": 7,
+  "timelineStart": 30,
+  "timelineEnd": 37,
+  "referenceCodes": [
+    "CC02G",
+    "CL02G"
+  ],
+  "referenceImages": [
+    "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png",
+    "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png"
+  ],
+  "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: Rafa, ONE 16-year-old Puerto Rican boy in 1970, short black curls, white tank top, navy shorts, white knee-high tube socks with burgundy bands and relatively new black high-top Converse. Image 2: his Bronx basketball court with brick tenements, chain-link fence, hoop left. Late-afternoon light, empty court, exactly one orange basketball. This starts immediately after the camera in the previous scene has revealed his face. 0–2.8s: medium three-quarter view, face clearly visible for the first beat; he focuses, bends his knees and releases one believable jump shot upward toward the basket. 2.8–4.4s: cut to tight hoop and net, the ONE ball drops downward through the hoop once. 4.4–6.1s: cut back to his face, modest delighted grin and small exhale, gaze toward the basket. 6.1–7s: cut to normal-size shoes landing and making a small clockwise pivot on the court, tightly framed with no distant person. No 3-point line claim. Keep the ball and limbs physically coherent.",
+  "status": "generated",
+  "expectedCredits": 294,
+  "assetId": "5563ce09-4c37-4269-9373-546ef6975aa2",
+  "submittedAt": "2026-09-26T22:18:52.770Z",
+  "creditsCharged": 294,
+  "nativeDurationSeconds": 7.041667,
+  "updatedAt": "2026-09-26T22:22:06.258Z",
+  "checkedAt": "2026-09-26T22:26:17.088Z",
+  "localFile": "videos/basketball.mp4"
+}

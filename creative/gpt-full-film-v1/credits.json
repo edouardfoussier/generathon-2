@@ -1,0 +1,44 @@
+{
+  "newCreditsCharged": 1764,
+  "creditsRemainingAfter": 4624,
+  "creditsBefore": 6388,
+  "scope": "Only six new Seedance continuation clips; opening, music, voices and end-card image reused.",
+  "assets": [
+    {
+      "scene": "basketball",
+      "assetId": "5563ce09-4c37-4269-9373-546ef6975aa2",
+      "creditsCharged": 294,
+      "durationSeconds": 7
+    },
+    {
+      "scene": "salsa",
+      "assetId": "d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7",
+      "creditsCharged": 336,
+      "durationSeconds": 8
+    },
+    {
+      "scene": "wedding",
+      "assetId": "28c26cf5-9d3c-468c-89ce-cbfa5a00caa6",
+      "creditsCharged": 168,
+      "durationSeconds": 4
+    },
+    {
+      "scene": "newborn",
+      "assetId": "36b8e264-7a57-43ec-b6ac-b6403a9ab830",
+      "creditsCharged": 168,
+      "durationSeconds": 4
+    },
+    {
+      "scene": "handover",
+      "assetId": "ed917ee0-69e6-499f-96ff-f223b819134c",
+      "creditsCharged": 336,
+      "durationSeconds": 8
+    },
+    {
+      "scene": "return",
+      "assetId": "62351e26-65e9-4688-a594-11a84e905bfb",
+      "creditsCharged": 462,
+      "durationSeconds": 11
+    }
+  ]
+}
