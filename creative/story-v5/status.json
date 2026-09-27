@@ -1,0 +1,17 @@
+{
+  "status": "proposal-not-approved",
+  "durationSeconds": 78,
+  "narrativeBeats": 16,
+  "signatureStart": 74,
+  "signatureDuration": 4,
+  "timingContiguous": true,
+  "newPaidGenerations": 0,
+  "existingMediaModified": false,
+  "userDirection": "Keep cast; iterate story, images and transitions before sound/final edit",
+  "unresolved": [
+    "Personal stake for Luna",
+    "Retain or remove AI exchange",
+    "Specific final personal mark and action"
+  ],
+  "sourceBrief": "Full challenge text supplied by user in current conversation; percentage structure is advisory."
+}
