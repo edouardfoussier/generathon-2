@@ -3016,6 +3016,75 @@
       ],
       "group": "scenes",
       "note": "Étude v5 du raccord grenier → terrain, appui présent/souvenir ; manifeste transitions. Génération de transition avant correction éditoriale."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/luna/videos/RL01.mp4",
+      "sceneIds": [
+        "s03-photograph-insert"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Après la boîte et avant les lacets · vers 00:10 dans votre export. Garder environ 2 s pour établir le regard de Luna avant le souvenir."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/videos/RT01-CUT-match-franc.mp4",
+      "sceneIds": [
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Remplace le passage lacets → pieds de Rafa, autour de 00:14. Premier choix proposé : coupe courte entre deux cadrages alignés. Aucun fondu de silhouettes."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/videos/RT01-FLASH-match-lumiere.mp4",
+      "sceneIds": [
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Alternative au raccord franc, au même endroit. Même coupe, masquée par un éclat de six images. Plus marqué, sans transformation anatomique."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/videos/RT01-P-luna-appui.mp4",
+      "sceneIds": [
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Entre les lacets de Luna et le terrain de Rafa · autour de 00:14. Source présent pour construire le raccord ; utiliser le montage RT01-CUT pour un premier essai."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/videos/RT01-M-rafa-appui.mp4",
+      "sceneIds": [
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. À la suite du pied de Luna, avant de révéler Rafa. Privilégier 0–1,5 s : la fin comporte un pivot et un déplacement, pas un appui vertical."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/videos/RT01-C-flashback-continu.mp4",
+      "sceneIds": [
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Alternative au raccord coupé · ne pas cumuler les deux versions. La bascule se cache sous une lumière très forte vers 2,7–3,7 s. Variante plus lente ; comparer au raccord franc."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/luna/videos/RL02.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Après le retour au présent · vers 00:50, avant le départ. Le trait est plus large que prévu et colore une partie de la réparation. Option de personnalisation à choisir avec l’équipe."
+    },
+    {
+      "relativePath": "creative/realistic-refinement-v1/luna/videos/RL03.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Reprise réaliste 2026-09-27. Après le geste personnel et le départ du grenier, avant la signature. Une seule poussée puis une glisse. Le détail orange est très peu visible à cette échelle ; éviter de raccorder ensuite sur une réparation vierge en gros plan."
     }
   ]
 }

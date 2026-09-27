@@ -1,0 +1,590 @@
+{
+  "version": 1,
+  "status": "reference_recovery_only_no_new_generation",
+  "basis": "creative/capcut-handoff/selection.json",
+  "styleLock": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately.",
+  "scopeNoteFr": "Références et prompts de la sélection réaliste. Les noms/code Bxx/Sxx/Vxx sont ceux des anciennes générations, pas les identifiants du Studio peint.",
+  "references": [
+    {
+      "id": "LUNA_ID",
+      "role": "character_identity",
+      "arcadsPath": "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+      "localPath": "creative/selection/assets/L01.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "L01 : visage et silhouette réalistes, queue basse bouclée, tee-shirt anthracite, cargo olive. Planche de casting : créer un seul sujet dans une image plein cadre."
+    },
+    {
+      "id": "LUNA_ATTIC",
+      "role": "character_in_location",
+      "arcadsPath": "production/videoassets/c0a4f046-e4c1-44a1-811c-c96fc62d9413.png",
+      "localPath": "creative/selection/assets/K01.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "K01 : identité et décor. Ancienne version avec programme funéraire et chaussure tenue ; ne pas réintroduire ces accessoires abandonnés. La correction gauche/droite demandée n’avait pas été obtenue."
+    },
+    {
+      "id": "RAFA_TEEN_ID",
+      "role": "character_identity",
+      "arcadsPath": "production/videoassets/1607646b-3c4b-4017-9531-2dea49c4a0f0.png",
+      "localPath": "creative/selection/assets/G12.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "G12 : Rafa vers 16 ans, débardeur blanc, short marine, chaussettes blanches à deux bandes bordeaux, cheveux courts bouclés."
+    },
+    {
+      "id": "RAFA_COURT",
+      "role": "character_in_location",
+      "arcadsPath": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+      "localPath": "creative/selection/assets/K03.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "K03, source exacte de B07A : ballon réellement à sa hanche droite malgré le prompt gauche. Même visage, terrain et tenue pour la reprise."
+    },
+    {
+      "id": "RAFA_ADULT_ID",
+      "role": "character_identity",
+      "arcadsPath": "production/videoassets/e4d0dd74-fa99-49be-9245-0d31408fa7a6.png",
+      "localPath": "creative/selection/assets/G13.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "G13 : même Rafa adulte, chemise rouille ouverte au col et pantalon brun évasé. L’âge est une interprétation, pas une personne réelle."
+    },
+    {
+      "id": "COUPLE_DANCE",
+      "role": "characters_in_location",
+      "arcadsPath": "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/dance.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Source exacte de B09. Elena robe violette et Converse rouges ; Rafa chemise rouille. Inspection locale : chaussures de Rafa paraissent basses/sous les ourlets ; nouvelle macro à corriger pour rendre la tige haute lisible."
+    },
+    {
+      "id": "ELENA_LEGACY",
+      "role": "character_identity_only",
+      "arcadsPath": "production/videoassets/384f373c-f6e6-49cf-93b0-d8c9fea2b530.png",
+      "localPath": "creative/selection/assets/K04.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "K04 : visage et cheveux d’Elena ; chaussures Mary Jane bordeaux dans cette ancienne image. Ne pas reprendre sa chaussure : B09 sélectionné utilise les Converse rouges corrigées."
+    },
+    {
+      "id": "YOUNG_MOM_ID",
+      "role": "character_identity",
+      "arcadsPath": "production/videoassets/62e5cb22-14fd-4266-8ddd-dd3632bc7546.png",
+      "localPath": "creative/selection/assets/M02.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "M02 : deux âges d’une même mère ; utiliser uniquement le portrait gauche adolescent pour 1995, droite pour la mère actuelle. Pas Luna."
+    },
+    {
+      "id": "FAMILY_1995",
+      "role": "characters_in_location",
+      "arcadsPath": "production/videoassets/f240a438-62b3-4556-b931-4b5bf168a5c2.png",
+      "localPath": "creative/selection/assets/K05.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "K05 : père chemise bleu clair, fille denim. Père en chaussures de maison brunes, seule la fille porte la paire noire ; il tient son lacet gauche."
+    },
+    {
+      "id": "GIFT_START",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/gift.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Source exacte de B12 : père offre la paire avant de s’agenouiller ; fille en chaussettes, une seule paire dans ses mains."
+    },
+    {
+      "id": "WEDDING_START",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/wedding.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Source exacte de B10 : même couple en costume sombre et robe ivoire ; identité de 1977 conservée."
+    },
+    {
+      "id": "OLD_SHOE_PRODUCT",
+      "role": "product",
+      "arcadsPath": "production/videoassets/587b381e-8086-4a7a-81b6-9d1200f5df5a.png",
+      "localPath": "creative/selection/assets/P01.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "P01 : construction et patine noire/ivoire. La source comporte petite reprise écrue et trait bleu ; les plans v3 ont abandonné le trait bleu. Ne pas le réintroduire."
+    },
+    {
+      "id": "OLD_SHOE_GROUNDED",
+      "role": "product_in_location",
+      "arcadsPath": "production/videoassets/adcfbc30-9c0d-4e6e-98ee-9dbe3eb3d98b.png",
+      "localPath": "creative/selection/assets/K02.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "K02 : deux semelles au sol, reprise crème extérieure de la chaussure droite. L’orientation est différente du nouvel appui B06 : ne pas prétendre à un raccord exact sans nouvel ancrage aligné."
+    },
+    {
+      "id": "OLD_SHOE_LACES",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/017ccace-f564-4e17-94a7-78bb18e51e65.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/donning.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Source exacte de B05, inspectée : lacets crème, deux chaussures usées, cargo olive, réparation proche de la semelle. Stabiliser ce dessin dans les reprises."
+    },
+    {
+      "id": "NEW_SHOE_COURT",
+      "role": "product_in_location",
+      "arcadsPath": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+      "localPath": "creative/animatic-v1/memories/S10-anchor.png",
+      "evidence": "creative/animatic-v1/memories/generation-log.json",
+      "notesFr": "Source exacte B06 Kling : chaussure relativement neuve sur terrain, sans reprise crème ni initiales ; chaussettes de basket, pointe vers la droite selon le prompt enregistré."
+    },
+    {
+      "id": "DANCE_FEET",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/dancefeet.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Source exacte B08, inspectée : paire noire à gauche, rouge à droite. Les ourlets dissimulent la hauteur noire ; garder les pieds séparés et montrer une vraie tige haute dans une nouvelle macro."
+    },
+    {
+      "id": "ATTIC_D06",
+      "role": "location",
+      "arcadsPath": "production/videoassets/1aa9dd5e-605c-4ba9-80df-acfd455439b2.png",
+      "localPath": "creative/selection/assets/D06.png",
+      "evidence": "creative/selection/manifest.json",
+      "notesFr": "D06 réaliste : briques, poutres, fenêtre gauche, établi/coffre. Lumière diffuse de ciel gris ; ne pas utiliser le grenier peint du storyboard récent."
+    },
+    {
+      "id": "START_01_B01",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/ff33d75a-e539-468f-aa88-ac38439b23d6.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/entry.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Image de départ exacte du clip sélectionné B01 (kling_30_pro). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_02_B03",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Image de départ exacte du clip sélectionné B03 (seedance_25). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_05_B07B",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/net.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Image de départ exacte du clip sélectionné B07B (seedance_25). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_06_S09",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+      "localPath": "creative/animatic-v1/memories/S09-anchor.png",
+      "evidence": "creative/animatic-v1/memories/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné S09 (kling-3-pro). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_11_S13",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/710e1860-b2d7-4c92-b4cc-31e4a259b465.png",
+      "localPath": "creative/animatic-v1/memories/S13-anchor.png",
+      "evidence": "creative/animatic-v1/memories/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné S13 (kling-3-pro). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_12_S15",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/19829bf4-76f6-45f5-94fc-51f41877e2f0.png",
+      "localPath": "creative/animatic-v1/memories/S15-anchor.png",
+      "evidence": "creative/animatic-v1/memories/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné S15 (kling-3-pro). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_15_S19",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/3e113801-80a5-4042-89ac-e1b7662f2a7f.png",
+      "localPath": "creative/animatic-v1/family/stills/S19-anchor.png",
+      "evidence": "creative/animatic-v1/family/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné S19 (kling_30). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_16_B13",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+      "localPath": "creative/animatic-v1/opening/stills/A03.png",
+      "evidence": "creative/animatic-v1/opening/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné B13 (seedance_25). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_17_B14A",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/return.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Image de départ exacte du clip sélectionné B14A (veo31). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_18_B15",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+      "localPath": "creative/model-comparison-v3/shared/stills/end.png",
+      "evidence": "creative/model-comparison-v3/shared/anchors.json",
+      "notesFr": "Image de départ exacte du clip sélectionné B15 (seedance_25). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_19_V22",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png",
+      "localPath": "creative/animatic-v1/opening/stills/A22.png",
+      "evidence": "creative/animatic-v1/opening/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné V22 (kling_30). Voir originalPrompt et originalQA dans selectedClips."
+    },
+    {
+      "id": "START_20_V25",
+      "role": "scene_start",
+      "arcadsPath": "production/videoassets/5caf3748-a191-44e6-884d-28f1470b8ed4.png",
+      "localPath": "creative/animatic-v1/opening/stills/A25.png",
+      "evidence": "creative/animatic-v1/opening/generation-log.json",
+      "notesFr": "Image de départ exacte du clip sélectionné V25 (kling_30). Voir originalPrompt et originalQA dans selectedClips."
+    }
+  ],
+  "selectedClips": [
+    {
+      "order": 1,
+      "code": "B01",
+      "model": "kling_30_pro",
+      "sourceVideo": "creative/model-comparison-v3/kling3/videos/B01.mp4",
+      "durationSeconds": 5.041667,
+      "sourceLog": "creative/model-comparison-v3/kling3/generation-log.json",
+      "originalPrompt": "Slow handheld point of view advancing through the attic doorway. Door swings open; sunlight catches dust above old boxes. Walk around the clutter. Understated cinematic live action, no person appears in frame. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/ff33d75a-e539-468f-aa88-ac38439b23d6.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/entry.png",
+      "originalQA": "Six sampled frames: slow doorway push into stable attic. Door begins open; readable POV entry, no character visible.",
+      "generatedAssetId": "f89794f7-38ad-480f-84ad-87b4e56f7517"
+    },
+    {
+      "order": 2,
+      "code": "B03",
+      "model": "seedance_25",
+      "sourceVideo": "creative/model-comparison-v3/seedance25/videos/B03.mp4",
+      "durationSeconds": 5.041667,
+      "sourceLog": "creative/model-comparison-v3/seedance25/generation-log.json",
+      "originalPrompt": "Use reference image 1 as the exact opening composition. Gentle overhead push in over the ALREADY OPEN shoebox. Preserve the open lid and exactly two worn black high-top shoes. The girl's bare forearm in charcoal T-shirt enters; her hand carefully picks up the single faded basketball photograph adjacent to the shoes. Keep the shoes and photograph readable. No extra objects or writing. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/05fc3f4b-2419-45de-a201-7b4d054b90dd.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/discovery-final.png",
+      "originalQA": "Stable overhead move; Luna picks up the single basketball photograph. R.M. marks remain visible inside shoe; hand and charcoal sleeve are coherent. Box already open at clip start, per corrected anchor.",
+      "generatedAssetId": "cb01efb9-89a1-4ce8-bc69-b178a8e3bd68"
+    },
+    {
+      "order": 3,
+      "code": "B05",
+      "model": "seedance_25",
+      "sourceVideo": "creative/model-comparison-v3/seedance25/videos/B05.mp4",
+      "durationSeconds": 4.041667,
+      "sourceLog": "creative/model-comparison-v3/seedance25/generation-log.json",
+      "originalPrompt": "Use reference image 1 as the exact opening composition. Close shot: girl pulls the loose laces snug once and places the now-worn shoe firmly onto the floor. Feet remain anatomically natural. Preserve black shoe construction, small cream repair and olive cargo trousers. Intentional small movements. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/017ccace-f564-4e17-94a7-78bb18e51e65.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/donning.png",
+      "originalQA": "Natural lace tightening then hands lift clear. Both inherited shoes remain anatomically stable; the entry of foot is implicit, as in shared anchor.",
+      "generatedAssetId": "b257bad5-7727-4098-9a69-68d2afaf7502"
+    },
+    {
+      "order": 4,
+      "code": "B06",
+      "model": "kling_30_pro",
+      "sourceVideo": "creative/model-comparison-v3/kling3/videos/B06.mp4",
+      "durationSeconds": 4.041667,
+      "sourceLog": "creative/model-comparison-v3/kling3/generation-log.json",
+      "originalPrompt": "Low close-up: the teenager's right black high-top sneaker settles onto the sunlit 1970 playground asphalt. Camera begins a smooth rise toward striped socks and navy shorts. Toe points screen right. No cream repair on this younger shoe, badge only on inner ankle. A basketball bounces offscreen. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/b1efe346-1e4d-4340-b7ed-13c5c11f602b.png",
+      "startFrameLocalPath": "creative/animatic-v1/memories/S10-anchor.png",
+      "originalQA": "Six sampled frames: stable shoes, clean sole landing and camera rise. First3s usable; younger shoe has plain outer side and no cream repair.",
+      "generatedAssetId": "4503b557-7a7d-4751-9b10-67ea045d1b6d"
+    },
+    {
+      "order": 5,
+      "code": "B07B",
+      "model": "seedance_25",
+      "sourceVideo": "creative/model-comparison-v3/seedance25/videos/B07B.mp4",
+      "durationSeconds": 4.041667,
+      "sourceLog": "creative/model-comparison-v3/seedance25/generation-log.json",
+      "originalPrompt": "Use reference image 1 as the exact opening composition. Locked upward view of the basketball hoop. One orange basketball descends cleanly through the hoop and net. Net recoils then settles, ball exits bottom. Realistic gravity, one ball, no extra hoop or player. Short clean swish insert. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/net.png",
+      "originalQA": "One ball passes through net with plausible recoil. Use 0.625–2.125 seconds to keep descent and exit inside the 1.5-second insert.",
+      "generatedAssetId": "3c00a390-e1be-4d6e-8336-5e8f64809077"
+    },
+    {
+      "order": 6,
+      "code": "S09",
+      "model": "kling-3-pro",
+      "sourceVideo": "creative/animatic-v1/memories/S09.mp4",
+      "durationSeconds": 5.041667,
+      "sourceLog": "creative/animatic-v1/memories/generation-log.json",
+      "originalPrompt": "A small playful smile slowly forms on the boy's face as he looks toward his off-screen friend on the right. He holds the smile gently for the final two seconds. Tiny natural blink and breathing only. The camera remains locked. Preserve his youthful face, exact eye shape, curls, tank top and warm court light. A quiet closed-mouth smile, intimate cinematic realism; ambient outdoor air only.",
+      "startFrameArcadsPath": "production/videoassets/31ef9646-a121-45a8-bc3e-03c026ba3845.png",
+      "startFrameLocalPath": "creative/animatic-v1/memories/S09-anchor.png",
+      "originalQA": "1fps sampled review: recognizable young Rafa, gentle closed-mouth smile and small blink, stable identity; usable.",
+      "generatedAssetId": "63191226-632f-4c62-81cd-f9950fa4fb10"
+    },
+    {
+      "order": 7,
+      "code": "B07B",
+      "model": "veo31",
+      "sourceVideo": "creative/model-comparison-v3/veo31/videos/B07B.mp4",
+      "durationSeconds": 8.0,
+      "sourceLog": "creative/model-comparison-v3/veo31/generation-log.json",
+      "originalPrompt": "Locked upward view of the basketball hoop. One orange basketball descends cleanly through the hoop and net. Net recoils then settles, ball exits bottom. Realistic gravity, one ball, no extra hoop or player. Short clean swish insert. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model. Perform the key action during the first 1.5 seconds, then hold naturally for the remainder of an eight second clip. No dialogue.",
+      "startFrameArcadsPath": "production/videoassets/d1b89564-064e-41e6-b2f8-ad899cbd8aaf.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/net.png",
+      "originalQA": null,
+      "generatedAssetId": "524cc899-f56e-483f-a9e8-0ac39bf6e47e"
+    },
+    {
+      "order": 8,
+      "code": "B07A",
+      "model": "veo31",
+      "sourceVideo": "creative/model-comparison-v3/veo31/videos/B07A.mp4",
+      "durationSeconds": 8.0,
+      "sourceLog": "creative/model-comparison-v3/veo31/generation-log.json",
+      "originalPrompt": "The boy raises the basketball from his hip, bends his knees and releases one controlled jump shot toward the offscreen hoop, following through with his wrist. Camera stays on player, never show ball entering hoop in this shot. Natural daylight, quiet 1970 New York playground. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model. Perform the key action during the first 3.5 seconds, then hold naturally for the remainder of an eight second clip. No dialogue.",
+      "startFrameArcadsPath": "production/videoassets/eb03cc2f-641c-4fd4-9c4a-8cbd4750baee.png",
+      "startFrameLocalPath": "creative/selection/assets/K03.png",
+      "originalQA": null,
+      "generatedAssetId": "a1aac944-2700-4943-bf98-dedde3aed547"
+    },
+    {
+      "order": 9,
+      "code": "B08",
+      "model": "seedance_25",
+      "sourceVideo": "creative/model-comparison-v3/seedance25/videos/B08.mp4",
+      "durationSeconds": 4.041667,
+      "sourceLog": "creative/model-comparison-v3/seedance25/generation-log.json",
+      "originalPrompt": "Use reference image 1 as the exact opening composition. Low shoe-height camera: a man's black high-top shoe lands and pivots on the wooden dance floor, flared brown trouser hem moving. A woman's red high-top sneaker enters from screen right and lightly taps his toe. Preserve separate feet, plain outer shoe sides, realistic friction. Focus on footwork. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/21bd5fc1-30b3-4728-822b-0cd08712b21c.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/dancefeet.png",
+      "originalQA": "Black shoes pivot, red pair enters and lightly taps toe. Use 0.8333–3.8333 seconds to include encounter.",
+      "generatedAssetId": "e0aec49b-2156-4198-af7e-435167949a57"
+    },
+    {
+      "order": 10,
+      "code": "B09",
+      "model": "veo31",
+      "sourceVideo": "creative/model-comparison-v3/veo31/videos/B09.mp4",
+      "durationSeconds": 8.0,
+      "sourceLog": "creative/model-comparison-v3/veo31/generation-log.json",
+      "originalPrompt": "The man notices he has lightly stepped into the woman's space. A sheepish half-smile; she laughs softly and takes his hand. They begin a simple relaxed salsa step together. Camera eases wider, showing his black high-tops and her RED high-top canvas sneakers. Keep faces, violet dress and rust shirt stable. Restrained period dance hall energy, 1977. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model. Perform the key action during the first 8 seconds, then hold naturally for the remainder of an eight second clip. No dialogue.",
+      "startFrameArcadsPath": "production/videoassets/1ed46df0-0ed3-4ad2-aa40-79d3a0471fe3.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/dance.png",
+      "originalQA": null,
+      "generatedAssetId": "121b268e-2312-412a-b583-63a9077c52be"
+    },
+    {
+      "order": 11,
+      "code": "S13",
+      "model": "kling-3-pro",
+      "sourceVideo": "creative/animatic-v1/memories/S13.mp4",
+      "durationSeconds": 5.041667,
+      "sourceLog": "creative/animatic-v1/memories/generation-log.json",
+      "originalPrompt": "Locked intimate close-up. The young man's fingers resting across the woman's open palm settle down by just a few millimeters in a single tender micro-contact. Her palm remains open and still. They then hold the same gentle connection for three seconds. Preserve both wrists, exactly five anatomically stable fingers per hand, the rust sleeve and violet fabric, natural warm skin and dance-hall light. Hands stay loosely resting, without interlacing, squeezing, shaking or pulling. One quiet realistic gesture, soft fabric ambience.",
+      "startFrameArcadsPath": "production/videoassets/710e1860-b2d7-4c92-b4cc-31e4a259b465.png",
+      "startFrameLocalPath": "creative/animatic-v1/memories/S13-anchor.png",
+      "originalQA": "1fps sampled review: anatomically plausible two-hand connection, wrists and sleeves stable. Fingers curl into a gentle loose clasp rather than staying flat; usable from0.2s for3s. No interlacing or extra hand visible in sampled frames.",
+      "generatedAssetId": "ce8f12ce-52e2-436a-bc77-8d45ca0ddff0"
+    },
+    {
+      "order": 12,
+      "code": "S15",
+      "model": "kling-3-pro",
+      "sourceVideo": "creative/animatic-v1/memories/S15.mp4",
+      "durationSeconds": 5.041667,
+      "sourceLog": "creative/animatic-v1/memories/generation-log.json",
+      "originalPrompt": "The young man lowers his eyes briefly, then raises them toward the woman on screen-right and lets himself smile with quiet confidence. Hold his final small smile for two seconds. Locked close-up camera, tiny natural breathing. Preserve his exact face, curls and rust shirt, the softly out-of-focus woman at right, and stable amber-plum dance-hall light. He stays planted, lips together, one restrained reaction, quiet room ambience.",
+      "startFrameArcadsPath": "production/videoassets/19829bf4-76f6-45f5-94fc-51f41877e2f0.png",
+      "startFrameLocalPath": "creative/animatic-v1/memories/S15-anchor.png",
+      "originalQA": "1fps sampled review: gaze lowers then returns right, restrained smile, rust shirt and foreground Elena curls coherent.",
+      "generatedAssetId": "4b969775-2eb4-4241-b6f0-000ac567977c"
+    },
+    {
+      "order": 13,
+      "code": "B10",
+      "model": "veo31",
+      "sourceVideo": "creative/model-comparison-v3/veo31/videos/B10.mp4",
+      "durationSeconds": 8.0,
+      "sourceLog": "creative/model-comparison-v3/veo31/generation-log.json",
+      "originalPrompt": "Newlywed couple share a private smile and squeeze joined hands. Camera tilts from his black canvas high-top shoes under dark wedding trousers to their faces. Her ivory wedding dress moves gently. Brief elegant 1978 memory, natural documentary texture, no written signs. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model. Perform the key action during the first 4 seconds, then hold naturally for the remainder of an eight second clip. No dialogue.",
+      "startFrameArcadsPath": "production/videoassets/24d87a84-1924-42df-87c1-412401d020b6.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/wedding.png",
+      "originalQA": null,
+      "generatedAssetId": "240bea48-1e1d-4d7f-9afd-7317361cd016"
+    },
+    {
+      "order": 14,
+      "code": "B12",
+      "model": "kling_30_pro",
+      "sourceVideo": "creative/model-comparison-v3/kling3/videos/B12.mp4",
+      "durationSeconds": 8.041667,
+      "sourceLog": "creative/model-comparison-v3/kling3/generation-log.json",
+      "originalPrompt": "Father offers the worn black high-top pair to his teenage daughter. She smiles and sits, slips one foot into the open shoe. He kneels and gently straightens the tongue and pulls one lace snug. Two connected natural actions, clear tender handover, no new pair appears. Preserve identities and 1995 clothes. End on their exchanged smile. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/e0860c3e-0c24-42af-b0b6-60b7db257d33.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/gift.png",
+      "originalQA": "Six sampled frames: clear offer, shoe lowered to daughter's foot, father kneels and tends the laces, then shared smile. One shoe remains on daughter and one sock visible; good emotional continuity over8s.",
+      "generatedAssetId": "b5522a66-3360-4c45-bd58-24b3a6d6c79a"
+    },
+    {
+      "order": 15,
+      "code": "S19",
+      "model": "kling_30",
+      "sourceVideo": "creative/animatic-v1/family/videos/S19.mp4",
+      "durationSeconds": 6.041667,
+      "sourceLog": "creative/animatic-v1/family/generation-log.json",
+      "originalPrompt": "Locked cinematic close-up. The girl holds her down-right eyeline toward her father. She lets a small affectionate closed-mouth smile grow gently, then holds it with a tiny natural blink. Father at the far right foreground stays still and blurred. One continuous take; stable identity, composition and light, only subtle breathing. Silent performance, closed lips, no spoken words, no music.",
+      "startFrameArcadsPath": "production/videoassets/3e113801-80a5-4042-89ac-e1b7662f2a7f.png",
+      "startFrameLocalPath": "creative/animatic-v1/family/stills/S19-anchor.png",
+      "originalQA": {
+        "videoInspected": true,
+        "method": "Sampled contact sheets and specified full frames; not continuous playback; audio not independently auditioned.",
+        "disposition": "accepted_animatic_video",
+        "sampledFramesPerSecond": 1,
+        "notes": "Smile rises slightly and settles; stable down-right/near-level eye line and face. Father remains blurred at right. Use 0.5–3.5s; intended age match needs editorial framing, not a morph."
+      },
+      "generatedAssetId": "814926b0-583b-430a-b972-b260434f214e"
+    },
+    {
+      "order": 16,
+      "code": "B13",
+      "model": "seedance_25",
+      "sourceVideo": "creative/model-comparison-v3/seedance25/videos/B13.mp4",
+      "durationSeconds": 4.041667,
+      "sourceLog": "creative/model-comparison-v3/seedance25/generation-log.json",
+      "originalPrompt": "Use reference image 1 as the exact opening composition. Close-up of girl in attic. She blinks as if returning from a vivid memory and turns her eyes toward the doorway. Small inhale, expression softens. Natural live action, preserve face and ponytail. Lips gently closed. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/3ec59ee2-4061-4201-aeec-c1565b8f9324.png",
+      "startFrameLocalPath": "creative/animatic-v1/opening/stills/A03.png",
+      "originalQA": "Luna identity stable; blinks and turns toward doorway. Three-second source window 0.5–3.5.",
+      "generatedAssetId": "94b95175-202f-4d22-ae72-ff55b90896ae"
+    },
+    {
+      "order": 17,
+      "code": "B14A",
+      "model": "veo31",
+      "sourceVideo": "creative/model-comparison-v3/veo31/videos/B14A.mp4",
+      "durationSeconds": 8.0,
+      "sourceLog": "creative/model-comparison-v3/veo31/generation-log.json",
+      "originalPrompt": "The girl carefully sets the photograph back inside the shoebox, turns her head toward the doorway and smiles with newfound warmth. Intimate slow camera move from hands to face. Preserve exactly one photo and two shoes on her feet. She quietly mouths: Mom, tell me about Grandpa. Natural restrained performance. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model. Complete the action during the first 4 seconds, then hold naturally.",
+      "startFrameArcadsPath": "production/videoassets/1e95852e-725e-4e53-8552-fd3c69baf9f4.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/return.png",
+      "originalQA": null,
+      "generatedAssetId": "2b22e557-c5f0-4751-906e-296891248486"
+    },
+    {
+      "order": 18,
+      "code": "B15",
+      "model": "seedance_25",
+      "sourceVideo": "creative/model-comparison-v3/seedance25/videos/B15.mp4",
+      "durationSeconds": 4.041667,
+      "sourceLog": "creative/model-comparison-v3/seedance25/generation-log.json",
+      "originalPrompt": "Use reference image 1 as the exact opening composition. One calm step forward in the worn inherited black high-top shoes. Low locked camera; right foot moves a short distance then rests. Preserve repaired canvas, ivory rubber, olive cargo hem and natural anatomy. Leave left half of composition quiet for typography; no generated lettering. Ending holds still. Photorealistic cinematic 16:9 film. Preserve shared anchor identities, black inherited high-top product and era. No added titles, subtitles, watermarks or music; sound replaced by a shared edit. Native motion generated fresh by each named model.",
+      "startFrameArcadsPath": "production/videoassets/c925b40f-2624-4b57-a205-93d3cb3a979f.png",
+      "startFrameLocalPath": "creative/model-comparison-v3/shared/stills/end.png",
+      "originalQA": "One short step then hold. Inherited shoe repair, canvas and sole preserved; foreground outer ankle stays plain. Leaves top-left space for endline, but shoe enters lower-left area.",
+      "generatedAssetId": "45e3a404-188d-4671-a0fb-9ad5c010e2fd"
+    },
+    {
+      "order": 19,
+      "code": "V22",
+      "model": "kling_30",
+      "sourceVideo": "creative/animatic-v1/opening/videos/V22.mp4",
+      "durationSeconds": 6.041667,
+      "sourceLog": "creative/animatic-v1/opening/generation-log.json",
+      "originalPrompt": "Locked wide shot. The girl already holds the skateboard securely in one hand throughout. She takes just one slow calm first step diagonally forward-right, then pauses with a small hopeful smile. The board travels with her hand as one rigid object. Keep her within the right half of frame, left attic area undisturbed and calm for typography. Preserve shoes, straight trouser hems, photographs, light and architecture. Silent continuous shot, lips closed, no music or dialogue.",
+      "startFrameArcadsPath": "production/videoassets/e5166454-b6dd-4320-a857-0e80fa5ea67b.png",
+      "startFrameLocalPath": "creative/animatic-v1/opening/stills/A22.png",
+      "originalQA": "Short advance with trailing foot adjustment; settles near frame-right. Clear left space. Board tilts during step, exact deck marks differ. Review:2fps sampled frames.",
+      "generatedAssetId": "2963804f-2718-4b47-87f8-99293f331dd8"
+    },
+    {
+      "order": 20,
+      "code": "V25",
+      "model": "kling_30",
+      "sourceVideo": "creative/animatic-v1/opening/videos/V25.mp4",
+      "durationSeconds": 5.041667,
+      "sourceLog": "creative/animatic-v1/opening/generation-log.json",
+      "originalPrompt": "Locked close-up. Her hand gently firms its grip on the skateboard nose, then lifts the entire board slowly upward by ten centimeters and holds it still. The board and both visible wheels move together as one rigid physical object. Keep the relaxed hand anatomically stable, wood graphics fixed, clothing and lighting unchanged. Only one small lift. Quiet live-action shot, no speech, no music.",
+      "startFrameArcadsPath": "production/videoassets/5caf3748-a191-44e6-884d-28f1470b8ed4.png",
+      "startFrameLocalPath": "creative/animatic-v1/opening/stills/A25.png",
+      "originalQA": "Camera pullback reveals large invented black graphic/lettering on lower deck. Rejected for continuity; archived.",
+      "generatedAssetId": "d5eba5c9-42cc-400c-8b95-be3d6dd3ba2c"
+    }
+  ],
+  "transitionRecommendations": [
+    {
+      "id": "RT01-present-memory-footfall",
+      "connects": [
+        "B05",
+        "B06"
+      ],
+      "recommendationFr": "Créer deux images de raccord identiques en cadrage puis deux clips indépendants ; couper au contact de la semelle. Ne pas demander un changement de décor progressif ou un morphing des jambes. Faire la révélation de Rafa dans un troisième plan si nécessaire.",
+      "referenceIds": [
+        "OLD_SHOE_LACES",
+        "NEW_SHOE_COURT",
+        "ATTIC_D06"
+      ],
+      "imagePromptA": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Low locked 50mm shoe-height close-up from the OUTER side of Luna’s RIGHT black high-top. Toe points screen RIGHT. Shoe spans approximately x=0.25 to x=0.75, sole at y=0.78. Olive cargo cuff, worn ivory rubber, cream laces, small cream repair near the outer sole. Plain outer ankle with NO circular badge. One foreground shoe, other foot outside the crop. D06 pine floor and softly blurred attic. The sole hovers only one centimetre above the floor, ready to settle.",
+      "imagePromptB": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Match reference A EXACTLY in camera height, focal length, shoe size, toe direction and sole baseline. Replace ONLY the scene and period details: 1970 asphalt court, teenage Rafa’s bare lower leg and white tube sock with two burgundy rings; same classic black high-top construction, relatively new, NO repair and NO initials. Plain outer ankle. Sole one centimetre above asphalt. No distant duplicated person or oversized shoe.",
+      "motionPromptA": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Keep the camera completely locked. The right sole descends one centimetre and settles flat onto the floor once, heel and forefoot making coherent contact. Hold the grounded foot still for the final second. No second step, bounce, sliding, scale change or camera tilt.",
+      "motionPromptB": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Keep the camera completely locked at the exact matching angle. The right sole descends one centimetre and settles flat onto asphalt once. Hold contact for one second; only then allow a tiny weight shift. No jump, sideways glide, new footwear or camera tilt.",
+      "editInstructionFr": "Raccord franc sur l’appui ; aligner la taille de la chaussure et la ligne de semelle avant de couper. La patine et le pantalon changent seulement entre les plans."
+    },
+    {
+      "id": "RT02-dance-wedding-hands",
+      "connects": [
+        "S13",
+        "S15",
+        "B10"
+      ],
+      "recommendationFr": "Le raccord de mains est plus fiable qu’une métamorphose de visages ou de costumes. Garder le geste S13 ; produire une courte prise de mains au mariage, puis révéler le couple en B10.",
+      "referenceIds": [
+        "START_11_S13",
+        "WEDDING_START",
+        "COUPLE_DANCE"
+      ],
+      "imagePrompt": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Tight insert of the SAME young adult Rafa and Elena’s gently joined hands, composed to match the provided salsa-hand reference: same screen positions, wrist angles and scale. Wedding costume only: his dark suit cuff and ivory shirt at left, her ivory dress fabric at right. Warm town-hall light from the same side. Natural separated fingers and no invented jewellery; background softly out of focus. This is a new wedding shot, not a split scene.",
+      "motionPrompt": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Locked intimate close-up. Their loosely joined hands make one very small affectionate squeeze, then remain still for two seconds. Preserve each finger and wrist, fabric and lighting. No ring appearing, interlacing, shaking, costume change or camera move.",
+      "editInstructionFr": "Couper de S13 aux mains du mariage sur la même position, puis vers B10. S15 peut rester juste avant la coupe pour laisser respirer le regard."
+    },
+    {
+      "id": "RT03-wedding-handover-shoe",
+      "connects": [
+        "B10",
+        "B12"
+      ],
+      "recommendationFr": "L’ellipse des années passe par la même chaussure. Ajouter un insert court de la paire portée au mariage, puis retrouver la paire patinée dans les mains du père en 1995. Garder B12 comme plan de transmission : pas de vieillissement visible en morphing.",
+      "referenceIds": [
+        "WEDDING_START",
+        "GIFT_START",
+        "OLD_SHOE_PRODUCT"
+      ],
+      "imagePrompt": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Low close-up of Rafa’s authentic black HIGH-TOP Converse under his dark wedding trousers, same wedding light and floor as the supplied wedding scene. Lift the trouser hem naturally enough to read the canvas high collar. Ivory toe and thin flat sole, cream laces; light-to-moderate wear, no future cream repair or ink. Outer ankle plain. One shoe rests flat, natural adult scale; ivory wedding dress edge softly visible at the far right.",
+      "motionPrompt": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Locked low close-up. The groom shifts his weight very slightly onto the grounded black high-top and it remains planted. Trousers move naturally by a centimetre. One restrained gesture; no second pair, shoe deformation, light flash, ageing or wardrobe change.",
+      "editInstructionFr": "Coupe sur la silhouette noire/ivoire vers la paire usée de GIFT_START/B12 ; le vieillissement se lit dans la matière après la coupe. L’absence du nouveau-né dans la sélection constitue une ellipse volontaire à confirmer au montage."
+    },
+    {
+      "id": "RT04-daughter-luna-return",
+      "connects": [
+        "S19",
+        "B13",
+        "B14A"
+      ],
+      "recommendationFr": "Faire un raccord de regard entre la jeune mère S19 et Luna B13. Un clignement ou une légère inspiration suffit ; ni visage qui se transforme, ni superposition. Si B13 reste insuffisant, régénérer à partir de son propre gros plan réaliste.",
+      "referenceIds": [
+        "START_15_S19",
+        "START_16_B13",
+        "LUNA_ID",
+        "ATTIC_D06"
+      ],
+      "imagePrompt": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Close head-and-shoulders view of the SAME teenage Luna from her realistic identity sheet in the D06 attic. Charcoal tee, low curly ponytail, olive cargo not required in this crop. Match the lens and face scale of the selected B13 starting image; eyeline gently toward the offscreen attic doorway. Natural soft left-window light, a quiet thoughtful expression, lips relaxed and closed. Do not use the teenage mother’s face for Luna.",
+      "motionPrompt": "Photorealistic cinematic live-action, landscape 16:9. Natural human skin and fabric, restrained 35mm film texture, believable optics, grounded anatomy and physically connected shoes. Preserve the supplied fictional characters, period wardrobe and location. No painted texture, gouache, watercolor, illustration, cartoon, glossy CGI, morphing, magical particles, portal, added letters, captions or watermark. One simple physical action per generated take. Silent picture; sound will be edited separately. Locked close-up. Luna blinks once, takes a tiny natural breath and shifts her eyes toward the doorway. A restrained affectionate half-smile appears, then holds. Preserve youthful face, curls and skin throughout. No phone, no new person, no lip-synced line, no tear streak or exaggerated gasp.",
+      "editInstructionFr": "Finir S19 sur le sourire, couper sur le clignement de Luna, puis B14A pour remettre la photographie. Garder les identités distinctes."
+    }
+  ],
+  "continuityFindingsFr": [
+    "Conserver les identités des prises choisies, pas celles des planches gouache/continuity-study.",
+    "K04 ancien montre Elena en Mary Jane ; le B09 retenu utilise dance.png avec Converse rouges.",
+    "Les photos anciennes contiennent parfois des éléments funéraires abandonnés : références d’identité seulement quand nécessaire.",
+    "Rafa tient le ballon à droite dans K03 réel, contrairement au texte initial à gauche.",
+    "Le père de K05 ajuste le lacet gauche de sa fille ; sa propre paire est brune, la fille seule porte la paire transmise.",
+    "La petite reprise crème appartient aux époques 1995/présent, pas au basket 1970 ; les badges circulaires restent sur les chevilles intérieures.",
+    "V25 choisi pour CapCut était auparavant rejeté pour un graphisme inventé sous le skateboard. Pour une reprise, montrer le grip uni au-dessus, garder le dessous hors champ et verrouiller la caméra.",
+    "V22 est une marche avec la planche déjà en main ; V25 est le ramassage. L’ordre sélectionné V22 puis V25 inverse donc la causalité si conservé tel quel."
+  ]
+}

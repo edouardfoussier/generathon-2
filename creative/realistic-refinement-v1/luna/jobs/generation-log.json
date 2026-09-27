@@ -1,0 +1,210 @@
+[
+  {
+    "code": "RL01",
+    "image": {
+      "code": "RL01",
+      "kind": "image",
+      "title": "Luna découvre la photographie",
+      "titleFr": "Luna découvre la photographie",
+      "titleEn": "Luna discovers the photograph",
+      "file": "images/RL01.png",
+      "model": "nano-banana-2",
+      "provider": "Arcads",
+      "assetId": "b4111858-e2e3-4d4a-8a7a-48727afb79cb",
+      "arcadsPath": "production/videoassets/b4111858-e2e3-4d4a-8a7a-48727afb79cb.png",
+      "status": "generated",
+      "prompt": "Create ONE cinematic live-action photographic film still, 16:9, not a collage. Reference 1 defines the EXACT existing fictional Luna facial identity and clothing: teenage girl, warm olive-brown skin, dark brown eyes, dark curls gathered in a low ponytail, plain oversized charcoal cotton T-shirt, olive cargo trousers. Do not recast her. Reference 2 defines the same physical brick-and-timber attic and natural window light. Tight medium shot at her seated eye height, 50mm cinema lens, natural slight depth of field: Luna occupies the right two-thirds, her whole face and both hands clearly visible. She sits on the low wooden stool beside the open old wooden trunk. She has just lifted a small yellowed family photograph a few centimetres above the trunk with both hands and is looking down at it, quietly curious. The photo is a small physical 1970s snapshot of her young grandfather playing basketball, turned TOWARD Luna, with only its yellowed rear and edge visible to camera; do not add a second portrait, text or funeral programme. Her expression is restrained, thoughtful, almost a breath of recognition, never sobbing. Keep boxes, wood grain and the sunlit attic softly out of focus; no memorial cards or funeral props. Genuine photographic realism: natural skin pores, fine flyaway hair, uneven cotton weave, practical warm window light, true hand anatomy, mild organic film grain, realistic photographic shadows. One girl only. No painting, gouache, sketch, illustration, plastic skin, beauty retouching, CGI, decorative framing, subtitles or added writing.",
+      "referenceImages": [
+        "production/videoassets/b4111858-e2e3-4d4a-8a7a-48727afb79cb_reference_image_0.png",
+        "production/videoassets/b4111858-e2e3-4d4a-8a7a-48727afb79cb_reference_image_1.png"
+      ],
+      "creditsCharged": 16,
+      "createdAt": "2026-09-27T09:40:07.333Z",
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "qa": {
+        "visuallyInspected": true,
+        "notes": "Clear retained Luna identity and live-action face; photograph back faces camera, no funeral props."
+      }
+    },
+    "video": {
+      "code": "RL01V",
+      "kind": "video",
+      "title": "Luna découvre la photographie · vidéo réaliste",
+      "titleFr": "Luna découvre la photographie · vidéo réaliste",
+      "titleEn": "Luna discovers the photograph · live-action video",
+      "file": "videos/RL01.mp4",
+      "poster": "images/RL01.png",
+      "model": "kling_30",
+      "modelLabel": "Kling 3 Pro",
+      "provider": "Arcads",
+      "assetId": "a1d8abf1-9ba7-48fc-a139-b70e39088ce3",
+      "arcadsPath": "production/videoassets/a1d8abf1-9ba7-48fc-a139-b70e39088ce3.mp4",
+      "status": "generated",
+      "prompt": "ONE continuous 5-second LIVE-ACTION photographic shot, starting from this exact image. Preserve this exact fictional Luna, her facial identity, low ponytail, plain charcoal T-shirt and olive cargos, the same attic, trunk, light and composition. She lifts the small old photograph just 4 centimetres closer to her face, with both hands still holding its edges. Her eyes trace the photo, she blinks once and her tense eyebrows relax into a very subtle quiet curiosity, almost recognition. Keep her mouth closed; no speech, no crying, no large smile. The photograph remains a rigid real piece of paper, its back turned toward camera; it must not bend, transform, reveal animated pictures or multiply. Her face remains clearly visible throughout. Camera makes an almost imperceptible 5-centimetre push-in; no cut, no sudden zoom, no reframing. Natural skin pores, real hair flyaways, cotton texture, practical window light, human microexpressions and believable finger anatomy. Keep the photorealistic live-action look; no painting, brushstrokes, CGI or beauty smoothing. Silent performance, no music, captions or lettering.",
+      "startFrame": "production/videoassets/b4111858-e2e3-4d4a-8a7a-48727afb79cb.png",
+      "referenceImages": [
+        "production/videoassets/b4111858-e2e3-4d4a-8a7a-48727afb79cb.png"
+      ],
+      "creditsCharged": 240,
+      "createdAt": "2026-09-27T09:42:39.019Z",
+      "durationSeconds": 5.041667,
+      "width": 1928,
+      "height": 1072,
+      "fps": 24,
+      "hasAudio": true,
+      "suggestedEditorialRange": {
+        "inSeconds": 0.3,
+        "outSeconds": 4.4
+      },
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "qa": {
+        "sampledFrames": 15,
+        "contactSheet": "qa/RL01-contact.jpg",
+        "notes": "Inspected 15 evenly sampled frames: Luna's identity remains consistent, photograph lifts then stays rigid in both hands; restrained gaze and recognizable live-action face. No funeral props or text introduced. Full playback listening not performed."
+      }
+    },
+    "failedSubmission": null
+  },
+  {
+    "code": "RL02",
+    "image": {
+      "code": "RL02",
+      "kind": "image",
+      "title": "Luna ajoute sa propre trace",
+      "titleFr": "Luna ajoute sa propre trace",
+      "titleEn": "Luna adds her own mark",
+      "file": "images/RL02.png",
+      "model": "nano-banana-2",
+      "provider": "Arcads",
+      "assetId": "9983c9ae-e1fd-4289-ab0c-58c4e5e2a084",
+      "arcadsPath": "production/videoassets/9983c9ae-e1fd-4289-ab0c-58c4e5e2a084.png",
+      "status": "generated",
+      "prompt": "Create ONE cinematic LIVE-ACTION photographic macro film still, 16:9, not an illustration. Reference 1 supplies the existing fictional Luna's olive-brown hands, plain charcoal T-shirt and olive cargo trousers. Reference 2 supplies the EXACT inherited old black canvas Converse Chuck Taylor high-top design, off-white aged rubber toe cap, cream laces, worn rubber sole and its small existing cream stitched repair on the outer canvas near the forefoot. Do not redesign or replace the shoe. Close insert from slightly above, 85mm macro lens, hands and ONE entire shoe supported sideways across Luna's olive-clad knee while she sits in the same practical warm-window-lit attic. Outer canvas and existing cream repair face the camera. Luna's left hand gently supports the shoe heel; in her right hand she holds an ordinary orange fabric marker in a natural writing grip. The marker nib hovers a few millimetres above a SMALL blank area of black outer canvas immediately beside the cream repair: this is the moment BEFORE she draws her own single small mark. No orange mark has yet been drawn. The sole rests naturally against her lap, not floating, laces stay still. Keep shoe geometry, stitching, rubber and any existing brand patch faithful and unaltered; do not write over a logo or invent lettering. Her face is outside the crop. Natural pores on fingers, real creased skin, textile fibres, tactile fabric repair, practical warm sidelight and gentle cool shadow, shallow focus but marker nib and repair both sharp. Restrained premium live-action cinematography. No paint-rendered faces or brushwork, no gouache, no cartoon, no plastic 3D, no extra fingers, no other shoes, no on-screen text.",
+      "referenceImages": [
+        "production/videoassets/9983c9ae-e1fd-4289-ab0c-58c4e5e2a084_reference_image_0.png",
+        "production/videoassets/9983c9ae-e1fd-4289-ab0c-58c4e5e2a084_reference_image_1.png"
+      ],
+      "creditsCharged": 16,
+      "createdAt": "2026-09-27T09:40:13.504Z",
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "qa": {
+        "visuallyInspected": true,
+        "notes": "Natural hands and faithful shoe; initial orange nib mark lands on cream repair rather than adjacent black canvas. Video deliberately continues this one small mark; no logo touched."
+      }
+    },
+    "video": {
+      "code": "RL02V",
+      "kind": "video",
+      "title": "Luna ajoute sa propre trace · vidéo réaliste",
+      "titleFr": "Luna ajoute sa propre trace · vidéo réaliste",
+      "titleEn": "Luna adds her own mark · live-action video",
+      "file": "videos/RL02.mp4",
+      "poster": "images/RL02.png",
+      "model": "kling_30",
+      "modelLabel": "Kling 3 Pro",
+      "provider": "Arcads",
+      "assetId": "58dbb638-3b0c-4d67-ae78-cec6fd912d6e",
+      "arcadsPath": "production/videoassets/58dbb638-3b0c-4d67-ae78-cec6fd912d6e.mp4",
+      "status": "generated",
+      "prompt": "ONE continuous 5-second LIVE-ACTION macro insert, starting from this exact photographic frame. Keep the same single old black high-top shoe firmly supported on Luna's olive cargo-clad knee; same cream laces, canvas fibres, frayed cream repair, aged rubber, hands, marker and warm attic light. A single precise action: her right hand slowly completes ONE short orange diagonal stroke, about 1.5 centimetres long, across the existing cream repair where the nib is already touching. The orange line appears only directly behind the moving nib. At 3 seconds she lifts the marker straight away by 3 centimetres, then holds still for the remaining 2 seconds so we can read this small new personal mark. Her left hand stabilizes the heel without changing grip. No second mark, no added text, no filling the whole patch, no other gesture. The mark never touches a logo. Keep the entire shoe geometry absolutely consistent, no melting, no floating, no duplicated fingers or changing laces. Fixed camera, no cuts, no rotation, focus stays on nib and repair. Genuine photographic skin and textile microtexture, practical soft light; no gouache, cartoon or 3D-render materials. No speech, music, subtitles or overlay.",
+      "startFrame": "production/videoassets/9983c9ae-e1fd-4289-ab0c-58c4e5e2a084.png",
+      "referenceImages": [
+        "production/videoassets/9983c9ae-e1fd-4289-ab0c-58c4e5e2a084.png"
+      ],
+      "creditsCharged": 240,
+      "createdAt": "2026-09-27T09:42:43.464Z",
+      "durationSeconds": 5.041667,
+      "width": 1928,
+      "height": 1072,
+      "fps": 24,
+      "hasAudio": true,
+      "suggestedEditorialRange": {
+        "inSeconds": 0.3,
+        "outSeconds": 4.7
+      },
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "qa": {
+        "sampledFrames": 15,
+        "contactSheet": "qa/RL02-contact.jpg",
+        "notes": "Inspected 15 evenly sampled frames: one orange marking action then the marker lifts and holds, stable shoe and fingers. Orange becomes a broad short stroke across roughly the upper half of the cream repair rather than the requested fine 1.5cm line; no logo touched. Candidate with this visual deviation disclosed."
+      }
+    },
+    "failedSubmission": null
+  },
+  {
+    "code": "RL03",
+    "image": {
+      "code": "RL03",
+      "kind": "image",
+      "title": "Luna commence son propre chemin",
+      "titleFr": "Luna commence son propre chemin",
+      "titleEn": "Luna starts her own path",
+      "file": "images/RL03.png",
+      "model": "nano-banana-2",
+      "provider": "Arcads",
+      "assetId": "f0273168-c311-4c39-b617-06a74fbfb405",
+      "arcadsPath": "production/videoassets/f0273168-c311-4c39-b617-06a74fbfb405.png",
+      "status": "generated",
+      "prompt": "Create ONE cinematic LIVE-ACTION photographic film still, 16:9 landscape. Keep the EXACT existing fictional Luna from reference 1: same teenage girl, same dark curls in a low ponytail, same plain oversized charcoal cotton T-shirt and loose olive cargo trousers. Move the setting OUTSIDE to a quiet small paved family-house courtyard by warm brick walls, a wooden front door behind her, late afternoon natural light. Reference 2 defines her inherited aged black Converse Chuck Taylor high tops with cream laces, aged off-white rubber and small cream canvas repair; keep the familiar design. Wide shot, camera about waist height, 35mm lens, full body and complete skateboard visible, natural three-quarter rear angle with a small part of her cheek in profile. Luna faces and will move gently left-to-right into open clear pavement. She prepares ONE relaxed, controlled first skate push: left foot planted securely over the front bolts of the board, right foot planted on the ground immediately alongside the board. Knees relaxed, anatomically plausible balance, no jumping or tricks. Skateboard is an ordinary wooden deck with completely PLAIN BLACK GRIPTAPE ON TOP, four realistically grounded wheels; underside is hidden, no deck artwork, no labels or lettering. A small orange accent on the repaired shoe can be discreet, never on a logo. The courtyard is safe and empty, no cars, no crowd. Authentic photographic pores, natural hair, real fabric weave, warm sunlight and plausible soft shadows, subtle organic grain. Convey quiet confidence and a new beginning, not grief. No painting, gouache, cartoon, clay, CGI, glossy game render, text, graphic overlays or extra people.",
+      "referenceImages": [
+        "production/videoassets/f0273168-c311-4c39-b617-06a74fbfb405_reference_image_0.png",
+        "production/videoassets/f0273168-c311-4c39-b617-06a74fbfb405_reference_image_1.png"
+      ],
+      "creditsCharged": 16,
+      "createdAt": "2026-09-27T09:41:14.923Z",
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "qa": {
+        "visuallyInspected": true,
+        "notes": "Full body, three-quarter rear, plain black grip tape on top, stable starting stance; footwear repair largely small in frame."
+      }
+    },
+    "video": {
+      "code": "RL03V",
+      "kind": "video",
+      "title": "Luna commence son propre chemin · vidéo réaliste",
+      "titleFr": "Luna commence son propre chemin · vidéo réaliste",
+      "titleEn": "Luna starts her own path · live-action video",
+      "file": "videos/RL03.mp4",
+      "poster": "images/RL03.png",
+      "model": "kling_30",
+      "modelLabel": "Kling 3 Pro",
+      "provider": "Arcads",
+      "assetId": "39d9185a-15f2-452c-8552-c946388777aa",
+      "arcadsPath": "production/videoassets/39d9185a-15f2-452c-8552-c946388777aa.mp4",
+      "status": "generated",
+      "prompt": "ONE continuous 5-second LIVE-ACTION wide shot from this exact starting image. Preserve the exact existing fictional Luna, charcoal T-shirt, olive cargos, low ponytail, inherited worn black high-top shoes, plain black grip tape skateboard, brick courtyard and natural late-afternoon light. This is one gentle, controlled first skate push, no tricks: the foot already on the front half of the deck stays planted there throughout; the foot initially on the pavement pushes backward ONCE along the ground, then lifts and lands on the rear half of the same deck. The board rolls steadily forward toward screen right, only about two metres. She glides quietly for the final second with both feet on the board and relaxed bent knees. Four wheels remain below the deck and in contact with pavement; real wheel rotation, accurate weight transfer, plausible balance and anatomy. The top of the board remains plain black grip tape; never expose or invent printed artwork. Keep the same clothes, shoes, hair and body proportions. Camera makes a small smooth side-follow movement to retain her full body, both shoes and entire skateboard in frame at all times; no cut, no dramatic zoom or orbit. Photographic human skin, natural cloth and sunlight, subtle real motion blur, not animation or a game render. Quiet hope and self-confidence. No speech, captions, titles or music.",
+      "startFrame": "production/videoassets/f0273168-c311-4c39-b617-06a74fbfb405.png",
+      "referenceImages": [
+        "production/videoassets/f0273168-c311-4c39-b617-06a74fbfb405.png"
+      ],
+      "creditsCharged": 240,
+      "createdAt": "2026-09-27T09:43:26.100Z",
+      "durationSeconds": 5.041667,
+      "width": 1928,
+      "height": 1072,
+      "fps": 24,
+      "hasAudio": true,
+      "suggestedEditorialRange": {
+        "inSeconds": 0.8,
+        "outSeconds": 5
+      },
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "qa": {
+        "sampledFrames": 15,
+        "contactSheet": "qa/RL03-contact.jpg",
+        "notes": "Inspected 15 evenly sampled frames: one grounded skate push followed by both feet on deck and gentle gliding, coherent limb motion, board stays below feet, full body and board remain visible. Plain dark grip retained. Fine wheel motion requires normal-speed team review."
+      }
+    },
+    "failedSubmission": {
+      "status": "rejected_before_asset_creation",
+      "error": "INVALID_REFERENCE_IMAGES",
+      "retry": "Fresh dedicated upload used successfully; temporary-reference reuse likely caused the rejection."
+    }
+  }
+]

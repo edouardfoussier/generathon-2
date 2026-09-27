@@ -1,0 +1,56 @@
+[
+  {
+    "code": "RL01",
+    "title": "Luna découvre la photographie",
+    "references": [
+      "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+      "external-api-temp-uploads/a5a7531d-74af-45d8-9e92-5db871f2f7a1.png"
+    ],
+    "prompt": "Create ONE cinematic live-action photographic film still, 16:9, not a collage. Reference 1 defines the EXACT existing fictional Luna facial identity and clothing: teenage girl, warm olive-brown skin, dark brown eyes, dark curls gathered in a low ponytail, plain oversized charcoal cotton T-shirt, olive cargo trousers. Do not recast her. Reference 2 defines the same physical brick-and-timber attic and natural window light. Tight medium shot at her seated eye height, 50mm cinema lens, natural slight depth of field: Luna occupies the right two-thirds, her whole face and both hands clearly visible. She sits on the low wooden stool beside the open old wooden trunk. She has just lifted a small yellowed family photograph a few centimetres above the trunk with both hands and is looking down at it, quietly curious. The photo is a small physical 1970s snapshot of her young grandfather playing basketball, turned TOWARD Luna, with only its yellowed rear and edge visible to camera; do not add a second portrait, text or funeral programme. Her expression is restrained, thoughtful, almost a breath of recognition, never sobbing. Keep boxes, wood grain and the sunlit attic softly out of focus; no memorial cards or funeral props. Genuine photographic realism: natural skin pores, fine flyaway hair, uneven cotton weave, practical warm window light, true hand anatomy, mild organic film grain, realistic photographic shadows. One girl only. No painting, gouache, sketch, illustration, plastic skin, beauty retouching, CGI, decorative framing, subtitles or added writing.",
+    "model": "nano-banana-2",
+    "response": {
+      "assets": [
+        {
+          "id": "b4111858-e2e3-4d4a-8a7a-48727afb79cb",
+          "type": "nano-banana-2",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    }
+  },
+  {
+    "code": "RL02",
+    "title": "Luna ajoute sa propre trace",
+    "references": [
+      "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+      "external-api-temp-uploads/44fd0cc2-e944-47e8-9e48-8e4296efa6aa.png"
+    ],
+    "prompt": "Create ONE cinematic LIVE-ACTION photographic macro film still, 16:9, not an illustration. Reference 1 supplies the existing fictional Luna's olive-brown hands, plain charcoal T-shirt and olive cargo trousers. Reference 2 supplies the EXACT inherited old black canvas Converse Chuck Taylor high-top design, off-white aged rubber toe cap, cream laces, worn rubber sole and its small existing cream stitched repair on the outer canvas near the forefoot. Do not redesign or replace the shoe. Close insert from slightly above, 85mm macro lens, hands and ONE entire shoe supported sideways across Luna's olive-clad knee while she sits in the same practical warm-window-lit attic. Outer canvas and existing cream repair face the camera. Luna's left hand gently supports the shoe heel; in her right hand she holds an ordinary orange fabric marker in a natural writing grip. The marker nib hovers a few millimetres above a SMALL blank area of black outer canvas immediately beside the cream repair: this is the moment BEFORE she draws her own single small mark. No orange mark has yet been drawn. The sole rests naturally against her lap, not floating, laces stay still. Keep shoe geometry, stitching, rubber and any existing brand patch faithful and unaltered; do not write over a logo or invent lettering. Her face is outside the crop. Natural pores on fingers, real creased skin, textile fibres, tactile fabric repair, practical warm sidelight and gentle cool shadow, shallow focus but marker nib and repair both sharp. Restrained premium live-action cinematography. No paint-rendered faces or brushwork, no gouache, no cartoon, no plastic 3D, no extra fingers, no other shoes, no on-screen text.",
+    "model": "nano-banana-2",
+    "response": {
+      "assets": [
+        {
+          "id": "9983c9ae-e1fd-4289-ab0c-58c4e5e2a084",
+          "type": "nano-banana-2",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    }
+  },
+  {
+    "code": "RL03",
+    "title": "Luna commence son propre chemin",
+    "references": [
+      "production/videoassets/da78989a-f4e4-4222-9cfe-f211a5c2b305.png",
+      "external-api-temp-uploads/a5a7531d-74af-45d8-9e92-5db871f2f7a1.png",
+      "external-api-temp-uploads/44fd0cc2-e944-47e8-9e48-8e4296efa6aa.png"
+    ],
+    "prompt": "Create ONE cinematic LIVE-ACTION photographic film still, 16:9 landscape. Keep the EXACT existing fictional Luna from reference 1: same teenage girl, same dark curls in a low ponytail, same plain oversized charcoal cotton T-shirt and loose olive cargo trousers. Reference 2 is identity and photographic atmosphere only; move the setting OUTSIDE to a quiet small paved family-house courtyard by warm brick walls, a wooden front door behind her, late afternoon natural light. Reference 3 defines her inherited aged black Converse Chuck Taylor high tops with cream laces, aged off-white rubber and small cream canvas repair; keep the familiar design. Wide shot, camera about waist height, 35mm lens, full body and complete skateboard visible, natural three-quarter rear angle with a small part of her cheek in profile. Luna faces and will move gently left-to-right into open clear pavement. She prepares ONE relaxed, controlled first skate push: left foot planted securely over the front bolts of the board, right foot planted on the ground immediately alongside the board. Knees relaxed, anatomically plausible balance, no jumping or tricks. Skateboard is an ordinary wooden deck with completely PLAIN BLACK GRIPTAPE ON TOP, four realistically grounded wheels; underside is hidden, no deck artwork, no labels or lettering. A small orange accent on the repaired shoe can be discreet, never on a logo. The courtyard is safe and empty, no cars, no crowd. Authentic photographic pores, natural hair, real fabric weave, warm sunlight and plausible soft shadows, subtle organic grain. Convey quiet confidence and a new beginning, not grief. No painting, gouache, cartoon, clay, CGI, glossy game render, text, graphic overlays or extra people.",
+    "model": "nano-banana-2",
+    "response": {
+      "error_code": "INVALID_ARGUMENT"
+    }
+  }
+]

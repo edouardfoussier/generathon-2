@@ -1,0 +1,5 @@
+# Reproducible handoff archives and Python bytecode.
+downloads/
+package.json
+__pycache__/
+*.pyc

@@ -1,0 +1,122 @@
+{
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "sourceEdit": "/Users/edouardfoussier/Movies/CapCut/0927(1).mov",
+  "style": "photoreal live-action; preserve original montage cast and wardrobe",
+  "images": [
+    {
+      "code": "RT01-P",
+      "title": "Appui au présent · Luna",
+      "prompt": "Photoreal live-action cinema production still for an emotional Converse commercial, 16:9. Real camera optics, practical golden light, true canvas weave, rubber texture, tiny imperfections, believable anatomy. NOT painting, NOT gouache, NOT illustration, NOT animation, NOT CGI. Camera only 12 cm above the floor, tight shoe-level side view. Use reference 1 as the EXACT locked camera/framing and screen direction: foreground black high-top Chuck points screen RIGHT; copy the EXACT reference-1 foreground shoe outline, scale, position and sole height, without reframing; background second foot softly visible at left. Exactly two anatomically attached feet. The exterior-facing foreground ankle has NO circular badge, the circular badge only exists on an INNER ankle. Classic slim high-top canvas silhouette, cream rubber toe and single black foxing stripe, cream laces, no platform. This is one full-bleed frame, no panels, no text. PRESENT, 2026: replace the court of reference 1 with the family attic visible in references 2 and 3: worn honey wood floorboards, blurred brick gable and timber rafters, left window warm daylight. Wear the OLDER same pair from references 2 and 3, with restrained scuffs, yellowed rubber and the SAME small cream sewn repair on the outside front quarter. Olive cargo trousers hang loose above the high shoe collar; no striped socks visible. Foreground foot is flat and weight is on its heel, poised for a small toe press. Match the camera geometry of reference 1 precisely. Only lower shins and feet, no hands or heads.",
+      "references": [
+        "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d.png",
+        "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d_reference_image_1.png",
+        "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d_reference_image_2.png"
+      ],
+      "assetId": "29cef7b1-3256-407b-8066-de1bd2badd8e",
+      "status": "rejected",
+      "previousSubmissionError": "INVALID_REFERENCE_IMAGES: temporary upload consumed by parallel request; retried with durable references.",
+      "file": "images/RT01-P-luna-attic.png",
+      "qa": "Rejected for match cut: shoe points left instead of right."
+    },
+    {
+      "code": "RT01-M",
+      "title": "Même appui dans le souvenir · Rafa",
+      "prompt": "Photoreal live-action cinema production still for an emotional Converse commercial, 16:9. Real camera optics, practical golden light, true canvas weave, rubber texture, tiny imperfections, believable anatomy. NOT painting, NOT gouache, NOT illustration, NOT animation, NOT CGI. Camera only 12 cm above the floor, tight shoe-level side view. Use reference 1 as the EXACT locked camera/framing and screen direction: foreground black high-top Chuck points screen RIGHT; heel near x=30%, toe near x=82%; sole at y=76%; background second foot softly visible at left. Exactly two anatomically attached feet. The exterior-facing foreground ankle has NO circular badge, the circular badge only exists on an INNER ankle. Classic slim high-top canvas silhouette, cream rubber toe and single black foxing stripe, cream laces, no platform. This is one full-bleed frame, no panels, no text. MEMORY, 1970: preserve the real Bronx asphalt court, chain-link fence and red brick tenements from reference 1. Foreground feet belong to teenage Rafa; bare lower calves and WHITE ribbed tube socks with TWO BURGUNDY STRIPES, exactly as reference 1. The same black high-top pair is younger and lightly worn, with NO cream repair, NO holes; preserve the recognisable design without making the sole bright factory white. Foreground foot flat with weight on heel, poised for same small toe press. Reproduce reference 1 composition, shoe size and toe direction exactly. No trousers, no hands or heads.",
+      "references": [
+        "external-api-temp-uploads/951d3214-15b6-49d7-8c23-f371d6cf3dd3.png",
+        "external-api-temp-uploads/b8d44f45-3b95-4e2b-a5de-968f5f68c2c2.png",
+        "external-api-temp-uploads/87a0065d-ff96-4ebd-873a-2836706eba9f.png"
+      ],
+      "assetId": "11cb94c7-5710-4249-b778-c270433d904d",
+      "status": "generated",
+      "file": "images/RT01-M-rafa-court.png",
+      "arcadsPath": "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d.png"
+    },
+    {
+      "code": "RT01-P2",
+      "title": "Appui Luna · axe corrigé",
+      "prompt": "Edit the supplied photo. Preserve the EXACT camera angle, composition and pixel positions of BOTH SHOES. DO NOT rotate, mirror, move or resize the shoes. The foreground shoe heel remains on the LEFT and toe remains on the RIGHT. Both shoes point RIGHT. This is an image edit, not a new composition. Replace ONLY these elements: (1) replace the basketball court background and asphalt with warm old wooden floorboards and a family attic with softly blurred brick wall, timber rafters and left-window daylight; (2) replace bare calves and striped white socks with loose olive cargo trouser legs ending just above the high-top collars, no visible striped socks; (3) add subtle decades of wear to the same black high-top Converse pair: yellowed cream rubber, frayed canvas, and ONE small cream cloth repair patch on the outside front quarter of the foreground shoe, just above the rubber stripe. Keep the foreground shoe's exact side silhouette and position from the input; same laces and same toe-right orientation. Only two natural attached feet. Photoreal live-action cinema with actual canvas and rubber textures, not painting, illustration, CGI or animation. Foreground outer ankle stays plain black, NO circular star badge there; the circular badge remains only on the inner face of the far shoe. No new objects, lettering or frames.",
+      "references": [
+        "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d.png"
+      ],
+      "assetId": "f28ca498-d22f-47de-9f89-cd8dfc5ce15b",
+      "arcadsPath": "production/videoassets/f28ca498-d22f-47de-9f89-cd8dfc5ce15b.png",
+      "file": "images/RT01-P2-luna-match.png",
+      "status": "generated",
+      "qa": "Same right-facing shoe geometry as memory; validated image."
+    }
+  ],
+  "videos": [
+    {
+      "id": "RT01-M",
+      "title": "Rafa · l’appui du souvenir",
+      "kind": "video",
+      "startFrame": "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d.png",
+      "prompt": "Photoreal live-action cinema, same real shoes and Bronx court as start frame, not illustration or painting. A single locked-off low side shot of teenage Rafa's TWO feet in 1970. Preserve exact slim black canvas high-top Converse design, aged cream toe rubber, cream laces, tube socks with two burgundy stripes. Foreground toe points RIGHT throughout. 0–1s hold the initial stance almost perfectly still with subtle natural balance. 1–2.5s Rafa transfers his body weight forward, foreground HEEL rises only 2 cm, toe remains planted, canvas creases physically, and heel gently settles to the same ground position. 2.5–4s hold that ready stance, tiny natural settling only. His other foot stays still. No camera movement, cuts, pan, orbit, zoom, flash, transformation, new shoe parts, extra feet, hands or basketball. Realistic texture and anatomy, no added objects or lettering. This is a clean matching action insert intended to cut directly from an identically positioned older shoe in another location.",
+      "duration": 4,
+      "file": "videos/RT01-M-rafa-appui.mp4",
+      "assetId": "67c536d8-5a71-48f7-9f35-46e5ce7058ac",
+      "status": "generated",
+      "qa": "Action drifts after 1.8 s; use 0–1.5 s for stable matching silhouette.",
+      "creditsCharged": 208
+    },
+    {
+      "id": "RT01-P",
+      "title": "Luna · l’appui au présent",
+      "kind": "video",
+      "duration": 4,
+      "file": "videos/RT01-P-luna-appui.mp4",
+      "startFrame": "production/videoassets/f28ca498-d22f-47de-9f89-cd8dfc5ce15b.png",
+      "prompt": "Photoreal live-action cinema, one locked low shoe-level side shot in the same warm attic. Preserve the EXACT two-foot composition of the starting image, footwear, old cream repair patch, aged canvas and rubber, cream laces, olive cargo hems and warm window light. Foreground TOE ALWAYS POINTS SCREEN RIGHT, heel screen left. 0–1 second: almost still, natural settling. 1–2.5 seconds: Luna transfers a little weight forward, foreground heel gently rises only TWO CENTIMETRES while the toe stays planted, the sole bends minimally and the laces respond to gravity, then the heel settles flat to exactly the same place. 2.5–4 seconds: hold the flat stance with tiny natural balance. Rear foot stays still. Only two physically attached feet. No camera motion or reframing, no turn, no walking, no floating sole, no anatomy changes, no new objects, no cuts, no flash, no painting, illustration or CGI. The clean heel-settle is an edit point for a match cut.",
+      "assetId": "18cf31cf-2424-4aed-acec-ba834f9c829e",
+      "status": "generated",
+      "creditsCharged": 208,
+      "qa": "Strict outline match at frames 0–12. Later movement changes alignment."
+    },
+    {
+      "id": "RT01-C",
+      "title": "Flashback · transition continue expérimentale",
+      "kind": "video",
+      "duration": 5,
+      "file": "videos/RT01-C-flashback-continu.mp4",
+      "startFrame": "production/videoassets/f28ca498-d22f-47de-9f89-cd8dfc5ce15b.png",
+      "endFrame": "production/videoassets/11cb94c7-5710-4249-b778-c270433d904d.png",
+      "prompt": "Photoreal live-action commercial, controlled five-second memory transition between the supplied frames. LOCK THE CAMERA and maintain the exact foreground shoe silhouette, position and rightward orientation throughout. Begin on Luna's weathered black canvas high-top Converse with cream sewn repair and olive cargo hem in the warm wooden attic. 0–1.8s nearly still, tiny natural foot pressure. At 1.8s the foreground heel presses into the wood; a brief realistic flare from the LEFT window momentarily washes the whole frame over about 4–6 frames. During this full-frame bright exposure, use a SINGLE HARD EDIT to the memory: same spatially aligned black high-top shoe now less worn, no cream repair, white tube sock with two burgundy stripes, rough asphalt Bronx court at warm sunset, matching final reference exactly. 2.2–5s the memory resolves and holds with subtle natural balance. This is an EDIT TRANSITION hidden by practical light, not physical transformation: no visible shoe morph, no dissolving flesh, no growth of socks, no portals or particles, no camera orbit, no rotation, no extra feet, no titles. Exactly two human feet, convincing materials, natural light, photographic grain, never painted or animated.",
+      "assetId": "ae310b5a-c02e-4714-9913-b90d753446e5",
+      "status": "generated",
+      "creditsCharged": 240,
+      "qa": "Era change hidden by bright flare; no obvious exposed shape melting in sampled QA. Flare around2.7–3.7s is slow; keep as experimental alternative."
+    },
+    {
+      "id": "RT01-CUT",
+      "title": "Luna → Rafa · raccord franc prêt à monter",
+      "kind": "video",
+      "file": "videos/RT01-CUT-match-franc.mp4",
+      "model": "Montage local · sources Kling 3 Pro",
+      "status": "generated",
+      "hasAudio": false,
+      "prompt": "Direct match cut. 24 fps. Present frames[0,13), then memory frames[0,24). No resize, optical flow, morph, mirror or soundtrack. Encoded H264 CRF16.",
+      "sourceClips": [
+        "videos/RT01-P-luna-appui.mp4",
+        "videos/RT01-M-rafa-appui.mp4"
+      ],
+      "cutSeconds": 0.5416666666666666,
+      "durationSeconds": 1.5416666666666667
+    },
+    {
+      "id": "RT01-FLASH",
+      "title": "Luna → Rafa · raccord avec éclat bref",
+      "kind": "video",
+      "file": "videos/RT01-FLASH-match-lumiere.mp4",
+      "model": "Montage local · sources Kling 3 Pro",
+      "status": "generated",
+      "hasAudio": false,
+      "prompt": "Same controlled match cut as RT01-CUT. A white light flash overlays frames10..15 with opacities0.25,0.60,1.00,0.65,0.25,0.08. No frame blending or anatomy transformation. No soundtrack.",
+      "sourceClips": [
+        "videos/RT01-CUT-match-franc.mp4"
+      ],
+      "cutSeconds": 0.5416666666666666,
+      "durationSeconds": 1.5416666666666667
+    }
+  ]
+}
