@@ -62,3 +62,31 @@ python3 -m unittest discover -s creative/scene-studio -p 'test*.py'
 ```
 
 Les tests couvrent le découpage, l’isolation des variantes, la restauration, la limitation du prompt au plan, les imports malformés, les propositions 3D partielles, les chemins, les captures, les reprises de serveur et les requêtes dupliquées. Les vérifications visuelles et de parcours sont consignées dans `QA.md`.
+# Galerie par scène
+
+Ouvrir **Galerie par scène** en haut de l’atelier, ou **Comparer les prises**
+sur le plan sélectionné. Les vidéos sont regroupées dans l’ordre du récit ;
+les films complets, les autres explorations et les essais sans équivalent dans
+le scénario courant restent accessibles séparément. Les filtres scène, modèle,
+collection et recherche se combinent. Le survol lit une seule vidéo, sans son.
+
+Cliquer sur une prise, choisir le plan de destination et vérifier les points
+d’entrée/sortie. **Utiliser ce passage dans le montage** remplace la prise de ce
+plan ; **Insérer comme nouveau plan après** ajoute un plan. Un passage dure de
+0,25 à 30 secondes. **Revenir à la version originale** rétablit sa prise et sa
+durée d’origine. Les fichiers source ne sont jamais modifiés.
+
+Le catalogue éditorial partagé `scene-catalog.json` relie les 160 vidéos
+inventoriées aux 20 plans du montage V4 à partir des manifests, shot maps et
+rapports de montage. Il contient 117 prises, 16 films/séquences, 22 autres essais
+et 5 variantes sans équivalent précis dans ce scénario. Les plages proposées
+sont les coupes documentées, pas une nouvelle détection automatique des scènes.
+Les notes signalent les différences des anciens scénarios : vérifier le contenu
+avant de retenir une prise. La médiathèque Cut Room utilise ce même catalogue
+pour son filtre par scène.
+
+Dans l’atelier, **Classement & provenance** permet de corriger un rattachement.
+Ces corrections persistent dans `.state/scene-assignments.json`. Les nouvelles
+générations Studio complétées reprennent leur `sceneId` automatiquement ; les
+autres nouveaux fichiers non indexés apparaissent dans **À classer**. Le bouton
+**Actualiser** rescane les médias. Aucun de ces gestes ne lance de génération.

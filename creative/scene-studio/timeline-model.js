@@ -25,7 +25,7 @@ export function buildSchedule(project, durations = new Map()) {
       let outPoint = positive(known) ? known : fallback;
       let estimated = !hasKnown;
       let valid = !hasKnown || positive(known);
-      if (kind !== 'take') {
+      if (kind !== 'take' || media.inFrame !== undefined || media.outFrame !== undefined) {
         const fps = media.fps ?? project?.fps ?? 24;
         valid &&= positive(fps);
         const first = media.inFrame ?? 0;

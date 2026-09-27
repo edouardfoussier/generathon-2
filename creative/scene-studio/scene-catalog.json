@@ -1,0 +1,3021 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "relativePath": "creative/animatic-v1/family/videos/S03-S20.mp4",
+      "sceneIds": [
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Mère adulte dans le grenier, de la réflexion au sourire ; ancien rôle S03/S20, pas les scènes Studio du même numéro.",
+      "ranges": [
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 4,
+          "outSeconds": 7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/family/videos/S17.mp4",
+      "sceneIds": [
+        "s14-handover",
+        "s15-shared-smile"
+      ],
+      "group": "scenes",
+      "note": "Rafa au pied de sa fille lève les yeux après le geste du lacet ; generation-log et shot-map S17. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 0.5,
+          "outSeconds": 3.5
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 0.5,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/family/videos/S18.mp4",
+      "sceneIds": [
+        "s14-handover"
+      ],
+      "group": "scenes",
+      "note": "Macro : Rafa resserre le nœud déjà fait ; generation-log et shot-map S18. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 2,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/family/videos/S19.mp4",
+      "sceneIds": [
+        "s16-daughter-reaction"
+      ],
+      "group": "scenes",
+      "note": "Gros plan de la fille adolescente regardant son père ; generation-log S19. Elle n’est pas Luna. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 0.5,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/family/videos/S22.mp4",
+      "sceneIds": [],
+      "group": "unassigned",
+      "note": "Ancienne résolution : la grand-mère âgée tend la main. Aucun plan dédié à cette action dans le découpage actuel à 20 scènes."
+    },
+    {
+      "relativePath": "creative/animatic-v1/family/videos/S23.mp4",
+      "sceneIds": [],
+      "group": "unassigned",
+      "note": "Ancienne résolution à trois générations : Luna prend la main de sa grand-mère, sa mère derrière. Ce passage n’existe pas dans le découpage actuel."
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S08.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Rafa révélé sur le terrain, ballon à la hanche et sourire ; shot-map S08, pas un tir. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 0.2,
+          "outSeconds": 3.2
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S09.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Gros plan de Rafa souriant sur le terrain ; génération et QA S09. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0.3,
+          "outSeconds": 2.8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S10.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Pivot des chaussures de Rafa sur le terrain ; appui avant passage vers la danse, QA S10. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 1,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S11.mp4",
+      "sceneIds": [
+        "s11-dance-step"
+      ],
+      "group": "scenes",
+      "note": "Pivot de chaussure sur la piste de danse ; QA S11. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 0.8,
+          "outSeconds": 3.8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S12.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Invitation à danser, avant la prise des mains ; QA S12. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0.5,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S13.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Insert des mains qui se rejoignent ; QA S13. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0.2,
+          "outSeconds": 3.2
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S14.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Sourire d’Elena lors de la rencontre. QA S14 impose un recadrage pour retirer une épaule inventée. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0.7,
+          "outSeconds": 3.7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/memories/S15.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Sourire de Rafa face à Elena ; QA S15. Plage exploratoire vérifiée dans le shot-map v1.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0.5,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/opening/videos/V01.mp4",
+      "sceneIds": [
+        "s02-shoebox"
+      ],
+      "group": "scenes",
+      "note": "Ancienne découverte au grenier : Luna tient et effleure la chaussure, au lieu d’ouvrir la boîte ; QA de l’animatique."
+    },
+    {
+      "relativePath": "creative/animatic-v1/opening/videos/V03.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Le dernier passage du même gros plan montre Luna revenant au présent avec un demi-sourire ; shot-map S21 réutilise V03 à 5–8 s.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 5,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/animatic-v1/opening/videos/V04.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Appui de Luna au présent, avant le raccord souvenir ; QA S06. Aucun passage temporel dans cette prise seule."
+    },
+    {
+      "relativePath": "creative/animatic-v1/opening/videos/V22.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Ancienne fin : Luna avance en tenant sa planche, espace libre pour le carton ; QA S26. Variante du plan produit final."
+    },
+    {
+      "relativePath": "creative/animatic-v1/opening/videos/V25.mp4",
+      "sceneIds": [],
+      "group": "unassigned",
+      "note": "Ancienne sortie : ramassage du skateboard. Essai rejeté dans le shot-map pour graphismes inventés sous la planche ; pas de scène dédiée actuelle."
+    },
+    {
+      "relativePath": "creative/animatic-v1/opening/videos/V25R1.mp4",
+      "sceneIds": [],
+      "group": "unassigned",
+      "note": "Nouvel essai de ramassage du skateboard, rejeté pour continuité graphique ; l’actuel découpage ne comporte pas ce geste."
+    },
+    {
+      "relativePath": "creative/animatic-v1/renders/converse-animatic-v1.mp4",
+      "sceneIds": [],
+      "group": "films",
+      "note": "Animatique complet du scénario antérieur : grand-mère et skateboard, pas le découpage actuel à 20 scènes. Les sources individuelles sont classées séparément."
+    },
+    {
+      "relativePath": "creative/catwalk-motion/clips/M01.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Essai de défilé Catwalk, personnages Nora / Imani / Odette ; autre piste créative, extérieure au récit de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/catwalk-motion/clips/M02.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Essai de défilé Catwalk, personnages Nora / Imani / Odette ; autre piste créative, extérieure au récit de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/catwalk-motion/clips/M03.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Essai de défilé Catwalk, personnages Nora / Imani / Odette ; autre piste créative, extérieure au récit de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/catwalk-motion/renders/catwalk-test.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Essai de défilé Catwalk, personnages Nora / Imani / Odette ; autre piste créative, extérieure au récit de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/archive/first-pass-converse-continuity-n-seedance25-30s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Première version archivée des 30 s Nano Banana : fin remplacée dans le rendu corrigé. Séquence multi-plans, pas une prise isolée."
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/common/phone-g.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Insert de téléphone éditorial de 7 s ; continuity-video-v1/render.py. Ancien écran plein cadre, pas Luna filmée avec son téléphone.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 0,
+          "outSeconds": 7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/common/phone-n.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Insert de téléphone éditorial de 7 s ; continuity-video-v1/render.py. Ancien écran plein cadre, pas Luna filmée avec son téléphone.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 0,
+          "outSeconds": 7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/common/phone-s.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Insert de téléphone éditorial de 7 s ; continuity-video-v1/render.py. Ancien écran plein cadre, pas Luna filmée avec son téléphone.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 0,
+          "outSeconds": 7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Séquence de 30 s, plusieurs plans. Extraits retenus attestés par project.json ; écran IA éditorial à 15–22 s confirmé par render.py.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0.0,
+          "outSeconds": 10.0
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10.0,
+          "outSeconds": 12.5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 12.5,
+          "outSeconds": 14.0
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22.0,
+          "outSeconds": 24.5
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 24.5,
+          "outSeconds": 26.0
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26.0,
+          "outSeconds": 30.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/renders/converse-continuity-n-seedance25-30s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Montage de 30 s de la famille N ; plusieurs plans et téléphone éditorial. Timing des sous-plans générés non certifié.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/renders/converse-continuity-s-seedance25-30s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Montage de 30 s de la famille S ; plusieurs plans et téléphone éditorial. Timing des sous-plans générés non certifié.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/videos/opening-g.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Génération native de 30 s : entrée, boîte/photo, téléphone, chaussage et premier souvenir. Plan de génération dédié opening-g ; aucune coupe interne supposée exacte."
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/videos/opening-n-ending-fix.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Correction Nano de la révélation de Rafa sur le terrain, à la fin du premier souvenir ; jobs/opening-n-ending-fix.json."
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/videos/opening-n.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Génération native de 30 s : entrée, boîte/photo, téléphone, chaussage et premier souvenir. Plan de génération dédié opening-n ; aucune coupe interne supposée exacte."
+    },
+    {
+      "relativePath": "creative/continuity-video-v1/videos/opening-s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory"
+      ],
+      "group": "films",
+      "note": "Génération native de 30 s : entrée, boîte/photo, téléphone, chaussage et premier souvenir. Plan de génération dédié opening-s ; aucune coupe interne supposée exacte."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C01.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C02.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C03.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C04.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C05.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C06.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C07-fixed.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C07-pickup-source.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C07.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C08.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C09.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C10.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C11.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/clips/C12.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/converse-one-sneaker-every-generation-60s.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/final-card.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/pause-forgotten.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/converse-travelling-film-v1/picture-master.mp4",
+      "sceneIds": [],
+      "group": "other",
+      "note": "Projet « One Sneaker, Every Generation » en travelling ; autre récit/structure. Ne pas l’associer aux numéros des scènes de Luna et Rafa."
+    },
+    {
+      "relativePath": "creative/editor/generated/4e10441161c6419eb04f6c70725244cc/media.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Test FAL issu de T01A : talon qui se soulève puis repose dans le grenier. Premier côté du raccord souvenir, sans changement de décor ; manifest.json."
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/renders/converse-gpt-seedance25-full-76s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s16-daughter-reaction",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Film GPT complet. Plages dérivées du SCHEDULE de render.py et des sources/alias exacts de project.json ; téléphone original en plein écran.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0.0,
+          "outSeconds": 10.0
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10.0,
+          "outSeconds": 12.5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 12.5,
+          "outSeconds": 14.0
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22.0,
+          "outSeconds": 24.5
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 24.5,
+          "outSeconds": 26.0
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26.0,
+          "outSeconds": 30.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 30.0,
+          "outSeconds": 37.0
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 37.0,
+          "outSeconds": 38.5
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 38.5,
+          "outSeconds": 43.5
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 43.5,
+          "outSeconds": 45.0
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 45.0,
+          "outSeconds": 49.0
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 49.0,
+          "outSeconds": 53.0
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 53.0,
+          "outSeconds": 58.5
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 58.5,
+          "outSeconds": 59.75
+        },
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 59.75,
+          "outSeconds": 61.0
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 61,
+          "outSeconds": 65
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 65.0,
+          "outSeconds": 67.0
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 67.0,
+          "outSeconds": 72.0
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72,
+          "outSeconds": 76
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/videos/basketball.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0.0,
+          "outSeconds": 7.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/videos/handover.mp4",
+      "sceneIds": [
+        "s14-handover",
+        "s15-shared-smile",
+        "s16-daughter-reaction"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 0.0,
+          "outSeconds": 5.5
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 5.5,
+          "outSeconds": 6.75
+        },
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 6.75,
+          "outSeconds": 8.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/videos/newborn.mp4",
+      "sceneIds": [
+        "s13-newborn"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 0.0,
+          "outSeconds": 4.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/videos/return.mp4",
+      "sceneIds": [
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 4.0,
+          "outSeconds": 6.0
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 6.0,
+          "outSeconds": 11.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/videos/salsa.mp4",
+      "sceneIds": [
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 0.0,
+          "outSeconds": 1.5
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 1.5,
+          "outSeconds": 6.5
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 6.5,
+          "outSeconds": 8.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/gpt-full-film-v1/videos/wedding.mp4",
+      "sceneIds": [
+        "s12-wedding"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 0.0,
+          "outSeconds": 4.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B01.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Entrée POV dans le grenier. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B02.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Luna agacée remarque la boîte. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B03.mp4",
+      "sceneIds": [
+        "s02-shoebox",
+        "s03-photograph-insert"
+      ],
+      "group": "scenes",
+      "note": "Ouverture de la boîte et découverte de la photo, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 0,
+          "outSeconds": 5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B05.mp4",
+      "sceneIds": [
+        "s05-putting-on-shoes",
+        "s06-laces-insert"
+      ],
+      "group": "scenes",
+      "note": "Lacet serré et pied posé, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B06.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Appui sur le terrain et début de révélation de Rafa. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B07A.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Rafa lance un tir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B07B.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Insert : ballon dans le filet, sans visage. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0.25,
+          "outSeconds": 1.75
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B07C.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Gros plan sur le sourire de Rafa après le tir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 2,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B08.mp4",
+      "sceneIds": [
+        "s09-shoes-meet",
+        "s11-dance-step"
+      ],
+      "group": "scenes",
+      "note": "Les chaussures noires et rouges se rencontrent ; pivot sur la piste. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 0,
+          "outSeconds": 3
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B09.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Rafa et Elena se rencontrent et commencent un pas de salsa. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B10.mp4",
+      "sceneIds": [
+        "s12-wedding"
+      ],
+      "group": "scenes",
+      "note": "Mariage de Rafa et Elena. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B11.mp4",
+      "sceneIds": [
+        "s13-newborn"
+      ],
+      "group": "scenes",
+      "note": "Parents avec leur nouveau-née. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B12.mp4",
+      "sceneIds": [
+        "s14-handover",
+        "s15-shared-smile"
+      ],
+      "group": "scenes",
+      "note": "Transmission, geste du lacet et sourire partagé, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 0,
+          "outSeconds": 8
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B13.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Luna revient du souvenir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B14A.mp4",
+      "sceneIds": [
+        "s18-photo-return",
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Luna remet la photo dans la boîte puis se tourne vers sa mère. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B14B.mp4",
+      "sceneIds": [
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Réaction de la mère à Luna. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 2,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/kling3/videos/B15.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Plan produit final, pas calme et espace prévu pour la signature ; aucun texte généré. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/renders/converse-v3-kling3.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Film comparatif v3 complet ; plages du montage plan.json. Certains intervalles servent plusieurs fonctions narratives, sans prétendre à un gros plan distinct.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 1,
+          "outSeconds": 6
+        },
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 6,
+          "outSeconds": 10
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10,
+          "outSeconds": 15
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 10,
+          "outSeconds": 15
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22,
+          "outSeconds": 26
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 22,
+          "outSeconds": 26
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26,
+          "outSeconds": 29
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 29,
+          "outSeconds": 32.5
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 32.5,
+          "outSeconds": 34.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 34,
+          "outSeconds": 36
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 36,
+          "outSeconds": 39
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 36,
+          "outSeconds": 39
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 39,
+          "outSeconds": 47
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 47,
+          "outSeconds": 51
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 51,
+          "outSeconds": 55
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 55,
+          "outSeconds": 63
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 55,
+          "outSeconds": 63
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 63,
+          "outSeconds": 66
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 66,
+          "outSeconds": 70
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 66,
+          "outSeconds": 70
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 70,
+          "outSeconds": 72
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72,
+          "outSeconds": 76
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/renders/converse-v3-seedance25.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Film comparatif v3 complet ; plages du montage plan.json. Certains intervalles servent plusieurs fonctions narratives, sans prétendre à un gros plan distinct.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 1,
+          "outSeconds": 6
+        },
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 6,
+          "outSeconds": 10
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10,
+          "outSeconds": 15
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 10,
+          "outSeconds": 15
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22,
+          "outSeconds": 26
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 22,
+          "outSeconds": 26
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26,
+          "outSeconds": 29
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 29,
+          "outSeconds": 32.5
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 32.5,
+          "outSeconds": 34.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 34,
+          "outSeconds": 36
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 36,
+          "outSeconds": 39
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 36,
+          "outSeconds": 39
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 39,
+          "outSeconds": 47
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 47,
+          "outSeconds": 51
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 51,
+          "outSeconds": 55
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 55,
+          "outSeconds": 63
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 55,
+          "outSeconds": 63
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 63,
+          "outSeconds": 66
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 66,
+          "outSeconds": 70
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 66,
+          "outSeconds": 70
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 70,
+          "outSeconds": 72
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72,
+          "outSeconds": 76
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/renders/converse-v3-veo31.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Film comparatif v3 complet ; plages du montage plan.json. Certains intervalles servent plusieurs fonctions narratives, sans prétendre à un gros plan distinct.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 1,
+          "outSeconds": 6
+        },
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 6,
+          "outSeconds": 10
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10,
+          "outSeconds": 15
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 10,
+          "outSeconds": 15
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 15,
+          "outSeconds": 22
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22,
+          "outSeconds": 26
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 22,
+          "outSeconds": 26
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26,
+          "outSeconds": 29
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 29,
+          "outSeconds": 32.5
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 32.5,
+          "outSeconds": 34.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 34,
+          "outSeconds": 36
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 36,
+          "outSeconds": 39
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 36,
+          "outSeconds": 39
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 39,
+          "outSeconds": 47
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 47,
+          "outSeconds": 51
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 51,
+          "outSeconds": 55
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 55,
+          "outSeconds": 63
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 55,
+          "outSeconds": 63
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 63,
+          "outSeconds": 66
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 66,
+          "outSeconds": 70
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 66,
+          "outSeconds": 70
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 70,
+          "outSeconds": 72
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72,
+          "outSeconds": 76
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B01.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Entrée POV dans le grenier. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B02.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Luna agacée remarque la boîte. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B03.mp4",
+      "sceneIds": [
+        "s02-shoebox",
+        "s03-photograph-insert"
+      ],
+      "group": "scenes",
+      "note": "Ouverture de la boîte et découverte de la photo, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 0,
+          "outSeconds": 5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B05.mp4",
+      "sceneIds": [
+        "s05-putting-on-shoes",
+        "s06-laces-insert"
+      ],
+      "group": "scenes",
+      "note": "Lacet serré et pied posé, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B06.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Appui sur le terrain et début de révélation de Rafa. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B07A.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Rafa lance un tir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0.5,
+          "outSeconds": 4.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B07B.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Insert : ballon dans le filet, sans visage. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0.625,
+          "outSeconds": 2.125
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B07C.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Gros plan sur le sourire de Rafa après le tir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 2,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B08.mp4",
+      "sceneIds": [
+        "s09-shoes-meet",
+        "s11-dance-step"
+      ],
+      "group": "scenes",
+      "note": "Les chaussures noires et rouges se rencontrent ; pivot sur la piste. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 0.833333,
+          "outSeconds": 3.833333
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 0.833333,
+          "outSeconds": 3.833333
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B09.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Rafa et Elena se rencontrent et commencent un pas de salsa. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B10.mp4",
+      "sceneIds": [
+        "s12-wedding"
+      ],
+      "group": "scenes",
+      "note": "Mariage de Rafa et Elena. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B11.mp4",
+      "sceneIds": [
+        "s13-newborn"
+      ],
+      "group": "scenes",
+      "note": "Parents avec leur nouveau-née. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B12.mp4",
+      "sceneIds": [
+        "s14-handover",
+        "s15-shared-smile"
+      ],
+      "group": "scenes",
+      "note": "Transmission, geste du lacet et sourire partagé, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 0,
+          "outSeconds": 8
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B13.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Luna revient du souvenir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 0.5,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B14A.mp4",
+      "sceneIds": [
+        "s18-photo-return",
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Luna remet la photo dans la boîte puis se tourne vers sa mère. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B14B.mp4",
+      "sceneIds": [
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Réaction de la mère à Luna. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 2,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/seedance25/videos/B15.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Plan produit final, pas calme et espace prévu pour la signature ; aucun texte généré. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B01.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Entrée POV dans le grenier. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B02.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Luna agacée remarque la boîte. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B03.mp4",
+      "sceneIds": [
+        "s02-shoebox",
+        "s03-photograph-insert"
+      ],
+      "group": "scenes",
+      "note": "Ouverture de la boîte et découverte de la photo, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 0,
+          "outSeconds": 5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B05.mp4",
+      "sceneIds": [
+        "s05-putting-on-shoes",
+        "s06-laces-insert"
+      ],
+      "group": "scenes",
+      "note": "Lacet serré et pied posé, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B06-R1.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Nouvelle tentative Veo de l’appui sur le terrain. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B06.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Appui sur le terrain et début de révélation de Rafa. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio."
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B07A.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Rafa lance un tir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0,
+          "outSeconds": 3.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B07B.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Insert : ballon dans le filet, sans visage. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0,
+          "outSeconds": 1.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B07C.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Gros plan sur le sourire de Rafa après le tir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0,
+          "outSeconds": 2
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B08.mp4",
+      "sceneIds": [
+        "s09-shoes-meet",
+        "s11-dance-step"
+      ],
+      "group": "scenes",
+      "note": "Les chaussures noires et rouges se rencontrent ; pivot sur la piste. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 0,
+          "outSeconds": 3
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B09.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Rafa et Elena se rencontrent et commencent un pas de salsa. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B10.mp4",
+      "sceneIds": [
+        "s12-wedding"
+      ],
+      "group": "scenes",
+      "note": "Mariage de Rafa et Elena. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 2,
+          "outSeconds": 6
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B11.mp4",
+      "sceneIds": [
+        "s13-newborn"
+      ],
+      "group": "scenes",
+      "note": "Parents avec leur nouveau-née. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 0.5,
+          "outSeconds": 4.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B12.mp4",
+      "sceneIds": [
+        "s14-handover",
+        "s15-shared-smile"
+      ],
+      "group": "scenes",
+      "note": "Transmission, geste du lacet et sourire partagé, même prise. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 0,
+          "outSeconds": 8
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B13.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Luna revient du souvenir. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 0,
+          "outSeconds": 3
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B14A.mp4",
+      "sceneIds": [
+        "s18-photo-return",
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Luna remet la photo dans la boîte puis se tourne vers sa mère. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 0,
+          "outSeconds": 4
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B14B.mp4",
+      "sceneIds": [
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Réaction de la mère à Luna. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 2,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/model-comparison-v3/veo31/videos/B15.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Plan produit final, pas calme et espace prévu pour la signature ; aucun texte généré. Rattachement par model-comparison-v3/plan.json, pas par numérotation du Studio. Plage retenue vérifiée dans le shot-map de ce modèle.",
+      "ranges": [
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/motion-design-v1/renders/converse-motion-design-v1.mp4",
+      "sceneIds": [],
+      "group": "films",
+      "note": "Film complet de motion design « Les choses que l’on garde » ; montage graphique alternatif, pas une prise de l’une des scènes filmées actuelles."
+    },
+    {
+      "relativePath": "creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s16-daughter-reaction",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Montage complet v4 ; plages exactes du rapport de montage repris dans project.json.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0.0,
+          "outSeconds": 10.0
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10.0,
+          "outSeconds": 12.5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 12.5,
+          "outSeconds": 14.0
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 14.0,
+          "outSeconds": 22.0
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22.0,
+          "outSeconds": 24.5
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 24.5,
+          "outSeconds": 26.0
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26.0,
+          "outSeconds": 30.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 30.0,
+          "outSeconds": 37.0
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 37.0,
+          "outSeconds": 38.5
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 38.5,
+          "outSeconds": 43.5
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 43.5,
+          "outSeconds": 45.0
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 45.0,
+          "outSeconds": 49.0
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 49.0,
+          "outSeconds": 53.0
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 53.0,
+          "outSeconds": 58.5
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 58.5,
+          "outSeconds": 59.75
+        },
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 59.75,
+          "outSeconds": 61.0
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 61.0,
+          "outSeconds": 65.0
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 65.0,
+          "outSeconds": 67.0
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 67.0,
+          "outSeconds": 72.0
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72.0,
+          "outSeconds": 76.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/renders/converse-refinement-v4-music-b-76s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s16-daughter-reaction",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Montage complet v4 ; plages exactes du rapport de montage repris dans project.json.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0.0,
+          "outSeconds": 10.0
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10.0,
+          "outSeconds": 12.5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 12.5,
+          "outSeconds": 14.0
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 14.0,
+          "outSeconds": 22.0
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22.0,
+          "outSeconds": 24.5
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 24.5,
+          "outSeconds": 26.0
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26.0,
+          "outSeconds": 30.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 30.0,
+          "outSeconds": 37.0
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 37.0,
+          "outSeconds": 38.5
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 38.5,
+          "outSeconds": 43.5
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 43.5,
+          "outSeconds": 45.0
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 45.0,
+          "outSeconds": 49.0
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 49.0,
+          "outSeconds": 53.0
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 53.0,
+          "outSeconds": 58.5
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 58.5,
+          "outSeconds": 59.75
+        },
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 59.75,
+          "outSeconds": 61.0
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 61.0,
+          "outSeconds": 65.0
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 65.0,
+          "outSeconds": 67.0
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 67.0,
+          "outSeconds": 72.0
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72.0,
+          "outSeconds": 76.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/renders/picture-76s.mp4",
+      "sceneIds": [
+        "s01-opening",
+        "s02-shoebox",
+        "s03-photograph-insert",
+        "s04-phone",
+        "s05-putting-on-shoes",
+        "s06-laces-insert",
+        "s07-first-memory",
+        "s08-basketball",
+        "s09-shoes-meet",
+        "s10-salsa",
+        "s11-dance-step",
+        "s12-wedding",
+        "s13-newborn",
+        "s14-handover",
+        "s15-shared-smile",
+        "s16-daughter-reaction",
+        "s17-luna-return",
+        "s18-photo-return",
+        "s19-tell-me",
+        "s20-endline"
+      ],
+      "group": "films",
+      "note": "Montage complet v4 ; plages exactes du rapport de montage repris dans project.json.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0.0,
+          "outSeconds": 10.0
+        },
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 10.0,
+          "outSeconds": 12.5
+        },
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 12.5,
+          "outSeconds": 14.0
+        },
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 14.0,
+          "outSeconds": 22.0
+        },
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 22.0,
+          "outSeconds": 24.5
+        },
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 24.5,
+          "outSeconds": 26.0
+        },
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 26.0,
+          "outSeconds": 30.0
+        },
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 30.0,
+          "outSeconds": 37.0
+        },
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 37.0,
+          "outSeconds": 38.5
+        },
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 38.5,
+          "outSeconds": 43.5
+        },
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 43.5,
+          "outSeconds": 45.0
+        },
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 45.0,
+          "outSeconds": 49.0
+        },
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 49.0,
+          "outSeconds": 53.0
+        },
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 53.0,
+          "outSeconds": 58.5
+        },
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 58.5,
+          "outSeconds": 59.75
+        },
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 59.75,
+          "outSeconds": 61.0
+        },
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 61.0,
+          "outSeconds": 65.0
+        },
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 65.0,
+          "outSeconds": 67.0
+        },
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 67.0,
+          "outSeconds": 72.0
+        },
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 72.0,
+          "outSeconds": 76.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/luna-original.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 0.0,
+          "outSeconds": 4.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/luna-pro.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Test de visage peint : Luna revient du souvenir et sourit dans le grenier ; refinement-v4/plan.json."
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/luna-prompt.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Test de visage peint : Luna revient du souvenir et sourit dans le grenier ; refinement-v4/plan.json."
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/phone-attic-v2.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 0.0,
+          "outSeconds": 8.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/phone-attic.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Luna photographie le tirage et attend la réponse du téléphone ; premier essai avant la correction paysage v2, plan.json."
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/phone-original.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Comparaison avec ancien écran de chat IA plein cadre ; insert éditorial, pas un plan de Luna.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 0,
+          "outSeconds": 7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/salsa-original.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Source retenue dans project.json ; plages exactes des extraits du montage actuel.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0.0,
+          "outSeconds": 5.0
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/salsa-pro.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Test de visages peints : première rencontre de Rafa et Elena en plan à deux ; refinement-v4/plan.json."
+    },
+    {
+      "relativePath": "creative/refinement-v4/videos/salsa-prompt.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Test de visages peints : première rencontre de Rafa et Elena en plan à deux ; refinement-v4/plan.json."
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s01-opening.mp4",
+      "sceneIds": [
+        "s01-opening"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s01-opening",
+          "inSeconds": 0,
+          "outSeconds": 10
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s02-shoebox.mp4",
+      "sceneIds": [
+        "s02-shoebox"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s02-shoebox",
+          "inSeconds": 0,
+          "outSeconds": 2.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s03-photograph-insert.mp4",
+      "sceneIds": [
+        "s03-photograph-insert"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s03-photograph-insert",
+          "inSeconds": 0,
+          "outSeconds": 1.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s04-phone.mp4",
+      "sceneIds": [
+        "s04-phone"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s04-phone",
+          "inSeconds": 0,
+          "outSeconds": 8
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s05-putting-on-shoes.mp4",
+      "sceneIds": [
+        "s05-putting-on-shoes"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s05-putting-on-shoes",
+          "inSeconds": 0,
+          "outSeconds": 2.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s06-laces-insert.mp4",
+      "sceneIds": [
+        "s06-laces-insert"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s06-laces-insert",
+          "inSeconds": 0,
+          "outSeconds": 1.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s07-first-memory.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s07-first-memory",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s08-basketball.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s08-basketball",
+          "inSeconds": 0,
+          "outSeconds": 7
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s09-shoes-meet.mp4",
+      "sceneIds": [
+        "s09-shoes-meet"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s09-shoes-meet",
+          "inSeconds": 0,
+          "outSeconds": 1.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s10-salsa.mp4",
+      "sceneIds": [
+        "s10-salsa"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s10-salsa",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s11-dance-step.mp4",
+      "sceneIds": [
+        "s11-dance-step"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s11-dance-step",
+          "inSeconds": 0,
+          "outSeconds": 1.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s12-wedding.mp4",
+      "sceneIds": [
+        "s12-wedding"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s12-wedding",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s13-newborn.mp4",
+      "sceneIds": [
+        "s13-newborn"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s13-newborn",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s14-handover.mp4",
+      "sceneIds": [
+        "s14-handover"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s14-handover",
+          "inSeconds": 0,
+          "outSeconds": 5.5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s15-shared-smile.mp4",
+      "sceneIds": [
+        "s15-shared-smile"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s15-shared-smile",
+          "inSeconds": 0,
+          "outSeconds": 1.25
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s16-daughter-reaction.mp4",
+      "sceneIds": [
+        "s16-daughter-reaction"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s16-daughter-reaction",
+          "inSeconds": 0,
+          "outSeconds": 1.25
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s17-luna-return.mp4",
+      "sceneIds": [
+        "s17-luna-return"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s17-luna-return",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s18-photo-return.mp4",
+      "sceneIds": [
+        "s18-photo-return"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s18-photo-return",
+          "inSeconds": 0,
+          "outSeconds": 2
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s19-tell-me.mp4",
+      "sceneIds": [
+        "s19-tell-me"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s19-tell-me",
+          "inSeconds": 0,
+          "outSeconds": 5
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/scene-studio/assets/clips/s20-endline.mp4",
+      "sceneIds": [
+        "s20-endline"
+      ],
+      "group": "scenes",
+      "note": "Extrait exact du montage v4 A pour ce plan ; project.json, previewVideo.",
+      "ranges": [
+        {
+          "sceneId": "s20-endline",
+          "inSeconds": 0,
+          "outSeconds": 4
+        }
+      ]
+    },
+    {
+      "relativePath": "creative/selection/assets/TR01.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Test de transition présent → premier souvenir, deux appuis de chaussure ; transition-generation-log.json. Version expérimentale, à comparer avant utilisation."
+    },
+    {
+      "relativePath": "creative/selection/assets/TR02.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Test de transition présent → premier souvenir, deux appuis de chaussure ; transition-generation-log.json. Version expérimentale, à comparer avant utilisation."
+    },
+    {
+      "relativePath": "creative/selection/assets/TR03.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Test de transition présent → premier souvenir, deux appuis de chaussure ; transition-generation-log.json. Version expérimentale, à comparer avant utilisation."
+    },
+    {
+      "relativePath": "creative/selection/assets/archive/TR01-v1.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Test de transition présent → premier souvenir, deux appuis de chaussure ; transition-generation-log.json. Version archivée, continuité non corrigée."
+    },
+    {
+      "relativePath": "creative/selection/assets/archive/TR03-v1.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Test de transition présent → premier souvenir, deux appuis de chaussure ; transition-generation-log.json. Version archivée, continuité non corrigée."
+    },
+    {
+      "relativePath": "creative/sketch-study/videos/gouache-court-veo31.mp4",
+      "sceneIds": [
+        "s08-basketball"
+      ],
+      "group": "scenes",
+      "note": "GV01 : Rafa dribble puis tire, test d’animation gouache Veo ; sketch-study/manifest.json."
+    },
+    {
+      "relativePath": "creative/sketch-study/videos/gouache-gift-veo31.mp4",
+      "sceneIds": [
+        "s14-handover",
+        "s15-shared-smile"
+      ],
+      "group": "scenes",
+      "note": "GV02 : Rafa offre la chaussure à sa fille et ils échangent un sourire ; sketch-study/manifest.json."
+    },
+    {
+      "relativePath": "creative/story-v5/production/luna/videos/K01-hesitation.mp4",
+      "sceneIds": [],
+      "group": "unassigned",
+      "note": "Piste v5 Made by you : Luna hésite à inscrire sa marque sur la chaussure avec un feutre. Nouvelle action, absente du scénario v4 actuel ; motion-result.json."
+    },
+    {
+      "relativePath": "creative/story-v5/production/transitions/videos/T01-clean-cut.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Étude v5 du raccord grenier → terrain, appui présent/souvenir ; manifeste transitions. Coupe franche corrigée."
+    },
+    {
+      "relativePath": "creative/story-v5/production/transitions/videos/T01-motion.mp4",
+      "sceneIds": [
+        "s07-first-memory"
+      ],
+      "group": "scenes",
+      "note": "Étude v5 du raccord grenier → terrain, appui présent/souvenir ; manifeste transitions. Génération de transition avant correction éditoriale."
+    }
+  ]
+}

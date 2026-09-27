@@ -18,6 +18,7 @@ export function buildBatchRequests(scenes,{type,model,engine='fal',instruction='
     let prompt=generationPrompt(adapted,type,false);
     if(engine==='fal')prompt+=`\n\nREFERENCE DELIVERY: Only ONE starting image is attached to this request. Treat any image numbers or extra references mentioned above as historical creative context, not additional supplied files. Preserve the identity, costume, product design, composition and painted texture visible in this single starting image.`;
     if(instruction.trim())prompt+=`\n\nSHARED DIRECTOR NOTE FOR THIS NEW TAKE (takes precedence where conflicting):\n${instruction.trim()}`;
+    if(engine==='fal'&&prompt.length>12000)throw Error(`Le prompt complet de « ${scene.title} » dépasse 12 000 caractères. Raccourcis le prompt du plan ou la direction commune.`);
     return {sceneId:scene.id,type,prompt,modification:instruction.trim(),references:copy(scene.references||[]),blocking:copy(scene.blocking),duration:outputDuration,...(frame?{startingImage:frame}:{})};
   });
 }

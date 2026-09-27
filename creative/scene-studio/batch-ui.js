@@ -44,6 +44,7 @@ export function createBatchUI({getScenes,isBackend,onJobs,onHandoff,toast}){
     $('batch-status').hidden=true;$('batch-instruction').value=instruction;$('batch-type').value=type;
     $('batch-engine').value=config.configured?'fal':'mcp';models();$('batch-dialog').showModal();
   }
+  $('batch-instruction').addEventListener('input',preview);
   $('batch-type').addEventListener('change',models);$('batch-model').addEventListener('change',durations);
   for(const id of ['batch-engine','batch-duration'])$(id).addEventListener('change',preview);
   $('batch-cancel').addEventListener('click',()=>$('batch-dialog').close());

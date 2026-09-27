@@ -17,3 +17,4 @@ test('remote selected still falls back to a local source supported by FAL',()=>{
   const artifact='/api/studio/jobs/0123456789abcdef0123456789abcdef/artifact';
   assert.equal(startingImage({...scene,selectedTakes:{image:{url:artifact}}}),artifact);
 });
+test('FAL combined prompt limit fails before submission',()=>{assert.throws(()=>buildBatchRequests([{...scene,prompt:'x'.repeat(12000)}],{type:'video',model}),/12 000/);assert.equal(buildBatchRequests([{...scene,prompt:'x'.repeat(12000)}],{type:'video',engine:'mcp'}).length,1);});

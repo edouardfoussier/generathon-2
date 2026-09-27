@@ -17,7 +17,7 @@ test('real project preserves every shot and contiguous timing', async () => {
 });
 
 test('take, preview, source priority; complete take uses measured duration without scene truncation', () => {
-  const project = {scenes: [scene('A', {selectedTakes: {video: {url: url('take'), duration: 8, inFrame: 10, outFrame: 20}}, previewVideo: ranged('preview'), source: ranged('source')})]};
+  const project = {scenes: [scene('A', {selectedTakes: {video: {url: url('take'), duration: 8}}, previewVideo: ranged('preview'), source: ranged('source')})]};
   const item = buildSchedule(project, new Map([[url('take'), 12]]))[0];
   assert.equal(item.kind, 'take'); assert.equal(item.url, url('take'));
   assert.equal(item.duration, 12); assert.equal(item.inPoint, 0); assert.equal(item.outPoint, 12); assert.equal(item.estimated, false);
@@ -25,6 +25,16 @@ test('take, preview, source priority; complete take uses measured duration witho
   assert.equal(buildSchedule(project)[0].kind, 'preview');
   delete project.scenes[0].previewVideo;
   assert.equal(buildSchedule(project)[0].kind, 'source');
+});
+
+test('chosen library excerpt retains exact source bounds in the final sequence', () => {
+  const project = {scenes: [scene('A', {selectedTakes: {video: {...ranged('long-film', 720, 888), durationSeconds: 76}}}), scene('B')]};
+  const clips = buildSchedule(project, new Map([[url('long-film'), 76]]));
+  assert.deepEqual([clips[0].kind, clips[0].inPoint, clips[0].outPoint, clips[0].duration, clips[1].start], ['take', 30, 37, 7, 7]);
+  project.scenes[0].selectedTakes.video.outFrame = 96 * 24;
+  assert.equal(buildSchedule(project)[0].outPoint, 76);
+  project.scenes[0].selectedTakes.video.inFrame = 100 * 24;
+  assert.equal(buildSchedule(project)[0].kind, 'missing');
 });
 
 test('take metadata supports durationSeconds and unknown duration is explicitly estimated', () => {

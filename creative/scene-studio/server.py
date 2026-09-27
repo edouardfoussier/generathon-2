@@ -616,6 +616,8 @@ class StudioServer(ThreadingHTTPServer):
         from batch_generation import BatchManager
         self.batches=BatchManager(self.store,validate_payload,atomic_json,canonical_json,Conflict,
                                   bridge=bridge,autostart=batch_autostart)
+        from scene_library import SceneLibrary
+        self.scene_library=SceneLibrary(self.store,atomic_json)
         # Retain the original project's read-only project/media routes.
         self.manager=editor.ExportManager()
         super().__init__(address,StudioHandler)
@@ -664,6 +666,14 @@ class StudioHandler(editor.EditorHandler):
         if not self._check_request(): return
         try:
             store=self.server.store
+            if path=='/api/studio/library':
+                self._json(200,self.server.scene_library.snapshot()); return
+            poster=re.fullmatch(r'/api/studio/library/(m_[a-f0-9]{20}|studio_[a-f0-9]{32})/poster',path)
+            if poster:
+                file=self.server.scene_library.poster(poster[1])
+                if file: self._serve_file(file)
+                else: self._json(404,{'error':'Poster unavailable.'})
+                return
             if path=='/api/studio/generation-config':
                 self._json(200,self.server.batches.config()); return
             if path=='/api/studio/status':
@@ -701,7 +711,7 @@ class StudioHandler(editor.EditorHandler):
     def do_POST(self):
         if not self._check_request(): return
         route=urlsplit(self.path).path
-        if route not in {'/api/studio/jobs','/api/studio/batch'}:
+        if route not in {'/api/studio/jobs','/api/studio/batch','/api/studio/library/refresh','/api/studio/library/assignment'}:
             self.close_connection=True; self._json(404,{'error':'Unknown studio write route.'}); return
         if self.headers.get('Transfer-Encoding') or len(self.headers.get_all('Content-Length',[]))!=1:
             self.close_connection=True; self._json(400,{'error':'Send one explicit Content-Length; chunked bodies are unsupported.'}); return
@@ -715,7 +725,12 @@ class StudioHandler(editor.EditorHandler):
             self.connection.settimeout(15)
             data=self.rfile.read(length)
             if len(data)!=length: raise ValidationError('Incomplete request body.')
-            if route=='/api/studio/batch':
+            if route=='/api/studio/library/refresh':
+                if strict_json(data)!={}: raise ValidationError('Send an empty JSON object.')
+                self._json(200,self.server.scene_library.snapshot(refresh=True))
+            elif route=='/api/studio/library/assignment':
+                self._json(200,self.server.scene_library.assign(strict_json(data)))
+            elif route=='/api/studio/batch':
                 batch,created=self.server.batches.submit(strict_json(data),self.headers.get('Idempotency-Key'))
                 self._json(202 if created else 200,batch)
             else:
@@ -723,7 +738,7 @@ class StudioHandler(editor.EditorHandler):
                 self._json(202 if created else 200,job)
         except Conflict as error: self._json(409,{'error':str(error)})
         except (ValueError,UnicodeError,RecursionError) as error: self._json(400,{'error':str(error)[:1000]})
-        except OSError: self._json(503,{'error':'The local queue could not be saved. No generation was submitted.'})
+        except OSError: self._json(503,{'error':'The local data could not be saved. No generation was submitted.'})
 
 
 def main():
