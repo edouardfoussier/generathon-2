@@ -32,7 +32,7 @@ def main():
             clip['sha256'] = digest(stream)
     total_seconds = sum(c['durationSeconds'] for c in clips)
     csv_text = io.StringIO(newline='')
-    writer = csv.writer(csv_text)
+    writer = csv.writer(csv_text, lineterminator='\n')
     writer.writerow(['Order', 'Filename', 'Scene', 'Model', 'Seconds', 'Original source', 'SHA256'])
     for c in clips:
         writer.writerow([c['order'], 'clips/' + c['filename'], c['title'], c['model'],
