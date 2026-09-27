@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import copy
+import getpass
 import json
 import mimetypes
 import os
@@ -18,6 +19,8 @@ import time
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import unquote, urlsplit
 import uuid
+
+from media_library import MediaLibrary
 
 
 HERE = Path(__file__).resolve().parent
@@ -48,9 +51,9 @@ class ExportBusy(RuntimeError):
     pass
 
 
-def validate_recipe(payload, sources=None, duration_frames=DURATION_FRAMES):
+def validate_recipe(payload, sources=None, duration_frames=DURATION_FRAMES, source_durations=None, audio_ids=None):
     """Return a fresh, canonical recipe, accepting frame numbers, never paths."""
-    source_ids = set(sources or SOURCES)
+    source_ids = set(SOURCES if sources is None else sources)
     if not isinstance(payload, dict):
         raise ValidationError("Expected a JSON object.")
     if type(payload.get("version")) is not int or payload["version"] != 1:
@@ -76,13 +79,24 @@ def validate_recipe(payload, sources=None, duration_frames=DURATION_FRAMES):
         start, end = segment.get("inFrame"), segment.get("outFrame")
         if type(start) is not int or type(end) is not int:
             raise ValidationError(f"Clip {index + 1} must use whole frame numbers.")
-        if not 0 <= start < end <= duration_frames:
+        limit = (source_durations or {}).get(source, duration_frames)
+        if not 0 <= start < end <= limit:
             raise ValidationError(f"Clip {index + 1} is outside its source video.")
         total += end - start
         cleaned.append({"id": segment_id, "sourceId": source, "inFrame": start, "outFrame": end})
     if total > MAX_EXPORT_FRAMES:
         raise ValidationError("The assembled video must stay within the 80-second limit.")
-    return {"version": 1, "fps": FPS, "segments": cleaned}
+    result = {"version": 1, "fps": FPS, "segments": cleaned}
+    if "audioMode" in payload:
+        if not isinstance(payload["audioMode"], str) or payload["audioMode"] not in {"source", "veo", "silent"}:
+            raise ValidationError("Choose source, veo, or silent audio.")
+        result["audioMode"] = payload["audioMode"]
+    soundtrack = payload.get("soundtrackId")
+    if soundtrack is not None:
+        if not isinstance(soundtrack, str) or soundtrack not in (audio_ids or set()):
+            raise ValidationError("Unknown soundtrack. Choose an audio file from the gallery.")
+        result["soundtrackId"] = soundtrack
+    return result
 
 
 def parse_range(value, size):
@@ -114,17 +128,29 @@ def find_program(name):
 
 
 class ExportManager:
-    def __init__(self, source_paths=None, output_dir=None, duration_frames=DURATION_FRAMES):
+    def __init__(self, source_paths=None, output_dir=None, duration_frames=DURATION_FRAMES, library=None):
         self.sources = {key: Path(path) for key, path in (source_paths or SOURCES).items()}
         self.output_dir = Path(output_dir or HERE / "exports")
         self.duration_frames = duration_frames
+        self.library = library
+        self.source_durations = {}
         self.jobs = {}
         self.lock = threading.Lock()
         self.active_id = None
 
+    def refresh_sources(self):
+        if self.library:
+            self.sources = self.library.sources()
+            self.source_durations = {key: self.library.duration_for(key) for key in self.sources}
+
     def submit(self, payload):
-        recipe = validate_recipe(payload, self.sources, self.duration_frames)
-        missing = [key for key, path in self.sources.items() if not path.is_file()]
+        self.refresh_sources()
+        audio_ids = {asset['id'] for asset in self.library.snapshot()['assets'] if asset['kind'] == 'audio'} if self.library else set()
+        recipe = validate_recipe(payload, self.sources, self.duration_frames, self.source_durations, audio_ids)
+        used = {segment['sourceId'] for segment in recipe['segments']}
+        if recipe.get('audioMode', 'veo') == 'veo' and any(key in SOURCE_NAMES for key in used):
+            used.add('veo31')
+        missing = [key for key in used if key not in self.sources or not self.sources[key].is_file()]
         if missing:
             raise RuntimeError("Source videos are missing: " + ", ".join(missing))
         # Fail synchronously and helpfully if the encoder is not installed.
@@ -180,7 +206,7 @@ class ExportManager:
                         "-i", str(self.sources[segment["sourceId"]]),
                         "-map", "0:v:0", "-an", "-frames:v", str(length),
                         "-vf", "setpts=PTS-STARTPTS,scale=1920:1080:force_original_aspect_ratio=decrease,"
-                               "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1,fps=24",
+                               "pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1,tpad=stop_mode=clone:stop_duration=1,fps=24",
                         "-c:v", "libx264", "-preset", "veryfast", "-crf", "19",
                         "-pix_fmt", "yuv420p", "-r", "24", "-g", "48", "-bf", "0",
                         "-threads", "2", "-video_track_timescale", "12288", str(clip_path),
@@ -189,22 +215,42 @@ class ExportManager:
                     done_frames += length
                     self._update(export_id, progress=round(5 + 76 * done_frames / total_frames))
 
-                # Audio always comes from the same Veo master and the corresponding
-                # source intervals. Trim in samples (2,000 at 48 kHz per video frame)
-                # and encode AAC only once, avoiding a priming gap at every splice.
-                labels = "".join(f"[a{i}]" for i in range(len(segments)))
-                filters = [f"[0:a:0]aresample=48000,asplit={len(segments)}{labels}"]
-                for index, segment in enumerate(segments):
-                    filters.append(f"[a{index}]atrim=start_sample={segment['inFrame'] * 2000}:"
-                                   f"end_sample={segment['outFrame'] * 2000},"
-                                   f"asetpts=PTS-STARTPTS[s{index}]")
-                filters.append("".join(f"[s{i}]" for i in range(len(segments))) +
-                               f"concat=n={len(segments)}:v=0:a=1[aout]")
+                # Decode each chosen interval to PCM; missing audio becomes exact-length
+                # silence. AAC is encoded once after concatenation, without splice gaps.
                 audio_path = work / "soundtrack.wav"
-                self._command([ffmpeg, "-hide_banner", "-loglevel", "error", "-nostdin", "-y",
-                               "-i", str(self.sources["veo31"]), "-filter_complex", ";".join(filters),
-                               "-map", "[aout]", "-c:a", "pcm_s16le", "-ar", "48000", "-ac", "2",
-                               str(audio_path)])
+                soundtrack = recipe.get('soundtrackId')
+                if soundtrack:
+                    music = self.library.path_for(soundtrack)
+                    if not music:
+                        raise RuntimeError("The selected soundtrack is no longer available.")
+                    self._command([ffmpeg, '-v', 'error', '-nostdin', '-y', '-i', str(music),
+                                   '-vn', '-af', f"aresample=48000,apad,atrim=end_sample={total_frames * 2000}",
+                                   '-c:a', 'pcm_s16le', '-ar', '48000', '-ac', '2', str(audio_path)])
+                else:
+                    audio_clips = []
+                    for index, segment in enumerate(segments):
+                        audio_clip = work / f'audio-{index:03d}.wav'
+                        length = segment['outFrame'] - segment['inFrame']
+                        mode = recipe.get('audioMode', 'veo')
+                        source_id = segment['sourceId'] if mode == 'source' else 'veo31' if mode == 'veo' and segment['sourceId'] in SOURCE_NAMES else None
+                        source_path = self.sources.get(source_id)
+                        has_audio = False
+                        if source_path:
+                            inspection = json.loads(self._command([ffprobe, '-v', 'error', '-show_entries', 'stream=codec_type', '-of', 'json', str(source_path)]))
+                            has_audio = any(stream.get('codec_type') == 'audio' for stream in inspection.get('streams', []))
+                        if has_audio:
+                            inputs = ['-i', str(source_path)]
+                            filters = f"aresample=48000,atrim=start_sample={segment['inFrame'] * 2000}:end_sample={segment['outFrame'] * 2000},asetpts=PTS-STARTPTS,apad,atrim=end_sample={length * 2000}"
+                        else:
+                            inputs = ['-f', 'lavfi', '-i', 'anullsrc=r=48000:cl=stereo']
+                            filters = f'atrim=end_sample={length * 2000}'
+                        self._command([ffmpeg, '-v', 'error', '-nostdin', '-y', *inputs,
+                                       '-vn', '-af', filters, '-c:a', 'pcm_s16le', '-ar', '48000', '-ac', '2', str(audio_clip)])
+                        audio_clips.append(audio_clip)
+                    audio_concat = work / 'audio.txt'
+                    audio_concat.write_text(''.join(f"file '{path.name}'\n" for path in audio_clips))
+                    self._command([ffmpeg, '-v', 'error', '-nostdin', '-y', '-f', 'concat', '-safe', '1',
+                                   '-i', str(audio_concat), '-c:a', 'copy', str(audio_path)])
                 self._update(export_id, progress=88)
                 concat_file = work / "clips.txt"
                 # Only our generated fixed filenames enter the concat manifest.
@@ -232,7 +278,7 @@ class ExportManager:
                 os.replace(assembled, final_path)
                 recipe_path.write_text(json.dumps(recipe, ensure_ascii=False, indent=2) + "\n")
                 self._update(export_id, status="completed", progress=100,
-                             durationFrames=total_frames, audioSourceId="veo31",
+                             durationFrames=total_frames, audioSourceId=recipe.get("soundtrackId") or recipe.get("audioMode", "veo"),
                              downloadUrl=f"/exports/{export_id}.mp4",
                              recipeUrl=f"/exports/{export_id}.json")
         except Exception as error:
@@ -251,9 +297,22 @@ class ExportManager:
 class EditorServer(ThreadingHTTPServer):
     daemon_threads = True
 
-    def __init__(self, address, manager=None):
-        self.manager = manager or ExportManager()
+    def __init__(self, address, manager=None, library=None):
+        self.library = library or (MediaLibrary(REPO, SOURCES) if manager is None else None)
+        self.manager = manager or ExportManager(library=self.library)
+        self._generator = None
+        self._generator_lock = threading.Lock()
         super().__init__(address, EditorHandler)
+
+    @property
+    def generator(self):
+        with self._generator_lock:
+            if self._generator is None:
+                if self.library is None:
+                    raise RuntimeError("Generation needs the local media library.")
+                from generation import Generator
+                self._generator = Generator(self.library)
+            return self._generator
 
 
 class EditorHandler(BaseHTTPRequestHandler):
@@ -312,15 +371,29 @@ class EditorHandler(BaseHTTPRequestHandler):
             if "\x00" in path:
                 raise ValueError("Invalid path")
             if path == "/api/project":
+                self.server.manager.refresh_sources()
                 self._json(200, {
                     "fps": FPS, "durationFrames": self.server.manager.duration_frames,
                     "maxExportFrames": MAX_EXPORT_FRAMES, "audioSourceId": "veo31",
-                    "sources": [{"id": key, "name": SOURCE_NAMES[key],
-                                 "url": f"/media/{key}.mp4",
-                                 "durationFrames": self.server.manager.duration_frames}
+                    "sources": [{"id": key, "name": SOURCE_NAMES.get(key) or (self.server.library.get(key) or {}).get('name', key),
+                                 "url": f"/media/{key}.mp4", "durationFrames": self.server.manager.source_durations.get(key, self.server.manager.duration_frames)}
                                 for key in self.server.manager.sources],
                     "boundariesFrames": BOUNDARIES,
                 })
+                return
+            if path == '/api/library':
+                self._json(200, self.server.library.snapshot() if self.server.library else {'assets': [], 'collections': []})
+                return
+            if path == '/api/generation/config':
+                self._json(200, self.server.generator.config())
+                return
+            if path == '/api/generation/jobs':
+                self._json(200, self.server.generator.list_jobs())
+                return
+            if path.startswith('/api/generation/jobs/'):
+                job_id = path.removeprefix('/api/generation/jobs/')
+                job = self.server.generator.get(job_id) if re.fullmatch(r'[a-zA-Z0-9_-]{1,100}', job_id) else None
+                self._json(200 if job else 404, job or {'error': 'Generation not found.'})
                 return
             if path.startswith("/api/export/"):
                 export_id = path.removeprefix("/api/export/")
@@ -339,13 +412,22 @@ class EditorHandler(BaseHTTPRequestHandler):
             pass  # Browsers routinely cancel superseded video range requests.
         except (ValueError, OSError):
             self._json(400, {"error": "Invalid file request."})
+        except (RuntimeError, ImportError) as error:
+            self._json(503, {"error": str(error)})
 
     def _resolve_file(self, path):
         manager = self.server.manager
+        if path.startswith('/library-poster/'):
+            name = path.removeprefix('/library-poster/')
+            match = re.fullmatch(r'([A-Za-z0-9_-]{1,80})\.jpg', name)
+            return (self.server.library.poster_path(match[1]) if match and self.server.library else None), False
+        if path.startswith('/library/'):
+            key = path.removeprefix('/library/')
+            return (self.server.library.path_for(key) if self.server.library else None), False
         if path.startswith("/media/"):
             name = path.removeprefix("/media/")
             key = name[:-4] if name.endswith(".mp4") else ""
-            return manager.sources.get(key), False
+            return (self.server.library.path_for(key) if self.server.library else manager.sources.get(key)), False
         if path.startswith("/exports/"):
             name = path.removeprefix("/exports/")
             match = re.fullmatch(r"([a-f0-9]{32})\.(mp4|json)", name)
@@ -400,7 +482,8 @@ class EditorHandler(BaseHTTPRequestHandler):
     def do_POST(self):
         if not self._check_request():
             return
-        if urlsplit(self.path).path != "/api/export":
+        route = urlsplit(self.path).path
+        if route not in {"/api/export", "/api/library/refresh", "/api/generation"}:
             self.close_connection = True
             self._json(404, {"error": "Unknown API route."})
             return
@@ -427,20 +510,31 @@ class EditorHandler(BaseHTTPRequestHandler):
             if len(body) != length:
                 raise ValidationError("Incomplete request body.")
             payload = json.loads(body)
-            job = self.server.manager.submit(payload)
-            self._json(202, job)
-        except (json.JSONDecodeError, UnicodeDecodeError, ValidationError) as error:
+            if not isinstance(payload, dict):
+                raise ValidationError('Expected a JSON object.')
+            if route == '/api/library/refresh':
+                result = self.server.library.refresh() if self.server.library else {'assets': [], 'collections': []}
+                self.server.manager.refresh_sources()
+                self._json(200, result)
+            elif route == '/api/generation':
+                self._json(202, self.server.generator.submit(payload))
+            else:
+                self._json(202, self.server.manager.submit(payload))
+        except (json.JSONDecodeError, UnicodeDecodeError, ValueError) as error:
             self._json(400, {"error": str(error)})
         except ExportBusy as error:
             self._json(409, {"error": str(error)})
-        except (RuntimeError, OSError) as error:
+        except (RuntimeError, OSError, ImportError) as error:
             self._json(503, {"error": str(error)})
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--port", type=int, default=8787, help="Local HTTP port (default: 8787)")
+    parser.add_argument("--fal-key-stdin", action="store_true", help="Read the FAL key without echo; keep it only in server memory")
     args = parser.parse_args()
+    if args.fal_key_stdin:
+        os.environ["FAL_KEY"] = getpass.getpass("FAL API key (hidden, memory only): ").strip()
     if not 1 <= args.port <= 65535:
         parser.error("Port must be between 1 and 65535.")
     server = EditorServer(("127.0.0.1", args.port))

@@ -27,6 +27,12 @@ function sourceIds(meta) {
   throw new Error('Source metadata is missing. Reload the editor.');
 }
 
+export function sourceDuration(meta, id) {
+  const sources = meta?.sources;
+  const source = Array.isArray(sources) ? sources.find(item => item?.id === id) : sources?.[id];
+  return integer(source?.durationFrames ?? meta?.durationFrames, 'Source duration', 1);
+}
+
 function segmentIndex(project, id) {
   const index = project.segments.findIndex(segment => segment.id === id);
   if (index < 0) throw new Error(`Segment ${id} does not exist.`);
@@ -81,8 +87,11 @@ export function validateProject(project, meta) {
   if (project.fps !== FPS || (meta?.fps !== undefined && meta.fps !== FPS)) {
     throw new Error('This editor requires 24 fps projects and sources.');
   }
-  const sourceLength = integer(meta?.durationFrames, 'Source duration', 1);
   const allowedSources = sourceIds(meta);
+  if (project.audioMode !== undefined && !['source', 'veo', 'silent'].includes(project.audioMode)) {
+    throw new Error('Unknown audio mode.');
+  }
+  if (project.soundtrackId !== undefined && project.soundtrackId !== null) nonempty(project.soundtrackId, 'Soundtrack ID');
   if (!Array.isArray(project.segments) || project.segments.length === 0) {
     throw new Error('Keep at least one segment in the final cut.');
   }
@@ -108,7 +117,7 @@ export function validateProject(project, meta) {
     if (segment.inFrame >= segment.outFrame) {
       throw new Error(`${label} must contain at least one frame.`);
     }
-    if (segment.outFrame > sourceLength) {
+    if (segment.outFrame > sourceDuration(meta, segment.sourceId)) {
       throw new Error(`${label} extends beyond the source video.`);
     }
     total += segment.outFrame - segment.inFrame;
@@ -165,6 +174,43 @@ export function setSource(project, id, sourceId) {
   const segments = project.segments.slice();
   segments[index] = { ...segments[index], sourceId };
   return { ...project, segments };
+}
+
+/** Insert a library clip. Its time is independent from the original three films. */
+export function addSegment(project, afterId, sourceId, inFrame, outFrame, meta) {
+  integer(inFrame, 'In point'); integer(outFrame, 'Out point', 1);
+  if (inFrame >= outFrame) throw new Error('A segment must contain at least one frame.');
+  const segments = project.segments.slice();
+  let id;
+  do { id = `library-${splitCounter++}`; } while (segments.some(item => item.id === id));
+  const index = afterId ? segmentIndex(project, afterId) + 1 : segments.length;
+  segments.splice(index, 0, { id, sourceId, inFrame, outFrame });
+  const next = replace(project, segments);
+  validateProject(next, meta);
+  return next;
+}
+
+/** A new take starts at zero; do not reuse unrelated source timecodes. */
+export function replaceTake(project, id, sourceId, meta, inFrame = 0, outFrame) {
+  const index = segmentIndex(project, id);
+  integer(inFrame, 'In point');
+  const previous = project.segments[index];
+  const end = outFrame ?? Math.min(sourceDuration(meta, sourceId), inFrame + previous.outFrame - previous.inFrame);
+  const segments = project.segments.slice();
+  segments[index] = { ...previous, sourceId, inFrame, outFrame: end };
+  const next = replace(project, segments);
+  validateProject(next, meta);
+  return next;
+}
+
+/** Begin an independent cut from a library range; history is managed by the caller. */
+export function projectFromClip(sourceId, inFrame, outFrame, meta) {
+  const project = {
+    version: 1, fps: FPS, audioMode: 'source',
+    segments: [{ id: `first-${splitCounter++}`, sourceId, inFrame, outFrame }],
+  };
+  validateProject(project, meta);
+  return project;
 }
 
 export function trimSegment(project, id, inFrame, outFrame) {

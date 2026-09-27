@@ -214,3 +214,53 @@ test('timecode renders exact frame boundaries and values longer than a minute', 
   assert.throws(() => formatTime(-1), /integer/);
   assert.throws(() => formatTime(1, 0), /integer/);
 });
+
+test('library clips validate against their own duration and replace starts at zero', async () => {
+  const { replaceTake, sourceDuration } = await import('./model.js');
+  const libraryMeta = { ...meta, sources: [...meta.sources, { id: 'memory', durationFrames: 72 }] };
+  assert.equal(sourceDuration(libraryMeta, 'memory'), 72);
+  const original = freeze(shortProject());
+  const result = replaceTake(original, 'b', 'memory', libraryMeta);
+  assert.deepEqual(result.segments[1], { id: 'b', sourceId: 'memory', inFrame: 0, outFrame: 24 });
+  assert.doesNotThrow(() => validateProject(result, libraryMeta));
+  result.segments[1].outFrame = 73;
+  assert.throws(() => validateProject(result, libraryMeta), /beyond/);
+  assert.equal(original.segments[1].inFrame, 240);
+});
+
+test('library insert respects ordering, trim, source bounds and total duration', async () => {
+  const { addSegment, replaceTake } = await import('./model.js');
+  const libraryMeta = { ...meta, sources: [...meta.sources, { id: 'memory', durationFrames: 72 }] };
+  const original = freeze(shortProject());
+  const result = addSegment(original, 'a', 'memory', 12, 60, libraryMeta);
+  assert.deepEqual(result.segments.map(s => s.sourceId), ['veo31', 'memory', 'kling3', 'seedance25']);
+  assert.equal(locate(result, 48).sourceFrame, 12);
+  assert.equal(durationFrames(result), 156);
+  assert.throws(() => addSegment(original, 'a', 'memory', 0, 73, libraryMeta), /beyond/);
+  assert.throws(() => addSegment(original, 'a', 'memory', 0, 1920, libraryMeta), /80 seconds/);
+  const shortReplacement = replaceTake(original, 'a', 'memory', libraryMeta, 60);
+  assert.equal(shortReplacement.segments[0].outFrame, 72);
+  assert.equal(shortReplacement.segments[0].inFrame, 60);
+});
+
+test('audio settings survive JSON recipes and reject unknown modes', () => {
+  const project = { ...shortProject(), audioMode: 'source', soundtrackId: 'suno-track-a' };
+  assert.doesNotThrow(() => validateProject(JSON.parse(JSON.stringify(project)), meta));
+  assert.doesNotThrow(() => validateProject(shortProject(), meta));
+  assert.throws(() => validateProject({ ...project, audioMode: 'invented' }, meta), /audio mode/);
+  assert.throws(() => validateProject({ ...project, soundtrackId: '' }, meta), /Soundtrack/);
+});
+
+test('starting a new cut uses the selected library range and its own audio', async () => {
+  const { projectFromClip } = await import('./model.js');
+  const libraryMeta = { ...meta, sources: [...meta.sources, { id: 'whole-film', durationFrames: 2400 }] };
+  const project = projectFromClip('whole-film', 240, 480, libraryMeta);
+  assert.equal(project.segments.length, 1);
+  assert.equal(project.audioMode, 'source');
+  assert.equal(project.soundtrackId, undefined);
+  assert.equal(durationFrames(project), 240);
+  assert.equal(locate(project, 0).sourceFrame, 240);
+  assert.equal(locate(project, 239).sourceFrame, 479);
+  assert.throws(() => projectFromClip('whole-film', 0, 2400, libraryMeta), /80 seconds/);
+  assert.throws(() => projectFromClip('whole-film', 2400, 2401, libraryMeta), /beyond/);
+});

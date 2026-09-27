@@ -1,6 +1,6 @@
 # Converse · Cut Room
 
-A bilingual editing room for the three 76-second Converse films. Compare Veo 3.1, Kling 3 Pro and Seedance 2.5 at the same story time, keep the best passages, and export one MP4. Veo is selected throughout when you start.
+A bilingual editing room for the Rafa & Luna experiments. Browse the local scene library, select passages from any generated video, regenerate a particular take, and export one MP4. The original three-film comparison remains available; existing saved edits remain compatible.
 
 ## Open it
 
@@ -22,11 +22,35 @@ Open **http://127.0.0.1:8787/** and keep the terminal running. Requires Python 3
 
 **Undo/redo:** Cmd/Ctrl Z, Cmd/Ctrl Shift Z. **Play/pause:** Space. **Choose models:** 1 / 2 / 3. **Step frames:** arrow keys; Shift + arrow steps one second. **Mark source in/out:** I / O. Source out points exclude that frame.
 
-Source changes preserve a common music/dialogue track from the Veo master. Trimming, deleting or reordering passages also edits the corresponding soundtrack intervals. This first version does not provide separate music/dialogue mixing, transitions, color grading, or arbitrary media imports. Browser previews are approximate; exported cuts use exact frame ranges.
+## Browse and reuse every experiment
+
+**Open media library** lists videos, images and audio found under `creative/`, with collection/model filters and search. Video thumbnails are cached locally. Use **Scan for new media** after adding files to a project folder. QA frame dumps, hidden files and editor exports are excluded. Prompts and references are recovered from existing manifests where available; an absent prompt is explicitly identified.
+
+Open a video, set its source range in seconds, then **Add after selected shot**, **Replace selected shot**, or **Start an edit with this clip**. Starting an edit replaces only the browser recipe and can be undone. Images are references for generation, not still-image timeline clips. Imported videos use their own duration and time origin. Only the original three synchronized films use the three-way comparison.
+
+Audio can use each clip's own sound, the original Veo track for the original three films, or silence. Choose an audio item in the gallery and **Use as soundtrack** to replace the soundtrack across the edit. This does not separate or mix dialogue: music replaces it, and short tracks are padded with silence at export. [Two new Suno proposals](../music-v5/index.html) are available in the `music-v5` collection.
+
+Browser previews are approximate; exports normalize video to 24 fps and use the selected frame ranges. No transitions, color grading, still-image timeline clips or arbitrary external-file uploads are provided.
+
+## Regenerate one scene with FAL
+
+Start the server with a hidden key prompt:
+
+```sh
+python3 creative/editor/server.py --fal-key-stdin
+```
+
+Alternatively provide `FAL_KEY` in the server environment. Do not put a key in frontend files, saved edits or Git. The UI receives only a configured/not-configured flag. The key remains in server memory; restarting requires it again.
+
+Select **Generate another take** in the inspector or gallery. Edit the prompt, choose a reference image (or extract a frame at the selected source in point), select a model and duration, then submit. This creates a new take guided by a starting image; it is not an in-place edit preserving the original clip's motion. Each submission uses FAL credits. The local queue runs two jobs concurrently, up to eight pending, subject to the provider's own account limits. The available models are Seedance 2.5, Kling 2.5 Turbo Pro and Nano Banana 2 image editing.
+
+Finished media and provenance are saved to `generated/<job-id>/` and appear in the gallery. The old take and the current edit remain untouched until you choose the result. Private queue state is ignored under `.state/`. Known provider requests resume polling after restart. Ambiguous submissions are never automatically retried: check the saved request ID in FAL before starting another paid request.
+
+Official schemas: [Seedance 2.5](https://fal.ai/models/bytedance/seedance-2.5/image-to-video/api), [Kling 2.5 Turbo Pro](https://fal.ai/models/fal-ai/kling-video/v2.5-turbo/pro/image-to-video/api), [Nano Banana 2](https://fal.ai/models/fal-ai/nano-banana-2/edit/api), [FAL queue](https://fal.ai/docs/documentation/model-apis/inference/queue). Verified September 27, 2026. Prices and model access are controlled by FAL.
 
 ## Work with the team
 
-The edit is saved automatically in this browser. **Save edit** downloads a small JSON recipe; send that to a teammate, who can load it with **Open edit** after cloning this repository and starting their own server. The source video files must remain in `creative/model-comparison-v3/renders/`.
+The edit is saved automatically in this browser. **Save edit** downloads a small JSON recipe; send that to a teammate, who can load it with **Open edit** after cloning this repository and starting their own server. Media IDs are stable across computers when the repository-relative paths are unchanged. Teammates need the same media files; a JSON recipe does not contain them or a FAL key.
 
 The localhost link opens on the computer running the server; it is not a shared online room. JSON recipes do not include media and there is no live collaboration. Downloaded MP4 files can be shared normally. Rendered files remain in the ignored `creative/editor/exports/` folder and are not pushed to GitHub.
 
@@ -37,6 +61,8 @@ See [backend documentation](README-backend.md) for the API, validation and expor
 ```sh
 node --test creative/editor/model.test.mjs
 python3 creative/editor/test_server.py --smoke
+python3 creative/editor/test_media_library.py
+python3 creative/editor/test_generation.py
 ```
 
-The model suite verifies source-to-timeline mapping after selection, split, trim and reorder operations. The backend smoke test renders real intervals from all three films, checking frames at splice boundaries and the shared audio.
+The model suite verifies selection, split, trim, reorder and arbitrary-source bounds. Backend tests cover real mixed-source exports, audio replacement, path boundaries, poster caching and generation lifecycle. Generation unit tests use a fake provider and never spend credits.

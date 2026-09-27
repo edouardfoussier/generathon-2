@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "project": "Rafa & Luna — story v5",
+  "provider": "Suno",
+  "model": "v6",
+  "generationMethod": "Official Suno web interface; existing signed-in Chrome profile",
+  "status": "review-ready",
+  "requestedDurationSeconds": 78,
+  "instrumental": true,
+  "lyricsField": "empty",
+  "submissionCount": 1,
+  "generatedTakeCount": 2,
+  "cost": null,
+  "costNote": "Suno submission UI did not show a numeric credit cost. No payment or subscription change performed.",
+  "promptSource": "README.md",
+  "updatedAt": "2026-09-27",
+  "prompt": "Original instrumental cinematic cue, 78 seconds, 104 BPM, warm intimate New York salsa with Puerto Rican family roots. Expressive tenor sax carries a short memorable three-note motif; acoustic bass, piano montuno, dry congas, bongos, clave, restrained timbales and guiro. Organic hand-played ensemble, tactile analog warmth, breathing room for dialogue. 0-21s: sparse piano and a hesitant half-phrase on sax, quiet curiosity, no sentimental wash. 21-34s: footstep-sized percussion enters and builds forward motion. 34-44s: playful salsa pocket, sax answers piano, two people finding their rhythm. 44-60s: strip down to bass and tender sax, pause the lead for dialogue. 60-74s: motif returns complete and confident, crisp groove and light brass accents, joyful forward momentum. 74-78s: one warm resolved final chord with short natural tail. One coherent evolving theme; compact film cue, not a long song. Instrumental only.",
+  "auditoryReview": "Not performed: external audio transfer for analysis was rejected. Local technical checks only.",
+  "existingMediaModified": false,
+  "downloads": {
+    "unlockedSongs": 2,
+    "observedPlan": "Premier",
+    "allowanceBeforeFirst": 60,
+    "lastObservedRemaining": 59,
+    "lastObservationPosition": "Before second unlock; no final balance claimed."
+  },
+  "assets": [
+    {
+      "id": "M5-SUNO-A1",
+      "title": {
+        "fr": "Le prochain pas · Suno · prise 1",
+        "en": "The Next Step · Suno · take 1"
+      },
+      "sunoId": "485caced-aee5-4c7c-bd03-ceb08a9fb56d",
+      "sourceUrl": "https://suno.com/song/485caced-aee5-4c7c-bd03-ceb08a9fb56d",
+      "status": "generated",
+      "localPath": "audio/rafa-luna-suno-v6-a1.mp3",
+      "measuredDurationSeconds": 78.0,
+      "code": "M5-SUNO-A1",
+      "kind": "audio",
+      "group": "music",
+      "model": "Suno v6",
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "file": "audio/rafa-luna-suno-v6-a1.mp3",
+      "masterFile": "audio/rafa-luna-suno-v6-a1.wav",
+      "duration": 78.0,
+      "prompt": "Original instrumental cinematic cue, 78 seconds, 104 BPM, warm intimate New York salsa with Puerto Rican family roots. Expressive tenor sax carries a short memorable three-note motif; acoustic bass, piano montuno, dry congas, bongos, clave, restrained timbales and guiro. Organic hand-played ensemble, tactile analog warmth, breathing room for dialogue. 0-21s: sparse piano and a hesitant half-phrase on sax, quiet curiosity, no sentimental wash. 21-34s: footstep-sized percussion enters and builds forward motion. 34-44s: playful salsa pocket, sax answers piano, two people finding their rhythm. 44-60s: strip down to bass and tender sax, pause the lead for dialogue. 60-74s: motif returns complete and confident, crisp groove and light brass accents, joyful forward momentum. 74-78s: one warm resolved final chord with short natural tail. One coherent evolving theme; compact film cue, not a long song. Instrumental only.",
+      "description": {
+        "fr": "Proposition instrumentale originale : motif de saxo, salsa new-yorkaise, racines familiales portoricaines. À écouter et choisir.",
+        "en": "Original instrumental proposal: sax motif, New York salsa, Puerto Rican family roots. Listen and choose."
+      },
+      "technicalQa": {
+        "decode": "WAV and MP3 fully decode",
+        "sampleRate": 48000,
+        "channels": 2,
+        "codec": "pcm_s16le",
+        "masterSha256": "a1ecbae199ead203f91e4b07dc0b1c4af33c8e162df84dc726804927c328a2fb",
+        "sunoIdVerifiedInWavComment": true,
+        "integratedLufs": -15.87,
+        "truePeakDbtp": -3.56,
+        "loudnessRangeLu": 3.5
+      },
+      "qa": {
+        "fr": "Durée et intégrité vérifiées localement ; aucune sélection artistique automatique.",
+        "en": "Duration and file integrity checked locally; no automatic creative selection."
+      }
+    },
+    {
+      "id": "M5-SUNO-A2",
+      "title": {
+        "fr": "Le prochain pas · Suno · prise 2",
+        "en": "The Next Step · Suno · take 2"
+      },
+      "sunoId": "aa8e7be3-7575-41ad-a397-030b0178c8ec",
+      "sourceUrl": "https://suno.com/song/aa8e7be3-7575-41ad-a397-030b0178c8ec",
+      "status": "generated",
+      "localPath": "audio/rafa-luna-suno-v6-a2.mp3",
+      "measuredDurationSeconds": 77.4,
+      "code": "M5-SUNO-A2",
+      "kind": "audio",
+      "group": "music",
+      "model": "Suno v6",
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "file": "audio/rafa-luna-suno-v6-a2.mp3",
+      "masterFile": "audio/rafa-luna-suno-v6-a2.wav",
+      "duration": 77.4,
+      "prompt": "Original instrumental cinematic cue, 78 seconds, 104 BPM, warm intimate New York salsa with Puerto Rican family roots. Expressive tenor sax carries a short memorable three-note motif; acoustic bass, piano montuno, dry congas, bongos, clave, restrained timbales and guiro. Organic hand-played ensemble, tactile analog warmth, breathing room for dialogue. 0-21s: sparse piano and a hesitant half-phrase on sax, quiet curiosity, no sentimental wash. 21-34s: footstep-sized percussion enters and builds forward motion. 34-44s: playful salsa pocket, sax answers piano, two people finding their rhythm. 44-60s: strip down to bass and tender sax, pause the lead for dialogue. 60-74s: motif returns complete and confident, crisp groove and light brass accents, joyful forward momentum. 74-78s: one warm resolved final chord with short natural tail. One coherent evolving theme; compact film cue, not a long song. Instrumental only.",
+      "description": {
+        "fr": "Proposition instrumentale originale : motif de saxo, salsa new-yorkaise, racines familiales portoricaines. À écouter et choisir.",
+        "en": "Original instrumental proposal: sax motif, New York salsa, Puerto Rican family roots. Listen and choose."
+      },
+      "technicalQa": {
+        "decode": "WAV and MP3 fully decode",
+        "sampleRate": 48000,
+        "channels": 2,
+        "codec": "pcm_s16le",
+        "masterSha256": "7578603d715750bccac7c668f072d3f4e684b4bfd67f72515cc7775e3acf89fc",
+        "sunoIdVerifiedInWavComment": true,
+        "integratedLufs": -16.55,
+        "truePeakDbtp": -3.22,
+        "loudnessRangeLu": 4.4
+      },
+      "qa": {
+        "fr": "Durée et intégrité vérifiées localement ; aucune sélection artistique automatique.",
+        "en": "Duration and file integrity checked locally; no automatic creative selection."
+      }
+    }
+  ]
+}
