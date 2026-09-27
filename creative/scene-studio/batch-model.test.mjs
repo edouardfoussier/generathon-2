@@ -1,0 +1,19 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {buildBatchRequests,modelDuration,preferredView,startingImage} from './batch-model.js';
+const model={id:'seedance25',kind:'video',durations:[4,5,6,8,10,12,15]};
+const scene={id:'S01',title:'Luna',duration:3,prompt:'Painted Luna in attic',image:'/creative/test/luna.png',references:[{id:'luna',url:'/creative/test/luna.png'}],blocking:{location:'attic'},previewVideo:{url:'/creative/test/luna.mp4'}};
+test('duration selection uses next supported value and caps maximum',()=>{assert.equal(modelDuration(3,model),4);assert.equal(modelDuration(5.1,model),6);assert.equal(modelDuration(20,model),15);});
+test('batch scopes each prompt, applies common note without mutating scenes',()=>{const before=JSON.stringify(scene);const result=buildBatchRequests([scene,{...scene,id:'S02',title:'Rafa',duration:8}],{type:'video',model,instruction:'Preserve brushwork'});assert.equal(JSON.stringify(scene),before);assert.equal(result[0].duration,4);assert.match(result[0].prompt,/Generate ONE 4-second video shot/);assert.match(result[1].prompt,/SELECTED SHOT: Rafa/);assert.match(result[0].prompt,/Only ONE starting image/);assert.match(result[1].prompt,/Preserve brushwork/);assert.notEqual(result[0].references,scene.references);});
+test('explicit duration and image output validate compatible model',()=>{assert.equal(buildBatchRequests([scene],{type:'video',model,duration:'8'})[0].duration,8);assert.throws(()=>buildBatchRequests([scene],{type:'video',model,duration:'7'}));assert.throws(()=>buildBatchRequests([scene],{type:'image',model}));});
+test('batch validates count and source before submission',()=>{assert.throws(()=>buildBatchRequests([],{type:'video',model}));assert.throws(()=>buildBatchRequests(Array(7).fill(scene),{type:'video',model}));assert.throws(()=>buildBatchRequests([{...scene,image:null}],{type:'video',model}));assert.equal(buildBatchRequests([{...scene,image:null}],{type:'video',engine:'mcp'}).length,1);});
+test('selected still is preferred and video is default only when available',()=>{const selected={...scene,selectedTakes:{image:{url:'/creative/test/new.png'}}};assert.equal(startingImage(selected),'/creative/test/new.png');assert.equal(preferredView(scene),'video');assert.equal(preferredView({...scene,previewVideo:null}),'image');});
+test('remote selected still falls back to a local source supported by FAL',()=>{
+  const remote={...scene,selectedTakes:{image:{url:'https://cdn.higgsfield.ai/luna.png'}}};
+  assert.equal(startingImage(remote),scene.image);
+  assert.equal(buildBatchRequests([remote],{type:'video',model})[0].startingImage,scene.image);
+  assert.equal(startingImage({...remote,image:null,poster:'/creative/test/poster.jpg'}),'/creative/test/poster.jpg');
+  assert.equal(startingImage({...remote,image:null}),null);
+  const artifact='/api/studio/jobs/0123456789abcdef0123456789abcdef/artifact';
+  assert.equal(startingImage({...scene,selectedTakes:{image:{url:artifact}}}),artifact);
+});

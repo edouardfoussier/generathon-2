@@ -1,0 +1,2417 @@
+{
+  "id": "luna-rafa-v4",
+  "title": "Luna & Rafa — Conserve what matters",
+  "version": 1,
+  "fps": 24,
+  "duration": 76,
+  "sourceFilm": {
+    "urlA": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+    "urlB": "/creative/refinement-v4/renders/converse-refinement-v4-music-b-76s.mp4"
+  },
+  "scenes": [
+    {
+      "id": "s01-opening",
+      "title": "Le grenier",
+      "description": "Luna cherche les vêtements d’hiver ; son agacement précède la découverte.",
+      "duration": 10,
+      "source": {
+        "url": "/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+        "inFrame": 0,
+        "outFrame": 240,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s01-opening.jpg",
+      "image": "/creative/scene-studio/assets/images/s01-opening.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s01-opening.mp4",
+        "inFrame": 0,
+        "outFrame": 240,
+        "fps": 24
+      },
+      "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0–1.0 black screen. 1.0–6.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0–10.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0–13.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0–15.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0–22.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0–24.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0–26.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0–29.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0–30.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            2.6,
+            1.7,
+            5.4
+          ],
+          "target": [
+            -0.3,
+            1.05,
+            0
+          ],
+          "fov": 47
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 0,
+        "timelineInFrame": 0,
+        "timelineOutFrame": 240,
+        "originalEditLabel": "Original opening and two dialogue lines",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/continuity-video-v1/jobs/opening-g.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 120,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 120,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 0,
+        "previewTimelineOutFrame": 240,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s02-shoebox",
+      "title": "La boîte",
+      "description": "Elle ouvre la boîte et découvre la paire héritée et la photographie de Rafa.",
+      "duration": 2.5,
+      "source": {
+        "url": "/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+        "inFrame": 240,
+        "outFrame": 300,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s02-shoebox.jpg",
+      "image": "/creative/scene-studio/assets/images/s02-shoebox.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s02-shoebox.mp4",
+        "inFrame": 0,
+        "outFrame": 60,
+        "fps": 24
+      },
+      "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0–1.0 black screen. 1.0–6.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0–10.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0–13.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0–15.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0–22.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0–24.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0–26.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0–29.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0–30.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.8,
+            2.5,
+            2.8
+          ],
+          "target": [
+            -0.25,
+            0.65,
+            0.25
+          ],
+          "fov": 42
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 1,
+        "timelineInFrame": 240,
+        "timelineOutFrame": 300,
+        "originalEditLabel": "Shoebox discovery",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/continuity-video-v1/jobs/opening-g.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 270,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 270,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 240,
+        "previewTimelineOutFrame": 300,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s03-photograph-insert",
+      "title": "La photographie · insert",
+      "description": "Rapprochement éditorial sur la photographie, extrait du même plan de découverte.",
+      "duration": 1.5,
+      "source": {
+        "url": "/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+        "inFrame": 300,
+        "outFrame": 336,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s03-photograph-insert.jpg",
+      "image": "/creative/scene-studio/assets/images/s03-photograph-insert.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s03-photograph-insert.mp4",
+        "inFrame": 0,
+        "outFrame": 36,
+        "fps": 24
+      },
+      "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0–1.0 black screen. 1.0–6.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0–10.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0–13.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0–15.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0–22.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0–24.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0–26.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0–29.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0–30.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.5,
+            2.0,
+            1.7
+          ],
+          "target": [
+            -0.25,
+            0.75,
+            0.25
+          ],
+          "fov": 34
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 2,
+        "timelineInFrame": 300,
+        "timelineOutFrame": 336,
+        "originalEditLabel": "Closer photograph insert",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/continuity-video-v1/jobs/opening-g.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": true,
+        "cropFilter": "crop=iw*0.82:ih*0.82:iw*0.09:ih*0.09",
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 318,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 318,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 300,
+        "previewTimelineOutFrame": 336,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s04-phone",
+      "title": "Une question au téléphone",
+      "description": "Luna photographie le tirage paysage puis attend une réponse qui ne lui apprend pas à connaître Rafa.",
+      "duration": 8,
+      "source": {
+        "url": "/creative/refinement-v4/videos/phone-attic-v2.mp4",
+        "inFrame": 0,
+        "outFrame": 192,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s04-phone.jpg",
+      "image": "/creative/scene-studio/assets/images/s04-phone.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s04-phone.mp4",
+        "inFrame": 0,
+        "outFrame": 192,
+        "fps": 24
+      },
+      "prompt": "A fully HAND-DRAWN AND HAND-PAINTED 2D GOUACHE ANIMATION on warm cotton paper, not live action. Every visible surface, especially FACES, is constructed from bold opaque matte brush shapes and sparse broken charcoal lines. Cheeks, forehead, nose, lips and eyelids have plainly visible bristle marks, angular warm/cool painted colour planes, paper grain showing in thin paint. Simplified painted eyes, irregular hand-drawn contours, subtle controlled line boil. Skin has the SAME graphic simplification and same brush size as clothing and scenery. Preserve recognizable character silhouette, proportions, hair, age and outfit from references, while interpreting the faces as drawings, not preserving photographic skin. Shading in 3-4 painted tones, not smooth gradients. No photorealistic facial cutouts, airbrushed skin, skin pores, cosmetic shine, glassy 3D eyeballs or soft plastic faces. Expressive restrained human acting; actually animate bodies and cloth, no static pan of an illustration. Paper texture remains anchored to artwork, faces do not melt or flicker. Single cinematic full frame 16:9, 720p. No titles, subtitles, music, speech or sound.\n\nLuna age15, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, sits in the D06 attic beside the open battered shoe case. LEFT window, brick, rafters, painted warm light. She uses a modern black phone to photograph a small LANDSCAPE-ORIENTATION paper photograph of her young grandfather Rafa age16 in basketball clothes. Image 4 locks the EXACT physical photograph already seen in the preceding shot: a LANDSCAPE rectangular faded color print, width longer than height, worn cream paper border, FULL-LENGTH teenage Rafa in white tank, navy shorts, striped tube socks, black Converse on a Bronx playground with brick tenement walls and fence behind him, orange basketball at his side. It is a wide full-body historical snapshot, NOT a cropped portrait or a newly posed picture. Preserve the SAME image content, orientation, worn border and apparent paper proportions when Luna holds it and when it appears tiny on the phone screen. Luna holds this wide print in her left hand, never turns it into a portrait-oriented sheet. The print shows Rafa with ONE basketball on the 1970 court; he is ONLY inside the print, never a live person in the attic. 0–3s: over Luna's RIGHT shoulder, her LEFT hand holds the old sepia print upright, RIGHT hand holds the phone vertically aimed at it. The phone camera screen shows a tiny painted view of that same paper photograph. She presses its shutter once with right thumb. Both hands stable, normal fingers, no extra devices. 3–5s: cut to medium-close three-quarter view of her painted face; she brings the phone closer to her chest, curious eyes on it as though awaiting a reply. Her mouth remains at rest; offscreen dialogue will be added later. 5–8s: same framing, phone gives an unhelpful response implied by her eyes dropping and a restrained disappointed exhale, eyes never wide with surprise, no open-mouth gasp. She lowers the phone and looks back at the physical photo with tenderness. The phone remains a small diegetic prop, never full-screen UI. Screen is understated painted pale paper with two abstract grey line shapes, absolutely no legible text or generated lettering. Leave lower 15 percent of frame mostly dark plain torso/wood for concise editorial subtitles if needed. No AI holograms, neon, sci-fi portals or floating panels.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "FG01-PHYSICAL-PRINT-FRAME",
+          "label": "Photographie paysage de Rafa · raccord FG01",
+          "url": "/creative/refinement-v4/qa/fg01-physical-print-reference.jpg",
+          "role": "prop"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            1.0,
+            1.65,
+            2.3
+          ],
+          "target": [
+            -0.25,
+            1.05,
+            0.15
+          ],
+          "fov": 40
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 3,
+        "timelineInFrame": 336,
+        "timelineOutFrame": 528,
+        "originalEditLabel": "Luna photographs the physical print and asks AI",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/refinement-v4/plan.json",
+        "promptSelector": "scenes[id=phone-attic-v2].prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "cfad0f3c-5766-4b76-947e-de6829347eb2",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 432,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 432,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 336,
+        "previewTimelineOutFrame": 528,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s05-putting-on-shoes",
+      "title": "La paire héritée",
+      "description": "Luna enfile les Converse de Rafa ; le lien avec les souvenirs se prépare.",
+      "duration": 2.5,
+      "source": {
+        "url": "/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+        "inFrame": 528,
+        "outFrame": 588,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s05-putting-on-shoes.jpg",
+      "image": "/creative/scene-studio/assets/images/s05-putting-on-shoes.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s05-putting-on-shoes.mp4",
+        "inFrame": 0,
+        "outFrame": 60,
+        "fps": 24
+      },
+      "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0–1.0 black screen. 1.0–6.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0–10.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0–13.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0–15.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0–22.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0–24.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0–26.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0–29.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0–30.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            1.2,
+            0.55,
+            2.4
+          ],
+          "target": [
+            -0.2,
+            0.3,
+            0.25
+          ],
+          "fov": 38
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 4,
+        "timelineInFrame": 528,
+        "timelineOutFrame": 588,
+        "originalEditLabel": "Luna puts on the inherited pair",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/continuity-video-v1/jobs/opening-g.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 558,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 558,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 528,
+        "previewTimelineOutFrame": 588,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s06-laces-insert",
+      "title": "Lacets et toile · insert",
+      "description": "Détail recadré des lacets et de la toile ; ce n’est pas une nouvelle prise générée.",
+      "duration": 1.5,
+      "source": {
+        "url": "/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+        "inFrame": 588,
+        "outFrame": 624,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s06-laces-insert.jpg",
+      "image": "/creative/scene-studio/assets/images/s06-laces-insert.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s06-laces-insert.mp4",
+        "inFrame": 0,
+        "outFrame": 36,
+        "fps": 24
+      },
+      "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0–1.0 black screen. 1.0–6.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0–10.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0–13.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0–15.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0–22.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0–24.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0–26.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0–29.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0–30.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.65,
+            0.35,
+            1.35
+          ],
+          "target": [
+            -0.2,
+            0.16,
+            0.3
+          ],
+          "fov": 32
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 5,
+        "timelineInFrame": 588,
+        "timelineOutFrame": 624,
+        "originalEditLabel": "Lace and canvas detail",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/continuity-video-v1/jobs/opening-g.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": true,
+        "cropFilter": "crop=iw*0.82:ih*0.82:iw*0.09:ih*0.09",
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 606,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 606,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 588,
+        "previewTimelineOutFrame": 624,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s07-first-memory",
+      "title": "Le premier souvenir",
+      "description": "L’appui dans le grenier devient un appui sur le terrain ; Rafa adolescent est révélé.",
+      "duration": 4,
+      "source": {
+        "url": "/creative/continuity-video-v1/renders/converse-continuity-g-seedance25-30s.mp4",
+        "inFrame": 624,
+        "outFrame": 720,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s07-first-memory.jpg",
+      "image": "/creative/scene-studio/assets/images/s07-first-memory.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s07-first-memory.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "prompt": "Create the opening 30 seconds of an emotional Converse family-history commercial, a continuous hand-painted gouache/watercolor ANIMATED FILM on warm textured paper, landscape 16:9. Use cinematic cuts, natural acting, parallax depth and confidently animated limbs, not a slideshow, not a photorealistic movie, not glossy 3D. Preserve the distinctive painted style of the supplied reference images throughout. Reference sheets are ONLY design documents: NEVER display a contact sheet, multiple panels, borders or a collage in the film.\nREFERENCE ROLES, strictly: Image 1 is Luna, the SAME fictional 15-year-old girl: her facial identity, dark curly low ponytail, charcoal plain oversized T-shirt and plain solid olive cargo trousers; natural teenage proportions. Image 2 is Rafa, the SAME fictional 16-year-old boy in 1970: dark short curls, white basketball tank, navy shorts, white tube socks with burgundy bands. Luna and Rafa NEVER merge. Image 3 is the D06 family attic location: exposed timber rafters, brick gable, left casement window, trunk and wooden floor, afternoon light. Image 4 is the 1970 Bronx basketball court. Image 5 is the inherited worn black adult high-top Converse in 2026 with modest wear and small right-side cream repair. Image 6 is the SAME classic black high-top pair in 1970 before wear or repair. Only inner ankles carry round badges; outer ankles are plain. No orange, no low-top silhouette, no platforms. Use the corresponding view within each sheet for the camera angle, keeping exactly one subject/pair in the scene.\nEXACT TIMED EDIT:\n0.0–1.0 black screen. 1.0–6.0 POV: attic door swings open, camera advances carefully between cluttered boxes, dust drifts through warm left-window light. Natural domestic mood, no funeral and no supernatural light beam.\n6.0–10.0 medium-wide: Luna steps through the clutter, mildly annoyed. She moves a box aside, catches her toe against an old shoebox, stops and looks down. Mouth relaxed, dialogue will be dubbed offscreen, no lip-sync performance required.\n10.0–13.0 intimate overhead insert: she opens the shoebox, revealing exactly one old black pair and one faded sepia photograph of teenage Rafa from image 2 holding a basketball on the court from image 4. Warm cardboard texture and dust.\n13.0–15.0 very close detail: Luna gently lifts the photograph; shallow focus shifts from photo to the inner shoe tongue. The faint small handwritten initials R.M. sit on the INSIDE tongue. No other invented words.\n15.0–22.0 locked close-up of a smartphone held by Luna over the attic floor. Phone faces squarely toward the camera, large flat plain ivory screen, dark bezel, no generated lettering or UI. Keep the exact screen composition steady for seven seconds; an interface will be composited in post. Luna's charcoal sleeve visible at edge.\n22.0–24.0 close-up: seated Luna slides one foot into the worn black high-top. Shoe retains a real connected sole, tongue and cream laces.\n24.0–26.0 close-up: fingers snug the laces, then her sole presses onto the wooden floor. Slow tactile contact, confident anatomy.\n26.0–29.0 elegant SHOE MATCH CUT, not a portal: same downward foot placement, camera angle and shoe size land on warm asphalt instead of floorboards; shoes now relatively new with NO cream repair, olive trousers change across the edit to Rafa's bare lower legs and striped white tube socks. Camera slowly tilts up.\n29.0–30.0 reveal young Rafa alone on the empty 1970 court, one basketball at his side, a small anticipatory smile; end ready for the next shot. Do not attempt a basket before the end.\nNo subtitles, end titles, watermarks, floating graphic logos, additional cast, voice, sound effects or music. Keep the attic and characters visually coherent, shots deliberately framed, faces emotionally restrained. The mood moves from ordinary impatience to curiosity to the first warm hint of an inherited memory.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "basketball",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 16 ans",
+            "age": 16,
+            "position": [
+              0,
+              0,
+              0
+            ],
+            "color": "#e5dbc6"
+          }
+        ],
+        "camera": {
+          "position": [
+            2.8,
+            1.2,
+            5.0
+          ],
+          "target": [
+            0,
+            1.0,
+            0
+          ],
+          "fov": 46
+        },
+        "lighting": {
+          "warmth": 0.55,
+          "intensity": 1.2
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 6,
+        "timelineInFrame": 624,
+        "timelineOutFrame": 720,
+        "originalEditLabel": "Shoe-to-court match cut",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/continuity-video-v1/jobs/opening-g.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "73e96460-32f5-4e31-90b8-01549dbeaf94",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 672,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 672,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 624,
+        "previewTimelineOutFrame": 720,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s08-basketball",
+      "title": "Le tir de Rafa",
+      "description": "Un tir, le filet, un sourire et la réception : l’énergie de Rafa à seize ans.",
+      "duration": 7,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/basketball.mp4",
+        "inFrame": 0,
+        "outFrame": 168,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s08-basketball.jpg",
+      "image": "/creative/scene-studio/assets/images/s08-basketball.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s08-basketball.mp4",
+        "inFrame": 0,
+        "outFrame": 168,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: Rafa, ONE 16-year-old Puerto Rican boy in 1970, short black curls, white tank top, navy shorts, white knee-high tube socks with burgundy bands and relatively new black high-top Converse. Image 2: his Bronx basketball court with brick tenements, chain-link fence, hoop left. Late-afternoon light, empty court, exactly one orange basketball. This starts immediately after the camera in the previous scene has revealed his face. 0–2.8s: medium three-quarter view, face clearly visible for the first beat; he focuses, bends his knees and releases one believable jump shot upward toward the basket. 2.8–4.4s: cut to tight hoop and net, the ONE ball drops downward through the hoop once. 4.4–6.1s: cut back to his face, modest delighted grin and small exhale, gaze toward the basket. 6.1–7s: cut to normal-size shoes landing and making a small clockwise pivot on the court, tightly framed with no distant person. No 3-point line claim. Keep the ball and limbs physically coherent.",
+      "references": [
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL02G",
+          "label": "Terrain du Bronx · 1970",
+          "url": "/creative/continuity-study/images/CL02G.png",
+          "role": "location"
+        }
+      ],
+      "blocking": {
+        "location": "basketball",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 16 ans",
+            "age": 16,
+            "position": [
+              0,
+              0,
+              0
+            ],
+            "color": "#e5dbc6"
+          }
+        ],
+        "camera": {
+          "position": [
+            3.5,
+            1.65,
+            5.5
+          ],
+          "target": [
+            0,
+            1.25,
+            0
+          ],
+          "fov": 48
+        },
+        "lighting": {
+          "warmth": 0.55,
+          "intensity": 1.2
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 7,
+        "timelineInFrame": 720,
+        "timelineOutFrame": 888,
+        "originalEditLabel": "Rafa shoots; net; smile; landing",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/basketball.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "5563ce09-4c37-4269-9373-546ef6975aa2",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 804,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 804,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 720,
+        "previewTimelineOutFrame": 888,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s09-shoes-meet",
+      "title": "Les chaussures se rencontrent",
+      "description": "Les Converse noires de Rafa rencontrent la paire rouge d’Elena sur la piste.",
+      "duration": 1.5,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/salsa.mp4",
+        "inFrame": 0,
+        "outFrame": 36,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s09-shoes-meet.jpg",
+      "image": "/creative/scene-studio/assets/images/s09-shoes-meet.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s09-shoes-meet.mp4",
+        "inFrame": 0,
+        "outFrame": 36,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 LEFT outfit only: Rafa age 23, terracotta open-collar long-sleeve shirt, brown flared trousers, black high-top Converse, short black curly hair, no mustache. Image 2 LEFT outfit only: Elena age 22, shoulder-length black curls, VIOLET short-sleeve calf-length dress and RED high-top Converse. Center wedding and right home outfits are NOT used. Image 3: warm 1977 salsa hall, wood floor, red curtains, gold and muted purple lamps. Images 4 and 5 guide only construction of black and red shoes, never enlarged in the scene. 0–1.6s: close-up of two dancers' feet at equal normal scale, Rafa pivots clockwise and his black shoe gently taps Elena's red shoe. 1.6–4s: cut up to a medium two-shot. He gives a shy apologetic half-smile; she smiles warmly, takes his hand. 4–7s: wider two-shot, one simple salsa side-step and gentle half-turn together, natural hands, no acrobatics; violet dress sways. Other dancers only soft indistinct silhouettes far behind. 7–8s: cut to his normal-size black shoe completing a step on the wooden floor under brown trousers, no giant shoe and no miniature dancers. Tender first connection, not a stage performance.",
+      "references": [
+        {
+          "id": "CC03G",
+          "label": "Rafa · 23–25 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC03G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC06G",
+          "label": "Elena · 22–24 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC06G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL03G",
+          "label": "Salle de salsa · 1977",
+          "url": "/creative/continuity-study/images/CL03G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS03G",
+          "label": "Converse rouges d’Elena · 1977",
+          "url": "/creative/continuity-study/images/CS03G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "salsa",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 23 ans",
+            "age": 23,
+            "position": [
+              -0.65,
+              0,
+              0
+            ],
+            "color": "#b26842"
+          },
+          {
+            "id": "elena",
+            "label": "Elena · 22 ans",
+            "age": 22,
+            "position": [
+              0.65,
+              0,
+              0
+            ],
+            "color": "#875d91"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.25,
+            0.5,
+            2.6
+          ],
+          "target": [
+            0,
+            0.18,
+            0
+          ],
+          "fov": 38
+        },
+        "lighting": {
+          "warmth": 0.85,
+          "intensity": 1.15
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 8,
+        "timelineInFrame": 888,
+        "timelineOutFrame": 924,
+        "originalEditLabel": "Black and red shoes meet",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/salsa.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 906,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 906,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 888,
+        "previewTimelineOutFrame": 924,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s10-salsa",
+      "title": "La rencontre avec Elena",
+      "description": "Un regard timide, une main offerte et les premiers pas à deux. Le rendu original FG01 est conservé.",
+      "duration": 5,
+      "source": {
+        "url": "/creative/refinement-v4/videos/salsa-original.mp4",
+        "inFrame": 0,
+        "outFrame": 120,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s10-salsa.jpg",
+      "image": "/creative/scene-studio/assets/images/s10-salsa.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s10-salsa.mp4",
+        "inFrame": 0,
+        "outFrame": 120,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 LEFT outfit only: Rafa age 23, terracotta open-collar long-sleeve shirt, brown flared trousers, black high-top Converse, short black curly hair, no mustache. Image 2 LEFT outfit only: Elena age 22, shoulder-length black curls, VIOLET short-sleeve calf-length dress and RED high-top Converse. Center wedding and right home outfits are NOT used. Image 3: warm 1977 salsa hall, wood floor, red curtains, gold and muted purple lamps. Images 4 and 5 guide only construction of black and red shoes, never enlarged in the scene. 0–1.6s: close-up of two dancers' feet at equal normal scale, Rafa pivots clockwise and his black shoe gently taps Elena's red shoe. 1.6–4s: cut up to a medium two-shot. He gives a shy apologetic half-smile; she smiles warmly, takes his hand. 4–7s: wider two-shot, one simple salsa side-step and gentle half-turn together, natural hands, no acrobatics; violet dress sways. Other dancers only soft indistinct silhouettes far behind. 7–8s: cut to his normal-size black shoe completing a step on the wooden floor under brown trousers, no giant shoe and no miniature dancers. Tender first connection, not a stage performance.",
+      "references": [
+        {
+          "id": "CC03G",
+          "label": "Rafa · 23–25 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC03G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC06G",
+          "label": "Elena · 22–24 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC06G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL03G",
+          "label": "Salle de salsa · 1977",
+          "url": "/creative/continuity-study/images/CL03G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS03G",
+          "label": "Converse rouges d’Elena · 1977",
+          "url": "/creative/continuity-study/images/CS03G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "salsa",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 23 ans",
+            "age": 23,
+            "position": [
+              -0.65,
+              0,
+              0
+            ],
+            "color": "#b26842"
+          },
+          {
+            "id": "elena",
+            "label": "Elena · 22 ans",
+            "age": 22,
+            "position": [
+              0.65,
+              0,
+              0
+            ],
+            "color": "#875d91"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.5,
+            1.65,
+            4.4
+          ],
+          "target": [
+            0,
+            1.2,
+            0
+          ],
+          "fov": 44
+        },
+        "lighting": {
+          "warmth": 0.85,
+          "intensity": 1.15
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 9,
+        "timelineInFrame": 924,
+        "timelineOutFrame": 1044,
+        "originalEditLabel": "Salsa encounter — selected source",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/salsa.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [
+          {
+            "mediaUrl": "/creative/refinement-v4/videos/salsa-original.mp4",
+            "originalMediaUrl": "/creative/gpt-full-film-v1/videos/salsa.mp4",
+            "originalRangeSeconds": [
+              1.5,
+              6.5
+            ],
+            "explanation": "FG01-S baseline excerpt between the opening and closing foot inserts; inherits the recorded salsa prompt."
+          }
+        ],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 984,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 984,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 924,
+        "previewTimelineOutFrame": 1044,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s11-dance-step",
+      "title": "Le pas de danse",
+      "description": "Le mouvement des chaussures conclut la danse et prépare le saut dans le temps.",
+      "duration": 1.5,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/salsa.mp4",
+        "inFrame": 156,
+        "outFrame": 192,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s11-dance-step.jpg",
+      "image": "/creative/scene-studio/assets/images/s11-dance-step.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s11-dance-step.mp4",
+        "inFrame": 0,
+        "outFrame": 36,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 LEFT outfit only: Rafa age 23, terracotta open-collar long-sleeve shirt, brown flared trousers, black high-top Converse, short black curly hair, no mustache. Image 2 LEFT outfit only: Elena age 22, shoulder-length black curls, VIOLET short-sleeve calf-length dress and RED high-top Converse. Center wedding and right home outfits are NOT used. Image 3: warm 1977 salsa hall, wood floor, red curtains, gold and muted purple lamps. Images 4 and 5 guide only construction of black and red shoes, never enlarged in the scene. 0–1.6s: close-up of two dancers' feet at equal normal scale, Rafa pivots clockwise and his black shoe gently taps Elena's red shoe. 1.6–4s: cut up to a medium two-shot. He gives a shy apologetic half-smile; she smiles warmly, takes his hand. 4–7s: wider two-shot, one simple salsa side-step and gentle half-turn together, natural hands, no acrobatics; violet dress sways. Other dancers only soft indistinct silhouettes far behind. 7–8s: cut to his normal-size black shoe completing a step on the wooden floor under brown trousers, no giant shoe and no miniature dancers. Tender first connection, not a stage performance.",
+      "references": [
+        {
+          "id": "CC03G",
+          "label": "Rafa · 23–25 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC03G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC06G",
+          "label": "Elena · 22–24 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC06G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL03G",
+          "label": "Salle de salsa · 1977",
+          "url": "/creative/continuity-study/images/CL03G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        },
+        {
+          "id": "CS03G",
+          "label": "Converse rouges d’Elena · 1977",
+          "url": "/creative/continuity-study/images/CS03G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "salsa",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 23 ans",
+            "age": 23,
+            "position": [
+              -0.65,
+              0,
+              0
+            ],
+            "color": "#b26842"
+          },
+          {
+            "id": "elena",
+            "label": "Elena · 22 ans",
+            "age": 22,
+            "position": [
+              0.65,
+              0,
+              0
+            ],
+            "color": "#875d91"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.7,
+            0.55,
+            2.8
+          ],
+          "target": [
+            0,
+            0.25,
+            0
+          ],
+          "fov": 37
+        },
+        "lighting": {
+          "warmth": 0.85,
+          "intensity": 1.15
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 10,
+        "timelineInFrame": 1044,
+        "timelineOutFrame": 1080,
+        "originalEditLabel": "Footstep out of dance",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/salsa.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "d03804f9-e0a8-4e7c-a1a5-25ecc2ad1df7",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1062,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1062,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1044,
+        "previewTimelineOutFrame": 1080,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s12-wedding",
+      "title": "Le mariage",
+      "description": "Rafa et Elena mariés se retrouvent devant la porte, dans une ellipse brève et tendre.",
+      "duration": 4,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/wedding.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s12-wedding.jpg",
+      "image": "/creative/scene-studio/assets/images/s12-wedding.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s12-wedding.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 CENTER outfit only: same Rafa age 24, brown 1978 wedding suit and cream shirt, small boutonniere, black high-top Converse. Image 2 CENTER outfit only: same Elena age 23 in long modest ivory wedding dress and veil. Image 3: brick building wedding doorway with double wooden doors. Image 4 only guides normal-size black shoe construction, relatively new with NO repair patch. 0–0.8s close-up of his black Converse beneath brown suit trousers settling onto the wooden threshold. 0.8–4s clean cut to a medium-wide portrait of the TWO newlyweds emerging just outside the doorway, holding hands and exchanging a happy intimate glance; gentle forward camera movement, veil catches a light breeze. Their hands remain anatomically natural. Do not show dance outfits or three copies of a person. No extra crowds, no written date.",
+      "references": [
+        {
+          "id": "CC03G",
+          "label": "Rafa · 23–25 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC03G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC06G",
+          "label": "Elena · 22–24 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC06G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL04G",
+          "label": "Porte du mariage · 1978",
+          "url": "/creative/continuity-study/images/CL04G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS01G",
+          "label": "Converse noires · 1970–1979",
+          "url": "/creative/continuity-study/images/CS01G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "wedding",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 24 ans",
+            "age": 24,
+            "position": [
+              -0.55,
+              0,
+              0
+            ],
+            "color": "#4c5757"
+          },
+          {
+            "id": "elena",
+            "label": "Elena · 23 ans",
+            "age": 23,
+            "position": [
+              0.55,
+              0,
+              0
+            ],
+            "color": "#ece1cb"
+          }
+        ],
+        "camera": {
+          "position": [
+            0,
+            1.7,
+            5.0
+          ],
+          "target": [
+            0,
+            1.1,
+            0
+          ],
+          "fov": 44
+        },
+        "lighting": {
+          "warmth": 0.68,
+          "intensity": 1.2
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 11,
+        "timelineInFrame": 1080,
+        "timelineOutFrame": 1176,
+        "originalEditLabel": "Wedding doorway",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/wedding.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "28c26cf5-9d3c-468c-89ce-cbfa5a00caa6",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1128,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1128,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1080,
+        "previewTimelineOutFrame": 1176,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s13-newborn",
+      "title": "Une nouvelle famille",
+      "description": "Rafa porte leur fille nouveau-née, future mère de Luna ; Elena se penche près d’eux.",
+      "duration": 4,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/newborn.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s13-newborn.jpg",
+      "image": "/creative/scene-studio/assets/images/s13-newborn.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s13-newborn.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1 RIGHT outfit only: Rafa age 25 in a plain ivory short-sleeve T-shirt and brown corduroy trousers, black high-top Converse. Image 2 RIGHT outfit only: Elena age 24, violet button-front house dress, no veil. Image 3: their newborn DAUGHTER swaddled safely in a cream knitted blanket. Image 4 LEFT room only: the 1979 family living room, warm afternoon window light on left, brick wall, green sofa and wooden rocking chair, NO television from middle panel. One newborn only, naturally tiny and safely supported. 0–2.5s: intimate medium two-shot, seated Rafa cradles the baby in both arms, Elena leans beside him and looks down with quiet wonder. His shoes are visible only as normal footwear. 2.5–4s: cut to close insert, baby's small hand closes softly around Rafa's index finger, cream blanket fills background. Gentle breathing and rocking, no exaggerated crying, no extra fingers. Their daughter grows into Luna's mother, not a son; no words on screen.",
+      "references": [
+        {
+          "id": "CC03G",
+          "label": "Rafa · 23–25 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC03G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC06G",
+          "label": "Elena · 22–24 ans · trois tenues",
+          "url": "/creative/continuity-study/images/CC06G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC10G",
+          "label": "La fille de Rafa · nouveau-née · 1979",
+          "url": "/creative/continuity-study/images/CC10G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL05G",
+          "label": "Salon familial · 1979 / 1995",
+          "url": "/creative/continuity-study/images/CL05G.png",
+          "role": "location"
+        }
+      ],
+      "blocking": {
+        "location": "nursery",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 25 ans",
+            "age": 25,
+            "position": [
+              -0.5,
+              0,
+              0
+            ],
+            "color": "#b99365"
+          },
+          {
+            "id": "elena",
+            "label": "Elena · 24 ans",
+            "age": 24,
+            "position": [
+              0.55,
+              0,
+              -0.2
+            ],
+            "color": "#9b7a79"
+          },
+          {
+            "id": "mother-baby",
+            "label": "Leur fille · future Maman",
+            "age": 0,
+            "position": [
+              -0.4,
+              1.05,
+              0.3
+            ],
+            "color": "#efe3bc"
+          }
+        ],
+        "camera": {
+          "position": [
+            1.5,
+            1.6,
+            3.8
+          ],
+          "target": [
+            -0.1,
+            1.1,
+            0.05
+          ],
+          "fov": 42
+        },
+        "lighting": {
+          "warmth": 0.83,
+          "intensity": 0.95
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 12,
+        "timelineInFrame": 1176,
+        "timelineOutFrame": 1272,
+        "originalEditLabel": "Baby and hand insert",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/newborn.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "36b8e264-7a57-43ec-b6ac-b6403a9ab830",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1224,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1224,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1176,
+        "previewTimelineOutFrame": 1272,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s14-handover",
+      "title": "La transmission",
+      "description": "En 1995, Rafa offre la paire à sa fille adolescente et ajuste le lacet d’un geste attentionné.",
+      "duration": 5.5,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/handover.mp4",
+        "inFrame": 0,
+        "outFrame": 132,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s14-handover.jpg",
+      "image": "/creative/scene-studio/assets/images/s14-handover.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s14-handover.mp4",
+        "inFrame": 0,
+        "outFrame": 132,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: same Rafa age 41 in 1995, black mustache, blue rolled-sleeve shirt, charcoal trousers and brown house loafers. Image 2: his 16-year-old daughter, short shoulder-length dark curls, denim jacket over plain white T-shirt, straight cuffed denim jeans. This is Luna's future mother, NOT Luna. Image 3 CENTER room only: 1995 family living room, window left, brick wall, green sofa and small old CRT TV, ordinary wooden chairs. Image 4: the ONE inherited pair of black high-top Converse with cream laces, modest wear, small rectangular cream cloth repair on right outer forefoot canvas. The pair is normally sized adult footwear, never a giant product. 0–2.5s: medium two-shot, father gently offers this pair to his seated daughter, she accepts and looks surprised and pleased. 2.5–5.5s: clean cut to a close insert at normal shoe scale, she now wears the pair, her father kneels and gently straightens the tongue of ONE shoe and snugs a lace using two normal hands. His own brown loafers remain separate. 5.5–8s: medium shot of both faces, she looks at him, they share a small affectionate smile. Tender practical love, simple unhurried gestures. No mother or baby in this shot. Do not add a second inherited pair.",
+      "references": [
+        {
+          "id": "CC04G",
+          "label": "Rafa · 41 ans · 1995",
+          "url": "/creative/continuity-study/images/CC04G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC08G",
+          "label": "Maman · 16 ans · 1995",
+          "url": "/creative/continuity-study/images/CC08G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL05G",
+          "label": "Salon familial · 1979 / 1995",
+          "url": "/creative/continuity-study/images/CL05G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "handover",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 41 ans",
+            "age": 41,
+            "position": [
+              0.65,
+              0,
+              0
+            ],
+            "color": "#7c9cb0"
+          },
+          {
+            "id": "mother",
+            "label": "Maman · 16 ans",
+            "age": 16,
+            "position": [
+              -0.65,
+              0,
+              0.15
+            ],
+            "color": "#6e90ac"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.5,
+            1.3,
+            4.2
+          ],
+          "target": [
+            0,
+            0.8,
+            0
+          ],
+          "fov": 46
+        },
+        "lighting": {
+          "warmth": 0.78,
+          "intensity": 1.0
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 13,
+        "timelineInFrame": 1272,
+        "timelineOutFrame": 1404,
+        "originalEditLabel": "Gift and lace gesture",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/handover.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "ed917ee0-69e6-499f-96ff-f223b819134c",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1338,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1338,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1272,
+        "previewTimelineOutFrame": 1404,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s15-shared-smile",
+      "title": "Le sourire partagé",
+      "description": "Le père et sa fille échangent un sourire après le geste du lacet.",
+      "duration": 1.25,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/handover.mp4",
+        "inFrame": 132,
+        "outFrame": 162,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s15-shared-smile.jpg",
+      "image": "/creative/scene-studio/assets/images/s15-shared-smile.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s15-shared-smile.mp4",
+        "inFrame": 0,
+        "outFrame": 30,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: same Rafa age 41 in 1995, black mustache, blue rolled-sleeve shirt, charcoal trousers and brown house loafers. Image 2: his 16-year-old daughter, short shoulder-length dark curls, denim jacket over plain white T-shirt, straight cuffed denim jeans. This is Luna's future mother, NOT Luna. Image 3 CENTER room only: 1995 family living room, window left, brick wall, green sofa and small old CRT TV, ordinary wooden chairs. Image 4: the ONE inherited pair of black high-top Converse with cream laces, modest wear, small rectangular cream cloth repair on right outer forefoot canvas. The pair is normally sized adult footwear, never a giant product. 0–2.5s: medium two-shot, father gently offers this pair to his seated daughter, she accepts and looks surprised and pleased. 2.5–5.5s: clean cut to a close insert at normal shoe scale, she now wears the pair, her father kneels and gently straightens the tongue of ONE shoe and snugs a lace using two normal hands. His own brown loafers remain separate. 5.5–8s: medium shot of both faces, she looks at him, they share a small affectionate smile. Tender practical love, simple unhurried gestures. No mother or baby in this shot. Do not add a second inherited pair.",
+      "references": [
+        {
+          "id": "CC04G",
+          "label": "Rafa · 41 ans · 1995",
+          "url": "/creative/continuity-study/images/CC04G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC08G",
+          "label": "Maman · 16 ans · 1995",
+          "url": "/creative/continuity-study/images/CC08G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL05G",
+          "label": "Salon familial · 1979 / 1995",
+          "url": "/creative/continuity-study/images/CL05G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "handover",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 41 ans",
+            "age": 41,
+            "position": [
+              0.65,
+              0,
+              0
+            ],
+            "color": "#7c9cb0"
+          },
+          {
+            "id": "mother",
+            "label": "Maman · 16 ans",
+            "age": 16,
+            "position": [
+              -0.65,
+              0,
+              0.15
+            ],
+            "color": "#6e90ac"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.35,
+            1.55,
+            3.0
+          ],
+          "target": [
+            0,
+            1.0,
+            0
+          ],
+          "fov": 39
+        },
+        "lighting": {
+          "warmth": 0.78,
+          "intensity": 1.0
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 14,
+        "timelineInFrame": 1404,
+        "timelineOutFrame": 1434,
+        "originalEditLabel": "Father and daughter smile",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/handover.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "ed917ee0-69e6-499f-96ff-f223b819134c",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1419,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1419,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1404,
+        "previewTimelineOutFrame": 1434,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s16-daughter-reaction",
+      "title": "Le regard de sa fille · insert",
+      "description": "Rapprochement éditorial sur la réaction de la jeune mère ; l’appel de Maman commence sur ce souvenir.",
+      "duration": 1.25,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/handover.mp4",
+        "inFrame": 162,
+        "outFrame": 192,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s16-daughter-reaction.jpg",
+      "image": "/creative/scene-studio/assets/images/s16-daughter-reaction.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s16-daughter-reaction.mp4",
+        "inFrame": 0,
+        "outFrame": 30,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: same Rafa age 41 in 1995, black mustache, blue rolled-sleeve shirt, charcoal trousers and brown house loafers. Image 2: his 16-year-old daughter, short shoulder-length dark curls, denim jacket over plain white T-shirt, straight cuffed denim jeans. This is Luna's future mother, NOT Luna. Image 3 CENTER room only: 1995 family living room, window left, brick wall, green sofa and small old CRT TV, ordinary wooden chairs. Image 4: the ONE inherited pair of black high-top Converse with cream laces, modest wear, small rectangular cream cloth repair on right outer forefoot canvas. The pair is normally sized adult footwear, never a giant product. 0–2.5s: medium two-shot, father gently offers this pair to his seated daughter, she accepts and looks surprised and pleased. 2.5–5.5s: clean cut to a close insert at normal shoe scale, she now wears the pair, her father kneels and gently straightens the tongue of ONE shoe and snugs a lace using two normal hands. His own brown loafers remain separate. 5.5–8s: medium shot of both faces, she looks at him, they share a small affectionate smile. Tender practical love, simple unhurried gestures. No mother or baby in this shot. Do not add a second inherited pair.",
+      "references": [
+        {
+          "id": "CC04G",
+          "label": "Rafa · 41 ans · 1995",
+          "url": "/creative/continuity-study/images/CC04G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC08G",
+          "label": "Maman · 16 ans · 1995",
+          "url": "/creative/continuity-study/images/CC08G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL05G",
+          "label": "Salon familial · 1979 / 1995",
+          "url": "/creative/continuity-study/images/CL05G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "handover",
+        "characters": [
+          {
+            "id": "rafa",
+            "label": "Rafa · 41 ans",
+            "age": 41,
+            "position": [
+              0.65,
+              0,
+              0
+            ],
+            "color": "#7c9cb0"
+          },
+          {
+            "id": "mother",
+            "label": "Maman · 16 ans",
+            "age": 16,
+            "position": [
+              -0.65,
+              0,
+              0.15
+            ],
+            "color": "#6e90ac"
+          }
+        ],
+        "camera": {
+          "position": [
+            -0.65,
+            1.5,
+            2.5
+          ],
+          "target": [
+            -0.5,
+            1.0,
+            0.1
+          ],
+          "fov": 32
+        },
+        "lighting": {
+          "warmth": 0.78,
+          "intensity": 1.0
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 15,
+        "timelineInFrame": 1434,
+        "timelineOutFrame": 1464,
+        "originalEditLabel": "Closer daughter reaction",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/handover.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "ed917ee0-69e6-499f-96ff-f223b819134c",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": true,
+        "cropFilter": "crop=iw*0.84:ih*0.84:iw*0.15:ih*0.06",
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1449,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1449,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1434,
+        "previewTimelineOutFrame": 1464,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s17-luna-return",
+      "title": "Retour à Luna",
+      "description": "La voix de sa mère ramène Luna au grenier ; le visage original FG01 reste la référence.",
+      "duration": 4,
+      "source": {
+        "url": "/creative/refinement-v4/videos/luna-original.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s17-luna-return.jpg",
+      "image": "/creative/scene-studio/assets/images/s17-luna-return.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s17-luna-return.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: Luna age 15 in 2026, exact face, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, worn black high-top Converse. Image 2: her MOTHER age 47, shoulder-length curly dark hair with a little grey, navy cardigan and muted indigo top, charcoal trousers. Their faces must remain clearly distinct. Image 3: same D06 attic, timber rafters, brick gable, left casement window, wooden floor, cluttered boxes and trunk. Image 4: the inherited normally sized worn black high-top pair on Luna's feet, small cream right-side repair. Image 5 is the young Rafa who appears ONLY within a tiny sepia photograph, never as a live person here. 0–4s: close-medium on seated Luna in the attic, blinking as she returns from a memory. An offscreen call catches her attention; she looks toward the doorway to camera right, expression softening into a small smile. 4–6s: close insert, Luna carefully returns a faded photograph to the old open shoebox; her worn shoes are naturally beside her chair on her feet, no extra pair in the box. 6–11s: over Luna's shoulder toward Mom, who has come to the attic doorway, same rafters and left-window light. Luna is only seen from behind/shoulder while her line will be heard offscreen in the edit; Mom listens, a beat of recognition, then a warm restrained smile. No visible speaking mouths needed; voices will be added. Finish holding Mom's response, leaving a calm emotional pause for the endline. No funeral or supernatural objects.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC09G",
+          "label": "Maman · 47 ans · 2026",
+          "url": "/creative/continuity-study/images/CC09G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.9,
+            1.45,
+            2.8
+          ],
+          "target": [
+            -0.35,
+            1.1,
+            0.05
+          ],
+          "fov": 37
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 16,
+        "timelineInFrame": 1464,
+        "timelineOutFrame": 1560,
+        "originalEditLabel": "Luna returns; Mom call bridges the cut",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/return.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "62351e26-65e9-4688-a594-11a84e905bfb",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [
+          {
+            "mediaUrl": "/creative/refinement-v4/videos/luna-original.mp4",
+            "originalMediaUrl": "/creative/gpt-full-film-v1/videos/return.mp4",
+            "originalRangeSeconds": [
+              0,
+              4
+            ],
+            "explanation": "FG01-L baseline excerpt; inherits the recorded return generation prompt, not a new Luna generation."
+          }
+        ],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1512,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1512,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1464,
+        "previewTimelineOutFrame": 1560,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s18-photo-return",
+      "title": "La photo retrouve sa place",
+      "description": "Luna replace délicatement la photographie dans la boîte, les chaussures restant à ses pieds.",
+      "duration": 2,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/return.mp4",
+        "inFrame": 96,
+        "outFrame": 144,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s18-photo-return.jpg",
+      "image": "/creative/scene-studio/assets/images/s18-photo-return.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s18-photo-return.mp4",
+        "inFrame": 0,
+        "outFrame": 48,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: Luna age 15 in 2026, exact face, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, worn black high-top Converse. Image 2: her MOTHER age 47, shoulder-length curly dark hair with a little grey, navy cardigan and muted indigo top, charcoal trousers. Their faces must remain clearly distinct. Image 3: same D06 attic, timber rafters, brick gable, left casement window, wooden floor, cluttered boxes and trunk. Image 4: the inherited normally sized worn black high-top pair on Luna's feet, small cream right-side repair. Image 5 is the young Rafa who appears ONLY within a tiny sepia photograph, never as a live person here. 0–4s: close-medium on seated Luna in the attic, blinking as she returns from a memory. An offscreen call catches her attention; she looks toward the doorway to camera right, expression softening into a small smile. 4–6s: close insert, Luna carefully returns a faded photograph to the old open shoebox; her worn shoes are naturally beside her chair on her feet, no extra pair in the box. 6–11s: over Luna's shoulder toward Mom, who has come to the attic doorway, same rafters and left-window light. Luna is only seen from behind/shoulder while her line will be heard offscreen in the edit; Mom listens, a beat of recognition, then a warm restrained smile. No visible speaking mouths needed; voices will be added. Finish holding Mom's response, leaving a calm emotional pause for the endline. No funeral or supernatural objects.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC09G",
+          "label": "Maman · 47 ans · 2026",
+          "url": "/creative/continuity-study/images/CC09G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          }
+        ],
+        "camera": {
+          "position": [
+            0.9,
+            2.2,
+            2.6
+          ],
+          "target": [
+            -0.3,
+            0.75,
+            0.15
+          ],
+          "fov": 40
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 17,
+        "timelineInFrame": 1560,
+        "timelineOutFrame": 1608,
+        "originalEditLabel": "Luna returns photo to box",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/return.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "62351e26-65e9-4688-a594-11a84e905bfb",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1584,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1584,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1560,
+        "previewTimelineOutFrame": 1608,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s19-tell-me",
+      "title": "Raconte-moi Grandpa",
+      "description": "Luna demande à sa mère de lui parler de Rafa ; Maman répond par un sourire.",
+      "duration": 5,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/videos/return.mp4",
+        "inFrame": 144,
+        "outFrame": 264,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s19-tell-me.jpg",
+      "image": "/creative/scene-studio/assets/images/s19-tell-me.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s19-tell-me.mp4",
+        "inFrame": 0,
+        "outFrame": 120,
+        "fps": 24
+      },
+      "prompt": "Continue the same emotional Converse family-history commercial as a cinematic HAND-PAINTED WATERCOLOR / GOUACHE ANIMATED FILM, landscape 16:9. Translucent warm washes, softly textured paper, detailed painted faces, warm natural light. Preserve the precise fictional identities and wardrobe of the supplied GPT Image 2.5 Sunburst references. Confidently animate bodies, fabric and camera depth; NOT a slideshow, still-image zoom, paper collage, contact sheet, split-screen, photographic live action or glossy 3D. Reference sheets are only design documents: select the specified person and outfit, then stage a full-frame film scene. Never show multiple views of one person at once. Every person and shoe stays at anatomically normal scale. No giant foreground shoes, miniature people, fused limbs, morphing people, portals or costume changes within a shot. Use clean editorial cuts where requested. Black Converse: classic high canvas collar, ivory rubber toe and sole, cream laces, round badge only on INNER ankle; plain outside. No invented lettering, titles, subtitles, floating logos, music, voice or sound. Sound is added in the edit. Restrained, emotionally believable acting.\n\nImage 1: Luna age 15 in 2026, exact face, dark curly LOW ponytail, plain charcoal oversized T-shirt, solid olive cargo trousers, worn black high-top Converse. Image 2: her MOTHER age 47, shoulder-length curly dark hair with a little grey, navy cardigan and muted indigo top, charcoal trousers. Their faces must remain clearly distinct. Image 3: same D06 attic, timber rafters, brick gable, left casement window, wooden floor, cluttered boxes and trunk. Image 4: the inherited normally sized worn black high-top pair on Luna's feet, small cream right-side repair. Image 5 is the young Rafa who appears ONLY within a tiny sepia photograph, never as a live person here. 0–4s: close-medium on seated Luna in the attic, blinking as she returns from a memory. An offscreen call catches her attention; she looks toward the doorway to camera right, expression softening into a small smile. 4–6s: close insert, Luna carefully returns a faded photograph to the old open shoebox; her worn shoes are naturally beside her chair on her feet, no extra pair in the box. 6–11s: over Luna's shoulder toward Mom, who has come to the attic doorway, same rafters and left-window light. Luna is only seen from behind/shoulder while her line will be heard offscreen in the edit; Mom listens, a beat of recognition, then a warm restrained smile. No visible speaking mouths needed; voices will be added. Finish holding Mom's response, leaving a calm emotional pause for the endline. No funeral or supernatural objects.",
+      "references": [
+        {
+          "id": "CC01G",
+          "label": "Luna · 15 ans · 2026",
+          "url": "/creative/continuity-study/images/CC01G.png",
+          "role": "character"
+        },
+        {
+          "id": "CC09G",
+          "label": "Maman · 47 ans · 2026",
+          "url": "/creative/continuity-study/images/CC09G.png",
+          "role": "character"
+        },
+        {
+          "id": "CL01G",
+          "label": "Grenier D06 · 2026",
+          "url": "/creative/continuity-study/images/CL01G.png",
+          "role": "location"
+        },
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        },
+        {
+          "id": "CC02G",
+          "label": "Rafa · 16 ans · 1970",
+          "url": "/creative/continuity-study/images/CC02G.png",
+          "role": "character"
+        }
+      ],
+      "blocking": {
+        "location": "attic",
+        "characters": [
+          {
+            "id": "luna",
+            "label": "Luna",
+            "age": 15,
+            "position": [
+              -0.45,
+              0,
+              0.1
+            ],
+            "color": "#747a54"
+          },
+          {
+            "id": "mother",
+            "label": "Maman · 47 ans",
+            "age": 47,
+            "position": [
+              1.7,
+              0,
+              -1.5
+            ],
+            "color": "#99846b"
+          }
+        ],
+        "camera": {
+          "position": [
+            -1.8,
+            1.6,
+            3.3
+          ],
+          "target": [
+            0.65,
+            1.2,
+            -0.65
+          ],
+          "fov": 46
+        },
+        "lighting": {
+          "warmth": 0.72,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 18,
+        "timelineInFrame": 1608,
+        "timelineOutFrame": 1728,
+        "originalEditLabel": "Luna asks Mom; Mom smiles",
+        "kind": "generated-sequence",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/jobs/return.json",
+        "promptSelector": "prompt",
+        "promptIsExactRecordedText": true,
+        "promptScope": "Exact full source-sequence prompt, inherited by this editorial extract; not a separate generation request for this segment.",
+        "sourceGenerationAssetId": "62351e26-65e9-4688-a594-11a84e905bfb",
+        "sourceGenerationModel": "Seedance 2.5",
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1668,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1668,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1608,
+        "previewTimelineOutFrame": 1728,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage."
+      }
+    },
+    {
+      "id": "s20-endline",
+      "title": "Conserve what matters",
+      "description": "Carton éditorial : une chaussure existante et une composition typographique, sans nouvelle génération.",
+      "duration": 4,
+      "source": {
+        "url": "/creative/gpt-full-film-v1/renders/converse-gpt-seedance25-full-76s.mp4",
+        "inFrame": 1728,
+        "outFrame": 1824,
+        "fps": 24
+      },
+      "poster": "/creative/scene-studio/assets/posters/s20-endline.jpg",
+      "image": "/creative/scene-studio/assets/images/s20-endline.jpg",
+      "previewVideo": {
+        "url": "/creative/scene-studio/assets/clips/s20-endline.mp4",
+        "inFrame": 0,
+        "outFrame": 96,
+        "fps": 24
+      },
+      "prompt": "",
+      "references": [
+        {
+          "id": "CS02G",
+          "label": "Converse transmises · 1995–2026",
+          "url": "/creative/continuity-study/images/CS02G.png",
+          "role": "product"
+        }
+      ],
+      "blocking": {
+        "location": "product",
+        "characters": [],
+        "camera": {
+          "position": [
+            0,
+            0.6,
+            2.5
+          ],
+          "target": [
+            0,
+            0.35,
+            0
+          ],
+          "fov": 38
+        },
+        "lighting": {
+          "warmth": 0.75,
+          "intensity": 1.1
+        }
+      },
+      "provenance": {
+        "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+        "editReportShotIndex": 19,
+        "timelineInFrame": 1728,
+        "timelineOutFrame": 1824,
+        "originalEditLabel": "Conserve what matters endline",
+        "kind": "editorial-composition",
+        "promptSourceUrl": "/creative/gpt-full-film-v1/graphics/provenance.json",
+        "promptSelector": null,
+        "promptIsExactRecordedText": false,
+        "promptScope": "No generation prompt: local crop and typography.",
+        "sourceGenerationAssetId": null,
+        "sourceGenerationModel": null,
+        "referenceImageFamily": "GPT Image 2.5 Sunburst / G continuity",
+        "referenceManifestUrl": "/creative/continuity-study/manifest.json",
+        "aliases": [],
+        "editorialReframe": false,
+        "cropFilter": null,
+        "posterSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "posterFrame": 1776,
+        "imageSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "imageFrame": 1776,
+        "imageTreatment": "Full native 1280×720 JPEG from the exact same v4 A frame as the thumbnail poster; no generative processing or upscaling.",
+        "previewSourceUrl": "/creative/refinement-v4/renders/converse-refinement-v4-music-a-76s.mp4",
+        "previewTimelineInFrame": 1728,
+        "previewTimelineOutFrame": 1824,
+        "previewTreatment": "Local frame-aligned excerpt of the already rendered v4 A master, H.264 CRF20 fast / AAC. Retains the actual editorial crop, captions and original v4 A music/dialogue mix. Not a new generation or a new audio mix.",
+        "blockingOrigin": "Manually seeded editable spatial previz, inferred from the recorded action and reference geography; not camera tracking or reconstruction of generated footage.",
+        "editorialInstructions": "Crop the complete inherited shoe profile from CS02G, arrange on sampled warm paper, and typeset CONVERSE / CONSERVE WHAT MATTERS.",
+        "compositionSourceUrl": "/creative/gpt-full-film-v1/render.py"
+      }
+    }
+  ],
+  "provenance": {
+    "baselineFilmUrl": "/creative/gpt-full-film-v1/renders/converse-gpt-seedance25-full-76s.mp4",
+    "editReportUrl": "/creative/refinement-v4/qa/render-report.json",
+    "selectionStatus": "Latest produced v4 working edit. RF06 phone take is integrated; original FG01 faces retained. No saved user preference between soundtrack A and B is inferred.",
+    "pictureIdenticalAcrossSoundtracks": true,
+    "notTheEarlierPhotographicEditor": "/creative/editor uses the older model-comparison-v3 masters; it is not this v4 selection.",
+    "style": "Existing source media are gouache / watercolor 2D. Blocking is a new editable 3D previz only, not newly generated replacement footage.",
+    "sourcePromptPolicy": "Keep exact historical generation prompts, including their 2D style restrictions. Adapt style intentionally for a later 3D request; do not present edited text as the historical original.",
+    "blockingCoordinates": {
+      "unit": "metres",
+      "upAxis": "Y",
+      "groundY": 0,
+      "warmthRange": [
+        0,
+        1
+      ],
+      "lightIntensityRange": [
+        0,
+        2
+      ]
+    },
+    "posterPolicy": "480×270 JPEGs decoded from the midpoint native frame of each actual v4 editorial segment; no image generation.",
+    "imagePolicy": "Full-resolution 1280×720 JPEGs from exactly the same native frames as the posters, for the Image tab. No upscaling or generative processing.",
+    "previewVideoPolicy": "Twenty locally derived scene excerpts from v4 A at the original 1280×720 / 24 fps. Existing editorial framing and v4 A music/dialogue are preserved. Preview clips are re-encoded H.264/AAC for exact intervals and browser playback; no new generation, replacement voice or remix.",
+    "proposalNotUsedAsShotCount": "/creative/refinement-v4/v4-shot-plan.md contains 38 proposed beats, not 38 existing video assets."
+  }
+}

@@ -1,0 +1,4 @@
+# Private runtime jobs and drafts are local, never source assets.
+.state/
+__pycache__/
+*.pyc
