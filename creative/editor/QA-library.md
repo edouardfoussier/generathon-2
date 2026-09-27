@@ -12,6 +12,13 @@
 - Generation form retrieves server model availability, prefills available prompts, and uses the selected clip's in point or a chosen image.
 - Verification used a separate localhost storage origin, leaving the user's saved `127.0.0.1` edit untouched.
 
+## Gallery hover previews
+
+- Pointer hover plays one muted, looping video after a short delay; leaving the card releases the video and restores its poster. No video files are loaded for idle cards.
+- Keyboard focus also previews videos. Touch taps keep the existing click-to-open behavior; reduced-motion preferences disable automatic previews.
+- Browser verification: hovered shoe clip played (`readyState: 4`, muted, looping, advancing time); pointer exit removed it. Keyboard navigation switched the single player to the next clip. Opening the full preview removed the hover player and preserved the normal modal. Filters cleared previews; no browser console errors were reported.
+- Previews are also cleared on gallery re-render, close, scroll, tab hiding and window blur.
+
 ## Automated checks
 
 - `node --test creative/editor/model.test.mjs`: 20 passing tests, including variable source bounds, insertion, replacement, new edit and audio recipe settings.
