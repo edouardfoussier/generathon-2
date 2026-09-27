@@ -1,0 +1,26 @@
+{
+  "prompt": "Make ONE targeted footwear-continuity correction to REFERENCE1, preserving all faces, identities, clothing, hands, composition, lighting, paint texture, room and family emotion. REFERENCE2 is the exact shoe construction and repair master only, do not copy its collage. In REFERENCE1 the daughter is seated on the LEFT and faces three-quarter toward the father on the RIGHT. Her anatomical RIGHT leg and RIGHT shoe are on the VIEWER'S LEFT (shoe nearer the chair, around 36% of frame width). Her anatomical LEFT leg/shoe is the shoe extended toward the father on the VIEWER'S RIGHT (around47% of frame width). The present cream repair on the viewer-right / anatomical LEFT shoe is wrong. REMOVE that cream square completely and restore uninterrupted black canvas at that location. Add the ONE tiny cream rectangular stitched repair ONLY to the OUTER/LATERAL forefoot canvas of her anatomical RIGHT shoe, the shoe on VIEWER'S LEFT nearer the chair. The correct patch belongs just above rubber at the far-left outer edge of that shoe near its toe, NOT on tongue, ankle or rubber; since that shoe is seen mostly from the front the patch must appear foreshortened and may be partly hidden around its outer edge. Do not turn or move the shoe to show it; do not put a cream mark on the front/top center of the toe, do not add any patch on the viewer-right shoe. One repaired RIGHT shoe, one plain LEFT shoe. Keep the father's brown house loafers unchanged. Do not change pose or number of shoes. Output the same single full 16:9 image, no text.",
+  "referenceImages": [
+    "production/videoassets/28477636-b602-45e7-bfd5-9af24042dc68.png",
+    "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+  ],
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 0f5bc27a-af30-4642-b7ec-4a4549e7717f\n- **Type**: gpt-image-2-5-sunburst\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/27/2026, 6:43:54 AM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "0f5bc27a-af30-4642-b7ec-4a4549e7717f",
+          "type": "gpt-image-2-5-sunburst",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

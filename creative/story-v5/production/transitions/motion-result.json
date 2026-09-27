@@ -1,0 +1,123 @@
+{
+  "assets": [
+    {
+      "code": "VT01",
+      "kind": "video",
+      "title": {
+        "fr": "VT01 · Appui présent → souvenir",
+        "en": "VT01 · Present → memory footfall"
+      },
+      "description": {
+        "fr": "Essai silencieux6s de raccord d’appui. Le modèle a produit un fondu au lieu de la coupe demandée.",
+        "en": "Silent6s footfall transition test. The model produced a dissolve instead of the requested cut."
+      },
+      "file": "transitions/videos/T01-motion.mp4",
+      "group": "transitions",
+      "status": "generated",
+      "model": "seedance_25",
+      "assetId": "c2872c98-8c4f-4e61-b254-7dc222e29ea0",
+      "creditsCharged": 252,
+      "prompt": "Create ONE SILENT 6-second 16:9 hand-painted film transition proof, with precisely TWO shots joined by ONE CLEAN MATCH CUT. REFERENCE IMAGE1 is the PRESENT shot: Luna's single right black high-top Chuck Taylor in outer side profile in D06 attic, toe LEFT, plain olive cargo above, small cream rectangular fabric repair at outer forefoot, warm left window light and wood floor. REFERENCE IMAGE2 is the MEMORY shot: SAME right shoe and near-identical screen composition on a 1970 Bronx basketball court, white sport sock with two burgundy stripes, NO repair patch. The actual images are the composition, material and product references; keep them recognizable. TIMING: 0.0-2.4s stay entirely in the ATTIC: locked ground-level camera, one lower leg, shoe remains about57% of frame width and sole near76% height, all toe/heel within frame; very subtle natural ankle weight shift and heel gently settles onto wood. This is a cautious footfall, not a stomp, jump or step across the frame. The cream repair stays clearly present throughout this shot. AT approximately2.5s make one motivated instantaneous editorial MATCH CUT on the end of the footfall to the COURT shot from IMAGE2. The shoe's outline, toe-left direction, scale and sole contact should match as closely as the two references allow. This is a CUT BETWEEN TWO PLACES/TIMES, NOT an in-shot metamorphosis. Do not morph wood into asphalt or olive fabric into sock, and do not dissolve the repair. 2.5-6.0s stay entirely on the COURT: same fixed camera and screen position, white sock, two burgundy bands, outer canvas with NO cream patch, slight natural weight settling, tiny lace response, grounded heel and toe. No additional stepping, no new props. Consistent tactile opaque GOUACHE / WATERCOLOR brush planes on warm paper across BOTH shots, same painted shoe and cloth construction, same broad restrained colors, no live action, no photographic textures, no3D gloss. Important product continuity: narrow flat ivory sole, ivory toe cap, black canvas ankle-high upper, offwhite tied laces; visible side is RIGHT OUTER face, NEVER add a circular star badge to this exterior. Exactly one shoe and one cropped lower leg per shot. No second foot, no hands, no face, no basketball, no portal, no cloth or rubber morph, no wobbly sole, no camera zoom/pan/tilt, no flashes, no particles, no text or logo overlay. Keep left-side light and maintain toe LEFT throughout; no horizontal flip. No audio, no speech, no music, no sound effects. End on the quiet court footfall so the next shot can reveal young Rafa.",
+      "references": [
+        "production/videoassets/a03bade6-2071-43b2-9be5-c101ef3fa78d.png",
+        "production/videoassets/092bdb31-2977-4479-bffa-6b00b9e27024.png"
+      ],
+      "qa": {
+        "fr": "Matière peinte, profil extérieur sans faux badge, une seule chaussure et mouvement discret conservés. Échec du raccord demandé : fondu global vers2,0–2,8s, superposition cargo/chaussette, grenier/terrain et effacement progressif du patch, au lieu d’une coupe franche. Le talon semble légèrement se soulever puis revenir. À conserver comme diagnostic, pas à intégrer tel quel dans le film.",
+        "en": "Painted material, exterior profile without false badge, single shoe and restrained motion retained. Requested cut failed: global dissolve around2.0–2.8s overlays cargo/sock and attic/court while the repair gradually disappears, instead of a clean cut. Heel appears to lift slightly then return. Keep as a diagnostic, not a production-ready transition."
+      },
+      "reviewStatus": "needs-correction",
+      "teamApproved": false,
+      "motionValidated": false,
+      "requestedDuration": 6,
+      "duration": 6.041667,
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "nbFrames": 145,
+      "audioStreams": 0,
+      "decodeVerified": true,
+      "qaContactSheet": "transitions/qa-motion/contact-sheet.png",
+      "paidRetryCount": 0
+    },
+    {
+      "code": "VT01-CUT",
+      "kind": "video",
+      "title": {
+        "fr": "VT01-CUT · Coupe franche corrigée",
+        "en": "VT01-CUT · Corrected clean cut"
+      },
+      "description": {
+        "fr": "Version5,08s dérivée du même essai : fondu retiré, coupe franche entre deux portions stables.",
+        "en": "5.08s version derived from the same test: dissolve removed, clean cut between stable footage."
+      },
+      "file": "transitions/videos/T01-clean-cut.mp4",
+      "group": "transitions",
+      "status": "generated",
+      "model": "Seedance2.5 · local match cut",
+      "assetId": null,
+      "creditsCharged": 0,
+      "derivedFrom": "VT01",
+      "generationMethod": "Local ffmpeg trim and concatenation; no generative request",
+      "sourceFile": "transitions/videos/T01-motion.mp4",
+      "segments": [
+        {
+          "source": "VT01",
+          "scene": "attic",
+          "startFrameInclusive": 0,
+          "endFrameExclusive": 47,
+          "frameCount": 47,
+          "sourceStartSeconds": 0,
+          "sourceEndSecondsExclusive": 1.9583333333333333,
+          "outputStartFrame": 0
+        },
+        {
+          "source": "VT01",
+          "scene": "court",
+          "startFrameInclusive": 70,
+          "endFrameExclusive": 145,
+          "frameCount": 75,
+          "sourceStartSeconds": 2.9166666666666665,
+          "sourceEndSecondsExclusive": 6.041666666666667,
+          "outputStartFrame": 47
+        }
+      ],
+      "removedSourceFrames": {
+        "startFrameInclusive": 47,
+        "endFrameExclusive": 70,
+        "frameCount": 23
+      },
+      "cutAtOutputFrame": 47,
+      "cutAtSeconds": 1.9583333333333333,
+      "references": [
+        "transitions/videos/T01-motion.mp4"
+      ],
+      "qa": {
+        "fr": "Coupe franche restaurée localement : les23 images du fondu sont supprimées, sans nouvelle génération. Réparation présente au grenier puis absente sur le terrain, sans superposition cargo/chaussette. Une seule chaussure pointe à gauche. Petit saut résiduel de hauteur de semelle (~10–15px sur720px) et lacets légèrement différents ; candidat de raccord lisible, pas parfaitement enregistré.",
+        "en": "A real cut is restored locally: the23 dissolve frames are removed without generation. Repair present in the attic and absent on court, with no cargo/sock overlay. Single shoe points left. Small remaining sole-height jump (~10–15px on720px) and slightly different laces; readable match-cut candidate, not perfectly registered."
+      },
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "motionValidated": false,
+      "duration": 5.083333,
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "nbFrames": 122,
+      "audioStreams": 0,
+      "decodeVerified": true,
+      "qaContactSheet": "transitions/qa-motion/clean-cut-boundary.png",
+      "paidRetryCount": 0,
+      "purpose": "Preliminary transition proof only, not final film editing."
+    }
+  ],
+  "totalCreditsCharged": 252,
+  "generationCount": 1,
+  "paidRetryCount": 0,
+  "purpose": "Silent proof only. No full film expansion, soundtrack or final montage.",
+  "recommendedNextStep": {
+    "fr": "Comparer VT01-CUT aux deux images clés. La coupe est désormais maîtrisée sans nouveau crédit ; vérifier que le léger saut d’appui reste acceptable avant adoption dans le film.",
+    "en": "Compare VT01-CUT with both keyframes. The cut is now controlled without new credits; assess the small foot-position jump before using it in the film."
+  },
+  "derivedClipCount": 1
+}

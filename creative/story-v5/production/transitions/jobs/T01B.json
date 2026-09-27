@@ -1,0 +1,54 @@
+{
+  "code": "T01B",
+  "status": "generated",
+  "assetId": "092bdb31-2977-4479-bffa-6b00b9e27024",
+  "model": "gpt-image-2-5-sunburst",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "prompt": "Create the MEMORY endpoint of an exact visual MATCH CUT by editing REFERENCE1, our generated T01A. Preserve its complete composition and pixel-coordinate shoe geometry: same shoe outline, same toe and heel positions, same shoe width, collar placement, angle, lens, tied lace silhouette, flat ground contact, cream sole thickness and y-coordinate. Treat the shoe as a registered anchor, do not recenter, resize, flip or change viewpoint. It remains the SINGLE RIGHT black classic canvas HIGH-TOP CONVERSE in strict OUTER/LATERAL side profile, toe pointing LEFT. Change only TIME, OUTFIT and SET: replace Luna's olive trouser leg with young Rafa's lower calf and white tube sock with TWO burgundy horizontal bands, as REFERENCE4. Sock and cropped calf continue out the top of the image at the identical leg position. Remove the small cream repair entirely because this is 1970 BEFORE the repair; the outer canvas at that location is seamless intact black. Keep every other construction line and shape of the SAME shoe. Make canvas slightly deeper black and rubber less aged but not shiny new. REFERENCE2 shows early pair construction and NO REPAIR; use its CENTER LOWER plain outer elevation, never the inner face with badge. Plain OUTER ankle, absolutely no round star badge. Replace D06 wooden floor with 1970 asphalt at exactly the same foot contact plane. REFERENCE3 supplies the historical Bronx court: chain-link fence, terracotta tenements with fire escapes, left off-white backboard, brick passage arch to right, golden late-afternoon light from LEFT. Background is softly simplified painted masses because shoe dominates, no modern graffiti, no skate ramps, no modern objects. Hand-painted GOUACHE AND WATERCOLOR on warm textured paper throughout, match REFERENCE1's brush planes, restrained pencil contours and medium. Entire frame 16:9, no paper border or panels. No face, no full-body character, no basketball in this close-up, no second shoe, no additional foot, no letters or caption, no portal, no speed smear. Shoe must land on the SAME screen coordinates as reference1; this is one clean still, not a storyboard. Do not preserve present-day cream repair or olive fabric.",
+  "referenceImages": [
+    "production/videoassets/a03bade6-2071-43b2-9be5-c101ef3fa78d.png",
+    "production/videoassets/a03d21f1-5421-4fd4-b529-ac46e28f1dcc.png",
+    "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png",
+    "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png"
+  ],
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 092bdb31-2977-4479-bffa-6b00b9e27024\n- **Type**: gpt-image-2-5-sunburst\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/27/2026, 6:42:49 AM\n"
+      }
+    ],
+    "structuredContent": {
+      "assets": [
+        {
+          "id": "092bdb31-2977-4479-bffa-6b00b9e27024",
+          "type": "gpt-image-2-5-sunburst",
+          "status": "pending",
+          "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+        }
+      ]
+    },
+    "isError": false
+  },
+  "creditsCharged": 8,
+  "localFile": "transitions/images/T01B.png",
+  "completedAt": "2026-09-27T06:43:40.528Z",
+  "dimensions": {
+    "width": 1920,
+    "height": 1072
+  },
+  "observedGeometry": {
+    "method": "manual visual approximation at full resolution",
+    "toeX": 417,
+    "heelX": 1496,
+    "soleBottomY": 839,
+    "widthFraction": 0.562,
+    "soleHeightFraction": 0.783,
+    "view": "near-strict outer right shoe profile, slight top/front toe surface visible",
+    "comparisonToT01A": "Toe about7px right, heel essentially held, sole about20px lower. Near-registered match-cut candidate, not pixel-perfect morph endpoints."
+  },
+  "qa": {
+    "fr": "Réparation absente, chaussette à deux bandes bordeaux, terrain avec panier à gauche et arche à droite. Géométrie proche de T01A ; semelle environ20px plus bas sur1072px et lacets légèrement redessinés. Usure de caoutchouc encore forte pour1970. Candidat de coupe raccord, pas une paire parfaitement superposable.",
+    "en": "Repair absent, two burgundy sock bands, court with hoop left and arch right. Close to T01A geometry; sole around20px lower on1072px and laces slightly redrawn. Rubber still quite worn for1970. Match-cut candidate, not perfectly registered morph endpoints."
+  }
+}

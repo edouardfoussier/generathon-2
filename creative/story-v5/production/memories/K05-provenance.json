@@ -1,0 +1,15 @@
+{
+  "code": "K05",
+  "id": "28477636-b602-45e7-bfd5-9af24042dc68",
+  "type": "gpt-image-2-5-sunburst",
+  "status": "generated",
+  "createdAt": "2026-09-27T06:40:48.343Z",
+  "updatedAt": "2026-09-27T06:41:35.745Z",
+  "creditsCharged": 8,
+  "providerRequests": [
+    {
+      "provider": "fal",
+      "requestId": "01a0e198-5049-74c0-8224-631362ee6276"
+    }
+  ]
+}

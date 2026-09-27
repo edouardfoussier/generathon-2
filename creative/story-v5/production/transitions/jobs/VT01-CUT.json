@@ -1,0 +1,58 @@
+{
+  "code": "VT01-CUT",
+  "derivedFrom": "VT01",
+  "creditsCharged": 0,
+  "segments": [
+    {
+      "source": "VT01",
+      "scene": "attic",
+      "startFrameInclusive": 0,
+      "endFrameExclusive": 47,
+      "frameCount": 47,
+      "sourceStartSeconds": 0,
+      "sourceEndSecondsExclusive": 1.9583333333333333,
+      "outputStartFrame": 0
+    },
+    {
+      "source": "VT01",
+      "scene": "court",
+      "startFrameInclusive": 70,
+      "endFrameExclusive": 145,
+      "frameCount": 75,
+      "sourceStartSeconds": 2.9166666666666665,
+      "sourceEndSecondsExclusive": 6.041666666666667,
+      "outputStartFrame": 47
+    }
+  ],
+  "filterComplex": "[0:v]split=2[a][b];[a]trim=start_frame=0:end_frame=47,setpts=PTS-STARTPTS[a0];[b]trim=start_frame=70:end_frame=145,setpts=PTS-STARTPTS[b0];[a0][b0]concat=n=2:v=1:a=0,format=yuv420p[v]",
+  "encode": {
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "medium",
+    "fps": 24,
+    "audio": false,
+    "faststart": true
+  },
+  "sourceInspectedFrames": [
+    40,
+    42,
+    44,
+    46,
+    48,
+    50,
+    64,
+    66,
+    68,
+    70,
+    72
+  ],
+  "outputBoundaryInspectedFrames": [
+    45,
+    46,
+    47,
+    48
+  ],
+  "measuredDuration": 5.083333,
+  "frames": 122,
+  "decodeVerified": true
+}

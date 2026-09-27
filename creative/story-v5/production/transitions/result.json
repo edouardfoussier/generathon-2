@@ -1,0 +1,101 @@
+{
+  "assets": [
+    {
+      "code": "T01A",
+      "title": {
+        "fr": "T01A · Appui au présent",
+        "en": "T01A · Present footfall"
+      },
+      "description": {
+        "fr": "La paire héritée au pied de Luna, dans le grenier D06.",
+        "en": "The inherited shoe on Luna’s foot in the D06 attic."
+      },
+      "file": "transitions/images/T01A.png",
+      "group": "transitions",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "a03bade6-2071-43b2-9be5-c101ef3fa78d",
+      "creditsCharged": 8,
+      "prompt": "Create ONE cinematic 16:9 frame, the PRESENT endpoint of an exact shoe-level match cut for our hand-painted Rafa and Luna film. Entire image is opaque GOUACHE and WATERCOLOR on warm paper, visible confident brush planes and restrained pencil contours; the shoe, fabric, room and light belong to the same tactile painted medium. No photograph/filter look, no 3D. REFERENCE1 is CS02G: preserve the classic construction of the inherited BLACK CANVAS HIGH-TOP CONVERSE RIGHT SHOE. Use its CENTER UPPER side elevation, the plain OUTER/LATERAL face with the small cream repair near the forefoot, not the inner ankle with circular badge. REFERENCE2 is D06 attic geometry and warm daylight; use its low angle. REFERENCE3 supplies Luna's PLAIN SOLID OLIVE cargo cloth only; do not copy sheet layout or show face. SINGLE CLOSE-UP: ONE RIGHT SHOE in strict OUTER side profile, toe points screen LEFT, heel screen RIGHT; lens axis perpendicular to shoe, ground-level 70mm perspective, absolutely no three-quarter angle. Shoe spans EXACTLY 45% of total image width, from x=27.5% at toe to x=72.5% at heel; bottom of sole lies flat horizontally at y=75% of image height. Foot is planted with toe and heel both touching floor, not lifting. Camera sees complete shoe unclipped, ankle/cargo cloth continues upward out of frame near x=67%. Plain olive loose cargo hem ends just above shoe collar so silhouette remains recognizable. The sole is narrow flat ivory vulcanized rubber, toe cap ivory, laces off-white and normally tied, silver eyelets. Controlled worn black canvas and mildly aged rubber. One SMALL rectangular cream stitched repair about 2cm wide on OUTER forefoot canvas just above rubber, as reference1; not on ankle or rubber. OUTER ankle is plain black: NO circular star badge, no ventilation holes invented, no lettering. The room is the D06 attic with pale timber floorboards, warm light from LEFT, vague painted open trunk/window/brick hints softly simplified behind. Keep enough visible floor below the shoe (25% of frame). Absolutely one shoe/one lower leg, no second shoe, no hands, no faces, no skateboard, no collage, no comparison panels, no labels, no text, no visual portal. This is a clean restrained transition anchor, ready for an exactly registered second image.",
+      "references": [
+        "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png",
+        "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png"
+      ],
+      "qa": {
+        "fr": "Pointe à gauche, réparation extérieure droite au bon endroit, pas de badge extérieur. Cadre plus serré que demandé : ~57 % de largeur, semelle vers 76 % de hauteur. Bas du cargo masque une partie du col. Image retenue comme candidat de raccord, pas sélection finale.",
+        "en": "Toe left, correct right outer repair and no false exterior badge. Tighter framing than requested: ~57% width, sole near76% height. Cargo hem covers part of collar. Candidate transition anchor, not a final selection."
+      },
+      "reviewStatus": "candidate",
+      "observedGeometry": {
+        "method": "manual visual approximation at full resolution",
+        "toeX": 410,
+        "heelX": 1498,
+        "soleBottomY": 819,
+        "widthFraction": 0.567,
+        "soleHeightFraction": 0.764,
+        "view": "near-strict outer right shoe profile, slight top/front toe surface visible",
+        "registrationPolicy": "Use actual generated geometry as anchor for T01B, not requested 45% width."
+      },
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "teamApproved": false,
+      "motionValidated": false
+    },
+    {
+      "code": "T01B",
+      "title": {
+        "fr": "T01B · Appui dans le souvenir",
+        "en": "T01B · Memory footfall"
+      },
+      "description": {
+        "fr": "Le même profil au pied de Rafa sur le terrain en1970, avant la réparation.",
+        "en": "The matching profile on Rafa’s foot on the1970 court, before the repair."
+      },
+      "file": "transitions/images/T01B.png",
+      "group": "transitions",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "092bdb31-2977-4479-bffa-6b00b9e27024",
+      "creditsCharged": 8,
+      "prompt": "Create the MEMORY endpoint of an exact visual MATCH CUT by editing REFERENCE1, our generated T01A. Preserve its complete composition and pixel-coordinate shoe geometry: same shoe outline, same toe and heel positions, same shoe width, collar placement, angle, lens, tied lace silhouette, flat ground contact, cream sole thickness and y-coordinate. Treat the shoe as a registered anchor, do not recenter, resize, flip or change viewpoint. It remains the SINGLE RIGHT black classic canvas HIGH-TOP CONVERSE in strict OUTER/LATERAL side profile, toe pointing LEFT. Change only TIME, OUTFIT and SET: replace Luna's olive trouser leg with young Rafa's lower calf and white tube sock with TWO burgundy horizontal bands, as REFERENCE4. Sock and cropped calf continue out the top of the image at the identical leg position. Remove the small cream repair entirely because this is 1970 BEFORE the repair; the outer canvas at that location is seamless intact black. Keep every other construction line and shape of the SAME shoe. Make canvas slightly deeper black and rubber less aged but not shiny new. REFERENCE2 shows early pair construction and NO REPAIR; use its CENTER LOWER plain outer elevation, never the inner face with badge. Plain OUTER ankle, absolutely no round star badge. Replace D06 wooden floor with 1970 asphalt at exactly the same foot contact plane. REFERENCE3 supplies the historical Bronx court: chain-link fence, terracotta tenements with fire escapes, left off-white backboard, brick passage arch to right, golden late-afternoon light from LEFT. Background is softly simplified painted masses because shoe dominates, no modern graffiti, no skate ramps, no modern objects. Hand-painted GOUACHE AND WATERCOLOR on warm textured paper throughout, match REFERENCE1's brush planes, restrained pencil contours and medium. Entire frame 16:9, no paper border or panels. No face, no full-body character, no basketball in this close-up, no second shoe, no additional foot, no letters or caption, no portal, no speed smear. Shoe must land on the SAME screen coordinates as reference1; this is one clean still, not a storyboard. Do not preserve present-day cream repair or olive fabric.",
+      "references": [
+        "production/videoassets/a03bade6-2071-43b2-9be5-c101ef3fa78d.png",
+        "production/videoassets/a03d21f1-5421-4fd4-b529-ac46e28f1dcc.png",
+        "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png",
+        "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png"
+      ],
+      "qa": {
+        "fr": "Réparation absente, chaussette à deux bandes bordeaux, terrain avec panier à gauche et arche à droite. Géométrie proche de T01A ; semelle environ20px plus bas sur1072px et lacets légèrement redessinés. Usure de caoutchouc encore forte pour1970. Candidat de coupe raccord, pas une paire parfaitement superposable.",
+        "en": "Repair absent, two burgundy sock bands, court with hoop left and arch right. Close to T01A geometry; sole around20px lower on1072px and laces slightly redrawn. Rubber still quite worn for1970. Match-cut candidate, not perfectly registered morph endpoints."
+      },
+      "reviewStatus": "candidate",
+      "observedGeometry": {
+        "method": "manual visual approximation at full resolution",
+        "toeX": 417,
+        "heelX": 1496,
+        "soleBottomY": 839,
+        "widthFraction": 0.562,
+        "soleHeightFraction": 0.783,
+        "view": "near-strict outer right shoe profile, slight top/front toe surface visible",
+        "comparisonToT01A": "Toe about7px right, heel essentially held, sole about20px lower. Near-registered match-cut candidate, not pixel-perfect morph endpoints."
+      },
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "teamApproved": false,
+      "motionValidated": false
+    }
+  ],
+  "totalCreditsCharged": 16,
+  "generationCount": 2,
+  "paidCorrectionCount": 0,
+  "pairStatus": "near-registered-match-cut-candidate",
+  "summary": {
+    "fr": "Deux images fixes prêtes à comparer ; pas de génération vidéo. Géométrie proche mais pas parfaite : écart vertical de semelle ~20px.",
+    "en": "Two still endpoints ready to compare; no video generated. Close but imperfect registration: sole vertical shift ~20px."
+  }
+}

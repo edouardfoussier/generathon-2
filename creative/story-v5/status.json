@@ -1,17 +1,32 @@
 {
-  "status": "proposal-not-approved",
+  "status": "visual-batch-ready-for-team-review",
   "durationSeconds": 78,
   "narrativeBeats": 16,
   "signatureStart": 74,
   "signatureDuration": 4,
   "timingContiguous": true,
-  "newPaidGenerations": 0,
+  "newPaidGenerations": 14,
   "existingMediaModified": false,
   "userDirection": "Keep cast; iterate story, images and transitions before sound/final edit",
   "unresolved": [
-    "Personal stake for Luna",
-    "Retain or remove AI exchange",
-    "Specific final personal mark and action"
+    "Team choice of visual candidates",
+    "Hesitation legibility in motion",
+    "Continuity of transition details",
+    "Full shot coverage after image selection"
   ],
-  "sourceBrief": "Full challenge text supplied by user in current conversation; percentage structure is advisory."
+  "sourceBrief": "Full challenge text supplied by user in current conversation; percentage structure is advisory.",
+  "newImageGenerations": 12,
+  "newVideoGenerations": 2,
+  "newVideoGenerationsStatus": "complete",
+  "imageCandidates": 9,
+  "imageCreditsCharged": 96,
+  "productionBoard": "production/index.html",
+  "directionApprovedForExploration": true,
+  "finalScriptLocked": false,
+  "localVideoDerivatives": 1,
+  "newVideoCreditsCharged": 504,
+  "totalCreditsSpent": 600,
+  "creditsRemaining": 2432,
+  "newAssetsApproved": false,
+  "mediaReviewSummary": "9 image candidates; 2 native motion diagnostics, 1 corrected local match-cut prototype; face animation still needs style correction"
 }

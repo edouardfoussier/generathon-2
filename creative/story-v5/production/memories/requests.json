@@ -1,0 +1,61 @@
+{
+  "createdAt": "2026-09-27T06:40:35.237Z",
+  "model": "gpt-image-2-5-sunburst",
+  "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+  "assets": [
+    {
+      "code": "K03",
+      "title": {
+        "fr": "Rafa · recommencer après un panier manqué",
+        "en": "Rafa · trying again after a missed shot"
+      },
+      "description": {
+        "fr": "1970 : Rafa récupère le ballon avec un sourire discret. Le souvenir parle du courage d’essayer.",
+        "en": "1970: Rafa retrieves the ball with a small smile. The memory is about the courage to try."
+      },
+      "refs": [
+        "CC02G",
+        "CL02G",
+        "CS01G"
+      ],
+      "prompt": "Create ONE cinematic film keyframe, landscape 16:9, full bleed; no collage, panels, text captions, borders, watermark or labels. Entire image is an expressive HAND-PAINTED GOUACHE AND WATERCOLOR illustration on textured paper, with visible broad opaque brush planes, dry-brush edges, pigment granulation and restrained pencil contours. Crucially the FACES, hands and skin must be visibly painted in exactly the same physical medium as clothing and architecture: cheeks/noses built from planar brush shapes, hair from grouped strokes, expressive eyes with small paint marks, preserved exact referenced facial identity, ordinary natural proportions. No photo-smooth or airbrushed face pasted into a painting; no hyperreal pores, glossy CGI, cel anime, cartoon recasting, glamorous replacement, or orange accessories. Keep identities and costume from named references. References are continuity sheets, not layouts to reproduce. One coherent moment, clear human gesture, warm memory palette, precise anatomically plausible hands and feet. REFERENCE1 fixes Rafa at age16: same youthful warm-brown face, broad rounded nose, short dense black curls, no moustache, slim teenage build, white basketball tank, navy shorts, white tube socks with TWO burgundy stripes. REFERENCE2 fixes Bronx1970 court: chain-link fence, left hoop with old cream backboard, brick apartments and fire escapes, distinctive masonry arch in rear right. REFERENCE3 fixes black Chuck Taylor high-tops, thin cream rubber sole and toe, cream laces, round star ONLY on inner ankles, no repair patch in this era. COMPOSITION: low but natural camera about waist height, 35mm equivalent medium-wide three-quarter full body of ONE Rafa, central-right in frame; whole face and both complete shoes readable, enough environment to recognize left hoop and right arch. After a missed shot, the ball has rolled back; Rafa has just gathered ONE worn orange-brown basketball beside his left knee with both hands and is straightening, knees slightly bent, his weight shifting onto the right shoe. He glances toward the basket with a small forgiving smile, ready to try again, sweat conveyed by tiny painted highlights, not photoreal sweat. A subtle ordinary scuff at outer right shoe forefoot, no patch. Gentle late afternoon sunlight from left, slightly cooler shadows, empty neighborhood court. Ball is securely between hands not levitating; no victory pose, no dunk, no crowd, no scoreboard."
+    },
+    {
+      "code": "K04",
+      "title": {
+        "fr": "Rafa et Elena · oser le premier pas",
+        "en": "Rafa and Elena · daring the first step"
+      },
+      "description": {
+        "fr": "1977 : un léger faux pas devient un sourire partagé. Elena lui tend la main.",
+        "en": "1977: a small misstep becomes a shared smile. Elena offers her hand."
+      },
+      "refs": [
+        "CC03G",
+        "CC06G",
+        "CL03G",
+        "CS01G",
+        "CS03G"
+      ],
+      "prompt": "Create ONE cinematic film keyframe, landscape 16:9, full bleed; no collage, panels, text captions, borders, watermark or labels. Entire image is an expressive HAND-PAINTED GOUACHE AND WATERCOLOR illustration on textured paper, with visible broad opaque brush planes, dry-brush edges, pigment granulation and restrained pencil contours. Crucially the FACES, hands and skin must be visibly painted in exactly the same physical medium as clothing and architecture: cheeks/noses built from planar brush shapes, hair from grouped strokes, expressive eyes with small paint marks, preserved exact referenced facial identity, ordinary natural proportions. No photo-smooth or airbrushed face pasted into a painting; no hyperreal pores, glossy CGI, cel anime, cartoon recasting, glamorous replacement, or orange accessories. Keep identities and costume from named references. References are continuity sheets, not layouts to reproduce. One coherent moment, clear human gesture, warm memory palette, precise anatomically plausible hands and feet. REFERENCE1 uses ONLY LEFT outfit: same Rafa23, clean-shaven, short dense black curls, warm brown face, muted rust long-sleeve open-collar shirt, brown flared trousers and narrow brown belt. REFERENCE2 uses ONLY LEFT outfit: same Elena22, warm medium-brown skin, shoulder-length natural dark curls, violet short-sleeve calf-length V-neck dress. REFERENCE3 fixes salsa1977 hall, windows with wine-red curtains at left, warm honey floor, rear-right little stage with upright piano and two congas, amber bulbs and restrained plum light. REFERENCE4 fixes Rafa black high-top Chuck construction, intact black canvas, cream laces/toes, NO cream repair. REFERENCE5 fixes Elena RED high-top Chucks, no patch/initials. Badges only inner ankle; plain outer sides. COMPOSITION: intimate medium-wide two-shot, full figures from head to complete soles, Rafa left facing three-quarter right, Elena right facing three-quarter left, camera near waist level 40mm equivalent. The awkward first step has just brought the SIDE of his black toe gently close to the SIDE of her red toe, no foot on top of another. He smiles apologetically and looks into her eyes. Elena warmly meets his gaze and extends her RIGHT hand palm relaxed at waist height toward his waiting LEFT hand: a small gap remains between their fingertips, easy to animate into connection. Other hands separate and natural, bodies not embracing, no elaborate ballroom pose. Exactly two people, four distinct legs and four attached shoes, clearly black pair on Rafa, clearly red pair on Elena, all feet visible and on the floor. Painted amber light unites their faces with room, emotionally tender not theatrical. No wedding outfits, veil, baby, other figures, confetti or decorative shoe icons."
+    },
+    {
+      "code": "K05",
+      "title": {
+        "fr": "Rafa et sa fille · transmettre",
+        "en": "Rafa and his daughter · passing it on"
+      },
+      "description": {
+        "fr": "1995 : Rafa aide sa fille à porter la paire héritée. La réparation crème apparaît, avec ses pantoufles brunes bien distinctes.",
+        "en": "1995: Rafa helps his daughter wear the inherited pair. The cream repair appears; his own brown house shoes remain distinct."
+      },
+      "refs": [
+        "CC04G",
+        "CC08G",
+        "CL05G",
+        "CS02G"
+      ],
+      "prompt": "Create ONE cinematic film keyframe, landscape 16:9, full bleed; no collage, panels, text captions, borders, watermark or labels. Entire image is an expressive HAND-PAINTED GOUACHE AND WATERCOLOR illustration on textured paper, with visible broad opaque brush planes, dry-brush edges, pigment granulation and restrained pencil contours. Crucially the FACES, hands and skin must be visibly painted in exactly the same physical medium as clothing and architecture: cheeks/noses built from planar brush shapes, hair from grouped strokes, expressive eyes with small paint marks, preserved exact referenced facial identity, ordinary natural proportions. No photo-smooth or airbrushed face pasted into a painting; no hyperreal pores, glossy CGI, cel anime, cartoon recasting, glamorous replacement, or orange accessories. Keep identities and costume from named references. References are continuity sheets, not layouts to reproduce. One coherent moment, clear human gesture, warm memory palette, precise anatomically plausible hands and feet. REFERENCE1 fixes Rafa41: same warm brown face, dark moustache, short dark curls with very subtle grey, light-blue rolled-sleeve button-up, charcoal trousers, PLAIN DARK BROWN HOUSE LOAFERS on his own feet. REFERENCE2 fixes his16-year-old daughter (Luna's future mother), rounded teenage face and shoulder-length loose dark curls, denim jacket over ivory tee, straight blue jeans rolled at ankles; not Luna, no ponytail. REFERENCE3 use CENTER1995 room: left window, brick rear wall, olive sofa, small CRT rear left, bookcase rear right, two wooden chairs and pale floor. REFERENCE4 fixes the single inherited BLACK high-top Chuck pair: faded canvas, thin cream foxing, cream toe caps/laces, ONE small rectangular cream sewn fabric repair roughly2cm on OUTER/LATERAL RIGHT forefoot canvas just above rubber. No patch on left shoe, no outer round ankle badge, round star inner ankle only. COMPOSITION: waist-height medium-wide intimate two-shot with both faces and complete feet, father on frame RIGHT kneeling on one knee beside daughter's wooden chair at LEFT, no self-advertising pose. The daughter is wearing the inherited pair on BOTH feet, her RIGHT foot slightly extended naturally toward the near foreground so its OUTER forefoot repair is visible. Rafa gently steadies and adjusts the attached tongue of her right shoe with both hands, five fingers anatomically correct, their eye contact and small smiles communicate care without a speech. Her hands rest naturally on her lap and on the chair; she looks gratefully down toward him. His visible own feet are in brown house loafers, never black sneakers. Exactly ONE black Converse pair total, worn by daughter, no spare shoes in hands/box/floor. The repair already exists; do not show sewing, paint, thread or tools. Late afternoon left window light brushes their faces, room and denim with the SAME expressive gouache strokes; deep warm browns and muted blue. Ordinary family gesture, unidealized tender faces, no other people, no floating parts."
+    }
+  ]
+}

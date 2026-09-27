@@ -1,0 +1,15 @@
+{
+  "code": "K03",
+  "id": "b99f2036-c4bb-453d-a54d-1aaece7f95e1",
+  "type": "gpt-image-2-5-sunburst",
+  "status": "generated",
+  "createdAt": "2026-09-27T06:40:45.366Z",
+  "updatedAt": "2026-09-27T06:41:34.311Z",
+  "creditsCharged": 8,
+  "providerRequests": [
+    {
+      "provider": "fal",
+      "requestId": "01a0e198-4459-7d13-8eef-46362bff29d0"
+    }
+  ]
+}

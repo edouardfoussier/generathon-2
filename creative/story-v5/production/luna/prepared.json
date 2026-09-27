@@ -1,0 +1,103 @@
+[
+  {
+    "code": "K01",
+    "title": {
+      "fr": "Luna hésite — le geste suspendu",
+      "en": "Luna hesitates — the unfinished gesture"
+    },
+    "description": {
+      "fr": "Le feutre reste au-dessus de la languette. Elle a envie de laisser sa trace, mais hésite encore.",
+      "en": "The marker hovers over the tongue. She wants to leave her own mark, but hesitates."
+    },
+    "references": [
+      "CC01G",
+      "CL01G",
+      "CS02G"
+    ],
+    "prompt": "A single cinematic widescreen 16:9 hand-painted gouache and watercolor animation keyframe, not a reference sheet or collage. Every surface including faces, hands, hair and skin is made of visible opaque brush planes, broken pigment edges, warm paper grain and restrained ink accents. Preserve the exact facial anatomy, age and proportions in the identity references, not their photographic smoothness. No glossy photo faces, beauty retouching, CGI, anime eyes, adult-looking Luna or thick cartoon outlines. Subtle human expressions, tactile cloth, painterly light. Full bleed image with no border, captions, subtitles or graphic text. Reference CC01G is the ONLY Luna identity and wardrobe: same fictional fifteen-year-old girl, brown eyes, thick dark brows, same nose and lips, dark curly LOW ponytail. Original loose plain charcoal tee, plain solid olive cargo trousers with gradual painted folds, absolutely no camouflage pattern. Reference CS02G defines the one inherited pair of worn BLACK HIGH-TOP Chuck Taylor All Star canvas sneakers, cream laces, thin flat rubber sole, aged ivory toe caps. The small cream stitched rectangular repair belongs ONLY on the RIGHT shoe OUTER forefoot canvas just above the rubber; no outer ankle circle badge. Round star badges only on INNER ankles. R.M. is INSIDE the tongue, never outside. Do not duplicate the inherited pair. Location: exactly the D06 attic from CL01G: warm left-side window, exposed wooden rafters and brick back wall, wooden floor and open vintage wooden trunk on the left. Medium close cinematic 50mm frame from slightly above the lap, camera in front and slightly to Luna's right so we see her face and both hands clearly, three-quarter face occupying upper-right part of image. Luna sits on a small stool beside the open trunk, leaning slightly forward. She holds the RIGHT inherited high-top sneaker horizontally across her olive-clothed lap, toe pointing LEFT. The tongue is gently pulled outward toward camera so its INSIDE warm cream fabric shows the small handwritten dark letters R.M. and a clean empty space to the RIGHT. With her right hand she holds a slim fine black felt marker with a matte ivory barrel: the dark nib hovers about one centimetre ABOVE the blank space, making absolutely no contact. Her left hand supports the shoe naturally with five normal fingers. Her gaze fixes on the old initials, brow slightly drawn and mouth gently closed: a real pause of uncertainty, not crying or smiling. Crucial: the space beside R.M. is completely blank, no L.M. yet. The matching left sneaker rests alone beside the stool, not on her foot. Her socked feet may be cropped below. A worn skateboard with a closed small notebook sits in the quiet background by the doorway; no extra person. Motivated warm light from the window on screen-left, muted grey-green shadows. Make the paused marker, old initials and her hesitant face readable in one composition. It must be an image that can later be repeated exactly with a completed mark.",
+    "group": "luna",
+    "status": "pending",
+    "model": "gpt-image-2-5-sunburst",
+    "aspectRatio": "16:9",
+    "referenceImages": [
+      "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+      "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+      "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+    ],
+    "id": "e1b3fb76-a65f-40d1-a40e-9ccfe3647792",
+    "type": "gpt-image-2-5-sunburst",
+    "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+    "assetId": "e1b3fb76-a65f-40d1-a40e-9ccfe3647792",
+    "submittedAt": "2026-09-27T06:42:21.158Z",
+    "file": "luna/images/K01.png",
+    "reviewStatus": "candidate"
+  },
+  {
+    "code": "K06",
+    "title": {
+      "fr": "Luna comprend — un lien vivant",
+      "en": "Luna understands — a living connection"
+    },
+    "description": {
+      "fr": "Au retour du souvenir, elle choisit de se tourner vers sa mère.",
+      "en": "Returning from the memory, she chooses to reach out to her mother."
+    },
+    "references": [
+      "CC01G",
+      "CC09G",
+      "CL01G",
+      "CS02G"
+    ],
+    "prompt": "A single cinematic widescreen 16:9 hand-painted gouache and watercolor animation keyframe, not a reference sheet or collage. Every surface including faces, hands, hair and skin is made of visible opaque brush planes, broken pigment edges, warm paper grain and restrained ink accents. Preserve the exact facial anatomy, age and proportions in the identity references, not their photographic smoothness. No glossy photo faces, beauty retouching, CGI, anime eyes, adult-looking Luna or thick cartoon outlines. Subtle human expressions, tactile cloth, painterly light. Full bleed image with no border, captions, subtitles or graphic text. Reference CC01G is the ONLY Luna identity and wardrobe: same fictional fifteen-year-old girl, brown eyes, thick dark brows, same nose and lips, dark curly LOW ponytail. Original loose plain charcoal tee, plain solid olive cargo trousers with gradual painted folds, absolutely no camouflage pattern. Reference CS02G defines the one inherited pair of worn BLACK HIGH-TOP Chuck Taylor All Star canvas sneakers, cream laces, thin flat rubber sole, aged ivory toe caps. The small cream stitched rectangular repair belongs ONLY on the RIGHT shoe OUTER forefoot canvas just above the rubber; no outer ankle circle badge. Round star badges only on INNER ankles. R.M. is INSIDE the tongue, never outside. Do not duplicate the inherited pair. CC09G is the exact adult Mom identity, age47, curly shoulder-length dark hair with grey strands, simple navy cardigan and tee, dark trousers and black loafers. Location exactly D06 attic CL01G, window and open trunk on screen-left, brick rear wall and rafters. An intimate cinematic medium two-shot, eye level 50mm, Luna seated on a low stool on screen-left and Mom seated slightly higher on a simple wooden chair at screen-right, both three-quarter faces clearly visible. Luna has just looked up from the shoes at her feet to meet Mom's eyes. Her expression changes toward curiosity and quiet warmth: slightly lifted eyebrows, tiny parted lips as if about to ask a question, not a broad advertising smile. Mom listens with a small tender smile, relaxed open hands on her own lap; she is not giving permission, pointing or speaking a lecture. Both bodies naturally oriented toward each other, their knees and hands anatomically separate. The inherited pair is ONLY on Luna's feet in lower frame, not also in the open empty trunk. The shoes' fine worn rubber and small right outer forefoot patch match source. A single ivory-barrel marker lies on the stool beside Luna, not held yet. Soft window light screen-left, same warm ochre and muted green palette as K01, painterly skin as visible brush planes. No floating memories or Grandpa apparition. This is an active look asking for connection, not a passive recollection.",
+    "group": "luna",
+    "status": "pending",
+    "model": "gpt-image-2-5-sunburst",
+    "aspectRatio": "16:9",
+    "referenceImages": [
+      "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+      "production/videoassets/075fce73-a989-4512-a9ac-a4148f1056e8.png",
+      "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+      "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+    ],
+    "id": "9efd1036-2a3a-4b56-9a01-c85a78d39bea",
+    "type": "gpt-image-2-5-sunburst",
+    "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+    "assetId": "9efd1036-2a3a-4b56-9a01-c85a78d39bea",
+    "submittedAt": "2026-09-27T06:42:21.158Z",
+    "file": "luna/images/K06.png",
+    "reviewStatus": "candidate"
+  },
+  {
+    "code": "K08",
+    "title": {
+      "fr": "La prochaine histoire — Luna repart",
+      "en": "The next story — Luna moves forward"
+    },
+    "description": {
+      "fr": "Une impulsion simple sur sa planche, sur le terrain d’aujourd’hui. La paire recommence à vivre.",
+      "en": "One simple push on her board, on the court today. The pair begins another chapter."
+    },
+    "references": [
+      "CC01G",
+      "CL02G",
+      "CS02G"
+    ],
+    "prompt": "A single cinematic widescreen 16:9 hand-painted gouache and watercolor animation keyframe, not a reference sheet or collage. Every surface including faces, hands, hair and skin is made of visible opaque brush planes, broken pigment edges, warm paper grain and restrained ink accents. Preserve the exact facial anatomy, age and proportions in the identity references, not their photographic smoothness. No glossy photo faces, beauty retouching, CGI, anime eyes, adult-looking Luna or thick cartoon outlines. Subtle human expressions, tactile cloth, painterly light. Full bleed image with no border, captions, subtitles or graphic text. Reference CC01G is the ONLY Luna identity and wardrobe: same fictional fifteen-year-old girl, brown eyes, thick dark brows, same nose and lips, dark curly LOW ponytail. Original loose plain charcoal tee, plain solid olive cargo trousers with gradual painted folds, absolutely no camouflage pattern. Reference CS02G defines the one inherited pair of worn BLACK HIGH-TOP Chuck Taylor All Star canvas sneakers, cream laces, thin flat rubber sole, aged ivory toe caps. The small cream stitched rectangular repair belongs ONLY on the RIGHT shoe OUTER forefoot canvas just above the rubber; no outer ankle circle badge. Round star badges only on INNER ankles. R.M. is INSIDE the tongue, never outside. Do not duplicate the inherited pair. Use CL02G as the SAME neighborhood basketball court architecture, fence, brick apartments, fire escapes and hoop, now in2026 with slightly more weathered court paint and repaired chain-link fence; no branded billboards, no new generic skatepark, no ramps. Wide full-body low-to-medium camera height 35mm street-level view, Luna occupies left-central60percent, generous negative air ahead at screen-right. She has just begun a modest skateboard push, moving to the RIGHT of screen. Her LEFT foot rests lengthwise on the center of the ordinary scuffed wooden skateboard deck over four wheels; her RIGHT foot is on the asphalt behind it applying one gentle push, knee bent naturally, right toe still touching the ground. Board touches the ground with its wheels. Plausible balance: upper body relaxed and slightly leaning forward, arms loosely balancing, no jump, no stunt, no dramatic trick. The small cream repair is visible on the OUTER RIGHT sneaker forefoot; both shoes are black high-top Chucks, not platform or low-top. No outer circular badge. Original same teenage Luna face in three-quarter view, looking ahead with a small determined open expression, same low curly ponytail and solid olive cargos. Late warm sun from screen-left, soft amber edge on her hair, painted black-canvas folds, quiet sense of forward possibility. No text, no overlaid logo, no enlarged shoe floating in foreground, no extra person or extra skateboard.",
+    "group": "luna",
+    "status": "pending",
+    "model": "gpt-image-2-5-sunburst",
+    "aspectRatio": "16:9",
+    "referenceImages": [
+      "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+      "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png",
+      "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+    ],
+    "id": "e87581d5-6a9b-4989-9723-132f69a2c768",
+    "type": "gpt-image-2-5-sunburst",
+    "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+    "assetId": "e87581d5-6a9b-4989-9723-132f69a2c768",
+    "submittedAt": "2026-09-27T06:42:21.158Z",
+    "file": "luna/images/K08.png",
+    "reviewStatus": "candidate"
+  }
+]

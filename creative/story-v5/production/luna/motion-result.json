@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "code": "VK01",
+      "kind": "video",
+      "title": {
+        "fr": "Test animé — l’hésitation de Luna",
+        "en": "Motion test — Luna’s hesitation"
+      },
+      "description": {
+        "fr": "Un seul geste : le feutre s’approche, s’arrête, puis recule. Aucun son ni montage final.",
+        "en": "One gesture: the marker approaches, stops, then retreats. No sound or final edit."
+      },
+      "file": "luna/videos/K01-hesitation.mp4",
+      "poster": "luna/images/K01.png",
+      "group": "luna",
+      "model": "seedance_25",
+      "duration": 6,
+      "referenceImages": [
+        "production/videoassets/e1b3fb76-a65f-40d1-a40e-9ccfe3647792.png"
+      ],
+      "references": [
+        "K01 first pass — before hand-pose refinement"
+      ],
+      "reviewStatus": "needs-correction",
+      "prompt": "A quiet SIX SECOND silent hand-painted animation shot, landscape16:9. Use the supplied painted frame as the exact starting composition and identity, no titles. SAME fictional15-year-old Luna, low curly ponytail, charcoal tee, olive cargos, D06 attic and window atleft, same mature physical black RIGHT high-top Converse in her lap, small cream repair outerforefoot. Preserve all facial anatomy and youthful proportions. Skin, lips and eyes MUST remain painted with visible small gouache planes and brush edges throughout movement, same medium as painted hair, clothes and room. No photoreal smooth face pasted onto painting, no beauty retouching, no new actor, no glossy3D. Locked50mm camera; no push-in or reframing. 0.0–1.5s: Luna looks down at the old R.M. inside the tongue; her right hand holding the ivory-barrel fine black marker approaches the empty fabric to the RIGHT of those letters slowly. 1.5–3.5s: stop the marker clearly at least2cm ABOVE the fabric, a visible air gap. Her brow tightens slightly and her eyes linger on R.M.; she hesitates. 3.5–6.0s: she draws the marker hand back several centimetres toward her chest without touching the shoe, with a tiny exhale visible in her shoulders. Her left hand and shoe remain stable. Important: NOTHING is written. The exact original R.M. remains unchanged, no L.M. appears, no inkline emerges. Shoe never rotates, grows, becomes leftfoot, or changesmaterial. Matching leftshoe remains on floor atbackgroundright. Exactlytwohands andfingers, noextra objects. Subtle natural blinking once only, restrained emotion. At finalframe marker is visibly awayfromshoe and Luna's unresolved hesitation remains. No music, dialogue, voiceover, or sound.",
+      "assetId": "8ce37f37-e7e4-4f91-b3da-1e17ae7482df",
+      "status": "generated",
+      "arcadsPath": "production/videoassets/8ce37f37-e7e4-4f91-b3da-1e17ae7482df.mp4",
+      "creditsCharged": 252,
+      "teamApproved": false,
+      "durationSeconds": 6.041667,
+      "dimensions": {
+        "width": 1280,
+        "height": 720
+      },
+      "fps": 24,
+      "frames": 145,
+      "hasAudio": false,
+      "qa": {
+        "fr": "Le froncement des sourcils et le retrait du feutre se lisent, R.M. reste seul. Mais Seedance lisse à nouveau le visage : la matière de peau devient plus photographique que le décor. Test de jeu utile, rendu pictural à reprendre avant la production des visages. Source : première K01, avant correction de la main.",
+        "en": "The brow tension and marker retreat read, and R.M. remains alone. However, Seedance smooths the face again: skin becomes more photographic than the setting. Useful acting test; painted surface needs work before producing face scenes. Source: first K01, before the hand refinement."
+      },
+      "visualReview": {
+        "method": "12 sampled frames plus full-resolution middle and final frame; complete decode",
+        "contactSheet": "luna/qa/VK01-contactsheet.jpg",
+        "passedTechnical": true,
+        "passedPaintStyle": false
+      },
+      "nextPromptDirection": "For the next separate test, start from refined K01. Specify actual frame-by-frame gouache animation and preserved facial pigment shapes, small pose change; compare one alternative image-to-video model before expanding the full film."
+    }
+  ],
+  "totalCreditsCharged": 252
+}

@@ -1,0 +1,25 @@
+{
+  "code": "K07",
+  "title": {
+    "fr": "Luna ose — sa marque à côté de celle de Rafa",
+    "en": "Luna dares — her mark beside Rafa’s"
+  },
+  "description": {
+    "fr": "Le même geste revient. Cette fois, L.M. rejoint R.M. et Luna s’approprie la paire.",
+    "en": "The same gesture returns. This time L.M. joins R.M., and Luna makes the pair her own."
+  },
+  "group": "luna",
+  "status": "pending",
+  "model": "gpt-image-2-5-sunburst",
+  "references": [
+    "K01"
+  ],
+  "referenceImages": [
+    "production/videoassets/e1b3fb76-a65f-40d1-a40e-9ccfe3647792.png"
+  ],
+  "file": "luna/images/K07.png",
+  "reviewStatus": "candidate",
+  "prompt": "Make a tightly registered AFTER-image of the supplied single painted frame. This is the SAME camera position, composition, fictional fifteen-year-old Luna identity, low curly ponytail, teenage face, charcoal plain tee, solid olive cargos, sitting posture, D06 attic, left window light, trunk, background skateboard, notebook, exact worn high-top black RIGHT Chuck and left partner on floor. Preserve the ENTIRE image geometry and hand-painted gouache brush texture, including visibly painted facial skin planes. Do not recast, age up, smooth or beautify her face. Modify ONLY these connected story details: inside the open cream tongue, preserve the existing small dark handwritten R.M. exactly and add the new handwritten L.M. to its RIGHT, separated by a little clear fabric so BOTH sets are legible and neither overwritten. The new inscription is ordinary dark fine marker ink, not a decorative logo. Luna has just finished her own initials: her right hand holds the same matte ivory-barrel black felt marker with nib just lifted from the final full stop of L.M. on the RIGHT. Her left hand supports the same heel in exactly the same place. Soften her previously hesitant expression into quiet private satisfaction: tiny closed-mouth smile and relaxed eyebrows, gaze still at her own mark, no broad grin and no looking at the camera. Keep the cream repair on the right OUTER FOREFOOT at exactly the same place, no new patch or outer circular badge. Same two shoes, no additional shoes. No movement of the camera, no crop, no added person, no new text anywhere except L.M. A coherent painted image, not a pasted photograph face. The contrast with the before frame must read as a decision completed, not an object magically transforming.",
+  "assetId": "dbcd71cf-5358-468a-9278-857cdada3407",
+  "submittedAt": "2026-09-27T06:44:51.453Z"
+}

@@ -1,5 +1,7 @@
 # Rafa & Luna — La prochaine histoire
 
+> **Mise à jour — exploration autorisée :** la première série d’images et d’essais de raccord est disponible dans [l’atelier visuel v5](production/README.md). Le texte ci-dessous conserve le brouillon proposé à l’origine ; les nouvelles images restent à sélectionner avec l’équipe.
+
 **V5.0 proposée · 27 septembre 2026 · travail sur le récit, les images et les transitions.**
 
 Cette proposition répond au brief de submission transmis par l’équipe. Elle ne remplace ni un choix artistique validé ni les films existants. Les personnages restent Luna, Rafa, Elena et la mère de Luna. Aucun nouveau casting, aucune génération payante, aucune modification du son ou du montage.

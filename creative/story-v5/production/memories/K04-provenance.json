@@ -1,0 +1,15 @@
+{
+  "code": "K04",
+  "id": "249e459b-45e4-4936-9882-854f77e27631",
+  "type": "gpt-image-2-5-sunburst",
+  "status": "generated",
+  "createdAt": "2026-09-27T06:40:41.009Z",
+  "updatedAt": "2026-09-27T06:41:29.997Z",
+  "creditsCharged": 8,
+  "providerRequests": [
+    {
+      "provider": "fal",
+      "requestId": "01a0e198-36b3-7400-8561-4ea068c3006e"
+    }
+  ]
+}

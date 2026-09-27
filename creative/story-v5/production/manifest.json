@@ -1,0 +1,609 @@
+{
+  "version": 1,
+  "title": "Rafa & Luna — v5 image workshop",
+  "updatedAt": "2026-09-27T06:58:38.705262+00:00",
+  "status": "review-ready",
+  "directionApprovedForExploration": true,
+  "newAssetsApproved": false,
+  "signature": "CONVERSE / MADE BY YOU",
+  "creditsBefore": 3032,
+  "soundAndFinalEditDeferred": true,
+  "existingMediaModified": false,
+  "assets": [
+    {
+      "code": "K01",
+      "title": {
+        "fr": "Luna hésite — le geste suspendu",
+        "en": "Luna hesitates — the unfinished gesture"
+      },
+      "description": {
+        "fr": "Le feutre reste au-dessus de la languette. Elle a envie de laisser sa trace, mais hésite encore.",
+        "en": "The marker hovers over the tongue. She wants to leave her own mark, but hesitates."
+      },
+      "references": [
+        "K01 first pass"
+      ],
+      "prompt": "Targeted continuity edit of this supplied SINGLE painted Luna frame. Keep exact camera, framing, fifteen-year-old Luna identity/age/low curly ponytail, shirt, trousers, pose of supporting left hand, shoe, trunk, lighting and every background object fixed. DO NOT recast or smooth her painted face. Change her RIGHT marker hand and forearm ONLY into an unmistakably interrupted hesitant gesture: LIFT the existing ivory-barrel felt marker and its right hand STRAIGHT UP by a visible 8 centimetres (roughly one-third of the shoe ankle height). The tip must be visibly separated from ALL shoe fabric by a LARGE clear gap and point diagonally DOWN toward the BLANK space to the RIGHT of R.M. It is not writing. Her right elbow stays natural close to her body. Preserve just R.M. inside the cream tongue exactly; NO new letters or ink. Slightly tighten her lips and raise the inner eyebrows for uncertainty while eyes remain focused on the old initials. She is about to pull away, not concentrating on drawing. Keep the full black RIGHT high-top silhouette and small cream repair exactly on outer forefoot. Correct the two stray little ventilation eyelets in the plain outer side behind the repair: remove those two side holes by restoring black canvas; keep every lace eyelet and lace unchanged. Outer ankle remains plain with no circular badge. Same consistent handpainted gouache brush planes on face/hands and warm paper grain. Five plausible fingers each hand. No extra person, shoe, limb, props, text, camera motion or crop.",
+      "group": "luna",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "aspectRatio": "16:9",
+      "referenceImages": [
+        "production/videoassets/e1b3fb76-a65f-40d1-a40e-9ccfe3647792.png"
+      ],
+      "id": "e1b3fb76-a65f-40d1-a40e-9ccfe3647792",
+      "type": "gpt-image-2-5-sunburst",
+      "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+      "assetId": "19f0b2fa-8253-4c21-b780-5fa51d3fbe30",
+      "submittedAt": "2026-09-27T06:42:21.158Z",
+      "file": "luna/images/K01-refined.png",
+      "reviewStatus": "candidate",
+      "creditsCharged": 8,
+      "arcadsPath": "production/videoassets/19f0b2fa-8253-4c21-b780-5fa51d3fbe30.png",
+      "kind": "image",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "qa": {
+        "fr": "Correction : le feutre est nettement séparé de la languette, R.M. intact et espace voisin vide. Visage, coiffure et cadre conservés ; les œillets latéraux erronés ont disparu. L’arrêt puis le retrait du geste restent à valider en mouvement.",
+        "en": "Refined: marker clearly separated from the tongue, R.M. intact and adjacent space blank. Face, hair and framing preserved; stray side eyelets removed. Validate pause and retreat in motion."
+      },
+      "teamApproved": false,
+      "priorVersions": [
+        {
+          "file": "luna/images/K01.png",
+          "assetId": "e1b3fb76-a65f-40d1-a40e-9ccfe3647792",
+          "creditsCharged": 8,
+          "note": "First pass kept for comparison."
+        }
+      ],
+      "revision": 2
+    },
+    {
+      "code": "T01A",
+      "title": {
+        "fr": "T01A · Appui au présent",
+        "en": "T01A · Present footfall"
+      },
+      "description": {
+        "fr": "La paire héritée au pied de Luna, dans le grenier D06.",
+        "en": "The inherited shoe on Luna’s foot in the D06 attic."
+      },
+      "file": "transitions/images/T01A.png",
+      "group": "transitions",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "a03bade6-2071-43b2-9be5-c101ef3fa78d",
+      "creditsCharged": 8,
+      "prompt": "Create ONE cinematic 16:9 frame, the PRESENT endpoint of an exact shoe-level match cut for our hand-painted Rafa and Luna film. Entire image is opaque GOUACHE and WATERCOLOR on warm paper, visible confident brush planes and restrained pencil contours; the shoe, fabric, room and light belong to the same tactile painted medium. No photograph/filter look, no 3D. REFERENCE1 is CS02G: preserve the classic construction of the inherited BLACK CANVAS HIGH-TOP CONVERSE RIGHT SHOE. Use its CENTER UPPER side elevation, the plain OUTER/LATERAL face with the small cream repair near the forefoot, not the inner ankle with circular badge. REFERENCE2 is D06 attic geometry and warm daylight; use its low angle. REFERENCE3 supplies Luna's PLAIN SOLID OLIVE cargo cloth only; do not copy sheet layout or show face. SINGLE CLOSE-UP: ONE RIGHT SHOE in strict OUTER side profile, toe points screen LEFT, heel screen RIGHT; lens axis perpendicular to shoe, ground-level 70mm perspective, absolutely no three-quarter angle. Shoe spans EXACTLY 45% of total image width, from x=27.5% at toe to x=72.5% at heel; bottom of sole lies flat horizontally at y=75% of image height. Foot is planted with toe and heel both touching floor, not lifting. Camera sees complete shoe unclipped, ankle/cargo cloth continues upward out of frame near x=67%. Plain olive loose cargo hem ends just above shoe collar so silhouette remains recognizable. The sole is narrow flat ivory vulcanized rubber, toe cap ivory, laces off-white and normally tied, silver eyelets. Controlled worn black canvas and mildly aged rubber. One SMALL rectangular cream stitched repair about 2cm wide on OUTER forefoot canvas just above rubber, as reference1; not on ankle or rubber. OUTER ankle is plain black: NO circular star badge, no ventilation holes invented, no lettering. The room is the D06 attic with pale timber floorboards, warm light from LEFT, vague painted open trunk/window/brick hints softly simplified behind. Keep enough visible floor below the shoe (25% of frame). Absolutely one shoe/one lower leg, no second shoe, no hands, no faces, no skateboard, no collage, no comparison panels, no labels, no text, no visual portal. This is a clean restrained transition anchor, ready for an exactly registered second image.",
+      "references": [
+        "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png",
+        "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png"
+      ],
+      "qa": {
+        "fr": "Pointe à gauche, réparation extérieure droite au bon endroit, pas de badge extérieur. Cadre plus serré que demandé : ~57 % de largeur, semelle vers 76 % de hauteur. Bas du cargo masque une partie du col. Image retenue comme candidat de raccord, pas sélection finale.",
+        "en": "Toe left, correct right outer repair and no false exterior badge. Tighter framing than requested: ~57% width, sole near76% height. Cargo hem covers part of collar. Candidate transition anchor, not a final selection."
+      },
+      "reviewStatus": "candidate",
+      "observedGeometry": {
+        "method": "manual visual approximation at full resolution",
+        "toeX": 410,
+        "heelX": 1498,
+        "soleBottomY": 819,
+        "widthFraction": 0.567,
+        "soleHeightFraction": 0.764,
+        "view": "near-strict outer right shoe profile, slight top/front toe surface visible",
+        "registrationPolicy": "Use actual generated geometry as anchor for T01B, not requested 45% width."
+      },
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "teamApproved": false,
+      "motionValidated": false,
+      "kind": "image"
+    },
+    {
+      "code": "K03",
+      "title": {
+        "fr": "Rafa · recommencer après un panier manqué",
+        "en": "Rafa · trying again after a missed shot"
+      },
+      "description": {
+        "fr": "1970 : Rafa récupère le ballon avec un sourire discret. Le souvenir parle du courage d’essayer.",
+        "en": "1970: Rafa retrieves the ball with a small smile. The memory is about the courage to try."
+      },
+      "file": "memories/K03.png",
+      "group": "memories",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "b99f2036-c4bb-453d-a54d-1aaece7f95e1",
+      "arcadsPath": "production/videoassets/b99f2036-c4bb-453d-a54d-1aaece7f95e1.png",
+      "creditsCharged": 8,
+      "prompt": "Create ONE cinematic film keyframe, landscape 16:9, full bleed; no collage, panels, text captions, borders, watermark or labels. Entire image is an expressive HAND-PAINTED GOUACHE AND WATERCOLOR illustration on textured paper, with visible broad opaque brush planes, dry-brush edges, pigment granulation and restrained pencil contours. Crucially the FACES, hands and skin must be visibly painted in exactly the same physical medium as clothing and architecture: cheeks/noses built from planar brush shapes, hair from grouped strokes, expressive eyes with small paint marks, preserved exact referenced facial identity, ordinary natural proportions. No photo-smooth or airbrushed face pasted into a painting; no hyperreal pores, glossy CGI, cel anime, cartoon recasting, glamorous replacement, or orange accessories. Keep identities and costume from named references. References are continuity sheets, not layouts to reproduce. One coherent moment, clear human gesture, warm memory palette, precise anatomically plausible hands and feet. REFERENCE1 fixes Rafa at age16: same youthful warm-brown face, broad rounded nose, short dense black curls, no moustache, slim teenage build, white basketball tank, navy shorts, white tube socks with TWO burgundy stripes. REFERENCE2 fixes Bronx1970 court: chain-link fence, left hoop with old cream backboard, brick apartments and fire escapes, distinctive masonry arch in rear right. REFERENCE3 fixes black Chuck Taylor high-tops, thin cream rubber sole and toe, cream laces, round star ONLY on inner ankles, no repair patch in this era. COMPOSITION: low but natural camera about waist height, 35mm equivalent medium-wide three-quarter full body of ONE Rafa, central-right in frame; whole face and both complete shoes readable, enough environment to recognize left hoop and right arch. After a missed shot, the ball has rolled back; Rafa has just gathered ONE worn orange-brown basketball beside his left knee with both hands and is straightening, knees slightly bent, his weight shifting onto the right shoe. He glances toward the basket with a small forgiving smile, ready to try again, sweat conveyed by tiny painted highlights, not photoreal sweat. A subtle ordinary scuff at outer right shoe forefoot, no patch. Gentle late afternoon sunlight from left, slightly cooler shadows, empty neighborhood court. Ball is securely between hands not levitating; no victory pose, no dunk, no crowd, no scoreboard.",
+      "references": [
+        "CC02G",
+        "CL02G",
+        "CS01G"
+      ],
+      "qa": {
+        "fr": "Rafa et sa tenue de 1970 sont reconnaissables ; visage traité en gouache, ballon tenu, panier gauche et arche droite conservés. Deux chaussures noires, sans réparation ; badge visible sur la face intérieure du pied gauche. L’image fixe montre la reprise d’appui ; le panier manqué devra être raconté par le plan précédent.",
+        "en": "Recognizable Rafa and 1970 outfit; gouache-rendered face, held ball, left hoop and right arch preserved. Two black shoes without repair; visible badge on left inner ankle. The still shows resetting his stance; the missed shot needs the preceding shot."
+      },
+      "reviewStatus": "candidate",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "visualReview": {
+        "inspected": true,
+        "motionValidated": false,
+        "method": "Full local output visually inspected alongside source references"
+      },
+      "kind": "image",
+      "teamApproved": false
+    },
+    {
+      "code": "K04",
+      "title": {
+        "fr": "Rafa et Elena · oser le premier pas",
+        "en": "Rafa and Elena · daring the first step"
+      },
+      "description": {
+        "fr": "1977 : un léger faux pas devient un sourire partagé. Elena lui tend la main.",
+        "en": "1977: a small misstep becomes a shared smile. Elena offers her hand."
+      },
+      "file": "memories/K04.png",
+      "group": "memories",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "249e459b-45e4-4936-9882-854f77e27631",
+      "arcadsPath": "production/videoassets/249e459b-45e4-4936-9882-854f77e27631.png",
+      "creditsCharged": 8,
+      "prompt": "Create ONE cinematic film keyframe, landscape 16:9, full bleed; no collage, panels, text captions, borders, watermark or labels. Entire image is an expressive HAND-PAINTED GOUACHE AND WATERCOLOR illustration on textured paper, with visible broad opaque brush planes, dry-brush edges, pigment granulation and restrained pencil contours. Crucially the FACES, hands and skin must be visibly painted in exactly the same physical medium as clothing and architecture: cheeks/noses built from planar brush shapes, hair from grouped strokes, expressive eyes with small paint marks, preserved exact referenced facial identity, ordinary natural proportions. No photo-smooth or airbrushed face pasted into a painting; no hyperreal pores, glossy CGI, cel anime, cartoon recasting, glamorous replacement, or orange accessories. Keep identities and costume from named references. References are continuity sheets, not layouts to reproduce. One coherent moment, clear human gesture, warm memory palette, precise anatomically plausible hands and feet. REFERENCE1 uses ONLY LEFT outfit: same Rafa23, clean-shaven, short dense black curls, warm brown face, muted rust long-sleeve open-collar shirt, brown flared trousers and narrow brown belt. REFERENCE2 uses ONLY LEFT outfit: same Elena22, warm medium-brown skin, shoulder-length natural dark curls, violet short-sleeve calf-length V-neck dress. REFERENCE3 fixes salsa1977 hall, windows with wine-red curtains at left, warm honey floor, rear-right little stage with upright piano and two congas, amber bulbs and restrained plum light. REFERENCE4 fixes Rafa black high-top Chuck construction, intact black canvas, cream laces/toes, NO cream repair. REFERENCE5 fixes Elena RED high-top Chucks, no patch/initials. Badges only inner ankle; plain outer sides. COMPOSITION: intimate medium-wide two-shot, full figures from head to complete soles, Rafa left facing three-quarter right, Elena right facing three-quarter left, camera near waist level 40mm equivalent. The awkward first step has just brought the SIDE of his black toe gently close to the SIDE of her red toe, no foot on top of another. He smiles apologetically and looks into her eyes. Elena warmly meets his gaze and extends her RIGHT hand palm relaxed at waist height toward his waiting LEFT hand: a small gap remains between their fingertips, easy to animate into connection. Other hands separate and natural, bodies not embracing, no elaborate ballroom pose. Exactly two people, four distinct legs and four attached shoes, clearly black pair on Rafa, clearly red pair on Elena, all feet visible and on the floor. Painted amber light unites their faces with room, emotionally tender not theatrical. No wedding outfits, veil, baby, other figures, confetti or decorative shoe icons.",
+      "references": [
+        "CC03G",
+        "CC06G",
+        "CL03G",
+        "CS01G",
+        "CS03G"
+      ],
+      "qa": {
+        "fr": "Rafa et Elena se regardent ; main offerte, deux paires distinctes et contact discret des pointes. Tenues et salle cohérentes, visages intégrés à la peinture. Les cols de Rafa sont partiellement masqués par le pantalon ; utiliser la fiche produit pour les inserts. La maladresse exacte reste à préciser dans le mouvement.",
+        "en": "Rafa and Elena make eye contact; offered hand, two distinct shoe pairs and slight toe contact. Consistent costumes and hall, faces integrated into paint. Rafa's collars are partly covered by trousers; use product master for inserts. Exact awkwardness remains a motion beat."
+      },
+      "reviewStatus": "candidate",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "visualReview": {
+        "inspected": true,
+        "motionValidated": false,
+        "method": "Full local output visually inspected alongside source references"
+      },
+      "kind": "image",
+      "teamApproved": false
+    },
+    {
+      "code": "K05",
+      "title": {
+        "fr": "Rafa et sa fille · transmettre",
+        "en": "Rafa and his daughter · passing it on"
+      },
+      "description": {
+        "fr": "1995 : Rafa aide sa fille à porter la paire héritée. La réparation crème apparaît, avec ses pantoufles brunes bien distinctes.",
+        "en": "1995: Rafa helps his daughter wear the inherited pair. The cream repair appears; his own brown house shoes remain distinct."
+      },
+      "file": "memories/K05-corrected.png",
+      "group": "memories",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "0f5bc27a-af30-4642-b7ec-4a4549e7717f",
+      "arcadsPath": "production/videoassets/0f5bc27a-af30-4642-b7ec-4a4549e7717f.png",
+      "creditsCharged": 16,
+      "prompt": "Make ONE targeted footwear-continuity correction to REFERENCE1, preserving all faces, identities, clothing, hands, composition, lighting, paint texture, room and family emotion. REFERENCE2 is the exact shoe construction and repair master only, do not copy its collage. In REFERENCE1 the daughter is seated on the LEFT and faces three-quarter toward the father on the RIGHT. Her anatomical RIGHT leg and RIGHT shoe are on the VIEWER'S LEFT (shoe nearer the chair, around 36% of frame width). Her anatomical LEFT leg/shoe is the shoe extended toward the father on the VIEWER'S RIGHT (around47% of frame width). The present cream repair on the viewer-right / anatomical LEFT shoe is wrong. REMOVE that cream square completely and restore uninterrupted black canvas at that location. Add the ONE tiny cream rectangular stitched repair ONLY to the OUTER/LATERAL forefoot canvas of her anatomical RIGHT shoe, the shoe on VIEWER'S LEFT nearer the chair. The correct patch belongs just above rubber at the far-left outer edge of that shoe near its toe, NOT on tongue, ankle or rubber; since that shoe is seen mostly from the front the patch must appear foreshortened and may be partly hidden around its outer edge. Do not turn or move the shoe to show it; do not put a cream mark on the front/top center of the toe, do not add any patch on the viewer-right shoe. One repaired RIGHT shoe, one plain LEFT shoe. Keep the father's brown house loafers unchanged. Do not change pose or number of shoes. Output the same single full 16:9 image, no text.",
+      "references": [
+        "CC04G",
+        "CC08G",
+        "CL05G",
+        "CS02G"
+      ],
+      "qa": {
+        "fr": "Correction contrôlée : réparation supprimée du pied gauche et replacée en raccourci sur le côté extérieur du pied droit, à gauche pour le spectateur. Visages, geste, décor et mocassins bruns préservés. Rafa ajuste ici la chaussure gauche ; le futur insert de réparation doit repartir du pied droit, sans raccord ambigu. Une seule paire noire, pas de chaussure supplémentaire.",
+        "en": "Correction checked: repair removed from left foot and placed foreshortened on the outer right shoe, viewer-left. Faces, gesture, setting and brown house loafers preserved. Rafa adjusts the left shoe here; the later repair insert must establish the right foot, avoiding an ambiguous match. One black pair, no spare shoes."
+      },
+      "reviewStatus": "candidate",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "visualReview": {
+        "inspected": true,
+        "motionValidated": false,
+        "method": "Full local output visually inspected alongside source references"
+      },
+      "attempts": [
+        {
+          "role": "initial",
+          "assetId": "28477636-b602-45e7-bfd5-9af24042dc68",
+          "file": "memories/K05.png",
+          "creditsCharged": 8,
+          "note": "Wrong-side repair preserved as outtake."
+        },
+        {
+          "role": "targeted-correction",
+          "assetId": "0f5bc27a-af30-4642-b7ec-4a4549e7717f",
+          "file": "memories/K05-corrected.png",
+          "creditsCharged": 8,
+          "prompt": "Make ONE targeted footwear-continuity correction to REFERENCE1, preserving all faces, identities, clothing, hands, composition, lighting, paint texture, room and family emotion. REFERENCE2 is the exact shoe construction and repair master only, do not copy its collage. In REFERENCE1 the daughter is seated on the LEFT and faces three-quarter toward the father on the RIGHT. Her anatomical RIGHT leg and RIGHT shoe are on the VIEWER'S LEFT (shoe nearer the chair, around 36% of frame width). Her anatomical LEFT leg/shoe is the shoe extended toward the father on the VIEWER'S RIGHT (around47% of frame width). The present cream repair on the viewer-right / anatomical LEFT shoe is wrong. REMOVE that cream square completely and restore uninterrupted black canvas at that location. Add the ONE tiny cream rectangular stitched repair ONLY to the OUTER/LATERAL forefoot canvas of her anatomical RIGHT shoe, the shoe on VIEWER'S LEFT nearer the chair. The correct patch belongs just above rubber at the far-left outer edge of that shoe near its toe, NOT on tongue, ankle or rubber; since that shoe is seen mostly from the front the patch must appear foreshortened and may be partly hidden around its outer edge. Do not turn or move the shoe to show it; do not put a cream mark on the front/top center of the toe, do not add any patch on the viewer-right shoe. One repaired RIGHT shoe, one plain LEFT shoe. Keep the father's brown house loafers unchanged. Do not change pose or number of shoes. Output the same single full 16:9 image, no text.",
+          "references": [
+            "production/videoassets/28477636-b602-45e7-bfd5-9af24042dc68.png",
+            "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+          ]
+        }
+      ],
+      "totalCreditsCharged": 16,
+      "initialPrompt": "Create ONE cinematic film keyframe, landscape 16:9, full bleed; no collage, panels, text captions, borders, watermark or labels. Entire image is an expressive HAND-PAINTED GOUACHE AND WATERCOLOR illustration on textured paper, with visible broad opaque brush planes, dry-brush edges, pigment granulation and restrained pencil contours. Crucially the FACES, hands and skin must be visibly painted in exactly the same physical medium as clothing and architecture: cheeks/noses built from planar brush shapes, hair from grouped strokes, expressive eyes with small paint marks, preserved exact referenced facial identity, ordinary natural proportions. No photo-smooth or airbrushed face pasted into a painting; no hyperreal pores, glossy CGI, cel anime, cartoon recasting, glamorous replacement, or orange accessories. Keep identities and costume from named references. References are continuity sheets, not layouts to reproduce. One coherent moment, clear human gesture, warm memory palette, precise anatomically plausible hands and feet. REFERENCE1 fixes Rafa41: same warm brown face, dark moustache, short dark curls with very subtle grey, light-blue rolled-sleeve button-up, charcoal trousers, PLAIN DARK BROWN HOUSE LOAFERS on his own feet. REFERENCE2 fixes his16-year-old daughter (Luna's future mother), rounded teenage face and shoulder-length loose dark curls, denim jacket over ivory tee, straight blue jeans rolled at ankles; not Luna, no ponytail. REFERENCE3 use CENTER1995 room: left window, brick rear wall, olive sofa, small CRT rear left, bookcase rear right, two wooden chairs and pale floor. REFERENCE4 fixes the single inherited BLACK high-top Chuck pair: faded canvas, thin cream foxing, cream toe caps/laces, ONE small rectangular cream sewn fabric repair roughly2cm on OUTER/LATERAL RIGHT forefoot canvas just above rubber. No patch on left shoe, no outer round ankle badge, round star inner ankle only. COMPOSITION: waist-height medium-wide intimate two-shot with both faces and complete feet, father on frame RIGHT kneeling on one knee beside daughter's wooden chair at LEFT, no self-advertising pose. The daughter is wearing the inherited pair on BOTH feet, her RIGHT foot slightly extended naturally toward the near foreground so its OUTER forefoot repair is visible. Rafa gently steadies and adjusts the attached tongue of her right shoe with both hands, five fingers anatomically correct, their eye contact and small smiles communicate care without a speech. Her hands rest naturally on her lap and on the chair; she looks gratefully down toward him. His visible own feet are in brown house loafers, never black sneakers. Exactly ONE black Converse pair total, worn by daughter, no spare shoes in hands/box/floor. The repair already exists; do not show sewing, paint, thread or tools. Late afternoon left window light brushes their faces, room and denim with the SAME expressive gouache strokes; deep warm browns and muted blue. Ordinary family gesture, unidealized tender faces, no other people, no floating parts.",
+      "kind": "image",
+      "teamApproved": false
+    },
+    {
+      "code": "K06",
+      "title": {
+        "fr": "Luna comprend — un lien vivant",
+        "en": "Luna understands — a living connection"
+      },
+      "description": {
+        "fr": "Au retour du souvenir, elle choisit de se tourner vers sa mère.",
+        "en": "Returning from the memory, she chooses to reach out to her mother."
+      },
+      "references": [
+        "CC01G",
+        "CC09G",
+        "CL01G",
+        "CS02G"
+      ],
+      "prompt": "A single cinematic widescreen 16:9 hand-painted gouache and watercolor animation keyframe, not a reference sheet or collage. Every surface including faces, hands, hair and skin is made of visible opaque brush planes, broken pigment edges, warm paper grain and restrained ink accents. Preserve the exact facial anatomy, age and proportions in the identity references, not their photographic smoothness. No glossy photo faces, beauty retouching, CGI, anime eyes, adult-looking Luna or thick cartoon outlines. Subtle human expressions, tactile cloth, painterly light. Full bleed image with no border, captions, subtitles or graphic text. Reference CC01G is the ONLY Luna identity and wardrobe: same fictional fifteen-year-old girl, brown eyes, thick dark brows, same nose and lips, dark curly LOW ponytail. Original loose plain charcoal tee, plain solid olive cargo trousers with gradual painted folds, absolutely no camouflage pattern. Reference CS02G defines the one inherited pair of worn BLACK HIGH-TOP Chuck Taylor All Star canvas sneakers, cream laces, thin flat rubber sole, aged ivory toe caps. The small cream stitched rectangular repair belongs ONLY on the RIGHT shoe OUTER forefoot canvas just above the rubber; no outer ankle circle badge. Round star badges only on INNER ankles. R.M. is INSIDE the tongue, never outside. Do not duplicate the inherited pair. CC09G is the exact adult Mom identity, age47, curly shoulder-length dark hair with grey strands, simple navy cardigan and tee, dark trousers and black loafers. Location exactly D06 attic CL01G, window and open trunk on screen-left, brick rear wall and rafters. An intimate cinematic medium two-shot, eye level 50mm, Luna seated on a low stool on screen-left and Mom seated slightly higher on a simple wooden chair at screen-right, both three-quarter faces clearly visible. Luna has just looked up from the shoes at her feet to meet Mom's eyes. Her expression changes toward curiosity and quiet warmth: slightly lifted eyebrows, tiny parted lips as if about to ask a question, not a broad advertising smile. Mom listens with a small tender smile, relaxed open hands on her own lap; she is not giving permission, pointing or speaking a lecture. Both bodies naturally oriented toward each other, their knees and hands anatomically separate. The inherited pair is ONLY on Luna's feet in lower frame, not also in the open empty trunk. The shoes' fine worn rubber and small right outer forefoot patch match source. A single ivory-barrel marker lies on the stool beside Luna, not held yet. Soft window light screen-left, same warm ochre and muted green palette as K01, painterly skin as visible brush planes. No floating memories or Grandpa apparition. This is an active look asking for connection, not a passive recollection.",
+      "group": "luna",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "aspectRatio": "16:9",
+      "referenceImages": [
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+        "production/videoassets/075fce73-a989-4512-a9ac-a4148f1056e8.png",
+        "production/videoassets/6f1b2db3-f3a7-446e-ab0e-059fd252b737.png",
+        "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+      ],
+      "id": "9efd1036-2a3a-4b56-9a01-c85a78d39bea",
+      "type": "gpt-image-2-5-sunburst",
+      "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+      "assetId": "9efd1036-2a3a-4b56-9a01-c85a78d39bea",
+      "submittedAt": "2026-09-27T06:42:21.158Z",
+      "file": "luna/images/K06.png",
+      "reviewStatus": "candidate",
+      "creditsCharged": 8,
+      "arcadsPath": "production/videoassets/9efd1036-2a3a-4b56-9a01-c85a78d39bea.png",
+      "kind": "image",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "qa": {
+        "fr": "Regard actif vers Maman, identités et vêtements cohérents, peau intégrée à la peinture. La paire est uniquement aux pieds de Luna. Les forts contrastes des plis peuvent encore évoquer un motif : conserver le cargo uni pour les plans suivants.",
+        "en": "Active eye contact with Mom, consistent identities and outfits, painted skin. The pair is only on Luna’s feet. Strong fabric shadows can still suggest a pattern; keep cargos a solid fabric in following shots."
+      },
+      "teamApproved": false
+    },
+    {
+      "code": "K07",
+      "title": {
+        "fr": "Luna ose — sa marque à côté de celle de Rafa",
+        "en": "Luna dares — her mark beside Rafa’s"
+      },
+      "description": {
+        "fr": "Le même geste revient. Cette fois, L.M. rejoint R.M. et Luna s’approprie la paire.",
+        "en": "The same gesture returns. This time L.M. joins R.M., and Luna makes the pair her own."
+      },
+      "group": "luna",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "references": [
+        "K07 first pass"
+      ],
+      "referenceImages": [
+        "production/videoassets/dbcd71cf-5358-468a-9278-857cdada3407.png"
+      ],
+      "file": "luna/images/K07-refined.png",
+      "reviewStatus": "candidate",
+      "prompt": "Targeted continuity AFTER-GESTURE edit of this SINGLE supplied painted frame. Keep exact camera, framing, same fictional15-year-old Luna identity/age, low curly ponytail, shirt, trousers, supporting left hand, right shoe on lap, trunk, leftlight and every background object fixed. Do not recast, age or smooth Luna's painted face. Preserve BOTH inscriptions R.M. and L.M. exactly as they are inside the cream tongue, legible and separate. Her writing has FINISHED. Reposition ONLY her RIGHT marker hand and its forearm: the hand has pulled back toward her torso and now rests gently on her RIGHT THIGH at lower-left of image, holding the same ivory-barrel marker horizontally with its black tip pointing LEFT, safely AWAY from the shoe. There is NO hand or nib hovering above either inscription anymore. She looks down at the completed L.M. with a tiny private closed-mouth smile and relaxed eyebrows. Left hand still supports the heel exactly as before. This is visibly the satisfied moment AFTER writing, no new lines being drawn. Keep small cream repair outer RIGHT forefoot, black high-top shape, worn ivory rubber and laces. Correct the two stray ventilation eyelets on the plain OUTER shoe side behind repair: restore black canvas there but preserve all lace eyelets. No outer circular badge. Preserve all gouache brush strokes/handpainted skin texture, matching the whole room, not photographic skin. Natural two arms/two hands/five fingers each, no extra marker, no new props/persons/text, no crop.",
+      "assetId": "2c1c146c-90ad-4b44-ad93-bf62db5dc1c5",
+      "creditsCharged": 8,
+      "arcadsPath": "production/videoassets/2c1c146c-90ad-4b44-ad93-bf62db5dc1c5.png",
+      "kind": "image",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "qa": {
+        "fr": "Correction : le feutre repose désormais sur la cuisse, loin des inscriptions. R.M. et L.M. restent distincts ; le sourire discret termine le geste. Image de l’après-écriture, pas une preuve que les lettres se dessineront correctement en vidéo.",
+        "en": "Refined: marker rests on the thigh, away from the inscriptions. R.M. and L.M. remain distinct; a small smile completes the gesture. An after-writing image, not proof that the letters will draw correctly in video."
+      },
+      "teamApproved": false,
+      "priorVersions": [
+        {
+          "file": "luna/images/K07.png",
+          "assetId": "dbcd71cf-5358-468a-9278-857cdada3407",
+          "creditsCharged": 8,
+          "note": "First pass kept for comparison."
+        }
+      ],
+      "revision": 2
+    },
+    {
+      "code": "K08",
+      "title": {
+        "fr": "La prochaine histoire — Luna repart",
+        "en": "The next story — Luna moves forward"
+      },
+      "description": {
+        "fr": "Une impulsion simple sur sa planche, sur le terrain d’aujourd’hui. La paire recommence à vivre.",
+        "en": "One simple push on her board, on the court today. The pair begins another chapter."
+      },
+      "references": [
+        "CC01G",
+        "CL02G",
+        "CS02G"
+      ],
+      "prompt": "A single cinematic widescreen 16:9 hand-painted gouache and watercolor animation keyframe, not a reference sheet or collage. Every surface including faces, hands, hair and skin is made of visible opaque brush planes, broken pigment edges, warm paper grain and restrained ink accents. Preserve the exact facial anatomy, age and proportions in the identity references, not their photographic smoothness. No glossy photo faces, beauty retouching, CGI, anime eyes, adult-looking Luna or thick cartoon outlines. Subtle human expressions, tactile cloth, painterly light. Full bleed image with no border, captions, subtitles or graphic text. Reference CC01G is the ONLY Luna identity and wardrobe: same fictional fifteen-year-old girl, brown eyes, thick dark brows, same nose and lips, dark curly LOW ponytail. Original loose plain charcoal tee, plain solid olive cargo trousers with gradual painted folds, absolutely no camouflage pattern. Reference CS02G defines the one inherited pair of worn BLACK HIGH-TOP Chuck Taylor All Star canvas sneakers, cream laces, thin flat rubber sole, aged ivory toe caps. The small cream stitched rectangular repair belongs ONLY on the RIGHT shoe OUTER forefoot canvas just above the rubber; no outer ankle circle badge. Round star badges only on INNER ankles. R.M. is INSIDE the tongue, never outside. Do not duplicate the inherited pair. Use CL02G as the SAME neighborhood basketball court architecture, fence, brick apartments, fire escapes and hoop, now in2026 with slightly more weathered court paint and repaired chain-link fence; no branded billboards, no new generic skatepark, no ramps. Wide full-body low-to-medium camera height 35mm street-level view, Luna occupies left-central60percent, generous negative air ahead at screen-right. She has just begun a modest skateboard push, moving to the RIGHT of screen. Her LEFT foot rests lengthwise on the center of the ordinary scuffed wooden skateboard deck over four wheels; her RIGHT foot is on the asphalt behind it applying one gentle push, knee bent naturally, right toe still touching the ground. Board touches the ground with its wheels. Plausible balance: upper body relaxed and slightly leaning forward, arms loosely balancing, no jump, no stunt, no dramatic trick. The small cream repair is visible on the OUTER RIGHT sneaker forefoot; both shoes are black high-top Chucks, not platform or low-top. No outer circular badge. Original same teenage Luna face in three-quarter view, looking ahead with a small determined open expression, same low curly ponytail and solid olive cargos. Late warm sun from screen-left, soft amber edge on her hair, painted black-canvas folds, quiet sense of forward possibility. No text, no overlaid logo, no enlarged shoe floating in foreground, no extra person or extra skateboard.",
+      "group": "luna",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "aspectRatio": "16:9",
+      "referenceImages": [
+        "production/videoassets/83b130bd-2b42-44a2-accf-da227367982d.png",
+        "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png",
+        "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png"
+      ],
+      "id": "e87581d5-6a9b-4989-9723-132f69a2c768",
+      "type": "gpt-image-2-5-sunburst",
+      "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7",
+      "assetId": "e87581d5-6a9b-4989-9723-132f69a2c768",
+      "submittedAt": "2026-09-27T06:42:21.158Z",
+      "file": "luna/images/K08.png",
+      "reviewStatus": "candidate",
+      "creditsCharged": 8,
+      "arcadsPath": "production/videoassets/e87581d5-6a9b-4989-9723-132f69a2c768.png",
+      "kind": "image",
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "qa": {
+        "fr": "Même terrain reconnaissable et Luna en mouvement. Le rendu inverse l’appui demandé : pied droit sur la planche, gauche pour pousser. C’est plausible ; conserver cette position dans l’animation et les plans suivants, avec la réparation sur le pied droit.",
+        "en": "Recognizable same court and Luna moving forward. Render reverses the requested stance: right foot on board, left pushing. This is plausible; preserve it in animation and subsequent shots, with the repair on the right shoe."
+      },
+      "teamApproved": false
+    },
+    {
+      "code": "T01B",
+      "title": {
+        "fr": "T01B · Appui dans le souvenir",
+        "en": "T01B · Memory footfall"
+      },
+      "description": {
+        "fr": "Le même profil au pied de Rafa sur le terrain en1970, avant la réparation.",
+        "en": "The matching profile on Rafa’s foot on the1970 court, before the repair."
+      },
+      "file": "transitions/images/T01B.png",
+      "group": "transitions",
+      "status": "generated",
+      "model": "gpt-image-2-5-sunburst",
+      "assetId": "092bdb31-2977-4479-bffa-6b00b9e27024",
+      "creditsCharged": 8,
+      "prompt": "Create the MEMORY endpoint of an exact visual MATCH CUT by editing REFERENCE1, our generated T01A. Preserve its complete composition and pixel-coordinate shoe geometry: same shoe outline, same toe and heel positions, same shoe width, collar placement, angle, lens, tied lace silhouette, flat ground contact, cream sole thickness and y-coordinate. Treat the shoe as a registered anchor, do not recenter, resize, flip or change viewpoint. It remains the SINGLE RIGHT black classic canvas HIGH-TOP CONVERSE in strict OUTER/LATERAL side profile, toe pointing LEFT. Change only TIME, OUTFIT and SET: replace Luna's olive trouser leg with young Rafa's lower calf and white tube sock with TWO burgundy horizontal bands, as REFERENCE4. Sock and cropped calf continue out the top of the image at the identical leg position. Remove the small cream repair entirely because this is 1970 BEFORE the repair; the outer canvas at that location is seamless intact black. Keep every other construction line and shape of the SAME shoe. Make canvas slightly deeper black and rubber less aged but not shiny new. REFERENCE2 shows early pair construction and NO REPAIR; use its CENTER LOWER plain outer elevation, never the inner face with badge. Plain OUTER ankle, absolutely no round star badge. Replace D06 wooden floor with 1970 asphalt at exactly the same foot contact plane. REFERENCE3 supplies the historical Bronx court: chain-link fence, terracotta tenements with fire escapes, left off-white backboard, brick passage arch to right, golden late-afternoon light from LEFT. Background is softly simplified painted masses because shoe dominates, no modern graffiti, no skate ramps, no modern objects. Hand-painted GOUACHE AND WATERCOLOR on warm textured paper throughout, match REFERENCE1's brush planes, restrained pencil contours and medium. Entire frame 16:9, no paper border or panels. No face, no full-body character, no basketball in this close-up, no second shoe, no additional foot, no letters or caption, no portal, no speed smear. Shoe must land on the SAME screen coordinates as reference1; this is one clean still, not a storyboard. Do not preserve present-day cream repair or olive fabric.",
+      "references": [
+        "production/videoassets/a03bade6-2071-43b2-9be5-c101ef3fa78d.png",
+        "production/videoassets/a03d21f1-5421-4fd4-b529-ac46e28f1dcc.png",
+        "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png",
+        "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png"
+      ],
+      "qa": {
+        "fr": "Réparation absente, chaussette à deux bandes bordeaux, terrain avec panier à gauche et arche à droite. Géométrie proche de T01A ; semelle environ20px plus bas sur1072px et lacets légèrement redessinés. Usure de caoutchouc encore forte pour1970. Candidat de coupe raccord, pas une paire parfaitement superposable.",
+        "en": "Repair absent, two burgundy sock bands, court with hoop left and arch right. Close to T01A geometry; sole around20px lower on1072px and laces slightly redrawn. Rubber still quite worn for1970. Match-cut candidate, not perfectly registered morph endpoints."
+      },
+      "reviewStatus": "candidate",
+      "observedGeometry": {
+        "method": "manual visual approximation at full resolution",
+        "toeX": 417,
+        "heelX": 1496,
+        "soleBottomY": 839,
+        "widthFraction": 0.562,
+        "soleHeightFraction": 0.783,
+        "view": "near-strict outer right shoe profile, slight top/front toe surface visible",
+        "comparisonToT01A": "Toe about7px right, heel essentially held, sole about20px lower. Near-registered match-cut candidate, not pixel-perfect morph endpoints."
+      },
+      "dimensions": {
+        "width": 1920,
+        "height": 1072
+      },
+      "teamApproved": false,
+      "motionValidated": false,
+      "kind": "image"
+    },
+    {
+      "code": "VK01",
+      "kind": "video",
+      "title": {
+        "fr": "Test animé — l’hésitation de Luna",
+        "en": "Motion test — Luna’s hesitation"
+      },
+      "description": {
+        "fr": "Un seul geste : le feutre s’approche, s’arrête, puis recule. Aucun son ni montage final.",
+        "en": "One gesture: the marker approaches, stops, then retreats. No sound or final edit."
+      },
+      "file": "luna/videos/K01-hesitation.mp4",
+      "poster": "luna/images/K01.png",
+      "group": "luna",
+      "model": "seedance_25",
+      "duration": 6,
+      "referenceImages": [
+        "production/videoassets/e1b3fb76-a65f-40d1-a40e-9ccfe3647792.png"
+      ],
+      "references": [
+        "K01 first pass — before hand-pose refinement"
+      ],
+      "reviewStatus": "needs-correction",
+      "prompt": "A quiet SIX SECOND silent hand-painted animation shot, landscape16:9. Use the supplied painted frame as the exact starting composition and identity, no titles. SAME fictional15-year-old Luna, low curly ponytail, charcoal tee, olive cargos, D06 attic and window atleft, same mature physical black RIGHT high-top Converse in her lap, small cream repair outerforefoot. Preserve all facial anatomy and youthful proportions. Skin, lips and eyes MUST remain painted with visible small gouache planes and brush edges throughout movement, same medium as painted hair, clothes and room. No photoreal smooth face pasted onto painting, no beauty retouching, no new actor, no glossy3D. Locked50mm camera; no push-in or reframing. 0.0–1.5s: Luna looks down at the old R.M. inside the tongue; her right hand holding the ivory-barrel fine black marker approaches the empty fabric to the RIGHT of those letters slowly. 1.5–3.5s: stop the marker clearly at least2cm ABOVE the fabric, a visible air gap. Her brow tightens slightly and her eyes linger on R.M.; she hesitates. 3.5–6.0s: she draws the marker hand back several centimetres toward her chest without touching the shoe, with a tiny exhale visible in her shoulders. Her left hand and shoe remain stable. Important: NOTHING is written. The exact original R.M. remains unchanged, no L.M. appears, no inkline emerges. Shoe never rotates, grows, becomes leftfoot, or changesmaterial. Matching leftshoe remains on floor atbackgroundright. Exactlytwohands andfingers, noextra objects. Subtle natural blinking once only, restrained emotion. At finalframe marker is visibly awayfromshoe and Luna's unresolved hesitation remains. No music, dialogue, voiceover, or sound.",
+      "assetId": "8ce37f37-e7e4-4f91-b3da-1e17ae7482df",
+      "status": "generated",
+      "arcadsPath": "production/videoassets/8ce37f37-e7e4-4f91-b3da-1e17ae7482df.mp4",
+      "creditsCharged": 252,
+      "teamApproved": false,
+      "durationSeconds": 6.041667,
+      "dimensions": {
+        "width": 1280,
+        "height": 720
+      },
+      "fps": 24,
+      "frames": 145,
+      "hasAudio": false,
+      "qa": {
+        "fr": "Le froncement des sourcils et le retrait du feutre se lisent, R.M. reste seul. Mais Seedance lisse à nouveau le visage : la matière de peau devient plus photographique que le décor. Test de jeu utile, rendu pictural à reprendre avant la production des visages. Source : première K01, avant correction de la main.",
+        "en": "The brow tension and marker retreat read, and R.M. remains alone. However, Seedance smooths the face again: skin becomes more photographic than the setting. Useful acting test; painted surface needs work before producing face scenes. Source: first K01, before the hand refinement."
+      },
+      "visualReview": {
+        "method": "12 sampled frames plus full-resolution middle and final frame; complete decode",
+        "contactSheet": "luna/qa/VK01-contactsheet.jpg",
+        "passedTechnical": true,
+        "passedPaintStyle": false
+      },
+      "nextPromptDirection": "For the next separate test, start from refined K01. Specify actual frame-by-frame gouache animation and preserved facial pigment shapes, small pose change; compare one alternative image-to-video model before expanding the full film."
+    },
+    {
+      "code": "VT01",
+      "kind": "video",
+      "title": {
+        "fr": "VT01 · Appui présent → souvenir",
+        "en": "VT01 · Present → memory footfall"
+      },
+      "description": {
+        "fr": "Essai silencieux6s de raccord d’appui. Le modèle a produit un fondu au lieu de la coupe demandée.",
+        "en": "Silent6s footfall transition test. The model produced a dissolve instead of the requested cut."
+      },
+      "file": "transitions/videos/T01-motion.mp4",
+      "group": "transitions",
+      "status": "generated",
+      "model": "seedance_25",
+      "assetId": "c2872c98-8c4f-4e61-b254-7dc222e29ea0",
+      "creditsCharged": 252,
+      "prompt": "Create ONE SILENT 6-second 16:9 hand-painted film transition proof, with precisely TWO shots joined by ONE CLEAN MATCH CUT. REFERENCE IMAGE1 is the PRESENT shot: Luna's single right black high-top Chuck Taylor in outer side profile in D06 attic, toe LEFT, plain olive cargo above, small cream rectangular fabric repair at outer forefoot, warm left window light and wood floor. REFERENCE IMAGE2 is the MEMORY shot: SAME right shoe and near-identical screen composition on a 1970 Bronx basketball court, white sport sock with two burgundy stripes, NO repair patch. The actual images are the composition, material and product references; keep them recognizable. TIMING: 0.0-2.4s stay entirely in the ATTIC: locked ground-level camera, one lower leg, shoe remains about57% of frame width and sole near76% height, all toe/heel within frame; very subtle natural ankle weight shift and heel gently settles onto wood. This is a cautious footfall, not a stomp, jump or step across the frame. The cream repair stays clearly present throughout this shot. AT approximately2.5s make one motivated instantaneous editorial MATCH CUT on the end of the footfall to the COURT shot from IMAGE2. The shoe's outline, toe-left direction, scale and sole contact should match as closely as the two references allow. This is a CUT BETWEEN TWO PLACES/TIMES, NOT an in-shot metamorphosis. Do not morph wood into asphalt or olive fabric into sock, and do not dissolve the repair. 2.5-6.0s stay entirely on the COURT: same fixed camera and screen position, white sock, two burgundy bands, outer canvas with NO cream patch, slight natural weight settling, tiny lace response, grounded heel and toe. No additional stepping, no new props. Consistent tactile opaque GOUACHE / WATERCOLOR brush planes on warm paper across BOTH shots, same painted shoe and cloth construction, same broad restrained colors, no live action, no photographic textures, no3D gloss. Important product continuity: narrow flat ivory sole, ivory toe cap, black canvas ankle-high upper, offwhite tied laces; visible side is RIGHT OUTER face, NEVER add a circular star badge to this exterior. Exactly one shoe and one cropped lower leg per shot. No second foot, no hands, no face, no basketball, no portal, no cloth or rubber morph, no wobbly sole, no camera zoom/pan/tilt, no flashes, no particles, no text or logo overlay. Keep left-side light and maintain toe LEFT throughout; no horizontal flip. No audio, no speech, no music, no sound effects. End on the quiet court footfall so the next shot can reveal young Rafa.",
+      "references": [
+        "production/videoassets/a03bade6-2071-43b2-9be5-c101ef3fa78d.png",
+        "production/videoassets/092bdb31-2977-4479-bffa-6b00b9e27024.png"
+      ],
+      "qa": {
+        "fr": "Matière peinte, profil extérieur sans faux badge, une seule chaussure et mouvement discret conservés. Échec du raccord demandé : fondu global vers2,0–2,8s, superposition cargo/chaussette, grenier/terrain et effacement progressif du patch, au lieu d’une coupe franche. Le talon semble légèrement se soulever puis revenir. À conserver comme diagnostic, pas à intégrer tel quel dans le film.",
+        "en": "Painted material, exterior profile without false badge, single shoe and restrained motion retained. Requested cut failed: global dissolve around2.0–2.8s overlays cargo/sock and attic/court while the repair gradually disappears, instead of a clean cut. Heel appears to lift slightly then return. Keep as a diagnostic, not a production-ready transition."
+      },
+      "reviewStatus": "needs-correction",
+      "teamApproved": false,
+      "motionValidated": false,
+      "requestedDuration": 6,
+      "duration": 6.041667,
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "nbFrames": 145,
+      "audioStreams": 0,
+      "decodeVerified": true,
+      "qaContactSheet": "transitions/qa-motion/contact-sheet.png",
+      "paidRetryCount": 0
+    },
+    {
+      "code": "VT01-CUT",
+      "kind": "video",
+      "title": {
+        "fr": "VT01-CUT · Coupe franche corrigée",
+        "en": "VT01-CUT · Corrected clean cut"
+      },
+      "description": {
+        "fr": "Version5,08s dérivée du même essai : fondu retiré, coupe franche entre deux portions stables.",
+        "en": "5.08s version derived from the same test: dissolve removed, clean cut between stable footage."
+      },
+      "file": "transitions/videos/T01-clean-cut.mp4",
+      "group": "transitions",
+      "status": "generated",
+      "model": "Seedance2.5 · local match cut",
+      "assetId": null,
+      "creditsCharged": 0,
+      "derivedFrom": "VT01",
+      "generationMethod": "Local ffmpeg trim and concatenation; no generative request",
+      "sourceFile": "transitions/videos/T01-motion.mp4",
+      "segments": [
+        {
+          "source": "VT01",
+          "scene": "attic",
+          "startFrameInclusive": 0,
+          "endFrameExclusive": 47,
+          "frameCount": 47,
+          "sourceStartSeconds": 0,
+          "sourceEndSecondsExclusive": 1.9583333333333333,
+          "outputStartFrame": 0
+        },
+        {
+          "source": "VT01",
+          "scene": "court",
+          "startFrameInclusive": 70,
+          "endFrameExclusive": 145,
+          "frameCount": 75,
+          "sourceStartSeconds": 2.9166666666666665,
+          "sourceEndSecondsExclusive": 6.041666666666667,
+          "outputStartFrame": 47
+        }
+      ],
+      "removedSourceFrames": {
+        "startFrameInclusive": 47,
+        "endFrameExclusive": 70,
+        "frameCount": 23
+      },
+      "cutAtOutputFrame": 47,
+      "cutAtSeconds": 1.9583333333333333,
+      "references": [
+        "transitions/videos/T01-motion.mp4"
+      ],
+      "qa": {
+        "fr": "Coupe franche restaurée localement : les23 images du fondu sont supprimées, sans nouvelle génération. Réparation présente au grenier puis absente sur le terrain, sans superposition cargo/chaussette. Une seule chaussure pointe à gauche. Petit saut résiduel de hauteur de semelle (~10–15px sur720px) et lacets légèrement différents ; candidat de raccord lisible, pas parfaitement enregistré.",
+        "en": "A real cut is restored locally: the23 dissolve frames are removed without generation. Repair present in the attic and absent on court, with no cargo/sock overlay. Single shoe points left. Small remaining sole-height jump (~10–15px on720px) and slightly different laces; readable match-cut candidate, not perfectly registered."
+      },
+      "reviewStatus": "candidate",
+      "teamApproved": false,
+      "motionValidated": false,
+      "duration": 5.083333,
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "nbFrames": 122,
+      "audioStreams": 0,
+      "decodeVerified": true,
+      "qaContactSheet": "transitions/qa-motion/clean-cut-boundary.png",
+      "paidRetryCount": 0,
+      "purpose": "Preliminary transition proof only, not final film editing."
+    }
+  ],
+  "imageGenerationsCharged": 12,
+  "imageCreditsCharged": 96,
+  "creditsAfter": 2432,
+  "creditsSpentThisBatch": 600,
+  "videoCreditsCharged": 504,
+  "creditReconciliation": "3032 before - 2432 after = 600: 12 image jobs x 8 + 2 video jobs x 252",
+  "falUsed": false,
+  "localVideoDerivatives": 1,
+  "qualityLimitations": [
+    "Seedance smooths Luna face; VK01 needs correction",
+    "VT01 native crossfade is incorrect; locally corrected VT01-CUT retains a slight sole-height jump"
+  ],
+  "teamApproved": false
+}

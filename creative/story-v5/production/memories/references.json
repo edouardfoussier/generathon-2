@@ -1,0 +1,79 @@
+{
+  "CC04G": {
+    "code": "CC04G",
+    "sourceFile": "creative/continuity-study/images/CC04G.png",
+    "sourceAssetId": "76c3801c-d588-415c-a0a4-ff8a6430ab73",
+    "arcadsPath": "production/videoassets/76c3801c-d588-415c-a0a4-ff8a6430ab73.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CC03G": {
+    "code": "CC03G",
+    "sourceFile": "creative/continuity-study/images/CC03G.png",
+    "sourceAssetId": "6509991d-eda9-461a-8a23-cd7f747b8e86",
+    "arcadsPath": "production/videoassets/6509991d-eda9-461a-8a23-cd7f747b8e86.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CL05G": {
+    "code": "CL05G",
+    "sourceFile": "creative/continuity-study/images/CL05G.png",
+    "sourceAssetId": "71079518-8a5b-46a8-b1bf-189aeca6be96",
+    "arcadsPath": "production/videoassets/71079518-8a5b-46a8-b1bf-189aeca6be96.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CL02G": {
+    "code": "CL02G",
+    "sourceFile": "creative/continuity-study/images/CL02G.png",
+    "sourceAssetId": "5462418b-1222-4ee4-b413-6de70dda1435",
+    "arcadsPath": "production/videoassets/5462418b-1222-4ee4-b413-6de70dda1435.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CC02G": {
+    "code": "CC02G",
+    "sourceFile": "creative/continuity-study/images/CC02G.png",
+    "sourceAssetId": "9cf41881-a032-45d7-88c7-368972dae1d4",
+    "arcadsPath": "production/videoassets/9cf41881-a032-45d7-88c7-368972dae1d4.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CC08G": {
+    "code": "CC08G",
+    "sourceFile": "creative/continuity-study/images/CC08G.png",
+    "sourceAssetId": "7b729196-9c53-4f1d-8017-37805c4db367",
+    "arcadsPath": "production/videoassets/7b729196-9c53-4f1d-8017-37805c4db367.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CC06G": {
+    "code": "CC06G",
+    "sourceFile": "creative/continuity-study/images/CC06G.png",
+    "sourceAssetId": "829f59f6-07ce-4936-b7ad-f667e8116382",
+    "arcadsPath": "production/videoassets/829f59f6-07ce-4936-b7ad-f667e8116382.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CL03G": {
+    "code": "CL03G",
+    "sourceFile": "creative/continuity-study/images/CL03G.png",
+    "sourceAssetId": "d20d9e88-e60b-477b-9cdb-08d214bf6f60",
+    "arcadsPath": "production/videoassets/d20d9e88-e60b-477b-9cdb-08d214bf6f60.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CS02G": {
+    "code": "CS02G",
+    "sourceFile": "creative/continuity-study/images/CS02G.png",
+    "sourceAssetId": "c7798545-ee67-49b5-af43-8daf8e2d3e49",
+    "arcadsPath": "production/videoassets/c7798545-ee67-49b5-af43-8daf8e2d3e49.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CS03G": {
+    "code": "CS03G",
+    "sourceFile": "creative/continuity-study/images/CS03G.png",
+    "sourceAssetId": "82b61f4b-46b9-4056-b6f7-239343dc6a8b",
+    "arcadsPath": "production/videoassets/82b61f4b-46b9-4056-b6f7-239343dc6a8b.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  },
+  "CS01G": {
+    "code": "CS01G",
+    "sourceFile": "creative/continuity-study/images/CS01G.png",
+    "sourceAssetId": "a03d21f1-5421-4fd4-b529-ac46e28f1dcc",
+    "arcadsPath": "production/videoassets/a03d21f1-5421-4fd4-b529-ac46e28f1dcc.png",
+    "inspection": "Visually inspected full local reference sheet before generation"
+  }
+}

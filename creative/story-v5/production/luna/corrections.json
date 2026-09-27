@@ -1,0 +1,30 @@
+[
+  {
+    "code": "K01",
+    "newCode": "K01-refined",
+    "prompt": "Targeted continuity edit of this supplied SINGLE painted Luna frame. Keep exact camera, framing, fifteen-year-old Luna identity/age/low curly ponytail, shirt, trousers, pose of supporting left hand, shoe, trunk, lighting and every background object fixed. DO NOT recast or smooth her painted face. Change her RIGHT marker hand and forearm ONLY into an unmistakably interrupted hesitant gesture: LIFT the existing ivory-barrel felt marker and its right hand STRAIGHT UP by a visible 8 centimetres (roughly one-third of the shoe ankle height). The tip must be visibly separated from ALL shoe fabric by a LARGE clear gap and point diagonally DOWN toward the BLANK space to the RIGHT of R.M. It is not writing. Her right elbow stays natural close to her body. Preserve just R.M. inside the cream tongue exactly; NO new letters or ink. Slightly tighten her lips and raise the inner eyebrows for uncertainty while eyes remain focused on the old initials. She is about to pull away, not concentrating on drawing. Keep the full black RIGHT high-top silhouette and small cream repair exactly on outer forefoot. Correct the two stray little ventilation eyelets in the plain outer side behind the repair: remove those two side holes by restoring black canvas; keep every lace eyelet and lace unchanged. Outer ankle remains plain with no circular badge. Same consistent handpainted gouache brush planes on face/hands and warm paper grain. Five plausible fingers each hand. No extra person, shoe, limb, props, text, camera motion or crop.",
+    "assetId": "19f0b2fa-8253-4c21-b780-5fa51d3fbe30",
+    "status": "generated",
+    "creditsCharged": 8,
+    "file": "luna/images/K01-refined.png",
+    "arcadsPath": "production/videoassets/19f0b2fa-8253-4c21-b780-5fa51d3fbe30.png",
+    "qa": {
+      "fr": "Correction : le feutre est nettement séparé de la languette, R.M. intact et espace voisin vide. Visage, coiffure et cadre conservés ; les œillets latéraux erronés ont disparu. L’arrêt puis le retrait du geste restent à valider en mouvement.",
+      "en": "Refined: marker clearly separated from the tongue, R.M. intact and adjacent space blank. Face, hair and framing preserved; stray side eyelets removed. Validate pause and retreat in motion."
+    }
+  },
+  {
+    "code": "K07",
+    "newCode": "K07-refined",
+    "prompt": "Targeted continuity AFTER-GESTURE edit of this SINGLE supplied painted frame. Keep exact camera, framing, same fictional15-year-old Luna identity/age, low curly ponytail, shirt, trousers, supporting left hand, right shoe on lap, trunk, leftlight and every background object fixed. Do not recast, age or smooth Luna's painted face. Preserve BOTH inscriptions R.M. and L.M. exactly as they are inside the cream tongue, legible and separate. Her writing has FINISHED. Reposition ONLY her RIGHT marker hand and its forearm: the hand has pulled back toward her torso and now rests gently on her RIGHT THIGH at lower-left of image, holding the same ivory-barrel marker horizontally with its black tip pointing LEFT, safely AWAY from the shoe. There is NO hand or nib hovering above either inscription anymore. She looks down at the completed L.M. with a tiny private closed-mouth smile and relaxed eyebrows. Left hand still supports the heel exactly as before. This is visibly the satisfied moment AFTER writing, no new lines being drawn. Keep small cream repair outer RIGHT forefoot, black high-top shape, worn ivory rubber and laces. Correct the two stray ventilation eyelets on the plain OUTER shoe side behind repair: restore black canvas there but preserve all lace eyelets. No outer circular badge. Preserve all gouache brush strokes/handpainted skin texture, matching the whole room, not photographic skin. Natural two arms/two hands/five fingers each, no extra marker, no new props/persons/text, no crop.",
+    "assetId": "2c1c146c-90ad-4b44-ad93-bf62db5dc1c5",
+    "status": "generated",
+    "creditsCharged": 8,
+    "file": "luna/images/K07-refined.png",
+    "arcadsPath": "production/videoassets/2c1c146c-90ad-4b44-ad93-bf62db5dc1c5.png",
+    "qa": {
+      "fr": "Correction : le feutre repose désormais sur la cuisse, loin des inscriptions. R.M. et L.M. restent distincts ; le sourire discret termine le geste. Image de l’après-écriture, pas une preuve que les lettres se dessineront correctement en vidéo.",
+      "en": "Refined: marker rests on the thigh, away from the inscriptions. R.M. and L.M. remain distinct; a small smile completes the gesture. An after-writing image, not proof that the letters will draw correctly in video."
+    }
+  }
+]

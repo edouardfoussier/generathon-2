@@ -1,0 +1,77 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "code": "K03",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset b99f2036-c4bb-453d-a54d-1aaece7f95e1\n- **Type**: gpt-image-2-5-sunburst\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/27/2026, 6:40:45 AM\n"
+          }
+        ],
+        "structuredContent": {
+          "assets": [
+            {
+              "id": "b99f2036-c4bb-453d-a54d-1aaece7f95e1",
+              "type": "gpt-image-2-5-sunburst",
+              "status": "pending",
+              "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+            }
+          ]
+        },
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "code": "K04",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 249e459b-45e4-4936-9882-854f77e27631\n- **Type**: gpt-image-2-5-sunburst\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/27/2026, 6:40:41 AM\n"
+          }
+        ],
+        "structuredContent": {
+          "assets": [
+            {
+              "id": "249e459b-45e4-4936-9882-854f77e27631",
+              "type": "gpt-image-2-5-sunburst",
+              "status": "pending",
+              "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+            }
+          ]
+        },
+        "isError": false
+      }
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "code": "K05",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "# 1 Asset(s) Created\n\nThe inline widget polls until ready and displays each result automatically.\n\n## Asset 28477636-b602-45e7-bfd5-9af24042dc68\n- **Type**: gpt-image-2-5-sunburst\n- **Status**: pending\n- **Product**: 04c73566-fef9-460e-beb7-ea9e4be8f1e7\n- **Created**: 9/27/2026, 6:40:48 AM\n"
+          }
+        ],
+        "structuredContent": {
+          "assets": [
+            {
+              "id": "28477636-b602-45e7-bfd5-9af24042dc68",
+              "type": "gpt-image-2-5-sunburst",
+              "status": "pending",
+              "productId": "04c73566-fef9-460e-beb7-ea9e4be8f1e7"
+            }
+          ]
+        },
+        "isError": false
+      }
+    }
+  }
+]
