@@ -24,7 +24,9 @@
 
 A four-second Seedance 2.5 test using K06 (Luna–mother) reached the provider and was refused by its people/privacy filter (`content_policy_violation`, `partner_validation_failed`). Job `5f1d7d41a2844b4eb598419cc48fc6c5` is explicitly failed; its original is intact and it was not retried. The UI preserves the reason. Do not treat face-heavy Seedance generation as verified on this FAL account.
 
-A separate four-second product-only shoe test uses T01A, job `4e10441161c6419eb04f6c70725244cc`. No faces or upper body are part of this new shot. Its private state under `.state/` records the FAL request ID. This is an isolated candidate, never an automatic replacement in the film.
+A separate four-second product-only shoe test using T01A completed successfully: job `4e10441161c6419eb04f6c70725244cc`. Output: `generated/4e10441161c6419eb04f6c70725244cc/media.mp4`, 1284 × 716, 24 fps, 97 frames, 4.041667 seconds, no audio. The midpoint frame was visually inspected: the painted black shoe and planted toe are retained, with the requested heel lift. This is a candidate for team review, not a full motion-quality approval.
+
+The finished take appeared automatically in the browser gallery (160 videos / 525 total media at verification). “Voir le résultat” opened its local preview, which loaded with `readyState: 4`, the measured duration and no media error. The existing 18-shot edit was preserved. No faces or upper body are part of this separate shot; the earlier face-filter refusal remains unresolved.
 
 No credential is stored in source, browser storage, saved project recipes or manifests. Runtime state and generated thumbnails are ignored by Git. The local generator runs two requests at once; this is an application setting, not a claim about the account's maximum FAL concurrency.
 

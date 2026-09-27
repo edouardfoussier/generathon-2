@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "file": "media.mp4",
+      "kind": "video",
+      "title": "T01A · Appui au présent · Seedance 2.5 · 720p",
+      "model": "Seedance 2.5 · 720p",
+      "provider": "fal",
+      "prompt": "One four-second shot, starting from the supplied hand-painted product close-up. Keep this exact worn black canvas high-top shoe, ivory laces and rubber sole, small cream stitched repair, olive trouser cuff and warm attic lighting. Locked camera at shoe level, toe pointing left. The shoe performs one tiny believable heel lift then settles gently back onto the wooden floor, while the toe stays in place. Minimal natural weight shift, no skating or running. Keep the frame cropped exactly at the trouser cuff, with no upper body, face or hands entering. Maintain the tactile gouache paint strokes, pencil edges and paper texture on shoe and room throughout. No photoreal material substitution, no rubber melting, no altered laces, no new badge or text. No cuts, no transition, no camera zoom, no sound or music. End with both heel and toe on the floor in the original composition.",
+      "sourceId": "m_cd857969cdc1f71429ae",
+      "referenceId": null,
+      "referenceIds": [],
+      "requestId": "01a0e1c3-ce8d-73d2-ae6f-c9bb713024b4",
+      "createdAt": "2026-09-27T07:28:19Z",
+      "reviewStatus": "candidate",
+      "teamApproved": false
+    }
+  ]
+}
